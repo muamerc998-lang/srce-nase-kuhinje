@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "brownie",
+    "alt": "Kockice čokoladnog browniea sa sjajnom koricom i komadićima čokolade na papiru za pečenje",
+    "dish": "square-cut fudgy chocolate brownies with a thin shiny crackly top crust and visible chocolate chips, one piece cut open showing a dense moist dark interior, stacked on parchment paper on a wooden cutting board"
+  },
+  {
+    "slug": "palacinke",
+    "alt": "Tanke palačinke savijene na četvrtine na bijelom tanjiru, sa zdjelicom pekmeza",
+    "dish": "thin French-style crepes with light golden spots, folded into quarters and stacked on a white ceramic plate, a small bowl of plum jam beside them"
+  },
+  {
+    "slug": "pileca-supa",
+    "alt": "Tanjir bistre pileće supe s jajčanim rezancima, piletinom, mrkvom, celerom i peršunom",
+    "dish": "a bowl of clear golden homemade chicken noodle soup with egg noodles, shredded chicken, diced carrots and celery, sprinkled with chopped fresh parsley"
+  },
+  {
+    "slug": "pecena-piletina-s-krompirom",
+    "alt": "Tepsija s pečenim pilećim batacima, krompirom, crvenim lukom i cherry paradajzom",
+    "dish": "a baking dish with roasted golden-skinned bone-in chicken thighs and drumsticks, chunks of potato, quartered red onions and blistered whole cherry tomatoes in a light lemon-garlic pan sauce, sprinkled with oregano"
+  },
+  {
+    "slug": "pire-krompir",
+    "alt": "Zdjela kremastog pire krompira s otopljenim maslacem i sjeckanim vlascem",
+    "dish": "a bowl of creamy smooth mashed potatoes with swirls on top, a small pool of melted butter and chopped fresh chives"
+  },
+  {
+    "slug": "ruska-salata",
+    "alt": "Zdjela ruske salate s krompirom, mrkvom, graškom, jajima i šunkom u majonezi",
+    "dish": "a bowl of Russian salad (Olivier): finely and evenly diced boiled potatoes, carrots, green peas, eggs, ham and pickles bound in mayonnaise, garnished with chopped parsley"
+  },
+  {
+    "slug": "sirnica",
+    "alt": "Pečena sirnica od tankih kora sa zlatnom koricom i komadom koji otkriva nadjev od sira",
+    "dish": "a Bosnian layered phyllo cheese pie (sirnica) in a baking pan, golden flaky top, one square piece cut out and lifted showing thin layers of phyllo with white cheese filling"
+  },
+  {
+    "slug": "sarma",
+    "alt": "Sarma od kiselog kupusa u crvenkastom soku sa suhim mesom i kiselom pavlakom",
+    "dish": "Balkan sarma: several small tightly rolled sour cabbage leaf rolls in a reddish tomato-paprika broth with pieces of smoked dried beef, served in a deep plate with a spoon of sour cream"
+  },
+  {
+    "slug": "sutlija-sutlijas",
+    "alt": "Zdjelice kremaste sutlije od riže i mlijeka posute cimetom",
+    "dish": "small bowls of creamy Bosnian rice pudding (sutlijas) made with round rice and milk, dusted with ground cinnamon"
+  },
+  {
+    "slug": "domace-mekane-kifle",
+    "alt": "Domaće mekane kifle zlatne korice u korpi obloženoj lanenim ubrusom",
+    "dish": "plain soft homemade milk bread crescent rolls (kifle) with a light golden-brown glossy crust, no seeds or toppings, in a basket lined with a linen napkin"
+  }
+]
