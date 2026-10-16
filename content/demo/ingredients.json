@@ -1,0 +1,511 @@
+{
+  "format": "srce-nase-kuhinje/v1",
+  "ingredients": [
+    {
+      "slug": "brasno",
+      "name": "brašno",
+      "synonyms": [
+        "pšenično brašno"
+      ],
+      "publicPage": true,
+      "description": "DEMO: Pšenično brašno je osnova tijesta, peciva i pita. U receptima se navodi vrsta kad je bitna.",
+      "selection": "DEMO: Za kolače i palačinke koristi se glatko brašno, a za tijesto koje treba više strukture oštro.",
+      "storage": "DEMO: Čuvati u zatvorenoj posudi na suhom i hladnom mjestu.",
+      "substitutes": "DEMO: Glatko i oštro brašno mogu se zamijeniti uz manju razliku u teksturi. Bademovo brašno nije zamjena 1:1.",
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "glatko-brasno",
+      "name": "glatko brašno",
+      "synonyms": [
+        "tip 400"
+      ],
+      "broader": "brasno",
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "ostro-brasno",
+      "name": "oštro brašno",
+      "synonyms": [
+        "tip 500"
+      ],
+      "broader": "brasno",
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "bademovo-brasno",
+      "name": "bademovo brašno",
+      "synonyms": [],
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "jaja",
+      "name": "jaja",
+      "synonyms": [
+        "jaje"
+      ],
+      "publicPage": true,
+      "roundingHint": "Za pola jajeta umutite jedno jaje i odvojite polovinu (oko 25 g).",
+      "description": "DEMO: Jaja vežu, rahle i daju boju. Veličina jajeta utiče na rezultat u kolačima.",
+      "storage": "DEMO: Čuvati u frižideru, u originalnom pakovanju.",
+      "selection": "DEMO: Za tijesta je najbolje koristiti jaja sobne temperature.",
+      "foodGroup": "jaja"
+    },
+    {
+      "slug": "mlijeko",
+      "name": "mlijeko",
+      "synonyms": [
+        "mleko",
+        "kravlje mlijeko"
+      ],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "kondenzovano-mlijeko",
+      "name": "kondenzovano mlijeko",
+      "synonyms": [],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "maslac",
+      "name": "maslac",
+      "synonyms": [
+        "puter"
+      ],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "margarin",
+      "name": "margarin",
+      "synonyms": []
+    },
+    {
+      "slug": "ulje",
+      "name": "ulje",
+      "synonyms": [
+        "biljno ulje",
+        "suncokretovo ulje"
+      ]
+    },
+    {
+      "slug": "maslinovo-ulje",
+      "name": "maslinovo ulje",
+      "synonyms": [],
+      "broader": "ulje"
+    },
+    {
+      "slug": "so",
+      "name": "so",
+      "synonyms": [
+        "sol"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "biber",
+      "name": "biber",
+      "synonyms": [
+        "papar",
+        "crni biber"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "voda",
+      "name": "voda",
+      "synonyms": []
+    },
+    {
+      "slug": "secer",
+      "name": "šećer",
+      "synonyms": [
+        "kristal šećer"
+      ]
+    },
+    {
+      "slug": "secer-u-prahu",
+      "name": "šećer u prahu",
+      "synonyms": [],
+      "broader": "secer"
+    },
+    {
+      "slug": "vanilin-secer",
+      "name": "vanilin šećer",
+      "synonyms": [
+        "vanilija šećer"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "prasak-za-pecivo",
+      "name": "prašak za pecivo",
+      "synonyms": [
+        "prašak za kolače"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "kakao",
+      "name": "kakao",
+      "synonyms": [
+        "kakao prah"
+      ]
+    },
+    {
+      "slug": "cokolada-za-kuhanje",
+      "name": "čokolada za kuhanje",
+      "synonyms": [
+        "tamna čokolada"
+      ]
+    },
+    {
+      "slug": "slatka-pavlaka",
+      "name": "slatka pavlaka",
+      "synonyms": [
+        "slatko vrhnje",
+        "vrhnje za šlag"
+      ],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "kisela-pavlaka",
+      "name": "kisela pavlaka",
+      "synonyms": [
+        "kiselo vrhnje",
+        "mileram"
+      ],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "jogurt",
+      "name": "jogurt",
+      "synonyms": [],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "bijeli-sir",
+      "name": "bijeli sir",
+      "synonyms": [
+        "kravlji sir",
+        "sitni sir"
+      ],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "petit-keks",
+      "name": "petit keks",
+      "synonyms": [
+        "obični keks",
+        "keks"
+      ],
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "orasi",
+      "name": "orasi",
+      "synonyms": [
+        "orahi",
+        "mljeveni orasi"
+      ]
+    },
+    {
+      "slug": "pekmez",
+      "name": "pekmez",
+      "synonyms": [
+        "džem"
+      ]
+    },
+    {
+      "slug": "cimet",
+      "name": "cimet",
+      "synonyms": [],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "kvasac",
+      "name": "kvasac",
+      "synonyms": [
+        "germa",
+        "svježi kvasac"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "krompir",
+      "name": "krompir",
+      "synonyms": [
+        "krumpir",
+        "krompiri"
+      ],
+      "publicPage": true,
+      "description": "DEMO: Krompir je osnova priloga, musake i čorbi.",
+      "selection": "DEMO: Za pire su bolje brašnjave sorte, a za musaku i salate čvršće.",
+      "storage": "DEMO: Čuvati na tamnom, hladnom i prozračnom mjestu, odvojeno od crnog luka.",
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "crni-luk",
+      "name": "crni luk",
+      "synonyms": [
+        "luk",
+        "kapula"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "bijeli-luk",
+      "name": "bijeli luk",
+      "synonyms": [
+        "češnjak",
+        "beli luk"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "mrkva",
+      "name": "mrkva",
+      "synonyms": [
+        "šargarepa"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "paprika",
+      "name": "paprika",
+      "synonyms": [
+        "babura"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "crvena-paprika",
+      "name": "crvena paprika",
+      "synonyms": [
+        "crvena babura"
+      ],
+      "broader": "paprika",
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "patlidzan",
+      "name": "patlidžan",
+      "synonyms": [
+        "plavi patlidžan"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "paradajz",
+      "name": "paradajz",
+      "synonyms": [
+        "rajčica",
+        "pomidor"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "paradajz-pire",
+      "name": "paradajz pire",
+      "synonyms": [
+        "pasirani paradajz",
+        "pelat"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "krastavac",
+      "name": "krastavac",
+      "synonyms": [
+        "krastavica"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "spinat",
+      "name": "špinat",
+      "synonyms": [
+        "spanać"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "persun",
+      "name": "peršun",
+      "synonyms": [
+        "peršin"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "limun",
+      "name": "limun",
+      "synonyms": [],
+      "foodGroup": "voce"
+    },
+    {
+      "slug": "jabuke",
+      "name": "jabuke",
+      "synonyms": [
+        "jabuka"
+      ],
+      "foodGroup": "voce"
+    },
+    {
+      "slug": "nana",
+      "name": "nana",
+      "synonyms": [
+        "metvica",
+        "menta"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "aleva-paprika",
+      "name": "aleva paprika",
+      "synonyms": [
+        "mljevena paprika",
+        "slatka paprika"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "sirce",
+      "name": "sirće",
+      "synonyms": [
+        "ocat",
+        "ocet"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "lovor",
+      "name": "lovorov list",
+      "synonyms": [
+        "lovor"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "mljeveno-meso",
+      "name": "mljeveno meso",
+      "synonyms": [
+        "faširano meso",
+        "mleveno meso"
+      ],
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "junetina",
+      "name": "junetina",
+      "synonyms": [
+        "juneće meso"
+      ],
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "piletina",
+      "name": "piletina",
+      "synonyms": [
+        "pileće meso"
+      ],
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "pileca-prsa",
+      "name": "pileća prsa",
+      "synonyms": [
+        "pileći file",
+        "pileća bijela krmenadla"
+      ],
+      "broader": "piletina",
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "pileci-batak",
+      "name": "pileći batak i karabatak",
+      "synonyms": [
+        "batak"
+      ],
+      "broader": "piletina",
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "kore-za-pitu",
+      "name": "kore za pitu",
+      "synonyms": [
+        "jufke",
+        "gotove kore",
+        "jufka"
+      ],
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "tjestenina",
+      "name": "tjestenina",
+      "synonyms": [
+        "pašta",
+        "makaroni"
+      ],
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "rezanci-za-supu",
+      "name": "rezanci za supu",
+      "synonyms": [
+        "fide"
+      ],
+      "broader": "tjestenina",
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "suho-meso",
+      "name": "suho meso",
+      "synonyms": [
+        "sušeno meso",
+        "suha govedina"
+      ],
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "grah",
+      "name": "grah",
+      "synonyms": [
+        "pasulj",
+        "zrnati grah"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "riza",
+      "name": "riža",
+      "synonyms": [
+        "pirinač"
+      ],
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "tikvica",
+      "name": "tikvica",
+      "synonyms": [
+        "tikvice",
+        "zelena tikva"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "ovsene-pahuljice",
+      "name": "ovsene pahuljice",
+      "synonyms": [
+        "zobene pahuljice",
+        "zob"
+      ],
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "med",
+      "name": "med",
+      "synonyms": [],
+      "foodGroup": "ostalo"
+    }
+  ]
+}

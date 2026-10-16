@@ -1,0 +1,381 @@
+@import 'tailwindcss';
+
+/*
+ * Boje prema dostavljenom logu (procijenjeno vizuelno s rasterske slike;
+ * potvrditi iz originalnog vektorskog fajla). Kontrast je provjeren za sve
+ * stvarne kombinacije — vidi docs/architecture.md → "Kontrast".
+ */
+@theme {
+  --color-brand: #b91c2c; /* vanjsko srce — radnje, linkovi (6,4:1 na bijeloj) */
+  --color-brand-bright: #e3202a; /* unutrašnje srce — samo dekorativno / ikone */
+  --color-bordo: #741b2b; /* hover, naslovi sekcija (10,6:1) */
+  --color-logo-text: #6e2c2e; /* boja natpisa u logu */
+  --color-ink: #262326; /* osnovni tekst (15,4:1) */
+  --color-muted: #5c5558; /* sekundarni tekst (7,2:1) */
+  --color-line: #ece3dc;
+  --color-soft: #fff5f5; /* nježna sekcijska pozadina */
+  --color-cream: #fbf6f0; /* topla krem sekcija */
+  --color-sand: #f4ebe1; /* pješčana podloga za istaknute blokove */
+  --color-page: #fffcf9; /* toplo bijela pozadina stranice */
+  --color-wine: #5b1a26; /* tamni bordo blokovi */
+  --color-success: #1f6b3a;
+  --color-warning-bg: #fff4d6;
+  --color-warning-ink: #5c4300;
+
+  --font-serif: var(--font-lora), Georgia, 'Times New Roman', serif;
+  --font-sans: var(--font-source-sans), system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+
+  /* prelaz boja iz loga: tamnije vanjsko srce → svijetlo unutrašnje → ružičasti odsjaj */
+  --gradient-logo: linear-gradient(90deg, #8f1424 0%, #b91c2c 30%, #e3202a 65%, #f2707e 100%);
+  --gradient-brand: linear-gradient(135deg, #a3192a 0%, #c21d2c 55%, #d6202c 100%);
+
+  --radius-card: 0.75rem;
+  --shadow-card: 0 1px 2px rgb(38 35 38 / 0.06), 0 2px 8px rgb(38 35 38 / 0.05);
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-padding-top: 5rem;
+  }
+  body {
+    background: var(--color-page);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-size: 1.0625rem; /* 17 px */
+    line-height: 1.6;
+    overflow-x: clip;
+  }
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-serif);
+    color: var(--color-ink);
+    line-height: 1.2;
+    text-wrap: balance;
+  }
+  a {
+    color: inherit;
+  }
+  :focus-visible {
+    outline: 3px solid var(--color-brand);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+  ::selection {
+    background: #f6d3d6;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  [hidden] {
+    display: none !important;
+  }
+}
+
+@layer components {
+  .container-page {
+    width: 100%;
+    max-width: 75rem; /* ~1200 px */
+    margin-inline: auto;
+    padding-inline: 1rem;
+  }
+  @media (min-width: 768px) {
+    .container-page {
+      padding-inline: 1.5rem;
+    }
+  }
+  .eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-family: var(--font-sans);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-brand);
+  }
+  .eyebrow-line::before {
+    content: '';
+    width: 2rem;
+    height: 6px;
+    background: var(--gradient-logo);
+    -webkit-mask: linear-gradient(#000 0 2px, transparent 2px 4px, #000 4px 6px);
+    mask: linear-gradient(#000 0 2px, transparent 2px 4px, #000 4px 6px);
+  }
+  .section {
+    padding-block: 3.5rem;
+  }
+  @media (min-width: 768px) {
+    .section {
+      padding-block: 4.5rem;
+    }
+  }
+  .card {
+    background: #fff;
+    border: 1px solid var(--color-line);
+    border-radius: 1rem;
+    box-shadow: var(--shadow-card);
+  }
+  /* Dvije tanke pruge s prelazom boje, kao bijele linije preko srca u logu */
+  .logo-stripes {
+    display: block;
+    height: 6px;
+    background: var(--gradient-logo);
+    -webkit-mask: linear-gradient(#000 0 2px, transparent 2px 4px, #000 4px 6px);
+    mask: linear-gradient(#000 0 2px, transparent 2px 4px, #000 4px 6px);
+  }
+  .logo-stripes-light {
+    background: linear-gradient(90deg, rgb(255 255 255 / 0.25) 0%, #fff 35%, #ffd2d7 70%, rgb(255 255 255 / 0.4) 100%);
+  }
+  /* Kartica s prugama na vrhu */
+  .card-stripes {
+    position: relative;
+    overflow: hidden;
+  }
+  .card-stripes::before {
+    content: ;
+    position: absolute;
+    inset: 0 0 auto 0;
+    height: 6px;
+    background: var(--gradient-logo);
+    -webkit-mask: linear-gradient(#000 0 2px, transparent 2px 4px, #000 4px 6px);
+    mask: linear-gradient(#000 0 2px, transparent 2px 4px, #000 4px 6px);
+    pointer-events: none;
+  }
+  /* Nenametljiv okvir; boja tek na prelazu mišem */
+  .ring-logo {
+    border: 1px solid var(--color-line);
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .ring-logo:hover {
+    border-color: #e7b9be;
+    box-shadow: 0 4px 16px rgb(185 28 44 / 0.08);
+  }
+  .icon-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 999px;
+    background: var(--gradient-brand);
+    color: #fff;
+    box-shadow:
+      0 0 0 3px #fff,
+      0 0 0 4px #f1c6cb;
+  }
+  .icon-soft {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 999px;
+    background: var(--color-soft);
+    color: var(--color-brand);
+    box-shadow: inset 0 0 0 1px #f3d3d6;
+  }
+  .btn-heart {
+    background: #fff;
+    color: var(--color-bordo);
+    border: 1px solid #f0cdd1;
+  }
+  .btn-heart:hover {
+    background: var(--color-soft);
+  }
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-height: 2.75rem; /* 44 px dodirna meta */
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    line-height: 1.2;
+    text-decoration: none;
+    transition: background-color 0.15s, color 0.15s, border-color 0.15s;
+    cursor: pointer;
+  }
+  .btn:disabled {
+    opacity: 0.55;
+    cursor: not-allowed;
+  }
+  .btn-primary {
+    background: var(--gradient-brand);
+    color: #fff;
+  }
+  .btn-primary:hover {
+    background: var(--color-bordo);
+  }
+  .btn-secondary {
+    background: #fff;
+    color: var(--color-ink);
+    border: 1px solid #cfc4c6;
+  }
+  .btn-secondary:hover {
+    border-color: var(--color-brand);
+    color: var(--color-brand);
+  }
+  .btn-ghost {
+    background: transparent;
+    color: var(--color-ink);
+  }
+  .btn-ghost:hover {
+    background: var(--color-soft);
+    color: var(--color-bordo);
+  }
+  .icon-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.75rem;
+    height: 2.75rem;
+    border-radius: 999px;
+    cursor: pointer;
+  }
+  .link {
+    color: var(--color-brand);
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+    text-decoration-thickness: 1px;
+  }
+  .link:hover {
+    color: var(--color-bordo);
+    text-decoration-thickness: 2px;
+  }
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    min-height: 2.25rem;
+    padding: 0.25rem 0.75rem;
+    border-radius: 999px;
+    border: 1px solid var(--color-line);
+    background: #fff;
+    font-size: 0.9375rem;
+    text-decoration: none;
+  }
+  a.chip:hover,
+  button.chip:hover {
+    border-color: var(--color-brand);
+    color: var(--color-brand);
+  }
+  .field {
+    width: 100%;
+    min-height: 2.75rem;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid #b9adb0;
+    border-radius: 0.5rem;
+    background: #fff;
+    color: var(--color-ink);
+  }
+  .field:focus-visible {
+    outline-offset: 0;
+  }
+  .label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+  }
+  .prose-recipe p + p {
+    margin-top: 0.75rem;
+  }
+  .rich-text h2 {
+    font-size: 1.5rem;
+    margin: 2rem 0 0.75rem;
+  }
+  .rich-text h3 {
+    font-size: 1.25rem;
+    margin: 1.5rem 0 0.5rem;
+  }
+  .rich-text p {
+    margin: 0.75rem 0;
+  }
+  .rich-text ul {
+    list-style: disc;
+    padding-left: 1.5rem;
+    margin: 0.75rem 0;
+  }
+  .rich-text ol {
+    list-style: decimal;
+    padding-left: 1.5rem;
+    margin: 0.75rem 0;
+  }
+  .rich-text li {
+    margin: 0.35rem 0;
+  }
+  .rich-text a {
+    color: var(--color-brand);
+    text-decoration: underline;
+  }
+  .sr-only-focusable:not(:focus) {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+  .ad-slot {
+    /* rezervisan prostor sprječava pomjeranje sadržaja (CLS) */
+    min-height: 280px;
+    display: grid;
+    place-items: center;
+    border: 1px dashed var(--color-line);
+    color: var(--color-muted);
+    font-size: 0.8125rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* --- Štampa: naziv, izvorni URL, porcije, sastojci, koraci, bitne napomene --- */
+@media print {
+  @page {
+    margin: 14mm;
+  }
+  body {
+    font-size: 11.5pt;
+    color: #000;
+  }
+  .no-print,
+  header[data-site-header],
+  footer[data-site-footer],
+  nav[aria-label='Putanja'],
+  .ad-slot {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  html[data-print-photo='ne'] .print-photo {
+    display: none !important;
+  }
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+  .recipe-columns {
+    display: block !important;
+  }
+  li,
+  .avoid-break {
+    break-inside: avoid;
+  }
+  h2,
+  h3 {
+    break-after: avoid;
+  }
+}
+.print-only {
+  display: none;
+}

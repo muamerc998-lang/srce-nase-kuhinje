@@ -1,0 +1,2881 @@
+{
+  "format": "srce-nase-kuhinje/v1",
+  "recipes": [
+    {
+      "slug": "musaka-s-krompirom",
+      "title": "Musaka s krompirom",
+      "alternativeNames": [
+        "musaka od krompira",
+        "krompir musaka"
+      ],
+      "summary": "Slojevi krompira i mljevenog mesa preliveni jajima i mlijekom, pečeni dok vrh ne dobije zlatnu koricu.",
+      "beforeYouStart": "Krompir isjecite na kriške iste debljine kako bi se ravnomjerno ispekao.",
+      "primaryCategory": "glavna-jela",
+      "tags": [
+        "nedjeljni-rucak",
+        "krompir",
+        "mljeveno-meso"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "srednje",
+      "methods": [
+        "pecenje"
+      ],
+      "diets": [],
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 30,
+        "cookMinutes": 60,
+        "restMinutes": 15,
+        "restLabel": "odmaranja",
+        "totalMinutes": 100
+      },
+      "equipment": {
+        "panSize": "25 × 35 cm",
+        "temperature": 200,
+        "ovenMode": "gornji-donji"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Fil",
+          "items": [
+            {
+              "ingredient": "krompir",
+              "amount": 1.5,
+              "unit": "kg",
+              "label": "krompira",
+              "note": "oguljen, na kriške"
+            },
+            {
+              "ingredient": "mljeveno-meso",
+              "amount": 500,
+              "unit": "g",
+              "label": "mljevenog mesa"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "sitno sjeckan"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 3,
+              "unit": "kasika",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "aleve paprike"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            }
+          ]
+        },
+        {
+          "title": "Preljev",
+          "items": [
+            {
+              "ingredient": "jaja",
+              "amount": 2,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 300,
+              "unit": "ml",
+              "label": "mlijeka"
+            },
+            {
+              "ingredient": "kisela-pavlaka",
+              "amount": 2,
+              "amountMax": 3,
+              "unit": "kasika",
+              "label": "kisele pavlake",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Fil",
+          "steps": [
+            {
+              "text": "Na ulju propirjajte crni luk dok ne omekša, oko 5 minuta.",
+              "timerMinutes": 5,
+              "timerLabel": "Pirjanje luka"
+            },
+            {
+              "text": "Dodajte mljeveno meso, razbijte ga kašikom i pržite dok ne promijeni boju. Začinite solju, biberom i alevom paprikom."
+            },
+            {
+              "text": "Pouljenu tepsiju obložite trećinom krompira, pospite polovinom mesa, pa ponovite slojeve i završite krompirom."
+            }
+          ]
+        },
+        {
+          "title": "Pečenje",
+          "steps": [
+            {
+              "text": "Dodajte oko 200 ml vode, pokrijte folijom i pecite na 200 °C.",
+              "timerMinutes": 35,
+              "timerLabel": "Pečenje pod folijom"
+            },
+            {
+              "text": "Umutite jaja s mlijekom (i pavlakom ako je koristite), prelijte preko musake i pecite nepokriveno dok vrh ne porumeni.",
+              "timerMinutes": 25,
+              "timerLabel": "Pečenje bez folije"
+            },
+            {
+              "text": "Ostavite musaku da odstoji prije sječenja kako bi se slojevi povezali.",
+              "timerMinutes": 15,
+              "timerLabel": "Odmaranje"
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Ako krompir nakon pečenja pod folijom još nije mekan, produžite pečenje prije dodavanja preljeva."
+      ],
+      "substitutions": [
+        "Umjesto kisele pavlake može se koristiti isto toliko jogurta."
+      ],
+      "storage": "Pokrivenu čuvati u frižideru do 2 dana. Podgrijati u rerni na 160 °C.",
+      "faq": [
+        {
+          "question": "Može li se musaka pripremiti dan ranije?",
+          "answer": "Može. Ispecite je, ohladite i čuvajte u frižideru; prije služenja podgrijte pokrivenu folijom."
+        }
+      ],
+      "relatedRecipes": [
+        "pire-krompir",
+        "sopska-salata"
+      ],
+      "facebook": {
+        "postedAt": "2026-10-12T17:00:00+02:00"
+      },
+      "meals": [
+        "rucak"
+      ],
+      "servedWith": [
+        "sopska-salata"
+      ],
+      "leftovers": {
+        "text": "Ostatak musake je odličan sutradan: podgrijte ga pokrivenog u rerni na 160 °C."
+      }
+    },
+    {
+      "slug": "pileca-supa-s-rezancima",
+      "title": "Pileća supa s rezancima",
+      "alternativeNames": [
+        "domaća pileća supa"
+      ],
+      "summary": "Bistra supa od piletine i povrća s tankim rezancima, za lagani početak ručka.",
+      "primaryCategory": "supe-i-corbe",
+      "tags": [
+        "nedjeljni-rucak",
+        "piletina"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "kuhanje"
+      ],
+      "diets": [
+        "bez-mlijeka"
+      ],
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "cookMinutes": 60,
+        "totalMinutes": 75
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "pileci-batak",
+              "amount": 500,
+              "unit": "g",
+              "label": "pilećeg bataka i karabataka"
+            },
+            {
+              "ingredient": "mrkva",
+              "amount": 2,
+              "unit": "kom",
+              "label": "mrkve"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "crnog luka"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 2,
+              "unit": "l",
+              "label": "vode"
+            },
+            {
+              "ingredient": "rezanci-za-supu",
+              "amount": 80,
+              "unit": "g",
+              "label": "rezanaca za supu"
+            },
+            {
+              "ingredient": "lovor",
+              "amount": 1,
+              "unit": "list",
+              "label": "lovorov list",
+              "optional": true
+            },
+            {
+              "ingredient": "persun",
+              "amount": 1,
+              "unit": "vezica",
+              "label": "peršuna",
+              "optional": true,
+              "note": "za posipanje"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Piletinu stavite u hladnu vodu i polako zagrijte do ključanja. Skinite pjenu s površine."
+            },
+            {
+              "text": "Dodajte očišćenu mrkvu, crni luk i lovorov list. Kuhajte na laganoj vatri, poklopljeno.",
+              "timerMinutes": 50,
+              "timerLabel": "Kuhanje supe"
+            },
+            {
+              "text": "Izvadite meso i povrće, procijedite supu i vratite je na vatru. Dodajte rezance i kuhajte prema uputi na pakovanju.",
+              "timerMinutes": 5,
+              "timerLabel": "Kuhanje rezanaca"
+            },
+            {
+              "text": "Posolite, pobiberite i poslužite s isjeckanom mrkvom, mesom i peršunom."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Supa ostaje bistrija ako kuha lagano, bez jakog ključanja."
+      ],
+      "storage": "Supu bez rezanaca čuvati u frižideru do 3 dana; rezance kuhati neposredno prije služenja.",
+      "relatedRecipes": [
+        "musaka-s-krompirom"
+      ],
+      "meals": [
+        "rucak"
+      ],
+      "leftovers": {
+        "text": "Meso iz supe odvojite od kostiju i iskoristite za hladnu salatu.",
+        "recipe": "salata-s-piletinom-i-tjesteninom"
+      }
+    },
+    {
+      "slug": "burek-sa-mesom",
+      "title": "Burek sa mesom",
+      "alternativeNames": [
+        "pita sa mesom",
+        "burek"
+      ],
+      "summary": "Savijača od gotovih kora punjena mljevenim mesom i lukom, pečena u okrugloj tepsiji.",
+      "beforeYouStart": "Kore držite pokrivene vlažnom krpom dok radite, da se ne osuše i ne pucaju.",
+      "primaryCategory": "pite-i-peciva",
+      "tags": [
+        "gotove-kore"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "srednje",
+      "methods": [
+        "pecenje"
+      ],
+      "diets": [],
+      "yield": {
+        "servings": 8,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 40,
+        "cookMinutes": 45,
+        "restMinutes": 10,
+        "restLabel": "odmaranja",
+        "totalMinutes": 95
+      },
+      "equipment": {
+        "panSize": "okrugla tepsija Ø 32 cm",
+        "temperature": 220,
+        "ovenMode": "gornji-donji"
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "kore-za-pitu",
+              "amount": 500,
+              "unit": "g",
+              "label": "kora za pitu"
+            },
+            {
+              "ingredient": "mljeveno-meso",
+              "amount": 600,
+              "unit": "g",
+              "label": "mljevenog mesa"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 2,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "sitno sjeckan"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 1,
+              "unit": "dl",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "soli"
+            },
+            {
+              "ingredient": "biber",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "bibera"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 100,
+              "unit": "ml",
+              "label": "vode",
+              "note": "za preljev"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Meso izmiješajte s lukom, solju i biberom."
+            },
+            {
+              "text": "Na svaku koru rasporedite tanak sloj ulja i nadjeva, zavijte u rolat i slažite u nauljenu tepsiju u obliku spirale."
+            },
+            {
+              "text": "Pecite na 220 °C dok burek ne porumeni.",
+              "timerMinutes": 40,
+              "timerLabel": "Pečenje bureka"
+            },
+            {
+              "text": "Poprskajte vodom, pokrijte čistom krpom i ostavite da odstoji.",
+              "timerMinutes": 10,
+              "timerLabel": "Odmaranje"
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Ako vrh tamni prebrzo, pokrijte burek papirom za pečenje posljednjih 10 minuta."
+      ],
+      "storage": "Najbolji je isti dan. Ostatak čuvati u frižideru do 2 dana i podgrijati u rerni.",
+      "relatedGuides": [
+        "kako-raditi-s-korama-za-pitu"
+      ],
+      "relatedRecipes": [
+        "zeljanica"
+      ],
+      "facebook": {
+        "postedAt": "2026-10-10T18:30:00+02:00"
+      },
+      "meals": [
+        "dorucak",
+        "rucak"
+      ],
+      "servedWith": [
+        "sopska-salata"
+      ]
+    },
+    {
+      "slug": "zeljanica",
+      "title": "Zeljanica",
+      "alternativeNames": [
+        "pita sa špinatom",
+        "pita zeljanica"
+      ],
+      "summary": "Pita od kora sa špinatom i bijelim sirom, sočna iznutra i hrskava na vrhu.",
+      "primaryCategory": "pite-i-peciva",
+      "tags": [
+        "gotove-kore"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "srednje",
+      "methods": [
+        "pecenje"
+      ],
+      "diets": [
+        "vegetarijansko"
+      ],
+      "yield": {
+        "servings": 8,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 30,
+        "cookMinutes": 40,
+        "totalMinutes": 70
+      },
+      "equipment": {
+        "panSize": "okrugla tepsija Ø 30 cm",
+        "temperature": 210,
+        "ovenMode": "gornji-donji"
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "kore-za-pitu",
+              "amount": 500,
+              "unit": "g",
+              "label": "kora za pitu"
+            },
+            {
+              "ingredient": "spinat",
+              "amount": 500,
+              "unit": "g",
+              "label": "špinata",
+              "note": "opran i sitno sjeckan"
+            },
+            {
+              "ingredient": "bijeli-sir",
+              "amount": 300,
+              "unit": "g",
+              "label": "bijelog sira"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 3,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "kisela-pavlaka",
+              "amount": 200,
+              "unit": "g",
+              "label": "kisele pavlake"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 80,
+              "unit": "g",
+              "label": "maslaca",
+              "altGroup": "mast",
+              "note": "otopljen"
+            },
+            {
+              "ingredient": "margarin",
+              "amount": 80,
+              "unit": "g",
+              "label": "margarina",
+              "altGroup": "mast",
+              "note": "otopljen"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Špinat lagano posolite, ostavite 10 minuta i iscijedite višak tečnosti.",
+              "timerMinutes": 10,
+              "timerLabel": "Odmaranje špinata"
+            },
+            {
+              "text": "Izmiješajte špinat, sir, jaja i pavlaku."
+            },
+            {
+              "text": "Slažite kore premazane otopljenom masnoćom i fil, pa završite korom."
+            },
+            {
+              "text": "Pecite na 210 °C dok pita ne porumeni.",
+              "timerMinutes": 40,
+              "timerLabel": "Pečenje"
+            }
+          ]
+        }
+      ],
+      "storage": "U frižideru do 2 dana.",
+      "relatedGuides": [
+        "kako-raditi-s-korama-za-pitu"
+      ],
+      "relatedRecipes": [
+        "burek-sa-mesom"
+      ],
+      "facebook": {
+        "postedAt": "2026-10-08T12:00:00+02:00"
+      },
+      "meals": [
+        "dorucak",
+        "rucak",
+        "vecera"
+      ]
+    },
+    {
+      "slug": "sopska-salata",
+      "title": "Šopska salata",
+      "summary": "Svježi paradajz, krastavac i paprika s naribanim bijelim sirom — gotovo za petnaest minuta.",
+      "primaryCategory": "salate",
+      "tags": [
+        "brzo"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "bez-kuhanja"
+      ],
+      "diets": [
+        "vegetarijansko",
+        "bez-glutena"
+      ],
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "totalMinutes": 15
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "paradajz",
+              "amount": 4,
+              "unit": "kom",
+              "label": "paradajza"
+            },
+            {
+              "ingredient": "krastavac",
+              "amount": 1,
+              "unit": "kom",
+              "label": "krastavac"
+            },
+            {
+              "ingredient": "paprika",
+              "amount": 2,
+              "unit": "kom",
+              "label": "paprike"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 0.5,
+              "unit": "glavica",
+              "label": "crnog luka"
+            },
+            {
+              "ingredient": "bijeli-sir",
+              "amount": 150,
+              "unit": "g",
+              "label": "bijelog sira"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 3,
+              "unit": "kasika",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "sirce",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "sirćeta"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "persun",
+              "unit": "po-potrebi",
+              "label": "peršun",
+              "optional": true,
+              "note": "za dekoraciju"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Paradajz, krastavac i papriku isjecite na kockice, a luk na tanke polukrugove."
+            },
+            {
+              "text": "Začinite solju, uljem i sirćetom pa lagano promiješajte."
+            },
+            {
+              "text": "Pospite naribanim bijelim sirom i poslužite odmah."
+            }
+          ]
+        }
+      ],
+      "storage": "Najbolja je odmah. Bez sira i preljeva povrće se može čuvati u frižideru nekoliko sati.",
+      "relatedRecipes": [
+        "musaka-s-krompirom"
+      ],
+      "meals": [
+        "rucak",
+        "vecera"
+      ]
+    },
+    {
+      "slug": "pire-krompir",
+      "title": "Pire krompir",
+      "alternativeNames": [
+        "pire od krompira"
+      ],
+      "summary": "Mekan i kremast pire s mlijekom i maslacem, prilog uz meso i povrće.",
+      "primaryCategory": "predjela-i-prilozi",
+      "tags": [
+        "nedjeljni-rucak",
+        "krompir"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "kuhanje"
+      ],
+      "diets": [
+        "vegetarijansko",
+        "bez-glutena"
+      ],
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 25,
+        "totalMinutes": 35
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "krompir",
+              "amount": 1,
+              "unit": "kg",
+              "label": "brašnjavog krompira"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 150,
+              "amountMax": 200,
+              "unit": "ml",
+              "label": "toplog mlijeka"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 50,
+              "unit": "g",
+              "label": "maslaca",
+              "altGroup": "mast"
+            },
+            {
+              "ingredient": "margarin",
+              "amount": 50,
+              "unit": "g",
+              "label": "margarina",
+              "altGroup": "mast"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Oguljen krompir isjecite na jednake komade i kuhajte u posoljenoj vodi dok ne omekša.",
+              "timerMinutes": 20,
+              "timerLabel": "Kuhanje krompira"
+            },
+            {
+              "text": "Ocijedite krompir i vratite ga u šerpu na minutu da ispari višak vode."
+            },
+            {
+              "text": "Izgnječite krompir, dodajte maslac i postepeno toplo mlijeko dok ne dobijete željenu gustinu."
+            }
+          ]
+        }
+      ],
+      "storage": "U frižideru do 2 dana; pri podgrijavanju dodati malo mlijeka.",
+      "meals": [
+        "rucak"
+      ]
+    },
+    {
+      "slug": "cokoladna-torta-bez-pecenja",
+      "title": "Čokoladna torta bez pečenja",
+      "summary": "Podloga od keksa i maslaca, kremasta čokoladna krema i kakao na vrhu. Pečenje nije potrebno, samo strpljenje u frižideru.",
+      "beforeYouStart": "Tortu pripremite dan ranije ili najmanje četiri sata prije služenja.",
+      "primaryCategory": "torte",
+      "tags": [
+        "bez-pecenja",
+        "cokolada"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "srednje",
+      "methods": [
+        "bez-pecenja"
+      ],
+      "diets": [
+        "vegetarijansko"
+      ],
+      "yield": {
+        "servings": 12,
+        "unit": "kriški",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 30,
+        "restMinutes": 240,
+        "restLabel": "hlađenja",
+        "totalMinutes": 270
+      },
+      "equipment": {
+        "panSize": "kalup s obručem Ø 24 cm"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Podloga",
+          "items": [
+            {
+              "ingredient": "petit-keks",
+              "amount": 300,
+              "unit": "g",
+              "label": "petit keksa",
+              "note": "samljeven"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 120,
+              "unit": "g",
+              "label": "maslaca",
+              "note": "otopljen"
+            }
+          ]
+        },
+        {
+          "title": "Krema",
+          "items": [
+            {
+              "ingredient": "cokolada-za-kuhanje",
+              "amount": 200,
+              "unit": "g",
+              "label": "čokolade za kuhanje"
+            },
+            {
+              "ingredient": "slatka-pavlaka",
+              "amount": 400,
+              "unit": "ml",
+              "label": "slatke pavlake"
+            },
+            {
+              "ingredient": "secer-u-prahu",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "šećera u prahu"
+            }
+          ]
+        },
+        {
+          "title": "Za vrh",
+          "items": [
+            {
+              "ingredient": "kakao",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "kakaa",
+              "optional": true,
+              "note": "za posipanje"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Podloga",
+          "steps": [
+            {
+              "text": "Samljeveni keks izmiješajte s otopljenim maslacem i utisnite u dno kalupa."
+            },
+            {
+              "text": "Ohladite podlogu u frižideru dok pripremate kremu.",
+              "timerMinutes": 15,
+              "timerLabel": "Hlađenje podloge"
+            }
+          ]
+        },
+        {
+          "title": "Krema",
+          "steps": [
+            {
+              "text": "Polovinu slatke pavlake zagrijte do ključanja, maknite s vatre i u njoj otopite izlomljenu čokoladu. Ostavite da se ohladi na sobnu temperaturu."
+            },
+            {
+              "text": "Ostatak hladne pavlake umutite sa šećerom u prahu u čvrst šlag i lagano umiješajte ohlađenu čokoladu."
+            },
+            {
+              "text": "Kremu rasporedite preko podloge, poravnajte i ohladite u frižideru najmanje 4 sata.",
+              "timerMinutes": 240,
+              "timerLabel": "Hlađenje torte"
+            },
+            {
+              "text": "Prije služenja pospite kakaom i oslobodite obruč nožem umočenim u toplu vodu."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Čokolada mora biti ohlađena prije miješanja sa šlagom, inače šlag gubi čvrstinu."
+      ],
+      "storage": "Pokrivenu čuvati u frižideru do 3 dana.",
+      "faq": [
+        {
+          "question": "Može li se torta zamrznuti?",
+          "answer": "Može, do mjesec dana, bez kakaa na vrhu. Odmrzavati u frižideru preko noći."
+        }
+      ],
+      "relatedRecipes": [
+        "kuglice-od-keksa"
+      ],
+      "facebook": {
+        "postedAt": "2026-10-14T19:00:00+02:00"
+      },
+      "meals": []
+    },
+    {
+      "slug": "kuglice-od-keksa",
+      "title": "Kuglice od keksa",
+      "summary": "Brze kuglice od keksa, oraha i kakaa, uvaljane u kokos ili šećer u prahu.",
+      "primaryCategory": "keksi-i-sitni-kolaci",
+      "tags": [
+        "bez-pecenja",
+        "brzo"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "bez-pecenja"
+      ],
+      "diets": [
+        "vegetarijansko",
+        "bez-jaja"
+      ],
+      "yield": {
+        "servings": 30,
+        "unit": "komada",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 25,
+        "restMinutes": 60,
+        "restLabel": "hlađenja",
+        "totalMinutes": 85
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "petit-keks",
+              "amount": 300,
+              "unit": "g",
+              "label": "petit keksa",
+              "note": "samljeven"
+            },
+            {
+              "ingredient": "orasi",
+              "amount": 100,
+              "unit": "g",
+              "label": "mljevenih oraha"
+            },
+            {
+              "ingredient": "kakao",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "kakaa"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 100,
+              "unit": "g",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 150,
+              "unit": "ml",
+              "label": "mlijeka"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 50,
+              "unit": "g",
+              "label": "maslaca"
+            },
+            {
+              "ingredient": "secer-u-prahu",
+              "unit": "po-potrebi",
+              "label": "šećer u prahu",
+              "note": "za valjanje",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Mlijeko, šećer i maslac zagrijte dok se šećer ne otopi."
+            },
+            {
+              "text": "Prelijte preko keksa, oraha i kakaa i izmiješajte u kompaktnu masu."
+            },
+            {
+              "text": "Ohladite masu u frižideru.",
+              "timerMinutes": 30,
+              "timerLabel": "Hlađenje mase"
+            },
+            {
+              "text": "Oblikujte kuglice veličine oraha i uvaljajte ih u šećer u prahu. Čuvajte u frižideru."
+            }
+          ]
+        }
+      ],
+      "storage": "U zatvorenoj posudi u frižideru do 5 dana.",
+      "relatedRecipes": [
+        "cokoladna-torta-bez-pecenja"
+      ],
+      "meals": []
+    },
+    {
+      "slug": "palacinke",
+      "title": "Palačinke",
+      "alternativeNames": [
+        "pačinke",
+        "palačinci"
+      ],
+      "summary": "Tanke palačinke od jednostavnog tijesta, za slatke i slane nadjeve.",
+      "primaryCategory": "palacinke",
+      "tags": [
+        "brzo"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "przenje"
+      ],
+      "diets": [
+        "vegetarijansko"
+      ],
+      "yield": {
+        "servings": 12,
+        "unit": "komada",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 25,
+        "totalMinutes": 35
+      },
+      "equipment": {
+        "panSize": "tava za palačinke Ø 24 cm"
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 250,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 3,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 500,
+              "unit": "ml",
+              "label": "mlijeka"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 100,
+              "unit": "ml",
+              "label": "vode"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "ulja",
+              "note": "i malo za tavu"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1,
+              "unit": "prstohvat",
+              "label": "soli"
+            },
+            {
+              "ingredient": "pekmez",
+              "unit": "po-potrebi",
+              "label": "pekmez",
+              "optional": true,
+              "note": "za nadjev"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Umutite jaja, dodajte mlijeko, vodu, so i ulje, pa postepeno umiješajte brašno dok ne nestanu grudvice."
+            },
+            {
+              "text": "Zagrijte blago nauljenu tavu i sipajte tanak sloj tijesta, okrećući tavu da se rasporedi."
+            },
+            {
+              "text": "Pecite dok ivice ne porumene, okrenite i pecite još kratko s druge strane. Ponavljajte dok ne potrošite tijesto."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Tijesto može odstajati 15–30 minuta; palačinke su tada elastičnije."
+      ],
+      "storage": "Pečene palačinke pokrivene čuvati u frižideru do 2 dana ili zamrznuti s papirom za pečenje između njih.",
+      "facebook": {
+        "postedAt": "2026-10-05T09:00:00+02:00"
+      },
+      "meals": [
+        "dorucak",
+        "vecera"
+      ]
+    },
+    {
+      "slug": "vanilice",
+      "title": "Vanilice",
+      "summary": "Mrvljivi sitni kolači od tijesta s orasima, spojeni pekmezom i uvaljani u šećer u prahu.",
+      "primaryCategory": "keksi-i-sitni-kolaci",
+      "tags": [],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "srednje",
+      "methods": [
+        "pecenje"
+      ],
+      "diets": [
+        "vegetarijansko"
+      ],
+      "yield": {
+        "servings": 60,
+        "unit": "komada",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 45,
+        "cookMinutes": 36,
+        "restMinutes": 30,
+        "restLabel": "hlađenja tijesta",
+        "totalMinutes": 120
+      },
+      "equipment": {
+        "temperature": 180,
+        "ovenMode": "gornji-donji",
+        "other": "Okrugli modlač Ø 4 cm"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Tijesto",
+          "items": [
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 500,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 250,
+              "unit": "g",
+              "label": "maslaca",
+              "note": "hladan"
+            },
+            {
+              "ingredient": "orasi",
+              "amount": 100,
+              "unit": "g",
+              "label": "mljevenih oraha"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 100,
+              "unit": "g",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 1,
+              "unit": "bez",
+              "label": "jaje"
+            },
+            {
+              "ingredient": "vanilin-secer",
+              "amount": 1,
+              "unit": "kesica",
+              "label": "vanilin šećera"
+            }
+          ]
+        },
+        {
+          "title": "Za spajanje",
+          "items": [
+            {
+              "ingredient": "pekmez",
+              "amount": 150,
+              "amountMax": 200,
+              "unit": "g",
+              "label": "pekmeza"
+            },
+            {
+              "ingredient": "secer-u-prahu",
+              "amount": 100,
+              "unit": "g",
+              "label": "šećera u prahu"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Izmiješajte sve sastojke za tijesto u glatko tijesto, umotajte u foliju i ohladite.",
+              "timerMinutes": 30,
+              "timerLabel": "Hlađenje tijesta"
+            },
+            {
+              "text": "Razvaljajte tijesto na debljinu od oko 5 mm i vadite krugove modlačem."
+            },
+            {
+              "text": "Pecite u turama na 180 °C dok ivice tek ne požute.",
+              "timerMinutes": 12,
+              "timerLabel": "Pečenje jedne ture"
+            },
+            {
+              "text": "Ohlađene kolačiće spojite pekmezom i uvaljajte u šećer u prahu."
+            }
+          ]
+        }
+      ],
+      "storage": "U limenoj kutiji na hladnom mjestu do 2 sedmice.",
+      "meals": []
+    },
+    {
+      "slug": "ajvar",
+      "title": "Domaći ajvar",
+      "alternativeNames": [
+        "ajvar od pečenih paprika"
+      ],
+      "summary": "Gusti namaz od pečenih crvenih paprika i patlidžana, ukuhan za zimu.",
+      "beforeYouStart": "Ovo je recept za veću količinu zimnice; preračun porcija je isključen jer prinos zavisi od mesnatosti paprika i dužine ukuhavanja.",
+      "primaryCategory": "zimnica",
+      "tags": [],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "zahtjevno",
+      "methods": [
+        "pecenje",
+        "zimnica"
+      ],
+      "diets": [
+        "posno",
+        "bez-glutena",
+        "bez-mlijeka",
+        "bez-jaja"
+      ],
+      "yield": {
+        "servings": 6,
+        "unit": "tegli od 720 ml (okvirno)",
+        "scalable": false
+      },
+      "times": {
+        "prepMinutes": 120,
+        "cookMinutes": 180,
+        "totalMinutes": 300
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "crvena-paprika",
+              "amount": 5,
+              "unit": "kg",
+              "label": "mesnatih crvenih paprika"
+            },
+            {
+              "ingredient": "patlidzan",
+              "amount": 1,
+              "unit": "kg",
+              "label": "patlidžana"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 300,
+              "amountMax": 400,
+              "unit": "ml",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "sirce",
+              "amount": 50,
+              "unit": "ml",
+              "label": "sirćeta"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 3,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Pečenje i čišćenje",
+          "steps": [
+            {
+              "text": "Paprike i patlidžan ispecite dok kožica ne pocrni i ne počne se odvajati."
+            },
+            {
+              "text": "Pečeno povrće stavite u posudu, pokrijte i ostavite da se zapari, pa ogulite i očistite sjemenke.",
+              "timerMinutes": 20,
+              "timerLabel": "Zaparivanje"
+            },
+            {
+              "text": "Povrće sameljite ili sitno isjeckajte i ostavite u cjedilu da se ocijedi višak tečnosti."
+            }
+          ]
+        },
+        {
+          "title": "Ukuhavanje",
+          "steps": [
+            {
+              "text": "U širokoj posudi zagrijte dio ulja, dodajte povrće i kuhajte na srednjoj vatri uz često miješanje, postepeno dodajući ostatak ulja."
+            },
+            {
+              "text": "Kad masa postane gusta i ulje počne izlaziti na površinu, dodajte so, šećer i sirće i kuhajte još nekoliko minuta."
+            },
+            {
+              "text": "Vruć ajvar sipajte u pripremljene sterilisane tegle, zatvorite i ostavite da se polako ohlade pokrivene."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Ajvar se lako zalijepi za dno; koristite posudu debelog dna i drvenu kašiku."
+      ],
+      "storage": "Zatvorene tegle čuvati na tamnom i hladnom mjestu. Otvorenu teglu držati u frižideru i potrošiti u roku od sedmice.",
+      "meals": []
+    },
+    {
+      "slug": "domaca-limunada",
+      "title": "Domaća limunada",
+      "summary": "Osvježavajuća limunada od svježe iscijeđenih limuna, sa šećerom po ukusu.",
+      "primaryCategory": "napici",
+      "tags": [
+        "brzo"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "bez-kuhanja"
+      ],
+      "diets": [
+        "posno",
+        "bez-glutena",
+        "bez-mlijeka",
+        "bez-jaja"
+      ],
+      "yield": {
+        "servings": 4,
+        "unit": "čaše",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "totalMinutes": 10
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "limun",
+              "amount": 4,
+              "unit": "kom",
+              "label": "limuna"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 100,
+              "amountMax": 150,
+              "unit": "g",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 1,
+              "unit": "l",
+              "label": "hladne vode"
+            },
+            {
+              "ingredient": "nana",
+              "amount": 4,
+              "unit": "list",
+              "label": "nane",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Iscijedite limune i procijedite sok."
+            },
+            {
+              "text": "Šećer otopite u manjoj količini vode, pa dodajte sok i ostatak hladne vode."
+            },
+            {
+              "text": "Poslužite s ledom i listićima nane."
+            }
+          ]
+        }
+      ],
+      "storage": "U zatvorenoj boci u frižideru do 2 dana.",
+      "meals": []
+    },
+    {
+      "slug": "gulas",
+      "title": "Gulaš od junetine",
+      "summary": "DRAFT za test: ovaj recept nije objavljen i ne smije se pojaviti javno.",
+      "primaryCategory": "glavna-jela",
+      "tags": [],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "srednje",
+      "methods": [
+        "pirjanje"
+      ],
+      "diets": [],
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 20,
+        "cookMinutes": 120,
+        "totalMinutes": 140
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "junetina",
+              "amount": 800,
+              "unit": "g",
+              "label": "junetine"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 3,
+              "unit": "glavica",
+              "label": "crnog luka"
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "aleve paprike"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Draft korak."
+            }
+          ]
+        }
+      ],
+      "meals": [
+        "rucak"
+      ]
+    },
+    {
+      "slug": "pita-s-jabukama",
+      "title": "Pita s jabukama",
+      "alternativeNames": [
+        "jabukovača",
+        "savijača s jabukama"
+      ],
+      "summary": "Kore punjene naribanim jabukama, šećerom i cimetom — sezonski kolač za jesenje dane.",
+      "primaryCategory": "slatke-pite",
+      "tags": [
+        "jabuke",
+        "gotove-kore"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "pecenje"
+      ],
+      "diets": [
+        "vegetarijansko",
+        "bez-jaja"
+      ],
+      "yield": {
+        "servings": 10,
+        "unit": "komada",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 25,
+        "cookMinutes": 35,
+        "restMinutes": 20,
+        "restLabel": "hlađenja",
+        "totalMinutes": 80
+      },
+      "equipment": {
+        "panSize": "25 × 35 cm",
+        "temperature": 200,
+        "ovenMode": "gornji-donji"
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "kore-za-pitu",
+              "amount": 500,
+              "unit": "g",
+              "label": "kora za pitu"
+            },
+            {
+              "ingredient": "jabuke",
+              "amount": 1.5,
+              "unit": "kg",
+              "label": "jabuka",
+              "note": "oguljene i naribane"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 120,
+              "unit": "g",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "cimet",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "cimeta"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 100,
+              "unit": "ml",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "orasi",
+              "amount": 80,
+              "unit": "g",
+              "label": "mljevenih oraha",
+              "optional": true
+            },
+            {
+              "ingredient": "secer-u-prahu",
+              "unit": "po-potrebi",
+              "label": "šećer u prahu",
+              "optional": true,
+              "note": "za posipanje"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Naribane jabuke lagano iscijedite i pomiješajte sa šećerom, cimetom i orasima."
+            },
+            {
+              "text": "Svaku koru poprskajte uljem, rasporedite fil, zavijte u rolat i redajte u tepsiju."
+            },
+            {
+              "text": "Pecite na 200 °C dok rolati ne porumene.",
+              "timerMinutes": 35,
+              "timerLabel": "Pečenje"
+            },
+            {
+              "text": "Ohladite, pospite šećerom u prahu i režite na komade."
+            }
+          ]
+        }
+      ],
+      "storage": "Na sobnoj temperaturi do 2 dana, pokriveno.",
+      "relatedGuides": [
+        "kako-cuvati-jabuke",
+        "kako-raditi-s-korama-za-pitu"
+      ],
+      "facebook": {
+        "postedAt": "2026-10-13T16:00:00+02:00"
+      },
+      "meals": []
+    },
+    {
+      "slug": "pileca-prsa-u-sosu-od-pavlake",
+      "title": "Pileća prsa u sosu od pavlake",
+      "summary": "Sočna pileća prsa u kremastom sosu s bijelim lukom, gotova za manje od pola sata.",
+      "primaryCategory": "glavna-jela",
+      "tags": [
+        "brzo",
+        "piletina"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "przenje"
+      ],
+      "diets": [
+        "bez-glutena"
+      ],
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 15,
+        "totalMinutes": 25
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "pileca-prsa",
+              "amount": 600,
+              "unit": "g",
+              "label": "pilećih prsa",
+              "note": "na trake"
+            },
+            {
+              "ingredient": "slatka-pavlaka",
+              "amount": 200,
+              "unit": "ml",
+              "label": "slatke pavlake"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 2,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckan"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            },
+            {
+              "ingredient": "persun",
+              "unit": "po-potrebi",
+              "label": "peršun",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Piletinu posolite i pobiberite pa je pržite na zagrijanom ulju dok ne porumeni sa svih strana.",
+              "timerMinutes": 7,
+              "timerLabel": "Prženje piletine"
+            },
+            {
+              "text": "Dodajte bijeli luk i pržite pola minute, pa ulijte pavlaku."
+            },
+            {
+              "text": "Kuhajte na laganoj vatri dok se sos ne zgusne.",
+              "timerMinutes": 5,
+              "timerLabel": "Zgušnjavanje sosa"
+            },
+            {
+              "text": "Pospite peršunom i poslužite uz pire krompir ili tjesteninu."
+            }
+          ]
+        }
+      ],
+      "storage": "U frižideru do 2 dana.",
+      "relatedRecipes": [
+        "pire-krompir",
+        "tjestenina-s-paradajz-sosom"
+      ],
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "servedWith": [
+        "pire-krompir",
+        "sopska-salata"
+      ],
+      "leftovers": {
+        "text": "Preostalu piletinu isjecite na kockice i iskoristite u salati za ponijeti.",
+        "recipe": "salata-s-piletinom-i-tjesteninom"
+      }
+    },
+    {
+      "slug": "tjestenina-s-paradajz-sosom",
+      "title": "Tjestenina s paradajz sosom",
+      "alternativeNames": [
+        "pašta s paradajzom"
+      ],
+      "summary": "Jednostavan sos od paradajza i bijelog luka, gotov dok se kuha tjestenina.",
+      "primaryCategory": "glavna-jela",
+      "tags": [
+        "brzo"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "kuhanje"
+      ],
+      "diets": [
+        "posno",
+        "vegetarijansko",
+        "bez-mlijeka",
+        "bez-jaja"
+      ],
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 5,
+        "cookMinutes": 20,
+        "totalMinutes": 20
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "tjestenina",
+              "amount": 400,
+              "unit": "g",
+              "label": "tjestenine"
+            },
+            {
+              "ingredient": "paradajz-pire",
+              "amount": 500,
+              "unit": "g",
+              "label": "paradajz pirea"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 3,
+              "unit": "cesanj",
+              "label": "bijelog luka"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 3,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 1,
+              "unit": "prstohvat",
+              "label": "šećera",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Stavite vodu za tjesteninu da proključa i posolite je."
+            },
+            {
+              "text": "Na maslinovom ulju kratko propržite bijeli luk, dodajte paradajz pire i kuhajte na laganoj vatri.",
+              "timerMinutes": 15,
+              "timerLabel": "Kuhanje sosa"
+            },
+            {
+              "text": "Za to vrijeme skuhajte tjesteninu prema uputi na pakovanju, ocijedite je i pomiješajte sa sosom."
+            }
+          ]
+        }
+      ],
+      "storage": "U frižideru do 2 dana.",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "servedWith": [
+        "sopska-salata"
+      ]
+    },
+    {
+      "tags": [
+        "brzo",
+        "jaja"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "diets": [
+        "vegetarijansko",
+        "bez-glutena"
+      ],
+      "methods": [
+        "przenje"
+      ],
+      "tips": [],
+      "substitutions": [],
+      "faq": [],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [],
+      "leftovers": {},
+      "seo": {},
+      "facebook": {},
+      "slug": "kajgana-s-povrcem",
+      "title": "Kajgana s povrćem",
+      "alternativeNames": [
+        "kajgana s paprikom",
+        "jaja s povrćem"
+      ],
+      "summary": "Mekana kajgana s paprikom i paradajzom, gotova za petnaest minuta.",
+      "primaryCategory": "glavna-jela",
+      "difficulty": "lako",
+      "meals": [
+        "dorucak",
+        "vecera"
+      ],
+      "yield": {
+        "servings": 2,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 5,
+        "cookMinutes": 10,
+        "totalMinutes": 15
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "jaja",
+              "amount": 4,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "paprika",
+              "amount": 1,
+              "unit": "kom",
+              "label": "paprika",
+              "note": "na kockice"
+            },
+            {
+              "ingredient": "paradajz",
+              "amount": 1,
+              "unit": "kom",
+              "label": "paradajz",
+              "note": "na kockice"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 0.5,
+              "unit": "glavica",
+              "label": "crnog luka"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            },
+            {
+              "ingredient": "bijeli-sir",
+              "amount": 50,
+              "unit": "g",
+              "label": "bijelog sira",
+              "optional": true,
+              "note": "izmrvljen"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Na ulju propirjajte luk i papriku dok ne omekšaju.",
+              "timerMinutes": 5,
+              "timerLabel": "Pirjanje povrća"
+            },
+            {
+              "text": "Dodajte paradajz i kuhajte minutu-dvije dok ne pusti sok."
+            },
+            {
+              "text": "Umutite jaja sa solju i biberom, prelijte preko povrća i lagano miješajte na srednjoj vatri dok se ne stegnu, ali ostanu mekana. Po želji pospite sirom."
+            }
+          ]
+        }
+      ],
+      "storage": "Najbolja je odmah."
+    },
+    {
+      "tags": [
+        "brzo",
+        "jabuke"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "diets": [
+        "vegetarijansko",
+        "bez-jaja"
+      ],
+      "methods": [
+        "kuhanje"
+      ],
+      "tips": [],
+      "substitutions": [],
+      "faq": [],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [],
+      "leftovers": {},
+      "seo": {},
+      "facebook": {},
+      "slug": "ovsena-kasa-s-jabukom",
+      "title": "Ovsena kaša s jabukom i cimetom",
+      "alternativeNames": [
+        "zobena kaša"
+      ],
+      "summary": "Topla kaša od ovsenih pahuljica i mlijeka s naribanom jabukom i cimetom.",
+      "primaryCategory": "slatki-recepti",
+      "difficulty": "lako",
+      "meals": [
+        "dorucak"
+      ],
+      "yield": {
+        "servings": 1,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 3,
+        "cookMinutes": 7,
+        "totalMinutes": 10
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "ovsene-pahuljice",
+              "amount": 50,
+              "unit": "g",
+              "label": "ovsenih pahuljica"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 250,
+              "unit": "ml",
+              "label": "mlijeka"
+            },
+            {
+              "ingredient": "jabuke",
+              "amount": 0.5,
+              "unit": "kom",
+              "label": "jabuke",
+              "note": "naribane"
+            },
+            {
+              "ingredient": "cimet",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "cimeta"
+            },
+            {
+              "ingredient": "med",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "meda",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Pahuljice i mlijeko stavite u manju šerpu i kuhajte na laganoj vatri uz miješanje dok se ne zgusne.",
+              "timerMinutes": 5,
+              "timerLabel": "Kuhanje kaše"
+            },
+            {
+              "text": "Umiješajte jabuku i cimet, pa poslužite s medom po želji."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tags": [],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "diets": [
+        "vegetarijansko"
+      ],
+      "methods": [
+        "przenje"
+      ],
+      "tips": [],
+      "substitutions": [],
+      "faq": [],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [],
+      "leftovers": {},
+      "seo": {},
+      "facebook": {
+        "postedAt": "2026-10-11T08:00:00+02:00"
+      },
+      "slug": "ustipci",
+      "title": "Domaći uštipci",
+      "alternativeNames": [
+        "priganice"
+      ],
+      "summary": "Mekani uštipci od tijesta s jogurtom, prženi na ulju — uz sir, kajmak ili pekmez.",
+      "primaryCategory": "pite-i-peciva",
+      "difficulty": "lako",
+      "meals": [
+        "dorucak",
+        "vecera"
+      ],
+      "yield": {
+        "servings": 20,
+        "unit": "komada",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 20,
+        "totalMinutes": 30
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 300,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "jogurt",
+              "amount": 250,
+              "unit": "ml",
+              "label": "jogurta"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 1,
+              "unit": "bez",
+              "label": "jaje"
+            },
+            {
+              "ingredient": "prasak-za-pecivo",
+              "amount": 1,
+              "unit": "kesica",
+              "label": "praška za pecivo"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "soli"
+            },
+            {
+              "ingredient": "ulje",
+              "unit": "po-potrebi",
+              "label": "ulje",
+              "note": "za prženje"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Izmiješajte jogurt, jaje i so, pa dodajte brašno pomiješano s praškom za pecivo. Tijesto treba biti gusto i ljepljivo."
+            },
+            {
+              "text": "Kašikom umočenom u ulje vadite tijesto i pržite uštipke u vrelom ulju dok ne porumene sa svih strana.",
+              "timerMinutes": 4,
+              "timerLabel": "Prženje jedne ture"
+            },
+            {
+              "text": "Ocijedite na papirnom ubrusu i poslužite tople."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tags": [
+        "nedjeljni-rucak",
+        "grah"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "diets": [
+        "bez-mlijeka",
+        "bez-jaja"
+      ],
+      "methods": [
+        "kuhanje"
+      ],
+      "tips": [
+        "Grah se zgusne stajanjem; pri podgrijavanju dodajte malo vode."
+      ],
+      "substitutions": [],
+      "faq": [],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [
+        "sopska-salata"
+      ],
+      "leftovers": {
+        "text": "Grah je sutradan gušći i ukusniji — pripremite ga dan ranije za lakši ručak."
+      },
+      "seo": {},
+      "facebook": {},
+      "slug": "grah-sa-suhim-mesom",
+      "title": "Grah sa suhim mesom",
+      "alternativeNames": [
+        "pasulj sa suhim mesom"
+      ],
+      "summary": "Gust domaći grah sa suhim mesom, kuhan polako u jednoj šerpi. Sutradan je još bolji.",
+      "primaryCategory": "glavna-jela",
+      "difficulty": "srednje",
+      "meals": [
+        "rucak"
+      ],
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 20,
+        "cookMinutes": 120,
+        "restMinutes": 480,
+        "restLabel": "namakanja graha",
+        "totalMinutes": 620
+      },
+      "beforeYouStart": "Grah potopite u hladnu vodu večer ranije.",
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "grah",
+              "amount": 500,
+              "unit": "g",
+              "label": "graha"
+            },
+            {
+              "ingredient": "suho-meso",
+              "amount": 300,
+              "unit": "g",
+              "label": "suhog mesa",
+              "note": "na kockice"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 2,
+              "unit": "glavica",
+              "label": "crnog luka"
+            },
+            {
+              "ingredient": "mrkva",
+              "amount": 1,
+              "unit": "kom",
+              "label": "mrkva"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 3,
+              "unit": "kasika",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "brasno",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "brašna"
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "aleve paprike"
+            },
+            {
+              "ingredient": "lovor",
+              "amount": 2,
+              "unit": "list",
+              "label": "lovorova lista"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Ocijedite namočeni grah, nalijte svježom vodom, dodajte lovor i suho meso i kuhajte na laganoj vatri dok grah ne omekša.",
+              "timerMinutes": 90,
+              "timerLabel": "Kuhanje graha"
+            },
+            {
+              "text": "Na ulju propirjajte luk i naribanu mrkvu, dodajte brašno i alevu papriku, kratko promiješajte i dodajte u grah."
+            },
+            {
+              "text": "Kuhajte još dvadesetak minuta da se zgusne, pa posolite po ukusu.",
+              "timerMinutes": 20,
+              "timerLabel": "Zgušnjavanje"
+            }
+          ]
+        }
+      ],
+      "storage": "U frižideru do 3 dana; može se zamrznuti."
+    },
+    {
+      "tags": [
+        "nedjeljni-rucak",
+        "krompir",
+        "piletina"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "diets": [
+        "bez-glutena",
+        "bez-mlijeka",
+        "bez-jaja"
+      ],
+      "methods": [
+        "pecenje"
+      ],
+      "tips": [],
+      "substitutions": [],
+      "faq": [],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [
+        "sopska-salata"
+      ],
+      "leftovers": {},
+      "seo": {},
+      "facebook": {
+        "postedAt": "2026-10-09T13:00:00+02:00"
+      },
+      "slug": "pileci-batak-s-krompirom-u-rerni",
+      "title": "Pileći batak s krompirom u rerni",
+      "summary": "Batak i krompir začinjeni bijelim lukom i paprikom, pečeni zajedno u jednoj tepsiji.",
+      "primaryCategory": "glavna-jela",
+      "difficulty": "lako",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "cookMinutes": 60,
+        "totalMinutes": 75
+      },
+      "equipment": {
+        "panSize": "tepsija 30 × 40 cm",
+        "temperature": 200,
+        "ovenMode": "ventilator"
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "pileci-batak",
+              "amount": 1,
+              "unit": "kg",
+              "label": "pilećeg bataka i karabataka"
+            },
+            {
+              "ingredient": "krompir",
+              "amount": 1,
+              "unit": "kg",
+              "label": "krompira",
+              "note": "na kriške"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 4,
+              "unit": "kasika",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 3,
+              "unit": "cesanj",
+              "label": "bijelog luka"
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "aleve paprike"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Krompir i piletinu pomiješajte s uljem, sjeckanim bijelim lukom, paprikom, solju i biberom."
+            },
+            {
+              "text": "Rasporedite u tepsiju u jednom sloju, piletinu kožom prema gore."
+            },
+            {
+              "text": "Pecite na 200 °C dok piletina ne porumeni, a krompir omekša.",
+              "timerMinutes": 60,
+              "timerLabel": "Pečenje"
+            }
+          ]
+        }
+      ],
+      "storage": "U frižideru do 2 dana."
+    },
+    {
+      "tags": [
+        "riza"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "diets": [
+        "posno",
+        "vegetarijansko",
+        "bez-glutena",
+        "bez-mlijeka",
+        "bez-jaja"
+      ],
+      "methods": [
+        "kuhanje"
+      ],
+      "tips": [],
+      "substitutions": [],
+      "faq": [],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [],
+      "leftovers": {},
+      "seo": {},
+      "facebook": {},
+      "slug": "rizoto-s-povrcem",
+      "title": "Rižoto s povrćem",
+      "summary": "Riža kuhana s tikvicom, mrkvom i paprikom u jednoj šerpi — posno i zasitno.",
+      "primaryCategory": "glavna-jela",
+      "difficulty": "lako",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 25,
+        "totalMinutes": 35
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "riza",
+              "amount": 300,
+              "unit": "g",
+              "label": "riže"
+            },
+            {
+              "ingredient": "tikvica",
+              "amount": 1,
+              "unit": "kom",
+              "label": "tikvica"
+            },
+            {
+              "ingredient": "mrkva",
+              "amount": 1,
+              "unit": "kom",
+              "label": "mrkva"
+            },
+            {
+              "ingredient": "paprika",
+              "amount": 1,
+              "unit": "kom",
+              "label": "paprika"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "crnog luka"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 3,
+              "unit": "kasika",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 900,
+              "unit": "ml",
+              "label": "vode",
+              "note": "vruće"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Na ulju propirjajte luk, mrkvu i papriku.",
+              "timerMinutes": 5,
+              "timerLabel": "Pirjanje"
+            },
+            {
+              "text": "Dodajte rižu i tikvicu, promiješajte, pa postepeno dolijevajte vruću vodu uz povremeno miješanje."
+            },
+            {
+              "text": "Kuhajte dok riža ne omekša i upije tečnost, pa posolite.",
+              "timerMinutes": 18,
+              "timerLabel": "Kuhanje riže"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tags": [
+        "piletina"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "diets": [],
+      "methods": [
+        "kuhanje"
+      ],
+      "tips": [],
+      "substitutions": [],
+      "faq": [],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [],
+      "leftovers": {},
+      "seo": {},
+      "facebook": {},
+      "slug": "salata-s-piletinom-i-tjesteninom",
+      "title": "Salata s piletinom i tjesteninom",
+      "alternativeNames": [
+        "pileća salata za ponijeti"
+      ],
+      "summary": "Hladna salata od tjestenine, piletine i povrća s jogurtom — praktična za posao ili put.",
+      "primaryCategory": "salate",
+      "difficulty": "lako",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "yield": {
+        "servings": 3,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "cookMinutes": 15,
+        "restMinutes": 30,
+        "restLabel": "hlađenja",
+        "totalMinutes": 60
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "tjestenina",
+              "amount": 250,
+              "unit": "g",
+              "label": "kratke tjestenine"
+            },
+            {
+              "ingredient": "pileca-prsa",
+              "amount": 300,
+              "unit": "g",
+              "label": "pilećih prsa",
+              "note": "kuhanih ili pečenih"
+            },
+            {
+              "ingredient": "krastavac",
+              "amount": 1,
+              "unit": "kom",
+              "label": "krastavac"
+            },
+            {
+              "ingredient": "paradajz",
+              "amount": 2,
+              "unit": "kom",
+              "label": "paradajza"
+            },
+            {
+              "ingredient": "jogurt",
+              "amount": 150,
+              "unit": "g",
+              "label": "gustog jogurta"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Skuhajte tjesteninu, isperite je hladnom vodom i ocijedite.",
+              "timerMinutes": 10,
+              "timerLabel": "Kuhanje tjestenine"
+            },
+            {
+              "text": "Piletinu i povrće isjecite na kockice i pomiješajte s tjesteninom i jogurtom. Posolite."
+            },
+            {
+              "text": "Ohladite u frižideru prije pakovanja u posude za ponijeti.",
+              "timerMinutes": 30,
+              "timerLabel": "Hlađenje"
+            }
+          ]
+        }
+      ],
+      "storage": "U zatvorenoj posudi u frižideru do 2 dana."
+    },
+    {
+      "tags": [
+        "krompir"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "diets": [
+        "vegetarijansko",
+        "bez-glutena"
+      ],
+      "methods": [
+        "przenje"
+      ],
+      "tips": [],
+      "substitutions": [],
+      "faq": [],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [],
+      "leftovers": {},
+      "seo": {},
+      "facebook": {},
+      "slug": "tortilja-s-krompirom",
+      "title": "Tortilja s krompirom",
+      "alternativeNames": [
+        "španski omlet",
+        "omlet s krompirom"
+      ],
+      "summary": "Debeli omlet od jaja i krompira, ukusan topao i hladan — dobar i za ponijeti.",
+      "primaryCategory": "glavna-jela",
+      "difficulty": "srednje",
+      "meals": [
+        "dorucak",
+        "vecera"
+      ],
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "cookMinutes": 30,
+        "totalMinutes": 45
+      },
+      "equipment": {
+        "panSize": "tava Ø 24 cm"
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "jaja",
+              "amount": 6,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "krompir",
+              "amount": 500,
+              "unit": "g",
+              "label": "krompira",
+              "note": "na tanke kriške"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "crnog luka"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 100,
+              "unit": "ml",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Krompir i luk lagano pržite na ulju dok krompir ne omekša, ali ne porumeni.",
+              "timerMinutes": 15,
+              "timerLabel": "Prženje krompira"
+            },
+            {
+              "text": "Ocijedite višak ulja i pomiješajte krompir s umućenim i posoljenim jajima."
+            },
+            {
+              "text": "Vratite smjesu u tavu i pecite na laganoj vatri dok se donja strana ne stegne. Okrenite pomoću tanjira i pecite još nekoliko minuta.",
+              "timerMinutes": 10,
+              "timerLabel": "Pečenje tortilje"
+            }
+          ]
+        }
+      ],
+      "storage": "U frižideru do 2 dana; može se jesti hladna."
+    },
+    {
+      "tags": [
+        "jabuke",
+        "orasi"
+      ],
+      "authors": [
+        "demo-urednistvo"
+      ],
+      "diets": [
+        "vegetarijansko",
+        "bez-glutena",
+        "bez-jaja"
+      ],
+      "methods": [
+        "pecenje"
+      ],
+      "tips": [],
+      "substitutions": [],
+      "faq": [],
+      "relatedRecipes": [],
+      "relatedGuides": [
+        "kako-cuvati-jabuke"
+      ],
+      "servedWith": [],
+      "leftovers": {},
+      "seo": {},
+      "facebook": {},
+      "slug": "pecene-jabuke-s-orasima",
+      "title": "Pečene jabuke s orasima",
+      "summary": "Jabuke punjene orasima, šećerom i cimetom, pečene dok ne omekšaju.",
+      "primaryCategory": "slatki-recepti",
+      "difficulty": "lako",
+      "meals": [],
+      "yield": {
+        "servings": 4,
+        "unit": "komada",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 30,
+        "totalMinutes": 40
+      },
+      "equipment": {
+        "temperature": 180,
+        "ovenMode": "gornji-donji"
+      },
+      "ingredientGroups": [
+        {
+          "items": [
+            {
+              "ingredient": "jabuke",
+              "amount": 4,
+              "unit": "kom",
+              "label": "jabuke"
+            },
+            {
+              "ingredient": "orasi",
+              "amount": 60,
+              "unit": "g",
+              "label": "mljevenih oraha"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "cimet",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "cimeta"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 20,
+              "unit": "g",
+              "label": "maslaca",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            {
+              "text": "Jabukama izdubite sjemenke, a otvor napunite orasima pomiješanim sa šećerom i cimetom."
+            },
+            {
+              "text": "Stavite po komadić maslaca na vrh i pecite na 180 °C dok ne omekšaju.",
+              "timerMinutes": 30,
+              "timerLabel": "Pečenje"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

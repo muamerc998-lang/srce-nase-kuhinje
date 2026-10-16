@@ -1,0 +1,17 @@
+# Alternativa za `npm run db` (ugrađeni PostgreSQL) kad je Docker dostupan.
+# Pokretanje: docker compose up -d   →   DATABASE_URL kao u .env.example (port 5433).
+services:
+  postgres:
+    image: postgres:17
+    restart: unless-stopped
+    ports:
+      - '127.0.0.1:5433:5432'
+    environment:
+      POSTGRES_USER: snk
+      POSTGRES_PASSWORD: snk_local_dev
+      POSTGRES_DB: srce_nase_kuhinje
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:

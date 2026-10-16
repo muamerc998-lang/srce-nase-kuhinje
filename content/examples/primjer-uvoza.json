@@ -1,0 +1,57 @@
+{
+  "format": "srce-nase-kuhinje/v1",
+  "ingredients": [
+    {
+      "slug": "kukuruzno-brasno",
+      "name": "kukuruzno brašno",
+      "synonyms": ["palenta brašno"],
+      "publicPage": false
+    }
+  ],
+  "recipes": [
+    {
+      "slug": "primjer-proja",
+      "title": "Proja (PRIMJER FORMATA)",
+      "alternativeNames": ["kukuruzna pogača"],
+      "summary": "Primjer strukture zapisa za uvoz — nije stvarni recept za objavu.",
+      "primaryCategory": "pite-i-peciva",
+      "tags": [],
+      "authors": ["demo-urednistvo"],
+      "difficulty": "lako",
+      "methods": ["pecenje"],
+      "diets": ["vegetarijansko"],
+      "yield": { "servings": 8, "unit": "komada", "scalable": true },
+      "times": { "prepMinutes": 10, "cookMinutes": 35, "totalMinutes": 45 },
+      "equipment": { "panSize": "20 × 30 cm", "temperature": 200, "ovenMode": "gornji-donji" },
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            { "ingredient": "kukuruzno-brasno", "amount": 300, "unit": "g", "label": "kukuruznog brašna" },
+            { "ingredient": "jaja", "amount": 2, "unit": "bez", "label": "jaja" },
+            { "ingredient": "jogurt", "amount": 250, "amountMax": 300, "unit": "ml", "label": "jogurta" },
+            { "ingredient": "so", "unit": "po-ukusu", "label": "so" },
+            { "ingredient": "maslac", "amount": 50, "unit": "g", "label": "maslaca", "altGroup": "mast" },
+            { "ingredient": "ulje", "amount": 50, "unit": "ml", "label": "ulja", "altGroup": "mast" }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "steps": [
+            { "text": "Izmiješajte sve sastojke u glatku smjesu." },
+            { "text": "Pecite u nauljenom kalupu.", "timerMinutes": 35, "timerLabel": "Pečenje" }
+          ]
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "seo": {},
+      "facebook": {}
+    }
+  ]
+}
