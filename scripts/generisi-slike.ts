@@ -11,7 +11,9 @@ import sharp from 'sharp'
 
 dotenv.config({ path: '.env.local' })
 
-const MODEL = 'gpt-image-2'
+// Jeftiniji model i srednji kvalitet (oko 10× jeftinije od gpt-image-2 / high). Mijenja se preko .env.local.
+const MODEL = process.env.OPENAI_IMAGE_MODEL || 'gpt-image-1-mini'
+const QUALITY = process.env.OPENAI_IMAGE_QUALITY || 'medium'
 const OUT = 'content/recepti/slike'
 
 const prompt = (dish: string) =>
@@ -32,7 +34,7 @@ async function main() {
     const res = await fetch('https://api.openai.com/v1/images/generations', {
       method: 'POST',
       headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
-      body: JSON.stringify({ model: MODEL, prompt: prompt(it.dish), size: '1536x1024', quality: 'high', n: 1 }),
+      body: JSON.stringify({ model: MODEL, prompt: prompt(it.dish), size: '1536x1024', quality: QUALITY, n: 1 }),
     })
     const json = (await res.json()) as { data?: { b64_json?: string }[]; error?: { message: string } }
     if (!res.ok || !json.data?.[0]?.b64_json) {
