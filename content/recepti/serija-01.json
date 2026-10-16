@@ -1,0 +1,1397 @@
+{
+  "format": "srce-nase-kuhinje/v1",
+  "ingredients": [
+    {
+      "slug": "jaja",
+      "name": "jaja",
+      "synonyms": [
+        "jaje"
+      ],
+      "publicPage": true,
+      "roundingHint": "Za pola jajeta umutite jedno jaje i odvojite polovinu (oko 25 g).",
+      "description": "DEMO: Jaja vežu, rahle i daju boju. Veličina jajeta utiče na rezultat u kolačima.",
+      "storage": "DEMO: Čuvati u frižideru, u originalnom pakovanju.",
+      "selection": "DEMO: Za tijesta je najbolje koristiti jaja sobne temperature.",
+      "foodGroup": "jaja"
+    },
+    {
+      "slug": "kakao",
+      "name": "kakao",
+      "synonyms": [
+        "kakao prah"
+      ]
+    },
+    {
+      "slug": "so",
+      "name": "so",
+      "synonyms": [
+        "sol"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "prasak-za-pecivo",
+      "name": "prašak za pecivo",
+      "synonyms": [
+        "prašak za kolače"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "maslac",
+      "name": "maslac",
+      "synonyms": [
+        "puter"
+      ],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "secer",
+      "name": "šećer",
+      "synonyms": [
+        "kristal šećer"
+      ]
+    },
+    {
+      "slug": "brasno",
+      "name": "brašno",
+      "synonyms": [
+        "pšenično brašno"
+      ],
+      "publicPage": true,
+      "description": "DEMO: Pšenično brašno je osnova tijesta, peciva i pita. U receptima se navodi vrsta kad je bitna.",
+      "selection": "DEMO: Za kolače i palačinke koristi se glatko brašno, a za tijesto koje treba više strukture oštro.",
+      "storage": "DEMO: Čuvati u zatvorenoj posudi na suhom i hladnom mjestu.",
+      "substitutes": "DEMO: Glatko i oštro brašno mogu se zamijeniti uz manju razliku u teksturi. Bademovo brašno nije zamjena 1:1.",
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "glatko-brasno",
+      "name": "glatko brašno",
+      "synonyms": [
+        "tip 400"
+      ],
+      "broader": "brasno",
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "mlijeko",
+      "name": "mlijeko",
+      "synonyms": [
+        "mleko",
+        "kravlje mlijeko"
+      ],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "bijeli-luk",
+      "name": "bijeli luk",
+      "synonyms": [
+        "češnjak",
+        "beli luk"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "mrkva",
+      "name": "mrkva",
+      "synonyms": [
+        "šargarepa"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "crni-luk",
+      "name": "crni luk",
+      "synonyms": [
+        "luk",
+        "kapula"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "lovor",
+      "name": "lovorov list",
+      "synonyms": [
+        "lovor"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "voda",
+      "name": "voda",
+      "synonyms": []
+    },
+    {
+      "slug": "ulje",
+      "name": "ulje",
+      "synonyms": [
+        "biljno ulje",
+        "suncokretovo ulje"
+      ]
+    },
+    {
+      "slug": "maslinovo-ulje",
+      "name": "maslinovo ulje",
+      "synonyms": [],
+      "broader": "ulje"
+    },
+    {
+      "slug": "piletina",
+      "name": "piletina",
+      "synonyms": [
+        "pileće meso"
+      ],
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "tjestenina",
+      "name": "tjestenina",
+      "synonyms": [
+        "pašta",
+        "makaroni"
+      ],
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "rezanci-za-supu",
+      "name": "rezanci za supu",
+      "synonyms": [
+        "fide"
+      ],
+      "broader": "tjestenina",
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "biber",
+      "name": "biber",
+      "synonyms": [
+        "papar",
+        "crni biber"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "persun",
+      "name": "peršun",
+      "synonyms": [
+        "peršin"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "limun",
+      "name": "limun",
+      "synonyms": [],
+      "foodGroup": "voce"
+    },
+    {
+      "slug": "med",
+      "name": "med",
+      "synonyms": [],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "aleva-paprika",
+      "name": "aleva paprika",
+      "synonyms": [
+        "mljevena paprika",
+        "slatka paprika"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "krompir",
+      "name": "krompir",
+      "synonyms": [
+        "krumpir",
+        "krompiri"
+      ],
+      "publicPage": true,
+      "description": "DEMO: Krompir je osnova priloga, musake i čorbi.",
+      "selection": "DEMO: Za pire su bolje brašnjave sorte, a za musaku i salate čvršće.",
+      "storage": "DEMO: Čuvati na tamnom, hladnom i prozračnom mjestu, odvojeno od crnog luka.",
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "paradajz",
+      "name": "paradajz",
+      "synonyms": [
+        "rajčica",
+        "pomidor"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "ekstrakt-vanilije",
+      "name": "ekstrakt vanilije",
+      "synonyms": [
+        "ekstrakt vanile"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "cokoladne-kapljice",
+      "name": "čokoladne kapljice",
+      "synonyms": [
+        "komadići čokolade",
+        "čokoladni komadići"
+      ],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "pile",
+      "name": "cijelo pile",
+      "synonyms": [
+        "pile",
+        "cijela piletina"
+      ],
+      "broader": "piletina",
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "celer-stabljika",
+      "name": "celer (stabljika)",
+      "synonyms": [
+        "rebrasti celer",
+        "stabljični celer",
+        "celer stabljika"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "biber-u-zrnu",
+      "name": "biber u zrnu",
+      "synonyms": [
+        "crni biber u zrnu"
+      ],
+      "broader": "biber",
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "majcina-dusica",
+      "name": "majčina dušica",
+      "synonyms": [
+        "timijan"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "zacin-za-supu",
+      "name": "začin za supu",
+      "synonyms": [
+        "vegeta",
+        "supa u kocki",
+        "kocka za supu"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "pileci-temeljac",
+      "name": "pileći temeljac",
+      "synonyms": [
+        "pileći bujon"
+      ],
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "crveni-luk",
+      "name": "crveni luk",
+      "synonyms": [
+        "ljubičasti luk"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "cherry-paradajz",
+      "name": "cherry paradajz",
+      "synonyms": [
+        "čeri paradajz",
+        "mali paradajz"
+      ],
+      "broader": "paradajz",
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "origano",
+      "name": "origano",
+      "synonyms": [
+        "vranilova trava"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "senf",
+      "name": "senf",
+      "synonyms": [
+        "dijon senf",
+        "gorušica"
+      ],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "vlasac",
+      "name": "vlasac",
+      "synonyms": [],
+      "foodGroup": "zacini"
+    }
+  ],
+  "recipes": [
+    {
+      "planId": "SNK-0015",
+      "family": "Brownie",
+      "slug": "brownie",
+      "title": "Brownie s kakaom i komadićima čokolade",
+      "alternativeNames": [
+        "čokoladni brownie",
+        "brownie kolač",
+        "fudge brownie"
+      ],
+      "summary": "Brownie s kakaom i komadićima čokolade, vlažne sredine i tanke sjajne korice. Smjesa se miješa u jednoj posudi i peče oko pola sata u tepsiji 23 × 33 cm.",
+      "beforeYouStart": "Sjajna korica nastaje kad se šećer djelimično otopi u toplom maslacu: smjesu maslaca i šećera zagrijte samo dok ne postane vruća i sjajna, ali ne smije proključati. Ako tepsiju oblažete papirom za pečenje, namastite i papir.",
+      "primaryCategory": "kolaci",
+      "tags": [
+        "cokolada",
+        "kakao",
+        "maslac"
+      ],
+      "authors": [
+        "amra-hodzic"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "pecenje"
+      ],
+      "diets": [
+        "vegetarijansko"
+      ],
+      "meals": [],
+      "yield": {
+        "servings": 24,
+        "unit": "komada",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 12,
+        "cookMinutes": 32,
+        "totalMinutes": 44
+      },
+      "equipment": {
+        "panSize": "23 × 33 cm",
+        "temperature": 175,
+        "other": "mikser ili pjenjača, rešetka za hlađenje"
+      },
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "jaja",
+              "amount": 4,
+              "unit": "bez",
+              "label": "jaja",
+              "note": "velika"
+            },
+            {
+              "ingredient": "kakao",
+              "amount": 106,
+              "unit": "g",
+              "label": "kakaa",
+              "note": "holandskog (alkaliziranog)"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "soli"
+            },
+            {
+              "ingredient": "prasak-za-pecivo",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "praška za pecivo"
+            },
+            {
+              "ingredient": "ekstrakt-vanilije",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "ekstrakta vanilije"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 227,
+              "unit": "g",
+              "label": "neslanog maslaca"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 447,
+              "unit": "g",
+              "label": "kristal šećera"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 180,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "cokoladne-kapljice",
+              "amount": 340,
+              "unit": "g",
+              "label": "čokoladnih kapljica"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Zagrijte rernu na 175 °C i lagano namastite tepsiju 23 × 33 cm."
+            },
+            {
+              "text": "U većoj posudi mikserom na srednjoj brzini oko 1 minutu mutite jaja, kakao, so, prašak za pecivo i ekstrakt vanilije, dok ne dobijete gustu i uglavnom glatku smjesu."
+            },
+            {
+              "text": "Maslac otopite u šerpici na laganoj vatri."
+            },
+            {
+              "text": "Umiješajte šećer u maslac i kratko grijte uz miješanje, dok smjesa ne postane vruća i sjajna (43–49 °C). Ne smije proključati."
+            },
+            {
+              "text": "Vruću smjesu maslaca i šećera ulijte u smjesu s kakaom i miješajte dok se ne sjedini."
+            },
+            {
+              "text": "Dodajte brašno i čokoladne kapljice i miješajte dok ne nestanu tragovi brašna. Ostružite dno i stranice posude da ništa ne ostane nesjedinjeno."
+            },
+            {
+              "text": "Izlijte smjesu u tepsiju i poravnajte površinu."
+            },
+            {
+              "text": "Pecite 28–32 minute. Brownie je gotov kad su rubovi stegnuti, a čačkalica iz sredine izađe s vlažnim mrvicama, ali bez tečne smjese.",
+              "timerMinutes": 30,
+              "timerLabel": "Pečenje browniea"
+            },
+            {
+              "text": "Ostavite brownie da se ohladi u tepsiji na rešetki, pa ga tek onda režite."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Ne pecite do potpuno suhe sredine: ako čačkalica izađe čista, brownie je već prepečen i biće suh. Malo udubljenje u sredini je normalno za ovaj recept.",
+        "Kakao, šećer i brašno mjerite vagom. Količine su u izvoru date u gramima, a mjerenje šoljama kod kakaa lako odstupi.",
+        "Za uredne komade režite potpuno ohlađen brownie oštrim nožem koji obrišete između rezova."
+      ],
+      "substitutions": [
+        "Prirodni kakao umjesto holandskog može se koristiti, ali brownie će biti blago kiselkastog okusa i gušće teksture.",
+        "Izvor po želji dodaje 1 kašičicu instant espresso praha za izraženiji okus čokolade. U ovoj osnovnoj verziji ga nema."
+      ],
+      "storage": "Dobro umotan brownie čuva se na sobnoj temperaturi 5–6 dana. Za duže čuvanje zamrznite ga.",
+      "faq": [
+        {
+          "question": "Zašto je brownie u sredini malo upao?",
+          "answer": "Kod browniea s vlažnom sredinom lagano udubljenje je očekivano i ne znači da nije uspio. Pri rezanju jednostavno režite oko njega."
+        }
+      ],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [],
+      "seo": {
+        "title": "Brownie recept s kakaom i komadićima čokolade",
+        "description": "Brownie s kakaom i komadićima čokolade: vlažna sredina, sjajna korica, jedna posuda i oko 30 minuta pečenja u tepsiji 23 × 33 cm. Recept korak po korak."
+      },
+      "facebook": {},
+      "sourceNote": "King Arthur Baking – Fudge Brownies: https://www.kingarthurbaking.com/recipes/fudge-brownies-recipe. Odabrana verzija: fudgy brownie s holandskim kakaom i komadićima čokolade, bez opcionalnog espresso praha (prema planu SNK-0015). 350 °F preračunato u 175 °C; 110–120 °F u 43–49 °C. NEDOSTAJE: vrijeme hlađenja prije rezanja (izvor kaže samo da se ohladi) i način rada rerne (izvor ga ne navodi)."
+    },
+    {
+      "planId": "SNK-0004",
+      "family": "Palačinke",
+      "slug": "palacinke",
+      "title": "Palačinke",
+      "alternativeNames": [
+        "tanke palačinke",
+        "francuske palačinke",
+        "palačinke recept",
+        "crêpes"
+      ],
+      "summary": "Tanke palačinke od brašna, mlijeka, jaja i otopljenog maslaca. Tijesto odstoji sat vremena, pa su palačinke mekane i lako se savijaju, i za slatki i za slani nadjev.",
+      "beforeYouStart": "Tijesto napravite najmanje sat prije pečenja i ostavite ga pokriveno na sobnoj temperaturi. Za ovu količinu treba tava promjera oko 25 cm.",
+      "primaryCategory": "palacinke",
+      "tags": [
+        "jaja",
+        "mlijeko",
+        "maslac"
+      ],
+      "authors": [
+        "amra-hodzic"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "przenje"
+      ],
+      "diets": [
+        "vegetarijansko"
+      ],
+      "meals": [
+        "dorucak"
+      ],
+      "yield": {
+        "servings": 12,
+        "unit": "palačinki",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 45,
+        "restMinutes": 60,
+        "restLabel": "odmaranja tijesta",
+        "totalMinutes": 105
+      },
+      "equipment": {
+        "panSize": "tava promjera 25 cm",
+        "other": "pjenjača ili štapni mikser, papirni ubrus"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Tijesto",
+          "items": [
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 240,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.5,
+              "amountMax": 0.75,
+              "unit": "kasicica",
+              "label": "soli",
+              "note": "po ukusu"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 340,
+              "unit": "g",
+              "label": "mlijeka",
+              "note": "oko 330 ml"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 4,
+              "unit": "bez",
+              "label": "jaja",
+              "note": "velika"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 57,
+              "unit": "g",
+              "label": "maslaca",
+              "note": "otopljenog"
+            }
+          ]
+        },
+        {
+          "title": "Za pečenje",
+          "items": [
+            {
+              "ingredient": "maslac",
+              "unit": "po-potrebi",
+              "label": "maslaca za podmazivanje tave"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Tijesto",
+          "steps": [
+            {
+              "text": "U većoj posudi pomiješajte brašno i so."
+            },
+            {
+              "text": "U manjoj posudi izmutite mlijeko i jaja."
+            },
+            {
+              "text": "U sredini brašna napravite udubljenje, ulijte otprilike polovinu tečne smjese i miješajte dok se ne sjedini."
+            },
+            {
+              "text": "Dodajte ostatak tečne smjese i miješajte dok tijesto ne bude glatko. Za još nježnije palačinke tijesto možete kratko izmiksati štapnim mikserom."
+            },
+            {
+              "text": "Umiješajte otopljeni maslac."
+            },
+            {
+              "text": "Pokrijte posudu i ostavite tijesto da odstoji najmanje 1 sat na sobnoj temperaturi.",
+              "timerMinutes": 60,
+              "timerLabel": "Odmaranje tijesta"
+            }
+          ]
+        },
+        {
+          "title": "Pečenje",
+          "steps": [
+            {
+              "text": "Zagrijte tavu na srednje jakoj vatri i papirnim ubrusom premažite dno s malo maslaca."
+            },
+            {
+              "text": "Ulijte nešto manje od 80 ml tijesta i odmah zakrenite tavu ukrug, da tijesto prekrije cijelo dno."
+            },
+            {
+              "text": "Pecite dok donja strana ne počne rumeniti i dok se lopatica ne podvuče lako ispod palačinke."
+            },
+            {
+              "text": "Okrenite palačinku i kratko pecite drugu stranu, samo dok se ne stegne."
+            },
+            {
+              "text": "Prebacite palačinku na topao tanjir i pokrijte je. Na isti način ispecite ostatak tijesta."
+            },
+            {
+              "text": "Napunite palačinke po želji, pa ih savijte na četvrtine ili urolajte."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Odmaranje tijesta nije preskakanje vremena: za taj sat brašno upije tečnost, pa su palačinke mekše i manje se kidaju pri okretanju.",
+        "Ako se tijesto stegne prije nego što ga razlijete po dnu, tava je prevruća. Ako palačinka dugo ostaje blijeda i lijepi se, vatra je preslaba.",
+        "Ispečene palačinke slažite jednu na drugu ispod poklopca ili folije, da ostanu tople i mekane dok ne ispečete sve."
+      ],
+      "substitutions": [
+        "Klasičan slatki nadjev je pekmez, džem, čokoladni namaz ili orasi sa šećerom. Za slane palačinke izvor predlaže tanko narezanu šunku i rendani tvrdi sir.",
+        "Recept se lako prepolovi ako vam treba šest palačinki."
+      ],
+      "storage": "Višak ispečenih palačinki možete zamrznuti i iskoristiti kasnije.",
+      "faq": [
+        {
+          "question": "Ide li u tijesto prašak za pecivo?",
+          "answer": "Ne. Tanke palačinke nemaju prašak za pecivo. Prašak ide u američke palačinke, koje su deblje i manje."
+        }
+      ],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [],
+      "seo": {
+        "title": "Palačinke – recept za tanke i mekane palačinke",
+        "description": "Recept za tanke palačinke od brašna, mlijeka, jaja i maslaca. Tijesto odstoji sat vremena, pa su mekane i lako se savijaju. Recept korak po korak."
+      },
+      "facebook": {},
+      "sourceNote": "King Arthur Baking – Parisian Street Vendor Crêpes: https://www.kingarthurbaking.com/recipes/parisian-street-vendor-crepes-recipe. Odabrana verzija: tanke palačinke bez praška za pecivo, nadjev opcionalan (plan SNK-0004). Izvor navodi 45 min aktivnog rada; sat odmaranja tijesta je uračunat u ukupno vrijeme. 1/3 šolje tijesta ≈ 80 ml; tava 10 inča ≈ 25 cm."
+    },
+    {
+      "planId": "SNK-0409",
+      "slug": "pileca-supa",
+      "title": "Domaća pileća supa s rezancima",
+      "alternativeNames": [
+        "pileća supa",
+        "pileća supa s rezancima i povrćem",
+        "supa od cijelog pileta"
+      ],
+      "summary": "Pileća supa od cijelog pileta, s temeljcem koji se kuha sat i po, povrćem i rezancima. Od jednog pileta dobijete supu za šest porcija i još pola skuhanog mesa za drugo jelo.",
+      "beforeYouStart": "Temeljac traži oko sat i po laganog kuhanja, pa ga možete skuhati i dan ranije. Pile treba imati najmanje 1,5 kg da temeljac bude dovoljno jak.",
+      "primaryCategory": "supe-i-corbe",
+      "tags": [
+        "piletina",
+        "mrkva"
+      ],
+      "authors": [
+        "emir-delic"
+      ],
+      "difficulty": "srednje",
+      "methods": [
+        "kuhanje"
+      ],
+      "diets": [],
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": false
+      },
+      "times": {
+        "prepMinutes": 20,
+        "cookMinutes": 100,
+        "totalMinutes": 120
+      },
+      "equipment": {
+        "other": "veliki lonac s poklopcem"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Temeljac",
+          "items": [
+            {
+              "ingredient": "pile",
+              "amount": 1.8,
+              "unit": "kg",
+              "label": "cijelo pile",
+              "note": "oprano i očišćeno"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "bijelog luka",
+              "note": "prepolovljena poprijeko"
+            },
+            {
+              "ingredient": "mrkva",
+              "amount": 2,
+              "unit": "bez",
+              "label": "mrkve",
+              "note": "na krupnije komade"
+            },
+            {
+              "ingredient": "celer-stabljika",
+              "amount": 2,
+              "unit": "struk",
+              "label": "celera",
+              "note": "na krupnije komade"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 2,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "oguljene, na četvrtine"
+            },
+            {
+              "ingredient": "biber-u-zrnu",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "bibera u zrnu"
+            },
+            {
+              "ingredient": "lovor",
+              "amount": 2,
+              "unit": "list",
+              "label": "lovora"
+            },
+            {
+              "ingredient": "majcina-dusica",
+              "amount": 4,
+              "unit": "bez",
+              "label": "grančice svježe majčine dušice",
+              "altGroup": "dusica-temeljac"
+            },
+            {
+              "ingredient": "majcina-dusica",
+              "amount": 1.5,
+              "unit": "kasicica",
+              "label": "suhe majčine dušice",
+              "altGroup": "dusica-temeljac"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 2.25,
+              "amountMax": 2.5,
+              "unit": "l",
+              "label": "vode",
+              "note": "toliko da pile bude tek prekriveno"
+            }
+          ]
+        },
+        {
+          "title": "Supa",
+          "items": [
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "veća, sitno sjeckana"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 3,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckana"
+            },
+            {
+              "ingredient": "mrkva",
+              "amount": 2,
+              "unit": "bez",
+              "label": "mrkve",
+              "note": "srednje, uzdužno na četvrtine pa narezane"
+            },
+            {
+              "ingredient": "celer-stabljika",
+              "amount": 2,
+              "unit": "struk",
+              "label": "celera",
+              "note": "na komade od 1 cm"
+            },
+            {
+              "ingredient": "pileci-temeljac",
+              "amount": 2,
+              "unit": "l",
+              "label": "domaćeg temeljca",
+              "note": "iz prvog dijela"
+            },
+            {
+              "ingredient": "piletina",
+              "amount": 2,
+              "unit": "solja",
+              "label": "natrgane skuhane piletine",
+              "note": "polovina mesa s pileta"
+            },
+            {
+              "ingredient": "rezanci-za-supu",
+              "amount": 200,
+              "unit": "g",
+              "label": "jajčanih rezanaca ili druge tjestenine"
+            },
+            {
+              "ingredient": "zacin-za-supu",
+              "amount": 2,
+              "amountMax": 3,
+              "unit": "kasicica",
+              "label": "začina za supu"
+            },
+            {
+              "ingredient": "biber",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "mljevenog bibera"
+            },
+            {
+              "ingredient": "majcina-dusica",
+              "amount": 4,
+              "unit": "bez",
+              "label": "grančice majčine dušice",
+              "optional": true
+            },
+            {
+              "ingredient": "lovor",
+              "amount": 1,
+              "unit": "list",
+              "label": "lovora",
+              "optional": true
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "persun",
+              "unit": "po-ukusu",
+              "label": "sitno sjeckanog peršuna, za posluživanje",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Temeljac",
+          "steps": [
+            {
+              "text": "Stavite pile u veliki lonac i dodajte bijeli luk, mrkvu, celer, crni luk, biber u zrnu, lovor i majčinu dušicu."
+            },
+            {
+              "text": "Nalijte vode toliko da pile bude tek prekriveno."
+            },
+            {
+              "text": "Poklopite lonac i na srednjoj vatri dovedite do laganog ključanja, pa smanjite vatru da supa jedva primjetno ključa."
+            },
+            {
+              "text": "Kuhajte poklopljeno 1 h 30 min, dok meso ne bude mekano i ne odvaja se lako od kosti.",
+              "timerMinutes": 90,
+              "timerLabel": "Kuhanje temeljca"
+            },
+            {
+              "text": "U prvih 30 minuta kuhanja jednom ili dvaput skinite pjenu s površine."
+            },
+            {
+              "text": "Izvadite pile na tanjir, odvojite meso od kostiju i natrgajte ga. Kosti bacite. Za supu treba polovina mesa."
+            },
+            {
+              "text": "Izvadite povrće i začine iz temeljca i bacite ih."
+            }
+          ]
+        },
+        {
+          "title": "Supa",
+          "steps": [
+            {
+              "text": "U velikom loncu na srednjoj vatri zagrijte maslinovo ulje i 2 minute pirjajte crni i bijeli luk.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Dodajte celer i mrkvu i pirjajte 5 minuta, dok ne omekšaju. Povrće ne smije porumeniti.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Pojačajte vatru i polako nalijte 2 l temeljca, tako da talog s dna lonca s temeljcem ostane u njemu. Ako treba, dopunite vodom."
+            },
+            {
+              "text": "Dodajte začin za supu, majčinu dušicu, lovor i biber i promiješajte."
+            },
+            {
+              "text": "Kada supa proključa, dodajte rezance i kuhajte ih 2 minute kraće od vremena navedenog na pakovanju. Promiješajte samo jednom ili dvaput."
+            },
+            {
+              "text": "Dodajte natrganu piletinu i kuhajte dok se ne zagrije."
+            },
+            {
+              "text": "Posolite i pobiberite po ukusu i odmah poslužite, po želji posuto peršunom."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Supa ostaje bistra ako temeljac kuhate jedva primjetno i ako rezance miješate što manje. Jako ključanje i miješanje oslobađaju skrob i mute supu.",
+        "Ako je pile manje od 1,5 kg, ne dodajte više vode, nego malo više začina za supu. Više vode samo razblaži okus.",
+        "Povrće iz temeljca je nakon sat i po vrlo mekano. Ako ga ne želite baciti, mrkvu i celer sitno isjecite i vratite u supu."
+      ],
+      "substitutions": [
+        "Umjesto cijelog pileta možete koristiti batake ili zabatke s kosti i kožom.",
+        "Umjesto začina za supu može ista količina pilećeg ili povrtnog začina, ili 1 izmrvljena kocka za supu na svaku kašičicu.",
+        "Bilo koja tjestenina može umjesto rezanaca. Najlakše se jedu kraći oblici, a dugu tjesteninu prelomite na 3–4 dijela."
+      ],
+      "storage": "Rezance i povrće čuvajte odvojeno od supe, jer rezanci upijaju tečnost i omekšaju. Supa stoji u frižideru 3–4 dana, a sam temeljac se može zamrznuti i čuvati nekoliko mjeseci. Ako temeljac ohladite nekoliko sati u frižideru, masnoća se stegne na površini i lako se skine.",
+      "faq": [
+        {
+          "question": "Mogu li temeljac skuhati u sporom kuhalu?",
+          "answer": "Mogu. Izvor navodi 8 sati na niskoj temperaturi. Povrće u sporom kuhalu bolje zadrži oblik, pa ga možete vratiti u supu."
+        }
+      ],
+      "leftovers": {
+        "text": "Druga polovina skuhanog pileta ne ide u supu. Natrganu piletinu možete iskoristiti za salatu, sendviče ili tortilje sljedeći dan."
+      },
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [],
+      "seo": {
+        "title": "Domaća pileća supa s rezancima od cijelog pileta",
+        "description": "Domaća pileća supa od cijelog pileta: temeljac se kuha sat i po, a zatim se dodaju povrće i rezanci. Šest porcija i ostatak mesa. Recept korak po korak."
+      },
+      "facebook": {},
+      "sourceNote": "RecipeTin Eats – Homemade Chicken Noodle Soup (from scratch): https://www.recipetineats.com/homemade-chicken-noodle-soup-from-scratch/. Odabrana verzija: pileća supa od cijelog pileta s povrćem i rezancima; temeljac se kuha od pileta, nije brza verzija s kockom (plan SNK-0409). Šolja = 250 ml (australijske mjere). Izvor navodi 9–10 šolja vode i u napomeni oko 2,25 l. Plan uz ovaj recept pogrešno predlaže oznaku „Leća“, pa nije dodijeljena."
+    },
+    {
+      "planId": "SNK-0399",
+      "slug": "pecena-piletina-s-krompirom",
+      "title": "Pečena piletina s krompirom i paradajzom",
+      "alternativeNames": [
+        "piletina s krompirom iz rerne",
+        "mediteranska piletina iz rerne",
+        "pečena piletina s krompirom"
+      ],
+      "summary": "Pečena piletina s krompirom, crvenim lukom i cherry paradajzom u jednoj tepsiji. Bataci i zabatci se prvo peku u umaku od limuna, bijelog luka i origana, a cherry paradajz se dodaje na pola pečenja.",
+      "beforeYouStart": "Koristite komade piletine s kosti i kožom, a ne file. Ako imate vremena, piletinu ostavite u marinadi u frižideru do 24 sata. Bez toga recept takođe uspijeva, jer umaka ima dovoljno.",
+      "primaryCategory": "jela-s-mesom",
+      "tags": [
+        "piletina",
+        "krompir",
+        "limun",
+        "paradajz"
+      ],
+      "authors": [
+        "emir-delic"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "pecenje"
+      ],
+      "diets": [],
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 55,
+        "totalMinutes": 65
+      },
+      "equipment": {
+        "panSize": "tepsija u koju sastojci stanu tijesno, u jednom sloju",
+        "temperature": 200,
+        "ovenMode": "gornji-donji",
+        "other": "s ventilatorom 180 °C"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Marinada",
+          "items": [
+            {
+              "ingredient": "piletina",
+              "amount": 1,
+              "unit": "kg",
+              "label": "pilećih bataka i zabataka",
+              "note": "s kosti i kožom"
+            },
+            {
+              "ingredient": "limun",
+              "amount": 125,
+              "unit": "ml",
+              "label": "limunovog soka"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 6,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckanih"
+            },
+            {
+              "ingredient": "senf",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "dijon senfa",
+              "optional": true
+            },
+            {
+              "ingredient": "med",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "meda",
+              "altGroup": "sladilo"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "šećera",
+              "altGroup": "sladilo"
+            },
+            {
+              "ingredient": "origano",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "suhog origana"
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "amount": 1.5,
+              "unit": "kasicica",
+              "label": "slatke aleve paprike"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.75,
+              "unit": "kasicica",
+              "label": "krupne soli",
+              "note": "sitne upola manje"
+            },
+            {
+              "ingredient": "biber",
+              "amount": 0.25,
+              "unit": "kasicica",
+              "label": "mljevenog bibera"
+            }
+          ]
+        },
+        {
+          "title": "Za pečenje",
+          "items": [
+            {
+              "ingredient": "krompir",
+              "amount": 300,
+              "unit": "g",
+              "label": "brašnastog krompira",
+              "note": "na komade od oko 2,5 cm, oguljen ili s korom"
+            },
+            {
+              "ingredient": "crveni-luk",
+              "amount": 2,
+              "unit": "glavica",
+              "label": "crvenog luka",
+              "note": "na četvrtine"
+            },
+            {
+              "ingredient": "pileci-temeljac",
+              "amount": 250,
+              "unit": "ml",
+              "label": "pilećeg temeljca",
+              "note": "manje slanog"
+            },
+            {
+              "ingredient": "cherry-paradajz",
+              "amount": 250,
+              "unit": "g",
+              "label": "cherry paradajza",
+              "note": "cijelog"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "krupne soli"
+            },
+            {
+              "ingredient": "biber",
+              "amount": 0.25,
+              "unit": "kasicica",
+              "label": "mljevenog bibera"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "origano",
+              "unit": "po-ukusu",
+              "label": "svježeg origana, za posluživanje",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "U posudi pomiješajte sve sastojke marinade osim piletine, pa dodajte piletinu i dobro je obložite. Ako imate vremena, ostavite je u frižideru do 24 sata. Ako nemate, odmah nastavite."
+            },
+            {
+              "text": "Zagrijte rernu na 200 °C (180 °C s ventilatorom)."
+            },
+            {
+              "text": "U tepsiju rasporedite krompir i crveni luk, a preko njih složite piletinu."
+            },
+            {
+              "text": "Prelijte temeljcem, a zatim i marinadom koja je ostala u posudi."
+            },
+            {
+              "text": "Pecite 20 minuta, pa izvadite tepsiju iz rerne.",
+              "timerMinutes": 20,
+              "timerLabel": "Prvo pečenje"
+            },
+            {
+              "text": "Rasporedite cijele cherry paradajze po tepsiji."
+            },
+            {
+              "text": "Sve pokapajte maslinovim uljem i začinite solju i biberom."
+            },
+            {
+              "text": "Pecite još 30–35 minuta, dok piletina ne porumeni, a krompir ne bude potpuno mekan.",
+              "timerMinutes": 35,
+              "timerLabel": "Drugo pečenje"
+            },
+            {
+              "text": "Po želji pospite svježim origanom i poslužite s umakom iz tepsije."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Sastojci trebaju stajati tijesno, u jednom sloju. U preširokoj tepsiji tečnost brže ispari i na kraju ostane malo umaka.",
+        "Brašnasti krompir se ispeče za isto vrijeme kao piletina. Mladi ili voštani krompir pecite sam 20 minuta prije nego što dodate ostale sastojke.",
+        "Krompir je gotov kad ga viljuška probode bez otpora, a koža piletine je zlatna i hrskava na vrhu."
+      ],
+      "substitutions": [
+        "Zabatke bez kosti i kože dodajte tek nakon prvih 20 minuta pečenja, inače se prepeku.",
+        "Pileća prsa izvor ne preporučuje jer se lako isuše. Ako ih ipak koristite, pecite ih samo posljednjih 20 minuta.",
+        "Senf malo zgusne umak i doda okus, ali jelo je dobro i bez njega. Med možete zamijeniti s 1 kašikom šećera.",
+        "Uz krompir se mogu peći i tikvice, bundeva, batat ili klip kukuruza. Origano možete zamijeniti ruzmarinom ili majčinom dušicom."
+      ],
+      "storage": null,
+      "faq": [],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [],
+      "seo": {
+        "title": "Pečena piletina s krompirom i paradajzom iz rerne",
+        "description": "Piletina s krompirom iz rerne u umaku od limuna, bijelog luka i origana, s cherry paradajzom i crvenim lukom. Sve u jednoj tepsiji. Recept korak po korak."
+      },
+      "facebook": {},
+      "sourceNote": "RecipeTin Eats – Mediterranean Baked Chicken Dinner: https://www.recipetineats.com/mediterranean-baked-chicken-dinner/. Odabrana verzija: komadi piletine s kosti i kožom, krompir i paradajz koji se dodaje nakon 20 minuta (plan SNK-0399). Šolja = 250 ml. Ukupno vrijeme 65 min = 10 min pripreme + 55 min pečenja (izvor navodi 55 min ukupno, što ne uključuje pripremu). Izvor nudi 4–5 porcija; upisane su 4. NEDOSTAJE: veličina tepsije (izvor navodi samo da sastojci stanu tijesno) i upute za čuvanje."
+    },
+    {
+      "planId": "SNK-0418",
+      "slug": "pire-krompir",
+      "title": "Pire krompir",
+      "alternativeNames": [
+        "krompir pire",
+        "pire od krompira",
+        "kremasti pire krompir"
+      ],
+      "summary": "Kremast pire krompir s maslacem i toplim mlijekom, izgnječen ručno. Gotov je za pola sata i ide uz pečeno meso, ćufte, šnicle i jela s umakom.",
+      "beforeYouStart": "Za pire uzmite brašnasti krompir, koji se kuhanjem raspada. Mlijeko zagrijte prije nego što ga dodate, a krompir ne gnječite mikserom ni blenderom.",
+      "primaryCategory": "prilozi",
+      "tags": [
+        "krompir",
+        "maslac",
+        "mlijeko"
+      ],
+      "authors": [
+        "urednistvo"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "kuhanje"
+      ],
+      "diets": [
+        "vegetarijansko",
+        "bez-jaja",
+        "bez-glutena"
+      ],
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 20,
+        "totalMinutes": 30
+      },
+      "equipment": {
+        "other": "veliki lonac, ručna gnječilica za krompir"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Krompir",
+          "items": [
+            {
+              "ingredient": "krompir",
+              "amount": 1.5,
+              "unit": "kg",
+              "label": "brašnastog krompira",
+              "note": "oguljen, na kocke od 2,5 cm"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "soli",
+              "note": "za vodu"
+            }
+          ]
+        },
+        {
+          "title": "Za pire",
+          "items": [
+            {
+              "ingredient": "maslac",
+              "amount": 60,
+              "unit": "g",
+              "label": "neslanog maslaca",
+              "note": "na komadiće"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 125,
+              "unit": "ml",
+              "label": "mlijeka",
+              "note": "po mogućnosti toplog"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "soli"
+            }
+          ]
+        },
+        {
+          "title": "Za posluživanje",
+          "items": [
+            {
+              "ingredient": "maslac",
+              "unit": "po-potrebi",
+              "label": "otopljenog maslaca",
+              "optional": true
+            },
+            {
+              "ingredient": "vlasac",
+              "unit": "po-ukusu",
+              "label": "sjeckanog vlasca",
+              "optional": true,
+              "altGroup": "zelen"
+            },
+            {
+              "ingredient": "persun",
+              "unit": "po-ukusu",
+              "label": "sjeckanog peršuna",
+              "optional": true,
+              "altGroup": "zelen"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Stavite krompir u veliki lonac, dodajte 1 kašiku soli i nalijte vode toliko da bude oko 10 cm iznad krompira."
+            },
+            {
+              "text": "Na jakoj vatri dovedite do ključanja, pa smanjite vatru tako da voda i dalje živo ključa."
+            },
+            {
+              "text": "Kuhajte oko 15 minuta, dok krompir ne bude vrlo mekan i ne raspada se kad ga probodete viljuškom.",
+              "timerMinutes": 15,
+              "timerLabel": "Kuhanje krompira"
+            },
+            {
+              "text": "Dobro ocijedite krompir i vratite ga u lonac."
+            },
+            {
+              "text": "Ostavite ga minutu, povremeno protresite lonac, da ispari preostala voda."
+            },
+            {
+              "text": "Dodajte maslac, toplo mlijeko i so i gnječite ručnom gnječilicom dok pire ne postane kremast. Za rjeđi pire dodajte još malo toplog mlijeka."
+            },
+            {
+              "text": "Prebacite pire u zdjelu, prelijte s malo otopljenog maslaca i pospite vlascem ili peršunom."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Ne koristite štapni mikser, blender ni multipraktik: od jakog miješanja krompir brzo postane ljepljiv. Ručni mikser možete kratko uključiti, samo dok pire ne postane kremast.",
+        "Ocijeđen krompir ostavite minutu u vrućem loncu da ispari voda. Suh krompir upije više maslaca i mlijeka, a pire ne bude vodenast.",
+        "Brašnasti krompir daje rastresit i kremast pire. Mladi i voštani krompir se ne raspada kuhanjem, pa je bolji za salatu."
+      ],
+      "substitutions": [
+        "Po želji umiješajte malo krem sira ili kisele pavlake, bijeli luk prepržen na maslacu ili sitno sjeckan mladi luk."
+      ],
+      "storage": "Do 30 minuta pire držite toplim u zdjeli čvrsto pokrivenoj folijom, na toplom mjestu. Do 2 sata ga možete držati u zdjeli iznad lonca s vodom koja lagano ključa, tako da zdjela ne dodiruje vodu. Prije posluživanja ga promiješajte.",
+      "faq": [],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [],
+      "seo": {
+        "title": "Pire krompir s maslacem i mlijekom – kremast i domaći",
+        "description": "Kremast pire krompir s maslacem i toplim mlijekom, izgnječen ručno, gotov za 30 minuta. Koji krompir odabrati i kako ga držati toplim. Recept korak po korak."
+      },
+      "facebook": {},
+      "sourceNote": "RecipeTin Eats – Creamy Buttery Mashed Potato: https://www.recipetineats.com/mashed-potato/. Odabrana verzija: osnovni pire s maslacem i mlijekom, ručno gnječenje, bez blendera i bez većeg omjera maslaca iz luksuznih varijanti (plan SNK-0418). Šolja = 250 ml. Ukupno vrijeme izračunato: 10 min pripreme + 20 min kuhanja. NEDOSTAJE: rok čuvanja u frižideru i podgrijavanje (izvor ih ne navodi), pa nisu upisani."
+    }
+  ]
+}

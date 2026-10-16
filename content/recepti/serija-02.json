@@ -1,0 +1,1380 @@
+{
+  "format": "srce-nase-kuhinje/v1",
+  "ingredients": [
+    {
+      "slug": "mrkva",
+      "name": "mrkva",
+      "synonyms": [
+        "šargarepa"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "krompir",
+      "name": "krompir",
+      "synonyms": [
+        "krumpir",
+        "krompiri"
+      ],
+      "publicPage": true,
+      "description": "DEMO: Krompir je osnova priloga, musake i čorbi.",
+      "selection": "DEMO: Za pire su bolje brašnjave sorte, a za musaku i salate čvršće.",
+      "storage": "DEMO: Čuvati na tamnom, hladnom i prozračnom mjestu, odvojeno od crnog luka.",
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "jaja",
+      "name": "jaja",
+      "synonyms": [
+        "jaje"
+      ],
+      "publicPage": true,
+      "roundingHint": "Za pola jajeta umutite jedno jaje i odvojite polovinu (oko 25 g).",
+      "description": "DEMO: Jaja vežu, rahle i daju boju. Veličina jajeta utiče na rezultat u kolačima.",
+      "storage": "DEMO: Čuvati u frižideru, u originalnom pakovanju.",
+      "selection": "DEMO: Za tijesta je najbolje koristiti jaja sobne temperature.",
+      "foodGroup": "jaja"
+    },
+    {
+      "slug": "so",
+      "name": "so",
+      "synonyms": [
+        "sol"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "biber",
+      "name": "biber",
+      "synonyms": [
+        "papar",
+        "crni biber"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "persun",
+      "name": "peršun",
+      "synonyms": [
+        "peršin"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "kisela-pavlaka",
+      "name": "kisela pavlaka",
+      "synonyms": [
+        "kiselo vrhnje",
+        "mileram"
+      ],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "kore-za-pitu",
+      "name": "kore za pitu",
+      "synonyms": [
+        "jufke",
+        "gotove kore",
+        "jufka"
+      ],
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "maslac",
+      "name": "maslac",
+      "synonyms": [
+        "puter"
+      ],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "ulje",
+      "name": "ulje",
+      "synonyms": [
+        "biljno ulje",
+        "suncokretovo ulje"
+      ]
+    },
+    {
+      "slug": "mlijeko",
+      "name": "mlijeko",
+      "synonyms": [
+        "mleko",
+        "kravlje mlijeko"
+      ],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "mljeveno-meso",
+      "name": "mljeveno meso",
+      "synonyms": [
+        "faširano meso",
+        "mleveno meso"
+      ],
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "suho-meso",
+      "name": "suho meso",
+      "synonyms": [
+        "sušeno meso",
+        "suha govedina"
+      ],
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "riza",
+      "name": "riža",
+      "synonyms": [
+        "pirinač"
+      ],
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "crni-luk",
+      "name": "crni luk",
+      "synonyms": [
+        "luk",
+        "kapula"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "bijeli-luk",
+      "name": "bijeli luk",
+      "synonyms": [
+        "češnjak",
+        "beli luk"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "zacin-za-supu",
+      "name": "začin za supu",
+      "synonyms": [
+        "vegeta",
+        "supa u kocki",
+        "kocka za supu"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "brasno",
+      "name": "brašno",
+      "synonyms": [
+        "pšenično brašno"
+      ],
+      "publicPage": true,
+      "description": "DEMO: Pšenično brašno je osnova tijesta, peciva i pita. U receptima se navodi vrsta kad je bitna.",
+      "selection": "DEMO: Za kolače i palačinke koristi se glatko brašno, a za tijesto koje treba više strukture oštro.",
+      "storage": "DEMO: Čuvati u zatvorenoj posudi na suhom i hladnom mjestu.",
+      "substitutes": "DEMO: Glatko i oštro brašno mogu se zamijeniti uz manju razliku u teksturi. Bademovo brašno nije zamjena 1:1.",
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "glatko-brasno",
+      "name": "glatko brašno",
+      "synonyms": [
+        "tip 400"
+      ],
+      "broader": "brasno",
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "paradajz-pire",
+      "name": "paradajz pire",
+      "synonyms": [
+        "pasirani paradajz",
+        "pelat"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "voda",
+      "name": "voda",
+      "synonyms": []
+    },
+    {
+      "slug": "secer",
+      "name": "šećer",
+      "synonyms": [
+        "kristal šećer"
+      ]
+    },
+    {
+      "slug": "ekstrakt-vanilije",
+      "name": "ekstrakt vanilije",
+      "synonyms": [
+        "ekstrakt vanile"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "vanilin-secer",
+      "name": "vanilin šećer",
+      "synonyms": [
+        "vanilija šećer"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "cimet",
+      "name": "cimet",
+      "synonyms": [],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "kvasac",
+      "name": "kvasac",
+      "synonyms": [
+        "germa",
+        "svježi kvasac"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "sirce",
+      "name": "sirće",
+      "synonyms": [
+        "ocat",
+        "ocet"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "krastavac",
+      "name": "krastavac",
+      "synonyms": [
+        "krastavica"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "bijeli-sir",
+      "name": "bijeli sir",
+      "synonyms": [
+        "kravlji sir",
+        "sitni sir"
+      ],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "jabukovo-sirce",
+      "name": "jabukovo sirće",
+      "synonyms": [
+        "jabučni ocat",
+        "jabukovo sirće"
+      ],
+      "broader": "sirce",
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "majoneza",
+      "name": "majoneza",
+      "synonyms": [
+        "majonez"
+      ],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "grasak",
+      "name": "grašak",
+      "synonyms": [
+        "zeleni grašak"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "kiseli-krastavci",
+      "name": "kiseli krastavci",
+      "synonyms": [
+        "kornišoni",
+        "krastavci iz tegle"
+      ],
+      "broader": "krastavac",
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "sunka",
+      "name": "šunka",
+      "synonyms": [
+        "kuhana šunka",
+        "pileća šunka"
+      ],
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "feta",
+      "name": "feta sir",
+      "synonyms": [
+        "feta"
+      ],
+      "broader": "bijeli-sir",
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "svjezi-sir",
+      "name": "svježi kravlji sir",
+      "synonyms": [
+        "svježi sir",
+        "kravlji sir",
+        "mladi sir"
+      ],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "rikota",
+      "name": "rikota",
+      "synonyms": [
+        "ricotta"
+      ],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "kiseli-kupus",
+      "name": "kiseli kupus",
+      "synonyms": [
+        "kiseli kupus u glavicama",
+        "listovi kiselog kupusa"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "koncentrat-paradajza",
+      "name": "koncentrat paradajza",
+      "synonyms": [
+        "paradajz pasta",
+        "pelat koncentrat"
+      ],
+      "broader": "paradajz-pire",
+      "foodGroup": "povrce"
+    }
+  ],
+  "recipes": [
+    {
+      "planId": "SNK-0437",
+      "slug": "ruska-salata",
+      "title": "Ruska salata",
+      "alternativeNames": [
+        "ruska salata sa šunkom",
+        "salata Olivier",
+        "ruska salata s majonezom"
+      ],
+      "summary": "Ruska salata s kuhanim krompirom, mrkvom i graškom, jajima, šunkom i kiselim krastavcima, povezana majonezom. Pravi se dan ranije i tada je najukusnija.",
+      "beforeYouStart": "Salata treba najmanje 3–4 sata u frižideru, a najbolja je kad odstoji preko noći. Povrće i jaja skuhajte i potpuno ohladite prije miješanja.",
+      "primaryCategory": "salate-kao-prilog",
+      "tags": [
+        "krompir",
+        "mrkva",
+        "jaja",
+        "sunka"
+      ],
+      "authors": [
+        "urednistvo"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "kuhanje"
+      ],
+      "diets": [],
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "yield": {
+        "servings": 8,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 40,
+        "cookMinutes": 20,
+        "restMinutes": 180,
+        "restLabel": "hlađenja",
+        "totalMinutes": 240
+      },
+      "equipment": {
+        "other": "velika zdjela s poklopcem ili prozirnom folijom"
+      },
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "mrkva",
+              "amount": 285,
+              "unit": "g",
+              "label": "mrkve",
+              "note": "oguljene, na sitne kockice, skuhane"
+            },
+            {
+              "ingredient": "krompir",
+              "amount": 285,
+              "unit": "g",
+              "label": "krompira",
+              "note": "oguljenog, na sitne kockice, skuhanog"
+            },
+            {
+              "ingredient": "grasak",
+              "amount": 285,
+              "unit": "g",
+              "label": "graška",
+              "note": "skuhanog"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 5,
+              "amountMax": 6,
+              "unit": "bez",
+              "label": "jaja",
+              "note": "tvrdo kuhanih, oguljenih, na kockice"
+            },
+            {
+              "ingredient": "sunka",
+              "amount": 200,
+              "unit": "g",
+              "label": "šunke",
+              "note": "na kockice"
+            },
+            {
+              "ingredient": "kiseli-krastavci",
+              "amount": 85,
+              "unit": "g",
+              "label": "kiselih krastavaca",
+              "note": "5–7 srednjih, na sitne kockice"
+            },
+            {
+              "ingredient": "majoneza",
+              "amount": 10,
+              "amountMax": 12,
+              "unit": "kasika",
+              "label": "blage majoneze"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            },
+            {
+              "ingredient": "persun",
+              "amount": 2,
+              "amountMax": 3,
+              "unit": "kasika",
+              "label": "sitno sjeckanog svježeg peršuna"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Priprema povrća i jaja",
+          "steps": [
+            {
+              "text": "Mrkvu i krompir isijecite na kockice otprilike upola manje od kocke šećera. Sve sastojke salate režite na istu veličinu."
+            },
+            {
+              "text": "Mrkvu, krompir i grašak stavite u kipuću vodu i kuhajte 10–12 minuta, dok viljuška ne prođe bez otpora. Svježe povrće treba nešto duže.",
+              "timerMinutes": 12,
+              "timerLabel": "Kuhanje povrća"
+            },
+            {
+              "text": "Jaja stavite u kipuću vodu i kuhajte 12 minuta.",
+              "timerMinutes": 12,
+              "timerLabel": "Kuhanje jaja"
+            },
+            {
+              "text": "Ocijedite povrće, ohladite jaja, pa ih ogulite i isijecite na kockice."
+            }
+          ]
+        },
+        {
+          "title": "Salata",
+          "steps": [
+            {
+              "text": "U velikoj zdjeli redom dodajte kuhano povrće, jaja, kisele krastavce i šunku, miješajući nakon svakog dodatka da se sastojci ravnomjerno rasporede."
+            },
+            {
+              "text": "Dodajte majonezu u nekoliko navrata, ukupno oko 10 kašika, i miješajte dok se ne sjedini. Začinite solju, biberom i peršunom."
+            },
+            {
+              "text": "Pokrijte zdjelu i ostavite salatu u frižideru najmanje 3–4 sata, a najbolje preko noći.",
+              "timerMinutes": 180,
+              "timerLabel": "Hlađenje"
+            },
+            {
+              "text": "Prije posluživanja promiješajte i, ako je salata presuha, dodajte još 2 kašike majoneze."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Povrće koristite iste vrste: svo smrznuto, svo svježe ili svo iz konzerve. Ako je moguće, izbjegnite konzervirano, jer se lako raspadne u kašu.",
+        "Majonezu dodajte postepeno. Povrće je upije dok salata stoji, pa ostatak dodajte tek pred posluživanje, umjesto da salata odmah bude preteška.",
+        "Povrće i jaja možete kuhati u istom loncu ili odvojeno. Važno je da su potpuno ohlađeni prije miješanja s majonezom."
+      ],
+      "substitutions": [
+        "Umjesto šunke izvor dopušta dimljenu govedinu, kuhanu piletinu ili puretinu bez kože, ili ribu.",
+        "Umjesto same majoneze možete koristiti pola majoneze i pola kisele pavlake, ili gusti grčki jogurt.",
+        "Francuska salata je ista salata bez mesa i ribe; za nju izostavite šunku."
+      ],
+      "storage": "Salatu čuvajte pokrivenu u frižideru. Najbolja je drugi dan. Ne zamrzava se.",
+      "faq": [
+        {
+          "question": "Mogu li salatu napraviti dan ranije?",
+          "answer": "Da, i preporučuje se. Salata je najukusnija drugi dan, kad se okusi prožmu, a majoneza se ravnomjerno upije."
+        }
+      ],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [],
+      "seo": {
+        "title": "Ruska salata sa šunkom, jajima i kiselim krastavcima",
+        "description": "Ruska salata s krompirom, mrkvom, graškom, jajima, šunkom i kiselim krastavcima, povezana majonezom. Najbolja kad odstoji preko noći. Recept korak po korak."
+      },
+      "facebook": {},
+      "sourceNote": "Balkan Lunch Box – Russian Salad / Ruska salata / Salad Olivier: https://balkanlunchbox.com/russian-salad-aka-ruska-salata-aka-salad-olivier/. Odabrana verzija: povrće, jaja, šunka i majoneza; od ponuđenih mesnih opcija izabrana šunka (plan SNK-0437). Izvor daje američke mjere: 10 oz = 285 g, 7 oz = 200 g, 3 oz = 85 g. Hlađenje 3–4 h prema uputama izvora (karta recepta navodi 2 h kao minimum); ukupno 4 h. Rok čuvanja nije upisan u danima, prema napomeni plana."
+    },
+    {
+      "planId": "SNK-0446",
+      "slug": "sirnica",
+      "title": "Sirnica",
+      "alternativeNames": [
+        "pita sirnica",
+        "pita sa sirom",
+        "burek sa sirom",
+        "slagana sirnica"
+      ],
+      "summary": "Slagana sirnica od gotovih kora i nadjeva od fete, svježeg sira, jaja i kisele pavlake, prelivena toplim mlijekom s maslacem. Peče se oko 35 minuta.",
+      "beforeYouStart": "Pitu slažite neposredno prije pečenja, jer kore u nadjevu brzo omekšaju. Nakon pečenja ostavite je da odstoji najmanje 20–30 minuta, a sat je još bolje, da se nadjev stegne i lijepo reže.",
+      "primaryCategory": "slane-pite",
+      "tags": [
+        "sir",
+        "jaja",
+        "gotove-kore"
+      ],
+      "authors": [
+        "emir-delic"
+      ],
+      "difficulty": "srednje",
+      "methods": [
+        "pecenje"
+      ],
+      "diets": [
+        "vegetarijansko"
+      ],
+      "meals": [
+        "dorucak",
+        "vecera"
+      ],
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": false
+      },
+      "times": {
+        "prepMinutes": 15,
+        "cookMinutes": 35,
+        "restMinutes": 30,
+        "restLabel": "odmaranja",
+        "totalMinutes": 80
+      },
+      "equipment": {
+        "panSize": "duboka pravougaona ili okrugla tepsija",
+        "temperature": 200,
+        "other": "kist za premazivanje"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Nadjev",
+          "items": [
+            {
+              "ingredient": "feta",
+              "amount": 225,
+              "unit": "g",
+              "label": "feta sira"
+            },
+            {
+              "ingredient": "svjezi-sir",
+              "amount": 340,
+              "unit": "g",
+              "label": "svježeg kravljeg sira",
+              "altGroup": "mladi-sir"
+            },
+            {
+              "ingredient": "rikota",
+              "amount": 340,
+              "unit": "g",
+              "label": "rikote",
+              "altGroup": "mladi-sir"
+            },
+            {
+              "ingredient": "kisela-pavlaka",
+              "amount": 225,
+              "unit": "g",
+              "label": "kisele pavlake"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 4,
+              "amountMax": 5,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "soli"
+            }
+          ]
+        },
+        {
+          "title": "Kore i premaz",
+          "items": [
+            {
+              "ingredient": "kore-za-pitu",
+              "amount": 450,
+              "unit": "g",
+              "label": "tankih kora za pitu",
+              "note": "16–18 listova"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 70,
+              "amountMax": 85,
+              "unit": "g",
+              "label": "maslaca",
+              "note": "otopljenog"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 2,
+              "amountMax": 3,
+              "unit": "kasika",
+              "label": "suncokretovog ulja"
+            }
+          ]
+        },
+        {
+          "title": "Preliv",
+          "items": [
+            {
+              "ingredient": "mlijeko",
+              "amount": 240,
+              "unit": "ml",
+              "label": "mlijeka"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 28,
+              "unit": "g",
+              "label": "maslaca"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "U većoj posudi izmutite sve sastojke nadjeva u potpuno glatku smjesu."
+            },
+            {
+              "text": "Zagrijte rernu na 200 °C."
+            },
+            {
+              "text": "Otopljeni maslac pomiješajte s uljem. To je premaz za kore."
+            },
+            {
+              "text": "Namastite tepsiju, položite jednu koru na dno i premažite je premazom. Preko nje stavite drugu koru i premažite i nju."
+            },
+            {
+              "text": "Na gornju koru ravnomjerno rasporedite oko 4 kašike nadjeva."
+            },
+            {
+              "text": "Dodajte još dvije kore, premazujući svaku. Kore po potrebi skratite, preklopite ili nabirajte da stanu u tepsiju. Rasporedite novi sloj nadjeva."
+            },
+            {
+              "text": "Ponavljajte slojeve dok ne potrošite kore i nadjev. Na vrhu moraju biti najmanje 2–3 premazane kore."
+            },
+            {
+              "text": "Pecite 15 minuta, pa okrenite tepsiju.",
+              "timerMinutes": 15,
+              "timerLabel": "Pečenje, prvi dio"
+            },
+            {
+              "text": "Pecite još 15–20 minuta. Ako vrh prebrzo rumeni, smanjite temperaturu na 180 °C ili ga pokrijte folijom.",
+              "timerMinutes": 20,
+              "timerLabel": "Pečenje, drugi dio"
+            },
+            {
+              "text": "U šerpici zagrijte mlijeko i maslac dok se maslac ne otopi."
+            },
+            {
+              "text": "Izvadite pitu i kašičicom ravnomjerno rasporedite toplo mlijeko s maslacem po vrhu."
+            },
+            {
+              "text": "Isključite rernu i vratite pitu na nekoliko minuta."
+            },
+            {
+              "text": "Ostavite pitu da odstoji 20–30 minuta prije rezanja.",
+              "timerMinutes": 30,
+              "timerLabel": "Odmaranje pite"
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Nadjev mutite dok ne bude potpuno gladak. Grudvice sira ostanu u pečenoj piti kao suha mjesta.",
+        "Ne štedite na premazu gornjih kora: one daju hrskav, zlatan vrh, a najmanje 2–3 kore na vrhu sprečavaju da nadjev iscuri i zagori.",
+        "Preliv od mlijeka i maslaca na kraju omekša gornje kore, pa pita bude sočna, a ne suha i lomljiva."
+      ],
+      "substitutions": [
+        "Od mekih sireva dobro rade rikota, feta, svježi kravlji sir i kozji sir. Tvrdi i polutvrdi sirevi poput gaude, čedara i edamca se ne preporučuju, jer u piti zagore umjesto da se zapeku. Kad mijenjate sir, zadržite istu ukupnu količinu.",
+        "Umjesto suncokretovog možete koristiti drugo neutralno ulje ili samo maslac. Maslinovo ulje izvor ne preporučuje.",
+        "Lisnato tijesto nije zamjena za tanke kore."
+      ],
+      "storage": "Pečena sirnica može stajati na hladnom mjestu do jednog dana, a pokrivena u frižideru 2–3 dana. Jede se topla ili hladna. Ne zamrzava se.",
+      "faq": [
+        {
+          "question": "Mogu li sirnicu složiti ranije i peći kasnije?",
+          "answer": "Bolje ne. Izvor savjetuje da se pita slaže neposredno prije pečenja, jer kore u dodiru s nadjevom brzo omekšaju."
+        }
+      ],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [],
+      "seo": {
+        "title": "Sirnica od gotovih kora – domaća slagana pita sa sirom",
+        "description": "Slagana sirnica od gotovih kora, s nadjevom od fete, svježeg sira, jaja i kisele pavlake, prelivena mlijekom i maslacem. Sočna i hrskava. Recept korak po korak."
+      },
+      "facebook": {},
+      "sourceNote": "Balkan Lunch Box – Phyllo Cheese Pie (Slagana sirnica): https://balkanlunchbox.com/phyllo-cheese-pie-slagana-sirnica-recipe/. Odabrana verzija: slagana sirnica s gotovim tankim korama; feta, svježi sir ili rikota, jaja i kisela pavlaka; preliv mlijekom i maslacem (plan SNK-0446). Izvor daje američke mjere: 8 oz ≈ 225 g, 12 oz = 340 g, 1 lb ≈ 450 g, 5–6 kašika maslaca ≈ 70–85 g, 1 šolja mlijeka = 240 ml, 2 kašike maslaca ≈ 28 g; 390 °F = 200 °C, 360 °F = 180 °C. NEDOSTAJE: dimenzije tepsije (izvor navodi samo duboku pravougaonu ili okruglu)."
+    },
+    {
+      "planId": "SNK-0443",
+      "slug": "sarma",
+      "title": "Sarma u kiselom kupusu",
+      "alternativeNames": [
+        "sarma",
+        "sarma s mesom i rižom",
+        "sarme od kiselog kupusa"
+      ],
+      "summary": "Sarma od listova kiselog kupusa punjenih mljevenom junetinom, rižom i suhim mesom, koja se tri sata lagano kuha u zaprški s paradajzom. Može se zarolati dan ranije i lijepo se podgrijava.",
+      "beforeYouStart": "Sarma se kuha tri sata na laganoj vatri, a rolanje traje oko 45 minuta. Sarme možete zarolati večer ranije, čuvati u frižideru i kuhati sutradan. Listove kupusa probajte prije punjenja: ako su preslani, kratko ih isperite.",
+      "primaryCategory": "variva-i-punjena-jela",
+      "tags": [
+        "kupus",
+        "mljeveno-meso",
+        "riza"
+      ],
+      "authors": [
+        "emir-delic"
+      ],
+      "difficulty": "zahtjevno",
+      "methods": [
+        "kuhanje"
+      ],
+      "diets": [],
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "yield": {
+        "servings": 25,
+        "unit": "sarmi (25–35)",
+        "scalable": false
+      },
+      "times": {
+        "prepMinutes": 45,
+        "cookMinutes": 180,
+        "totalMinutes": 225
+      },
+      "equipment": {
+        "other": "veliki lonac s poklopcem"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Nadjev",
+          "items": [
+            {
+              "ingredient": "mljeveno-meso",
+              "amount": 450,
+              "unit": "g",
+              "label": "mljevene junetine"
+            },
+            {
+              "ingredient": "suho-meso",
+              "amount": 85,
+              "amountMax": 115,
+              "unit": "g",
+              "label": "suhog goveđeg mesa",
+              "note": "na sitne kockice"
+            },
+            {
+              "ingredient": "riza",
+              "amount": 200,
+              "unit": "g",
+              "label": "bijele okrugle riže"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 2,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "manje, sitno sjeckane"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 3,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckana"
+            },
+            {
+              "ingredient": "zacin-za-supu",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "začina za supu"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 60,
+              "unit": "ml",
+              "label": "mlijeka",
+              "note": "da nadjev bude mekši",
+              "optional": true
+            }
+          ]
+        },
+        {
+          "title": "Kupus",
+          "items": [
+            {
+              "ingredient": "kiseli-kupus",
+              "amount": 680,
+              "unit": "g",
+              "label": "kiselog kupusa u glavici",
+              "note": "1 veća ili 2 manje glavice"
+            }
+          ]
+        },
+        {
+          "title": "Zaprška i kuhanje",
+          "items": [
+            {
+              "ingredient": "ulje",
+              "amount": 100,
+              "unit": "ml",
+              "label": "suncokretovog ulja"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "paradajz-pire",
+              "amount": 155,
+              "unit": "g",
+              "label": "paradajz pirea",
+              "altGroup": "paradajz"
+            },
+            {
+              "ingredient": "koncentrat-paradajza",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "koncentrata paradajza",
+              "altGroup": "paradajz"
+            },
+            {
+              "ingredient": "suho-meso",
+              "amount": 85,
+              "amountMax": 115,
+              "unit": "g",
+              "label": "suhog goveđeg mesa",
+              "note": "na komade, za kuhanje"
+            },
+            {
+              "ingredient": "voda",
+              "unit": "po-potrebi",
+              "label": "vode ili goveđeg temeljca"
+            },
+            {
+              "ingredient": "kisela-pavlaka",
+              "unit": "po-ukusu",
+              "label": "kisele pavlake, za posluživanje",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Nadjev i listovi",
+          "steps": [
+            {
+              "text": "U velikoj posudi rukama dobro izmiješajte sve sastojke nadjeva dok se ravnomjerno ne sjedine. Ostavite po strani."
+            },
+            {
+              "text": "Napunite veću posudu mlakom vodom. Odvajajte listove od glavice jedan po jedan dok ne ostane otprilike četvrtina do trećina glavice."
+            },
+            {
+              "text": "Svaki list kratko umočite u vodu i stavite na tanjir. Probajte komadić: ako je i dalje preslan, umočite ga još jednom."
+            },
+            {
+              "text": "Na dasci izrežite debelo središnje rebro svakog lista i sačuvajte ga. List prerežite na pola, a velike listove na tri ili četiri dijela."
+            }
+          ]
+        },
+        {
+          "title": "Rolanje",
+          "steps": [
+            {
+              "text": "Na rub komada lista stavite oko 1 kašiku nadjeva."
+            },
+            {
+              "text": "Duži kraj lista preklopite preko nadjeva i, lagano stežući, urolajte od sebe. Krajeve lista uvucite unutra."
+            },
+            {
+              "text": "Ponavljajte dok ne potrošite nadjev. Dobit ćete 25–35 sarmi, najbolje veličine oko 4 × 6 cm."
+            },
+            {
+              "text": "Sačuvana rebra i ostatak glavice sitno isjecite."
+            }
+          ]
+        },
+        {
+          "title": "Kuhanje",
+          "steps": [
+            {
+              "text": "U velikom loncu na srednjoj vatri zagrijte ulje, umiješajte brašno i pržite 2–3 minute uz miješanje, dok ne dobijete zapršku.",
+              "timerMinutes": 3
+            },
+            {
+              "text": "Dodajte paradajz pire i 1 šolju vruće vode (s koncentratom oko 1,5 šolje) i promiješajte."
+            },
+            {
+              "text": "Na dno lonca poredajte prvi red sarmi, pa dodajte šaku suhog mesa i malo sjeckanog kupusa. Slojeve ponavljajte dok ne potrošite sastojke."
+            },
+            {
+              "text": "Nalijte vode ili temeljca toliko da tečnost bude oko prst iznad gornjeg reda sarmi."
+            },
+            {
+              "text": "Kuhajte na laganoj vatri 3 sata, bez miješanja. Kako tečnost isparava, dolijevajte vodu da nivo ostane isti; ukupno se obično dolije oko 5 šolja.",
+              "timerMinutes": 180,
+              "timerLabel": "Kuhanje sarme"
+            },
+            {
+              "text": "Poslužite po 2–6 sarmi s jednom ili dvije kutlače soka, po želji s kiselom pavlakom."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Sarmu ne miješajte dok se kuha. Miješanje otvara rolnice, a nadjev ispadne u sok. Lonac možete samo lagano protresti.",
+        "Listove probajte prije punjenja. Kiseli kupus se razlikuje po slanoći, a preslani listovi presole cijelo jelo, jer i nadjev i suho meso već nose so.",
+        "Sarme rolajte čvrsto, ali ne prejako: riža u nadjevu tokom kuhanja nabubri i treba joj prostora."
+      ],
+      "substitutions": [
+        "Umjesto junetine izvor dopušta teletinu ili janjetinu. Umjesto suhog goveđeg mesa može pastrma ili dimljena slanina.",
+        "Umjesto paradajz pirea možete koristiti 2 kašike koncentrata paradajza, uz nešto više vode za zapršku."
+      ],
+      "storage": "Kuhana sarma stoji u frižideru do 3 dana. Podgrijavajte samo količinu koju ćete pojesti, na laganoj vatri najmanje 15 minuta, dok ne bude vruća; ako je sok pregust, dolijte malo vode. Ohlađenu sarmu možete zamrznuti do 3 mjeseca. Izvor radije zamrzava sirove, zarolane sarme, pa ih nakon odmrzavanja u frižideru preko noći kuha po receptu.",
+      "faq": [
+        {
+          "question": "Mogu li sarmu podgrijati više puta?",
+          "answer": "Izvor savjetuje da se sarma ne podgrijava dvaput. Zato podgrijte samo onoliko koliko ćete pojesti, a ostatak ostavite u frižideru."
+        }
+      ],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [
+        "pire-krompir"
+      ],
+      "seo": {
+        "title": "Sarma u kiselom kupusu s mljevenim mesom i rižom",
+        "description": "Sarma od kiselog kupusa punjenog mljevenom junetinom, rižom i suhim mesom, kuhana tri sata u zaprški. Može se zarolati dan ranije. Recept korak po korak."
+      },
+      "facebook": {},
+      "sourceNote": "Balkan Lunch Box – Sarma (Stuffed Sour Cabbage Rolls): https://balkanlunchbox.com/sarma-stuffed-cabbage/. Odabrana verzija: kiseli (fermentisani) kupus, nadjev od junetine i riže, suho juneće meso u nadjevu i za kuhanje, višesatno lagano kuhanje (plan SNK-0443). Izvor daje američke mjere: 16 oz ≈ 450 g, 3–4 oz ≈ 85–115 g, 7 oz = 200 g, 24 oz = 680 g, 3,5 oz ulja ≈ 100 ml, 5,5 oz ≈ 155 g, 2 oz mlijeka ≈ 60 ml; 1,5 × 2,5 inča ≈ 4 × 6 cm. Izvor ne navodi broj porcija: 25–35 sarmi, 2–6 po osobi. Uz sarmu izvor predlaže hljeb i pire krompir."
+    },
+    {
+      "planId": "SNK-0018",
+      "slug": "sutlija-sutlijas",
+      "title": "Sutlija (sutlijaš) s rižom i mlijekom",
+      "alternativeNames": [
+        "sutlija",
+        "sutlijaš",
+        "sutlijaš recept",
+        "bosanska sutlija",
+        "riža na mlijeku"
+      ],
+      "summary": "Domaća sutlija od okrugle riže i mlijeka s vanilijom, kuhana u loncu oko pola sata, bez pudinga i bez pečenja. Može se jesti topla ili ohlađena.",
+      "beforeYouStart": "Mlijeko se dodaje u tri navrata, pa ostanite uz lonac i miješajte. Sutlija na kraju izgleda rijetko, ali se zgusne dok se hladi.",
+      "primaryCategory": "deserti-i-kreme",
+      "tags": [
+        "riza",
+        "mlijeko",
+        "vanilija"
+      ],
+      "authors": [
+        "amra-hodzic"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "kuhanje"
+      ],
+      "diets": [
+        "vegetarijansko",
+        "bez-jaja",
+        "bez-glutena"
+      ],
+      "meals": [],
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 5,
+        "cookMinutes": 35,
+        "totalMinutes": 40
+      },
+      "equipment": {
+        "other": "lonac s debljim dnom"
+      },
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "riza",
+              "amount": 230,
+              "unit": "ml",
+              "label": "bijele okrugle riže",
+              "note": "1 šolja od 230 ml, npr. arborio"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 230,
+              "unit": "ml",
+              "label": "hladne vode"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 690,
+              "unit": "ml",
+              "label": "mlijeka",
+              "note": "u tri dijela po 230 ml"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 100,
+              "unit": "g",
+              "label": "šećera",
+              "note": "ukupno, oko 7 kašika"
+            },
+            {
+              "ingredient": "ekstrakt-vanilije",
+              "amount": 0.25,
+              "unit": "kasicica",
+              "label": "ekstrakta vanilije",
+              "altGroup": "vanilija"
+            },
+            {
+              "ingredient": "vanilin-secer",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "vanilin šećera",
+              "altGroup": "vanilija"
+            },
+            {
+              "ingredient": "cimet",
+              "unit": "po-ukusu",
+              "label": "cimet, za posipanje",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Rižu dobro operite, očistite i ocijedite."
+            },
+            {
+              "text": "Stavite rižu u lonac, dodajte 230 ml hladne vode i kuhajte na srednje slaboj vatri 7–8 minuta, povremeno miješajući.",
+              "timerMinutes": 8,
+              "timerLabel": "Riža u vodi"
+            },
+            {
+              "text": "Dodajte prvih 230 ml mlijeka i kuhajte 7–8 minuta, promiješajte jednom ili dvaput.",
+              "timerMinutes": 8,
+              "timerLabel": "Prvo mlijeko"
+            },
+            {
+              "text": "Dodajte drugih 230 ml mlijeka, vanilije i polovinu šećera, pa kuhajte 7–8 minuta uz češće miješanje.",
+              "timerMinutes": 8,
+              "timerLabel": "Drugo mlijeko"
+            },
+            {
+              "text": "Dodajte posljednjih 230 ml mlijeka i ostatak šećera i kuhajte još 7–8 minuta, često miješajući.",
+              "timerMinutes": 8,
+              "timerLabel": "Treće mlijeko"
+            },
+            {
+              "text": "Probajte rižu: treba biti mekana, kremasta i nabubrela, a iznad nje treba ostati malo mlijeka. Ako je još tvrda, kuhajte nekoliko minuta duže."
+            },
+            {
+              "text": "Za toplu sutliju odmah je rasporedite u zdjelice, ostavite 5–10 minuta i pospite cimetom."
+            },
+            {
+              "text": "Za hladnu sutliju ostavite je da se ohladi, pa je pokrivenu držite u frižideru do posluživanja."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Šećer je jedna ukupna količina od 100 g: pola ide s drugim mlijekom, a pola s trećim. Ne dodajte ga dvaput u punoj količini.",
+        "Kuhajte polako i miješajte sve češće kako se mlijeko dodaje. Na jakoj vatri mlijeko zagori za dno prije nego što riža omekša.",
+        "Ne kuhajte dok sva tečnost ne nestane. Sutlija koja u loncu izgleda gotova i gusta, kad se ohladi, bude tvrda, jer riža nastavlja upijati mlijeko."
+      ],
+      "substitutions": [
+        "Za gušću sutliju umjesto posljednjih 230 ml dodajte samo 115 ml mlijeka.",
+        "Umjesto bijelog šećera izvor dopušta smeđi šećer ili med, po ukusu.",
+        "Za upola manju količinu uzmite po pola od svakog sastojka, uključujući i tri dijela mlijeka."
+      ],
+      "storage": "Sutlija stoji pokrivena u frižideru do 2 dana. Ako je želite toplu, podgrijte je prije dodavanja cimeta ili drugog posipa.",
+      "faq": [
+        {
+          "question": "Koja riža je najbolja za sutliju?",
+          "answer": "Bijela okrugla riža, npr. arborio. Ona pušta skrob i daje kremastu sutliju. Dugozrnata riža ostaje rastresita i sutlija bude rijetka."
+        }
+      ],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [],
+      "seo": {
+        "title": "Sutlija (sutlijaš) – domaći recept s rižom i mlijekom",
+        "description": "Domaća sutlija od okrugle riže, mlijeka i vanilije, kuhana oko pola sata bez pudinga i pečenja. Topla ili hladna, s cimetom. Recept korak po korak."
+      },
+      "facebook": {},
+      "sourceNote": "Balkan Lunch Box – Sutlijaš (Balkan rice pudding): https://balkanlunchbox.com/sticky-rice/. Odabrana verzija: osnovna sutlija s okruglom rižom, mlijekom i vanilijom, bez pudinga i bez pečenja; mlijeko u tri navrata (plan SNK-0018). Izvorne zapremine: šolja = 230 ml (ne 250 ml). Šećer: ukupno 3,5 oz ≈ 100 g; izvor ga dodaje u dva koraka, pa je podijeljen na pola."
+    },
+    {
+      "planId": "SNK-0001",
+      "slug": "domace-mekane-kifle",
+      "title": "Domaće mekane kifle",
+      "alternativeNames": [
+        "mliječne kiflice",
+        "kifle recept",
+        "mekane kifle",
+        "pamuk kifle",
+        "domaće kifle"
+      ],
+      "summary": "Mekane mliječne kifle od tijesta s kvascem, maslacem i hladnim mlijekom, premazane mlijekom. Od jedne ture dobije se 16 kifli, prazne ili s nadjevom po želji.",
+      "beforeYouStart": "Tijesto treba biti mekano, ali ne ljepljivo. Ne dodajte više brašna nego što je u receptu, jer kifle postanu tvrđe. Potrebna je i velika radna površina za krug promjera oko 60 cm.",
+      "primaryCategory": "hljeb-i-slana-peciva",
+      "tags": [
+        "dizano-tijesto",
+        "mlijeko",
+        "maslac"
+      ],
+      "authors": [
+        "emir-delic"
+      ],
+      "difficulty": "srednje",
+      "methods": [
+        "pecenje"
+      ],
+      "diets": [
+        "vegetarijansko",
+        "bez-jaja"
+      ],
+      "meals": [
+        "dorucak",
+        "vecera"
+      ],
+      "yield": {
+        "servings": 16,
+        "unit": "kifli",
+        "scalable": true
+      },
+      "times": {
+        "cookMinutes": 20,
+        "restMinutes": 50,
+        "restLabel": "dizanja tijesta"
+      },
+      "equipment": {
+        "temperature": 190,
+        "ovenMode": "gornji-donji",
+        "other": "lim s papirom za pečenje, oklagija"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Tijesto",
+          "items": [
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 550,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 10,
+              "unit": "g",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "so",
+              "amount": 10,
+              "unit": "g",
+              "label": "soli"
+            },
+            {
+              "ingredient": "kvasac",
+              "amount": 7,
+              "unit": "g",
+              "label": "suhog kvasca"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 50,
+              "unit": "ml",
+              "label": "suncokretovog ulja"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 50,
+              "unit": "g",
+              "label": "maslaca"
+            },
+            {
+              "ingredient": "jabukovo-sirce",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "jabukovog sirćeta",
+              "note": "ili limunovog soka ili mlijeka"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 300,
+              "unit": "ml",
+              "label": "hladnog mlijeka"
+            }
+          ]
+        },
+        {
+          "title": "Premaz",
+          "items": [
+            {
+              "ingredient": "mlijeko",
+              "unit": "po-potrebi",
+              "label": "hladnog mlijeka za premazivanje"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Tijesto",
+          "steps": [
+            {
+              "text": "U posudi pomiješajte brašno, šećer, so i suhi kvasac."
+            },
+            {
+              "text": "U šerpici na laganoj vatri otopite maslac u ulju, sklonite s vatre i dolijte hladno mlijeko."
+            },
+            {
+              "text": "U mlijeko dodajte sirće, pa postepeno dodajte suhe sastojke i dobro zamijesite tijesto."
+            },
+            {
+              "text": "Pokrijte tijesto i ostavite ga da se diže 30 minuta.",
+              "timerMinutes": 30,
+              "timerLabel": "Prvo dizanje"
+            },
+            {
+              "text": "Kratko ponovo premijesite tijesto."
+            }
+          ]
+        },
+        {
+          "title": "Oblikovanje i pečenje",
+          "steps": [
+            {
+              "text": "Na pobrašnjenoj površini razvaljajte tijesto u krug promjera oko 60 cm, debljine nekoliko milimetara."
+            },
+            {
+              "text": "Krug izrežite na 16 jednakih trouglova."
+            },
+            {
+              "text": "Svaki trougao urolajte od šireg kraja prema vrhu, lagano povlačeći tijesto. Ako koristite nadjev, stavite malo na širi dio prije rolanja."
+            },
+            {
+              "text": "Kifle poredajte na lim obložen papirom za pečenje."
+            },
+            {
+              "text": "Premažite ih hladnim mlijekom i ostavite da se dižu 15–20 minuta, dok se rerna zagrijava na 190 °C.",
+              "timerMinutes": 20,
+              "timerLabel": "Drugo dizanje"
+            },
+            {
+              "text": "Pecite 18–20 minuta, dok kifle ne porumene. U rerni s ventilatorom pecite 5 minuta kraće.",
+              "timerMinutes": 20,
+              "timerLabel": "Pečenje kifli"
+            },
+            {
+              "text": "Ostavite kifle da se hlade nepokrivene najmanje 15 minuta prije jela."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Tijesto ne smije biti ljepljivo, ali ni tvrdo. Ako se lijepi za ruke, mijesite ga još malo umjesto da dodajete brašno.",
+        "Kod rolanja lagano povlačite vrh trougla. Tako kifla dobije više zavoja i bude ujednačeno mekana.",
+        "S nadjevom ne pretjerujte. Previše nadjeva iscuri tokom pečenja i kifle se otvore."
+      ],
+      "substitutions": [
+        "Umjesto jabukovog sirćeta možete koristiti kašiku limunovog soka ili mlijeka.",
+        "Za slane kifle izvor ih prije pečenja premazuje razmućenim jajetom i posipa sezamom umjesto premaza od mlijeka. Za slatke kifle ih dok su tople pospite šećerom u prahu."
+      ],
+      "storage": "Kifle su dobre i sljedeći dan ako ih čuvate pokrivene ili u posudi s poklopcem.",
+      "faq": [
+        {
+          "question": "Mogu li kifle peći u rerni s ventilatorom?",
+          "answer": "Mogu, na istih 190 °C, ali oko 5 minuta kraće. Izvor kao drugu mogućnost navodi i pečenje na 170 °C, 18–20 minuta."
+        }
+      ],
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "servedWith": [],
+      "seo": {
+        "title": "Domaće mekane kifle s mlijekom – recept za 16 kifli",
+        "description": "Mekane domaće kifle od tijesta s kvascem, maslacem i hladnim mlijekom, premazane mlijekom. Recept za 16 kifli, prazne ili s nadjevom. Recept korak po korak."
+      },
+      "facebook": {},
+      "sourceNote": "Sašina kuhinja – Mliječne kiflice: https://sasina-kuhinja.com/videorecepti/mlijecne-kiflice-recept. Odabrana verzija: prazne mliječne kifle s kvascem, izvorne gramaže, premaz mlijekom, bez čokoladnog punjenja (plan SNK-0001; uključuje i temu SNK-0035 Pamuk kifle). NEDOSTAJE: vrijeme pripreme i miješenja (izvor ga ne navodi), pa ukupno vrijeme nije upisano; poznato je 30 + 15–20 min dizanja i 18–20 min pečenja."
+    }
+  ]
+}
