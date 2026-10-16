@@ -39,7 +39,7 @@ async function main() {
     data: {
       pantry: { quickIngredients: await ids('ingredients', ['jaja', 'krompir', 'piletina', 'mljeveno-meso', 'kore-za-pitu', 'mlijeko']) },
       featured: { items: featured.map((recipe) => ({ recipe })) },
-      sweet: { recipes: await ids('recipes', ['brownie', 'palacinke', 'sutlija-sutlijas']) },
+      sweet: { recipes: await ids('recipes', ['baklava', 'tufahije', 'tiramisu', 'brownie', 'palacinke', 'sutlija-sutlijas']) },
     },
   })
   await payload.updateGlobal({

@@ -4,6 +4,7 @@
  *   npm run content:import -- <datoteka.json>                 → PROBNI uvoz (dry-run), ništa se ne zapisuje
  *   npm run content:import -- <datoteka.json> --primijeni     → stvarni uvoz; recepti nastaju kao DRAFT
  *   ... --primijeni --update-drafts                            → postojećim receptima dodaje novu draft verziju
+ *   ... --primijeni --objavi                                   → novi recepti se odmah objavljuju (urednik je odobrio)
  *
  * Postojeće objave se nikad ne prepisuju tiho. Slike: putanje relativno na datoteku.
  * Opis formata: docs/content-model.md
@@ -23,6 +24,7 @@ async function main() {
   }
   const apply = process.argv.includes('--primijeni')
   const updateDrafts = process.argv.includes('--update-drafts')
+  const publish = apply && process.argv.includes('--objavi')
   let data: unknown
   try {
     data = JSON.parse(fs.readFileSync(file, 'utf8'))
@@ -31,7 +33,7 @@ async function main() {
     process.exit(2)
   }
   const payload = await getPayload({ config })
-  const report = await runImport(payload, data, { dryRun: !apply, updateDrafts, baseDir: path.dirname(path.resolve(file)) })
+  const report = await runImport(payload, data, { dryRun: !apply, updateDrafts, publish, baseDir: path.dirname(path.resolve(file)) })
   console.log(formatReport(report))
   if (!apply && report.ok) console.log('\nZa stvarni uvoz ponovite naredbu s --primijeni.')
   process.exit(report.ok ? 0 : 1)

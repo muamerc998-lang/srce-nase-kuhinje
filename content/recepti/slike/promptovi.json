@@ -48,5 +48,55 @@
     "slug": "domace-mekane-kifle",
     "alt": "Domaće mekane kifle zlatne korice u korpi obloženoj lanenim ubrusom",
     "dish": "plain soft homemade milk bread crescent rolls (kifle) with a light golden-brown glossy crust, no seeds or toppings, in a basket lined with a linen napkin"
+  },
+  {
+    "slug": "burek",
+    "alt": "Okrugli slagani burek s mesom zlatne korice, s izrezanim komadom koji otkriva slojeve kora i mesa",
+    "dish": "a round Bosnian layered burek pie made of thin phyllo sheets filled with seasoned ground beef, golden crisp top, one wedge cut and pulled out showing layers of phyllo and crumbly meat filling, in a round baking pan"
+  },
+  {
+    "slug": "lazanje",
+    "alt": "Komad lazanja s raguom od mesa, bešamelom i zapečenom mocarelom na tanjiru",
+    "dish": "a generous square slice of beef lasagna on a plate showing clear layers of pasta sheets, thick meat ragu and creamy white bechamel, with golden bubbly melted mozzarella on top, the baking dish with the rest of the lasagna behind"
+  },
+  {
+    "slug": "zeljanica",
+    "alt": "Pečena zeljanica od tankih kora s komadom koji pokazuje zeleni nadjev od špinata i sira",
+    "dish": "a rectangular baking pan of Bosnian layered phyllo spinach and cheese pie (zeljanica), golden flaky top, one square piece cut out showing thin phyllo layers with a green spinach, feta and egg filling"
+  },
+  {
+    "slug": "punjene-paprike",
+    "alt": "Pečene punjene paprike s mesom i rižom u umaku od paradajza u tepsiji",
+    "dish": "small yellow and red bell peppers stuffed with ground beef and rice, baked upright in a deep baking dish in a light tomato sauce, tops slightly browned, sprinkled with chopped parsley"
+  },
+  {
+    "slug": "cufte-u-sosu",
+    "alt": "Male juneće ćufte u crvenom paradajz sosu u tavi",
+    "dish": "small browned beef meatballs (cufte) simmered in a smooth red tomato and paprika sauce in a frying pan, sprinkled with herbs"
+  },
+  {
+    "slug": "begova-corba",
+    "alt": "Tanjir guste begove čorbe s piletinom, bamijom i kockicama mrkve",
+    "dish": "a bowl of thick creamy Bosnian chicken soup (begova corba) with shredded chicken, small pieces of okra and diced carrot, garnished with chopped parsley, a small dish of sour cream and a lemon wedge beside it"
+  },
+  {
+    "slug": "baklava",
+    "alt": "Komadi bosanske baklave s orasima u obliku romba, natopljeni agdom",
+    "dish": "diamond-shaped pieces of Bosnian walnut baklava with many thin crisp golden phyllo layers and walnut filling, glistening with sugar syrup, in a round baking pan with a few lemon slices on top"
+  },
+  {
+    "slug": "tufahije",
+    "alt": "Tufahija: jabuka kuhana u agdi punjena orasima, sa šlagom i polovicom oraha",
+    "dish": "a Bosnian tufahija dessert: a whole peeled apple poached in syrup until pale golden, filled with walnut filling, topped with a swirl of whipped cream and a walnut half, sitting in a glass dessert bowl with a little syrup"
+  },
+  {
+    "slug": "tiramisu",
+    "alt": "Komad tiramisua sa slojevima piškota i kreme od mascarponea, posut kakaom",
+    "dish": "a square slice of classic tiramisu on a plate showing two layers of coffee-soaked ladyfingers and thick mascarpone cream, dusted with cocoa powder on top"
+  },
+  {
+    "slug": "americke-palacinke",
+    "alt": "Naslagane debele američke palačinke na tanjiru s komadićem maslaca",
+    "dish": "a tall stack of thick fluffy golden American pancakes on a plate with a small pat of melting butter on top, no fruit and no syrup pooling"
   }
 ]
