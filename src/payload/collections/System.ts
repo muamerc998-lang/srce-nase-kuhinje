@@ -45,7 +45,8 @@ export const Media: CollectionConfig = {
   admin: { group: 'Sadržaj', defaultColumns: ['filename', 'alt', 'isDemo'] },
   access: { read: publicOrStaff, create: isStaff, update: isStaff, delete: isStaff },
   upload: {
-    staticDir: 'media',
+    // Slike se čuvaju u public/media i objavljuju preko gita (Vercel ih poslužuje kao statične fajlove).
+    staticDir: 'public/media',
     mimeTypes: ['image/jpeg', 'image/png', 'image/webp', 'image/avif'],
     focalPoint: true,
     crop: true,

@@ -123,7 +123,13 @@ Namirnice koje ne postoje u registru dodaju se u `ingredients` istog uvoza: kano
 
 ## 6. Slike (generisanje preko OpenAI API-ja)
 
-Integracija će biti dodana u projekat. Do tada važe pravila za promptove i obradu:
+**Postupak (bez vanjskog spremišta):**
+1. U `content/recepti/slike/promptovi.json` dodati `{ slug, alt, dish }` za svaki novi recept. `dish` je opis jela na engleskom prema receptu, a `alt` alt tekst na bosanskom.
+2. `npx tsx scripts/generisi-slike.ts content/recepti/slike/promptovi.json` napravi `content/recepti/slike/<slug>.webp` (1600 × 1200). Ključ je `OPENAI_API_KEY` u `.env.local`, a postojeće slike se preskaču. Svaku sliku pregledati.
+3. Uz `DATABASE_URL` iz `.env.neon` pokrenuti `npx tsx scripts/dodaj-slike.ts content/recepti/slike/promptovi.json`. Skripta pravi medij s izvorom „AI ilustracija“ i postavlja ga kao naslovnu sliku recepta. Fajlovi nastaju u `public/media/`.
+4. Fajlove iz `public/media/` commitati i pushati na `main`. Vercel ih objavljuje zajedno sa sajtom. Upload kroz `/admin` na live sajtu ne radi, jer Vercel ne dozvoljava pisanje fajlova.
+
+Pravila za promptove i obradu:
 
 **Sadržaj slike**
 - Slika mora prikazivati **baš ovo jelo**: iste glavne sastojke, iste slojeve, isti oblik (rolat, tepsija, krug), realnu boju i teksturu gotovog jela prema receptu. Ništa što nije u receptu (npr. bobičasto voće na torti koja ga nema).

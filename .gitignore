@@ -41,6 +41,13 @@ yarn-error.log*
 next-env.d.ts
 
 /media
+# demo slike (seed) se ne objavljuju; prave slike recepata u public/media idu u git
+/public/media/recept-*
+/public/media/kolekcija-*
+/public/media/obrok-*
+/public/media/pocetna-*
+/public/media/vodic-*
+/public/media/kat-*
 
 # Playwright
 node_modules/

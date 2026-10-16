@@ -10,7 +10,9 @@ function relativeUrl(url: string | null | undefined): string | null {
   const origin = siteUrl()
   // Payload uz trailingSlash dodaje '/' i na URL datoteke; datoteke se poslužuju bez njega.
   const clean = /\.[a-z0-9]{2,5}\/$/i.test(url) ? url.slice(0, -1) : url
-  return clean.startsWith(origin) ? clean.slice(origin.length) || '/' : clean
+  const rel = clean.startsWith(origin) ? clean.slice(origin.length) || '/' : clean
+  // Mediji su u public/media: poslužuju se direktno (/media/…), ne kroz Payload API.
+  return rel.startsWith('/api/media/file/') ? `/media/${rel.slice('/api/media/file/'.length)}` : rel
 }
 
 export function toImage(m: MaybeMedia, size?: 'card' | 'wide' | 'og' | 'thumb'): ImageView | null {
