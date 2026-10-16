@@ -1,4 +1,4 @@
-import { unstable_cache } from 'next/cache'
+import { unstable_cache } from './cache'
 import type { Where } from 'payload'
 import type { SearchState } from '@/lib/search/params'
 import { expandQuery, relevanceScore } from '@/lib/search/query'

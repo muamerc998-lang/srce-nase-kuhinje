@@ -1,4 +1,4 @@
-import { unstable_cache } from 'next/cache'
+import { unstable_cache } from './cache'
 import type { Submission, Member, SubmissionImage, Category } from '@/payload-types'
 import { payloadClient } from './payload'
 import type { ImageView } from '@/lib/recipes/types'

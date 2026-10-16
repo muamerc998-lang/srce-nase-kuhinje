@@ -1,4 +1,4 @@
-import { unstable_cache } from 'next/cache'
+import { unstable_cache } from './cache'
 import { toArticleView } from './article'
 import type { Guide, RecipeCollection, Page, Ingredient } from '@/payload-types'
 import { payloadClient, publicWhere } from './payload'

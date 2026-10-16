@@ -1,4 +1,4 @@
-import { unstable_cache } from 'next/cache'
+import { unstable_cache } from './cache'
 import type { Category } from '@/payload-types'
 import { payloadClient, publicWhere, isProduction } from './payload'
 import { toImage } from './mappers'

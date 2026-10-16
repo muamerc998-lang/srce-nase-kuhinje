@@ -1,4 +1,4 @@
-import { unstable_cache } from 'next/cache'
+import { unstable_cache } from './cache'
 import type { HomePage } from '@/payload-types'
 import { payloadClient } from './payload'
 import { getCardsByIds, getFacebookCards, getLatestCards } from './recipes'

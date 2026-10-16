@@ -1,4 +1,4 @@
-import { unstable_cache } from 'next/cache'
+import { unstable_cache } from './cache'
 import type { Recipe, Category, Guide } from '@/payload-types'
 import { payloadClient, publicWhere } from './payload'
 import { toCard, cardSelect, cardPopulate, toImage, toIngredientGroups, toStepGroups, authorNames, type RecipeCard } from './mappers'
