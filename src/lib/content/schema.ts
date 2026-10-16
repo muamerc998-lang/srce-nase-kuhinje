@@ -121,6 +121,12 @@ export const recipeImportSchema = z.object({
   image: z.object({ file: z.string().min(1), alt: text(200), credit: optText(120) }).optional(),
   /** interno: odakle su podaci recepta (obavezno za novi sadržaj, vidi PRAVILA-PISANJA.md) */
   sourceNote: optText(2000),
+  /** urednički članak iznad kartice recepta (content/UREDNICKI-VODIC.md) */
+  approach: z.enum(['prakticni', 'tehnika', 'tradicionalni', 'brzi', 'detaljni']).optional().nullable(),
+  article: z
+    .array(z.object({ level: z.enum(['h2', 'h3']).default('h2'), title: optText(120), body: text(6000) }))
+    .max(30)
+    .default([]),
   /** interno: ID iz sadržajnog plana (content/plan) */
   planId: z.string().regex(/^SNK-\d{3,4}$/).optional().nullable(),
   /** interno: tematska porodica (npr. Cheesecake) */

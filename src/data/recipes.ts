@@ -4,6 +4,8 @@ import { payloadClient, publicWhere } from './payload'
 import { toCard, cardSelect, cardPopulate, toImage, toIngredientGroups, toStepGroups, authorNames, type RecipeCard } from './mappers'
 import { effectiveTotal } from '@/lib/recipes/time'
 import type { IngredientLine } from '@/lib/recipes/types'
+import { parseTextBlocks } from '@/lib/content/article-text'
+import { headingId } from '@/lib/content/lexical'
 
 const HOUR = 3600
 
@@ -53,6 +55,12 @@ export function toRecipeView(r: Recipe) {
     equipment: r.equipment ?? {},
     ingredientGroups: toIngredientGroups(r),
     stepGroups: toStepGroups(r),
+    article: (r.article ?? []).map((sec, i) => ({
+      level: (sec.level === 'h3' ? 'h3' : 'h2') as 'h2' | 'h3',
+      title: sec.title ?? null,
+      id: sec.title ? headingId(sec.title) : `odjeljak-${i + 1}`,
+      blocks: parseTextBlocks(sec.body),
+    })),
     tips: (r.tips ?? []).map((t) => t.text),
     substitutions: (r.substitutions ?? []).map((t) => t.text),
     storage: r.storage ?? null,

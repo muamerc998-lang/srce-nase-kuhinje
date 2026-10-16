@@ -272,6 +272,8 @@ export async function runImport(payload: Payload, input: unknown, opts: ImportOp
       facebook: { postedAt: r.facebook.postedAt ?? undefined, postUrl: r.facebook.postUrl ?? undefined },
       sourceNote: r.sourceNote ?? undefined,
       planId: r.planId ?? undefined,
+      approach: (r.approach ?? undefined) as never,
+      article: r.article.map((a) => ({ level: a.level, title: a.title ?? undefined, body: a.body })),
       family: r.family ?? undefined,
       isDemo: demo,
     }

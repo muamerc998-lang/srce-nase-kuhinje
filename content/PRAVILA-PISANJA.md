@@ -1,6 +1,6 @@
 # Pravila pisanja — Srce naše kuhinje
 
-> **Obavezno pročitati prije pisanja bilo kojeg recepta, članka, vodiča ili opisa.**
+> **Obavezno pročitati prije pisanja bilo kojeg recepta, članka, vodiča ili opisa, zajedno s `content/UREDNICKI-VODIC.md`** (glas, pristup i struktura teksta).
 > Važi za AI i za urednike. Ako se neko pravilo ne može ispuniti, sadržaj se **ne izmišlja** — u isporuci se jasno navede šta nedostaje.
 
 ---
@@ -58,27 +58,12 @@ Plan je u `content/plan/content-plan-srce-nase-kuhinje.md`. Svaki zadatak ima tr
 - Tekst reference se **nikad ne kopira** — ni rečenice, ni pasusi, ni struktura uvoda. Činjenice da, formulacije ne.
 - Fotografije iz referenci se ne preuzimaju.
 
-## 3. Uvod i „blog“ dio — unikatna dodatna vrijednost
+## 3. Urednički tekst — vidi UREDNICKI-VODIC.md
 
-Uvod prije recepta i članci moraju biti **potpuno vlastiti tekst** i donositi nešto što čitalac ne dobije prepisivanjem recepta. Bez toga se sadržaj ne objavljuje.
-
-**Svaki recept ima bar 2 od ovih elemenata dodatne vrijednosti** (u poljima kratak opis, napomena prije početka, savjeti, zamjene, čuvanje, česta pitanja, ostaci):
-
-- **Zašto uspijeva** — šta je ključno (npr. „ohlađena čokolada ne obara šlag“).
-- **Najčešće greške** i kako ih izbjeći.
-- **Prepoznavanje gotovosti** — boja, tekstura, zvuk, test čačkalicom.
-- **Zamjene** koje stvarno rade (i šta se time mijenja).
-- **Planiranje** — šta se može uraditi dan ranije, koliko traje aktivni rad.
-- **Čuvanje i podgrijavanje**, zamrzavanje.
-- **Posluživanje** — uz šta ide (polje *Šta poslužiti uz ovo?*), ostaci (polje *Ostaci*).
-- **Domaći kontekst** — kad se jelo tradicionalno sprema, regionalne razlike u nazivu ili pripremi (samo ako je činjenica poznata, ne izmišljati).
-
-Pravila za uvod:
-- Kratak opis (`summary`): **1–2 rečenice, do 300 znakova**, opisuje jelo i glavnu korist (brzo, sočno, bez pečenja…). Bez „U ovom receptu ćete naučiti…“.
-- Napomena prije početka (`beforeYouStart`): samo ono što zaista treba znati prije prvog koraka (namakanje, sobna temperatura sastojaka, dan ranije).
-- **Bez generičkog punjenja**: zabranjeno je „Ovo je jedno od najomiljenijih jela“, „Svi ga vole“, „Lako je i jednostavno“ bez konkretnog razloga, historijske priče bez izvora, ponavljanje naslova.
-- Prvo lice („mi u uredništvu“) samo za stvarne uredničke odluke (npr. „Kalup od 24 cm daje višu tortu“), **nikad** izmišljeno iskustvo („Moja baka je…“).
-- Svaki tekst mora proći provjeru: **„Da li bi čitalac ovo znao samo iz liste sastojaka i koraka?“** Ako da — dopisati stvarnu vrijednost ili skratiti.
+Glas, urednički pristup, strukturu članka, naslove, originalnost u odnosu na referencu, dužinu i samoprovjeru određuje **`content/UREDNICKI-VODIC.md`**. Ovdje su samo pravila za kratka polja:
+- Kratak opis (`summary`): 1–2 rečenice, do 300 znakova. Kaže šta je jelo i po čemu je ovaj recept dobar izbor. Bez „U ovom receptu ćete naučiti…“.
+- Napomena prije početka (`beforeYouStart`): samo ono što zaista treba znati prije prvog koraka (namakanje, sobna temperatura, dan ranije). Prikazuje se u kartici recepta.
+- Prvo lice („mi u uredništvu“) samo za stvarne uredničke odluke, nikad za izmišljeno iskustvo.
 
 ## 4. Struktura recepta (polja u CMS-u / uvozu)
 
@@ -98,7 +83,8 @@ Format uvoza: `srce-nase-kuhinje/v1` — primjer `content/examples/primjer-uvoza
 | `equipment` | Kalup (dimenzije), temperatura, način pečenja — gdje je bitno. |
 | Sastojci | Svaki red: namirnica iz registra + količina + jedinica + `label` u padežu („glatkog brašna“) + `note` („sitno sjeckan“). Grupe za faze (Tijesto, Fil, Krema, Preljev). „Po ukusu“ bez količine. Alternative istim `altGroup`. Dekoracija `optional: true`. |
 | Koraci | **Jedna radnja po koraku**, imperativ, s temperaturom i trajanjem u tekstu. `timerMinutes` samo kad korak ima jasno trajanje. Grupe kao kod sastojaka. |
-| `tips`, `substitutions`, `storage` | Konkretno i provjerljivo iz reference ili opšte kuharske prakse — ne izmišljati rokove trajanja; kad nije sigurno, pisati oprezno („najbolje isti dan“). |
+| `approach`, `article` | Urednički pristup (interno) i članak iznad kartice: sekcije `{ level: h2/h3, title, body }`; u tekstu pasusi su odvojeni praznim redom, a red koji počinje s „- “ je stavka liste. Sve prema UREDNICKI-VODIC.md. |
+| `tips`, `substitutions`, `storage` | Kod novih recepata ostaju prazni, jer njihov sadržaj ide u članak. Rokove čuvanja ne izmišljati; kad nisu sigurni, pisati oprezno. |
 | `faq` | Samo stvarna pitanja o ovom receptu (0–3). Ne dodavati FAQ radi Googlea. |
 | `servedWith` | 1–4 postojeća recepta koja stvarno idu uz jelo. |
 | `relatedRecipes`, `relatedGuides` | Samo smislene veze. |
@@ -174,8 +160,8 @@ appetizing but authentic, no text, no logos, no people, 4:3.
 
 ## 8. Kategorije, oznake, kolekcije
 
-- **Kategorije** (vrsta jela): Glavna jela · Supe i čorbe · Pite i peciva · Salate · Predjela i prilozi · Slatki recepti (Torte, Kolači, Keksi i sitni kolači, Palačinke, Slatke pite i tartovi, Štrudle i slatka peciva, Deserti u čaši i hladni deserti) · Zimnica · Napici. Nove kategorije samo uz odluku urednika.
-- **Oznake** opisuju svojstvo, ne vrstu jela: `brzo`, `bez-pecenja`, `nedjeljni-rucak` … Najviše 5 po receptu. **Ne praviti novu oznaku za varijantu postojeće** — sinonim se spaja na glavnu (*Spojeno u*).
+- **Kategorije:** samo slugovi iz `src/lib/content/taxonomy.ts` (vidi §0). Nove kategorije samo uz odluku urednika.
+- **Oznake:** kanonske oznake iz `src/lib/content/taxonomy-texts.ts` (vidi §0).
 - **Namirnice** nisu oznake — idu kroz sastojke.
 - **Kolekcije** okupljaju recepte prema potrebi (Ručak do 30 minuta, Iz jedne posude, Obroci za ponijeti, Pripremi danas za sutra, Ideje za porodični ručak…). Javno se prikazuju tek s najmanje 3 objavljena recepta. Uvod kolekcije: 1–3 rečenice, vlastit tekst.
 
@@ -196,7 +182,7 @@ appetizing but authentic, no text, no logos, no people, 4:3.
 - [ ] Bosanski, ijekavica, termini iz §1.
 - [ ] `sourceNote` popunjen; ništa nije izmišljeno; `NEDOSTAJE:` navedeno gdje treba.
 - [ ] Nijedna rečenica nije prepisana iz reference.
-- [ ] Bar 2 elementa dodatne vrijednosti (§3); nema generičkog punjenja.
+- [ ] Članak prošao samoprovjeru iz UREDNICKI-VODIC.md §9.
 - [ ] Sastojci: sve namirnice postoje u registru ili su dodane; padeži u `label`; jedinice iz liste; rasponi i „po ukusu“ ispravni.
 - [ ] Koraci: jedna radnja po koraku; temperature i trajanja; tajmeri samo gdje ima smisla.
 - [ ] Vremena: ukupno = stvarno proteklo; težina prema kriterijima.

@@ -6,6 +6,7 @@ import * as migration_20261016_101612_obroci_clanci from './20261016_101612_obro
 import * as migration_20261016_102944_izvori from './20261016_102944_izvori';
 import * as migration_20261016_104017_ideje_plan from './20261016_104017_ideje_plan';
 import * as migration_20261016_141611_oznake_sastav from './20261016_141611_oznake_sastav';
+import * as migration_20261016_214542_urednicki_tekst from './20261016_214542_urednicki_tekst';
 
 export const migrations = [
   {
@@ -46,6 +47,11 @@ export const migrations = [
   {
     up: migration_20261016_141611_oznake_sastav.up,
     down: migration_20261016_141611_oznake_sastav.down,
-    name: '20261016_141611_oznake_sastav'
+    name: '20261016_141611_oznake_sastav',
+  },
+  {
+    up: migration_20261016_214542_urednicki_tekst.up,
+    down: migration_20261016_214542_urednicki_tekst.down,
+    name: '20261016_214542_urednicki_tekst'
   },
 ];

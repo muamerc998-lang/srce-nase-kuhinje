@@ -350,6 +350,21 @@ export interface Recipe {
         id?: string | null;
       }[]
     | null;
+  /**
+   * Pomaže da uzastopni recepti ne liče jedan na drugi. Ne prikazuje se javno.
+   */
+  approach?: ('prakticni' | 'tehnika' | 'tradicionalni' | 'brzi' | 'detaljni') | null;
+  /**
+   * Prva sekcija može biti bez naslova (uvod). Tekst: pasusi odvojeni praznim redom; red koji počinje s „- “ je stavka liste.
+   */
+  article?:
+    | {
+        level?: ('h2' | 'h3') | null;
+        title?: string | null;
+        body: string;
+        id?: string | null;
+      }[]
+    | null;
   tips?:
     | {
         text: string;
@@ -1301,6 +1316,15 @@ export interface RecipesSelect<T extends boolean = true> {
               image?: T;
               id?: T;
             };
+        id?: T;
+      };
+  approach?: T;
+  article?:
+    | T
+    | {
+        level?: T;
+        title?: T;
+        body?: T;
         id?: T;
       };
   tips?:

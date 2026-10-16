@@ -97,3 +97,29 @@ describe('zaštita formi', () => {
     expect(tooManyLinks('vidi https://a.test')).toBe(false)
   })
 })
+
+import { parseTextBlocks, parseInline, wordCount } from '@/lib/content/article-text'
+
+describe('tekst uredničkog članka', () => {
+  it('razdvaja pasuse i liste', () => {
+    expect(parseTextBlocks('Prvi red\nnastavak.\n\nDrugi pasus.\n- jedan\n- dva\n\n- tri')).toEqual([
+      { type: 'p', text: 'Prvi red nastavak.' },
+      { type: 'p', text: 'Drugi pasus.' },
+      { type: 'ul', items: ['jedan', 'dva'] },
+      { type: 'ul', items: ['tri'] },
+    ])
+  })
+  it('prazan tekst daje prazan niz', () => {
+    expect(parseTextBlocks(null)).toEqual([])
+  })
+  it('prepoznaje samo interne linkove', () => {
+    expect(parseInline('Uz [ćufte](/recepti/cufte-u-sosu/) i [vanjski](https://a.test).')).toEqual([
+      { type: 'text', text: 'Uz ' },
+      { type: 'link', text: 'ćufte', href: '/recepti/cufte-u-sosu/' },
+      { type: 'text', text: ' i [vanjski](https://a.test).' },
+    ])
+  })
+  it('broji riječi bez oznaka linkova', () => {
+    expect(wordCount(['Dva [kratka linka](/a/)'])).toBe(3)
+  })
+})

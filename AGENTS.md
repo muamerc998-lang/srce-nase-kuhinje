@@ -10,7 +10,7 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 # Srce naše kuhinje — napomene za rad na projektu
 
-- **Prije pisanja bilo kojeg sadržaja (recepti, članci, vodiči, opisi, SEO, slike) obavezno pročitati `content/PRAVILA-PISANJA.md` i držati ga se.**
+- **Prije pisanja bilo kojeg sadržaja (recepti, članci, vodiči, opisi, SEO, slike) obavezno pročitati `content/UREDNICKI-VODIC.md` (glas, pristup, struktura) i `content/PRAVILA-PISANJA.md` (izvori, polja, SEO, slike, uvoz) i držati ih se.**
 
 - Sav javni tekst, nazivi polja i poruke: bosanski, ijekavica (mlijeko, kuhanje, krompir, kašika, rerna).
 - Shema baze se mijenja samo migracijama (`npm run migrate:create -- naziv`), nikad `push`.

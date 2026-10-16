@@ -1203,17 +1203,8 @@
           ]
         }
       ],
-      "tips": [
-        "Sastojci trebaju stajati tijesno, u jednom sloju. U preširokoj tepsiji tečnost brže ispari i na kraju ostane malo umaka.",
-        "Brašnasti krompir se ispeče za isto vrijeme kao piletina. Mladi ili voštani krompir pecite sam 20 minuta prije nego što dodate ostale sastojke.",
-        "Krompir je gotov kad ga viljuška probode bez otpora, a koža piletine je zlatna i hrskava na vrhu."
-      ],
-      "substitutions": [
-        "Zabatke bez kosti i kože dodajte tek nakon prvih 20 minuta pečenja, inače se prepeku.",
-        "Pileća prsa izvor ne preporučuje jer se lako isuše. Ako ih ipak koristite, pecite ih samo posljednjih 20 minuta.",
-        "Senf malo zgusne umak i doda okus, ali jelo je dobro i bez njega. Med možete zamijeniti s 1 kašikom šećera.",
-        "Uz krompir se mogu peći i tikvice, bundeva, batat ili klip kukuruza. Origano možete zamijeniti ruzmarinom ili majčinom dušicom."
-      ],
+      "tips": [],
+      "substitutions": [],
       "storage": null,
       "faq": [],
       "relatedRecipes": [],
@@ -1224,7 +1215,45 @@
         "description": "Piletina s krompirom iz rerne u umaku od limuna, bijelog luka i origana, s cherry paradajzom i crvenim lukom. Sve u jednoj tepsiji. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "RecipeTin Eats – Mediterranean Baked Chicken Dinner: https://www.recipetineats.com/mediterranean-baked-chicken-dinner/. Odabrana verzija: komadi piletine s kosti i kožom, krompir i paradajz koji se dodaje nakon 20 minuta (plan SNK-0399). Šolja = 250 ml. Ukupno vrijeme 65 min = 10 min pripreme + 55 min pečenja (izvor navodi 55 min ukupno, što ne uključuje pripremu). Izvor nudi 4–5 porcija; upisane su 4. NEDOSTAJE: veličina tepsije (izvor navodi samo da sastojci stanu tijesno) i upute za čuvanje."
+      "sourceNote": "RecipeTin Eats – Mediterranean Baked Chicken Dinner: https://www.recipetineats.com/mediterranean-baked-chicken-dinner/. Odabrana verzija: komadi piletine s kosti i kožom, krompir i paradajz koji se dodaje nakon 20 minuta (plan SNK-0399). Šolja = 250 ml. Ukupno vrijeme 65 min = 10 min pripreme + 55 min pečenja (izvor navodi 55 min ukupno, što ne uključuje pripremu). Izvor nudi 4–5 porcija; upisane su 4. NEDOSTAJE: veličina tepsije (izvor navodi samo da sastojci stanu tijesno) i upute za čuvanje.",
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Pečena piletina s krompirom iz jedne tepsije zvuči kao jelo u kojem se ne može pogriješiti, ali dva problema su česta: suha piletina i tepsija bez umaka. U ovom receptu piletina se peče u tečnosti od limunovog soka, temeljca, bijelog luka i origana, pa se umak stvara u samoj tepsiji dok se meso i krompir peku.\n\nRecept je jednostavan, ali tri odluke prave razliku: koji dijelovi piletine, kolika tepsija i kada dodati paradajz."
+        },
+        {
+          "level": "h2",
+          "title": "Bataci i zabatci s kosti, a ne file",
+          "body": "Komadi s kosti i kožom podnose skoro sat u rerni i ostanu sočni. Koža štiti meso odozgo i na kraju postane zlatna i hrskava, a kost usporava prodiranje toplote, pa se meso ne prepeče prije nego što krompir omekša.\n\nZabatke bez kosti i kože možete koristiti, ali ih dodajte tek nakon prvih 20 minuta pečenja, inače će se isušiti. Pileća prsa se u ovom jelu lako isuše, pa ih izvorni recept ne preporučuje. Ako ih ipak koristite, neka se peku samo posljednjih 20 minuta."
+        },
+        {
+          "level": "h2",
+          "title": "Kad je tepsija prevelika",
+          "body": "Ovo je najčešći razlog zašto na kraju ostane malo umaka. U širokoj tepsiji tečnost se razlije u tanak sloj i ispari dok se piletina peče, pa se krompir na dnu počne lijepiti umjesto da se kuha u umaku.\n\nIzaberite tepsiju u koju krompir, luk i piletina stanu tijesno, u jednom sloju, jedno do drugog. Ne treba ih slagati jedno na drugo, ali ne smije biti ni većih praznih površina po dnu."
+        },
+        {
+          "level": "h2",
+          "title": "Zašto paradajz ide tek na pola pečenja",
+          "body": "Cherry paradajz se peče mnogo brže od piletine i krompira. Dodan na početku, potpuno bi se raspao i izgubio oblik. Kad ga dodate nakon prvog pečenja, omekša i pusti dio soka u umak, a ostane cio.\n\nTada se jelo i dodatno začini solju, biberom i kapljicom maslinovog ulja, jer su paradajz i krompir na vrhu još neposoljeni."
+        },
+        {
+          "level": "h2",
+          "title": "Krompir i piletina trebaju biti gotovi zajedno",
+          "body": "Brašnasti krompir isječen na komade od oko 2,5 cm ispeče se za isto vrijeme kao bataci. Mladi ili voštani krompir je čvršći i treba mu duže, pa ga pecite sam 20 minuta prije nego što dodate piletinu i ostale sastojke.\n\nKrompir je gotov kad ga viljuška probode bez otpora. Piletina je gotova kad je koža zlatna, a meso uz kost više nije ružičasto. Ako niste sigurni, zarežite najdeblji batak do kosti: sok koji izađe treba biti bistar."
+        },
+        {
+          "level": "h2",
+          "title": "Marinada: dan ranije ili odmah",
+          "body": "Piletinu možete ostaviti u marinadi u frižideru do 24 sata, pa sutradan samo složiti tepsiju i staviti je u rernu. Ako nemate vremena, nastavite odmah: umaka ima dovoljno da piletina dobije okus i bez marinade preko noći.\n\nDijon senf malo zgusne umak i doda mu dubinu, ali jelo uspijeva i bez njega. Med se može zamijeniti s jednom kašikom šećera. Origano je osnovni začin, a umjesto njega se mogu staviti ruzmarin ili majčina dušica."
+        },
+        {
+          "level": "h2",
+          "title": "Drugo povrće u istoj tepsiji",
+          "body": "Uz krompir se mogu peći tikvice, bundeva, batat ili klip kukuruza. Pazite da tepsija i dalje bude ispunjena u jednom sloju, a ne prepuna, jer povrće u previše slojeva pušta vodu i kuha se umjesto da se peče.\n\nUmak s dna tepsije je dio jela, pa ga prelijte preko piletine i krompira pri posluživanju."
+        }
+      ]
     },
     {
       "planId": "SNK-0418",
@@ -1373,25 +1402,60 @@
           ]
         }
       ],
-      "tips": [
-        "Ne koristite štapni mikser, blender ni multipraktik: od jakog miješanja krompir brzo postane ljepljiv. Ručni mikser možete kratko uključiti, samo dok pire ne postane kremast.",
-        "Ocijeđen krompir ostavite minutu u vrućem loncu da ispari voda. Suh krompir upije više maslaca i mlijeka, a pire ne bude vodenast.",
-        "Brašnasti krompir daje rastresit i kremast pire. Mladi i voštani krompir se ne raspada kuhanjem, pa je bolji za salatu."
-      ],
-      "substitutions": [
-        "Po želji umiješajte malo krem sira ili kisele pavlake, bijeli luk prepržen na maslacu ili sitno sjeckan mladi luk."
-      ],
-      "storage": "Do 30 minuta pire držite toplim u zdjeli čvrsto pokrivenoj folijom, na toplom mjestu. Do 2 sata ga možete držati u zdjeli iznad lonca s vodom koja lagano ključa, tako da zdjela ne dodiruje vodu. Prije posluživanja ga promiješajte.",
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
       "faq": [],
       "relatedRecipes": [],
       "relatedGuides": [],
-      "servedWith": [],
+      "servedWith": [
+        "cufte-u-sosu",
+        "punjene-paprike"
+      ],
       "seo": {
         "title": "Pire krompir s maslacem i mlijekom – kremast i domaći",
         "description": "Kremast pire krompir s maslacem i toplim mlijekom, izgnječen ručno, gotov za 30 minuta. Koji krompir odabrati i kako ga držati toplim. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "RecipeTin Eats – Creamy Buttery Mashed Potato: https://www.recipetineats.com/mashed-potato/. Odabrana verzija: osnovni pire s maslacem i mlijekom, ručno gnječenje, bez blendera i bez većeg omjera maslaca iz luksuznih varijanti (plan SNK-0418). Šolja = 250 ml. Ukupno vrijeme izračunato: 10 min pripreme + 20 min kuhanja. NEDOSTAJE: rok čuvanja u frižideru i podgrijavanje (izvor ih ne navodi), pa nisu upisani."
+      "sourceNote": "RecipeTin Eats – Creamy Buttery Mashed Potato: https://www.recipetineats.com/mashed-potato/. Odabrana verzija: osnovni pire s maslacem i mlijekom, ručno gnječenje, bez blendera i bez većeg omjera maslaca iz luksuznih varijanti (plan SNK-0418). Šolja = 250 ml. Ukupno vrijeme izračunato: 10 min pripreme + 20 min kuhanja. NEDOSTAJE: rok čuvanja u frižideru i podgrijavanje (izvor ih ne navodi), pa nisu upisani.",
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Dobar pire krompir ima samo četiri sastojka: krompir, maslac, mlijeko i so. Zato na rezultat najviše utiču izbor krompira i način na koji se gnječi. Isti sastojci mogu dati rastresit, kremast pire ili gustu, ljepljivu masu koja se vuče za kašikom.\n\nOvdje je objašnjeno šta odlučuje o teksturi, kako pire popraviti dok ga pravite i kako ga držati toplim dok se ostatak ručka dovršava."
+        },
+        {
+          "level": "h2",
+          "title": "Koji krompir je najbolji za pire",
+          "body": "Za pire se uzima brašnasti [krompir](/namirnice/krompir/). Ima više skroba i manje vode, pa se kuhanjem raspada i lako gnječi u glatku masu.\n\nVoštani i mladi krompir zadrže oblik i nakon dugog kuhanja. Od njih pire ostane grudvast ili postane gnjecav, ali su zato dobri za salate, poput [ruske salate](/recepti/ruska-salata/), gdje kocke krompira moraju ostati cijele.\n\nKrompir isjecite na podjednake kocke. Ako su komadi različite veličine, manji se raspadnu dok veći još imaju tvrdu sredinu, a tvrdi komadi ostanu kao grudice u pireu."
+        },
+        {
+          "level": "h2",
+          "title": "Zašto pire postane ljepljiv",
+          "body": "Kuhani krompir je pun nabubrenih zrnaca skroba. Ručna gnječilica ih uglavnom ostavi cijela, pa je pire rastresit. Štapni mikser, blender i multipraktik ih jakim i brzim miješanjem razbiju, skrob izađe i pire se za nekoliko sekundi pretvori u žilavu, ljepljivu masu. To se kasnije ne može popraviti dodavanjem maslaca ni mlijeka.\n\nZato je ručna gnječilica najsigurniji izbor. Ručni mikser s metlicama možete uključiti samo kratko, na kraju, kad je krompir već izgnječen i treba ga samo izjednačiti."
+        },
+        {
+          "level": "h2",
+          "title": "Suh krompir upije više maslaca",
+          "body": "Minuta u vrućem loncu nakon cijeđenja nije usputan korak. Voda koja ostane na krompiru razrijedi pire, pa bude vodenast i blijed u okusu. Kad ta voda ispari, krompir upije maslac i mlijeko umjesto nje.\n\nMlijeko dodajte toplo. Hladno mlijeko ohladi pire i teže se sjedini s krompirom. Ako vam treba rjeđi pire, mlijeko dolijevajte postepeno i gnječite nakon svakog dodatka. Pire se lako razrijedi, a teško zgusne."
+        },
+        {
+          "level": "h2",
+          "title": "Kako pire krompir držati toplim do ručka",
+          "body": "Pire je najbolji odmah, ali se često završi prije mesa. Do pola sata ga možete držati u zdjeli čvrsto pokrivenoj folijom, na toplom mjestu.\n\nZa duže čekanje, do dva sata, zdjelu stavite iznad lonca s vodom koja lagano ključa, tako da zdjela ne dodiruje vodu. Para ga grije odozdo, a pire se ne lijepi za dno kao u loncu na ringli. Prije posluživanja ga promiješajte."
+        },
+        {
+          "level": "h2",
+          "title": "Dodaci koji ne kvare teksturu",
+          "body": "Osnovni pire možete obogatiti bez promjene postupka. Na kraju umiješajte malo krem sira ili kisele pavlake za blago kiselkast okus, bijeli luk prepržen na maslacu ili sitno sjeckan mladi luk. Dodajte ih nakon gnječenja i samo kratko promiješajte kašikom, da pire ne izgubi rastresitost."
+        },
+        {
+          "level": "h2",
+          "title": "Uz šta ide pire krompir",
+          "body": "Pire je prilog za jela koja imaju umak, jer ga upije bolje od kuhanog ili pečenog krompira. Dobro ide uz [ćufte u sosu](/recepti/cufte-u-sosu/), [punjene paprike](/recepti/punjene-paprike/), šnicle i pečeno meso."
+        }
+      ]
     }
   ]
 }

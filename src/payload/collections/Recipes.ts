@@ -306,6 +306,43 @@ export const Recipes: CollectionConfig = {
           ],
         },
         {
+          label: 'Urednički tekst',
+          description: 'Članak iznad kartice recepta. Pisati po content/UREDNICKI-VODIC.md: struktura, broj i nazivi sekcija zavise od jela.',
+          fields: [
+            {
+              name: 'approach',
+              type: 'select',
+              label: 'Urednički pristup (interno)',
+              access: { read: staffField },
+              admin: { description: 'Pomaže da uzastopni recepti ne liče jedan na drugi. Ne prikazuje se javno.' },
+              options: [
+                { label: 'Praktični vodič', value: 'prakticni' },
+                { label: 'Tehnika i rezultat', value: 'tehnika' },
+                { label: 'Tradicionalni recept', value: 'tradicionalni' },
+                { label: 'Brzi svakodnevni recept', value: 'brzi' },
+                { label: 'Detaljniji kulinarski vodič', value: 'detaljni' },
+              ],
+            },
+            {
+              name: 'article',
+              type: 'array',
+              label: 'Sekcije članka',
+              labels: { singular: 'Sekcija', plural: 'Sekcije' },
+              admin: { description: 'Prva sekcija može biti bez naslova (uvod). Tekst: pasusi odvojeni praznim redom; red koji počinje s „- “ je stavka liste.' },
+              fields: [
+                {
+                  type: 'row',
+                  fields: [
+                    { name: 'level', type: 'select', label: 'Nivo naslova', defaultValue: 'h2', options: [{ label: 'H2', value: 'h2' }, { label: 'H3', value: 'h3' }], admin: { width: '20%' } },
+                    { name: 'title', type: 'text', label: 'Naslov (opcionalno)', admin: { width: '80%' } },
+                  ],
+                },
+                { name: 'body', type: 'textarea', label: 'Tekst', required: true },
+              ],
+            },
+          ],
+        },
+        {
           label: 'Savjeti i pitanja',
           fields: [
             { name: 'tips', type: 'array', label: 'Savjeti', labels: { singular: 'Savjet', plural: 'Savjeti' }, fields: [{ name: 'text', type: 'textarea', label: 'Tekst', required: true }] },

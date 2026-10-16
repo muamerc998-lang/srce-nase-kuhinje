@@ -96,6 +96,8 @@ async function main() {
         title: g.title ?? null,
         steps: (g.steps ?? []).map((s) => ({ title: s.title ?? null, text: s.text, timerMinutes: s.timerMinutes ?? null, timerLabel: s.timerLabel ?? null })),
       })),
+      approach: r.approach ?? null,
+      article: (r.article ?? []).map((a) => ({ level: a.level ?? 'h2', title: a.title ?? null, body: a.body })),
       tips: (r.tips ?? []).map((t) => t.text),
       substitutions: (r.substitutions ?? []).map((t) => t.text),
       storage: r.storage ?? null,

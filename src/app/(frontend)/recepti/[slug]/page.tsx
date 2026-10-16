@@ -30,6 +30,7 @@ import {
   AdSlot,
 } from '@/components/recipe/RecipeSections'
 import { CommentForm, CorrectionForm } from '@/components/forms/Forms'
+import { RecipeArticle } from '@/components/recipe/RecipeArticle'
 import { ImagePlaceholder } from '@/components/ui/ImagePlaceholder'
 import { recipeJsonLd } from '@/lib/seo/jsonld'
 import { absolute, formatDate, pageMeta } from '@/lib/seo/meta'
@@ -212,41 +213,50 @@ export default async function RecipePage({ params }: Props) {
             </div>
           </div>
 
-          <div className="mt-6">
-            <RecipeFacts recipe={recipe} />
-          </div>
+          <RecipeArticle sections={recipe.article} recipeTitle={recipe.title} />
           <AdSlot slot="recipe-after-facts" enabled={adsOn('recipe-after-facts')} />
 
-          {recipe.beforeYouStart && (
-            <aside
-              className="avoid-break mt-6 rounded-xl border-l-4 border-brand bg-soft px-5 py-4"
-              aria-label="Prije početka"
-            >
-              <p>
-                <strong>Prije početka:</strong> {recipe.beforeYouStart}
-              </p>
-            </aside>
-          )}
-
-          <div
+          <section
             id="recept"
-            className="recipe-columns mt-8 grid scroll-mt-24 gap-10 lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)]"
+            aria-labelledby="kartica-recepta"
+            className="card-stripes mt-10 scroll-mt-24 rounded-3xl border border-line bg-white p-5 pt-7 shadow-[var(--shadow-card)] sm:p-8 sm:pt-10"
           >
-            <div className="rounded-3xl border border-line bg-cream p-5 sm:p-6 lg:sticky lg:top-24 lg:self-start">
-              <IngredientsPanel />
+            <p className="eyebrow">Recept</p>
+            <h2 id="kartica-recepta" className="mt-1 text-[1.6rem] font-semibold leading-tight sm:text-[2rem]">
+              {recipe.title}
+            </h2>
+            <div className="mt-5">
+              <RecipeFacts recipe={recipe} />
             </div>
-            <section aria-labelledby="priprema-naslov" id="priprema" className="scroll-mt-24">
-              <div className="flex flex-wrap items-center justify-between gap-3">
-                <h2 id="priprema-naslov" className="text-2xl font-semibold">
-                  Priprema
-                </h2>
-                <CookingMode />
+
+            {recipe.beforeYouStart && (
+              <aside
+                className="avoid-break mt-6 rounded-xl border-l-4 border-brand bg-soft px-5 py-4"
+                aria-label="Prije početka"
+              >
+                <p>
+                  <strong>Prije početka:</strong> {recipe.beforeYouStart}
+                </p>
+              </aside>
+            )}
+
+            <div className="recipe-columns mt-8 grid gap-10 lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)]">
+              <div className="rounded-3xl border border-line bg-cream p-5 sm:p-6 lg:sticky lg:top-24 lg:self-start">
+                <IngredientsPanel />
               </div>
-              <div className="mt-5">
-                <StepsList recipe={recipe} />
-              </div>
-            </section>
-          </div>
+              <section aria-labelledby="priprema-naslov" id="priprema" className="scroll-mt-24">
+                <div className="flex flex-wrap items-center justify-between gap-3">
+                  <h3 id="priprema-naslov" className="text-2xl font-semibold">
+                    Priprema
+                  </h3>
+                  <CookingMode />
+                </div>
+                <div className="mt-5">
+                  <StepsList recipe={recipe} />
+                </div>
+              </section>
+            </div>
+          </section>
 
           <AdSlot slot="recipe-after-steps" enabled={adsOn('recipe-after-steps')} />
 
