@@ -27,6 +27,7 @@ export async function generateMetadata(): Promise<Metadata> {
     robots: indexingAllowed() ? { index: true, follow: true } : { index: false, follow: false },
     openGraph: { siteName: s.siteName, locale: 'bs_BA', type: 'website' },
     twitter: { card: 'summary_large_image' },
+    verification: { google: 'tEmfbWZ-d2vl95JhwELgsZwCFHNS-wm-p-6idUkRFLk' },
   }
 }
 
