@@ -42,7 +42,7 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   // brašno, šećer, pečenje
   'glatko-brasno': n(364, 10.3, 76.3, 1, { density: 0.53 }),
   secer: n(387, 0, 100, 0, { density: 0.85 }),
-  'vanilin-secer': n(390, 0, 98, 0, { density: 0.8 }),
+  'vanilin-secer': n(390, 0, 98, 0, { density: 0.8, pieces: { kesica: 10 } }),
   'secer-u-prahu': n(389, 0, 99.8, 0, { density: 0.5 }),
   dzem: n(278, 0.4, 68.9, 0.1, { density: 1.3 }),
   'cokolada-za-kuhanje': n(515, 5.5, 60, 31),
@@ -50,7 +50,7 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   med: n(304, 0.3, 82.4, 0, { density: 1.42 }),
   kakao: n(228, 19.6, 57.9, 13.7, { density: 0.42 }),
   'cokoladne-kapljice': n(480, 4.2, 63.9, 30),
-  'prasak-za-pecivo': n(53, 0, 28, 0, { density: 0.92 }),
+  'prasak-za-pecivo': n(53, 0, 28, 0, { density: 0.92, pieces: { kesica: 12 } }),
   kvasac: n(325, 40.4, 41.2, 7.6, { density: 0.6 }),
   'ekstrakt-vanilije': n(288, 0.1, 12.7, 0.1, { density: 0.88 }),
   'kore-za-pitu': n(299, 7.1, 52.6, 6, { pieces: { paket: 500 } }),
@@ -95,6 +95,22 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   jabuke: n(52, 0.3, 13.8, 0.2, { pieces: { bez: 150, kom: 150 } }),
   orasi: n(654, 15.2, 13.7, 65.2, { density: 0.37 }),
   limun: n(22, 0.4, 6.9, 0.2, { density: 1.0, pieces: { bez: 30, kom: 30 } }),
+
+  // doručak i dodaci
+  'bademovo-mlijeko': n(15, 0.6, 0.3, 1.1, { density: 1.0 }),
+  'chia-sjemenke': n(486, 16.5, 42.1, 30.7, { density: 0.8 }),
+  'javorov-sirup': n(260, 0, 67, 0.1, { density: 1.32 }),
+  'grcki-jogurt': n(97, 9, 3.6, 5),
+  jogurt: n(61, 3.5, 4.7, 3.3, { density: 1.03 }),
+  granola: n(471, 10, 64, 20, { density: 0.5 }),
+  borovnice: n(57, 0.7, 14.5, 0.3, { density: 0.6 }),
+  maline: n(52, 1.2, 11.9, 0.7, { density: 0.5 }),
+  mak: n(525, 18, 28.1, 41.6),
+  griz: n(360, 12.7, 72.8, 1.1),
+  'lisnato-tijesto': n(551, 7.4, 45.1, 38.1),
+  gustin: n(381, 0.3, 91.3, 0.1),
+  zelatina: n(335, 85.6, 0, 0.1),
+  'soda-bikarbona': zero,
 
   // tekućine
   'crno-vino': n(85, 0.1, 2.6, 0, { density: 0.99 }),

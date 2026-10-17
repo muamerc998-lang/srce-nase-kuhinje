@@ -123,5 +123,55 @@
     "slug": "cheesecake",
     "alt": "Kriška pečenog cheesecakea s podlogom od keksa i kremastim filom na tanjiru",
     "dish": "a slice of classic baked cheesecake with a smooth pale creamy top barely golden, dense creamy filling and a golden biscuit crumb base and side crust, on a white plate, the rest of the round cheesecake behind it, a few fresh strawberries beside"
+  },
+  {
+    "slug": "kajgana-na-maslacu",
+    "alt": "Mekana kremasta kajgana na kriški tostiranog hljeba s maslacem, posuta biberom",
+    "dish": "soft creamy scrambled eggs in large glossy pale-yellow curds, not browned, piled on a slice of buttered toast on a white plate, sprinkled with black pepper and a little chopped parsley"
+  },
+  {
+    "slug": "chia-puding",
+    "alt": "Chia puding u staklenoj tegli s borovnicama i granolom na vrhu",
+    "dish": "chia seed pudding with almond milk in a small glass jar, thick speckled grey-white pudding with visible chia seeds, topped with a few blueberries and a spoon of granola, a spoon beside the jar"
+  },
+  {
+    "slug": "jogurt-s-granolom",
+    "alt": "Zdjela grčkog jogurta s granolom, borovnicama i malinama, prelivena medom",
+    "dish": "a ceramic bowl of thick white Greek yogurt topped with crunchy golden granola, fresh blueberries and raspberries, drizzled with honey"
+  },
+  {
+    "slug": "mafini-s-borovnicama",
+    "alt": "Mafini s borovnicama u papirnim korpicama, jedan prelomljen s borovnicama u sredini",
+    "dish": "golden blueberry muffins with domed tops sprinkled with coarse sugar, baked in white paper liners, blueberries visible on top, one muffin broken open showing a tender crumb with juicy blueberries, on a wire cooling rack"
+  },
+  {
+    "slug": "dizana-strudla-s-makom",
+    "alt": "Kriške dizane štrudle s tamnim nadjevom od maka, posute šećerom u prahu",
+    "dish": "a yeast dough poppy seed roll sliced into rounds, showing a thick dark grey-black ground poppy seed swirl inside soft pale bread dough, golden crust dusted with powdered sugar, on a wooden board"
+  },
+  {
+    "slug": "lijena-pita-s-jabukama-od-prhkog-tijesta",
+    "alt": "Kocke lijene pite s jabukama posute šećerom u prahu, sa slojem rendanih jabuka između kora",
+    "dish": "squares of Balkan lazy apple pie: two layers of pale golden shortcrust pastry with a layer of grated cooked apple filling between them, generously dusted with powdered sugar, cut into squares in a rectangular baking pan"
+  },
+  {
+    "slug": "krempita",
+    "alt": "Visoka kocka krempite s kremom od jaja između dvije kore lisnatog tijesta",
+    "dish": "a tall square slice of Balkan krempita: a thick pale yellow airy vanilla custard layer about 6 cm high between a flaky golden puff pastry base and a puff pastry square on top, dusted with powdered sugar, on a white plate"
+  },
+  {
+    "slug": "medena-torta",
+    "alt": "Kriška medene torte s mnogo tankih kora i bijele kreme, posuta mrvicama",
+    "dish": "a slice of Russian honey cake medovik showing eight thin soft golden-brown honey cake layers alternating with white sour cream frosting, outside coated with fine golden cake crumbs, the rest of the round cake behind"
+  },
+  {
+    "slug": "vanilice",
+    "alt": "Vanilice spojene džemom od marelice i uvaljane u šećer u prahu na tanjiru",
+    "dish": "small round Balkan vanilice sandwich cookies, two pale cookies joined with a thin layer of apricot jam, heavily coated in powdered sugar, arranged on a vintage plate, one cookie showing the apricot jam layer"
+  },
+  {
+    "slug": "buhtle",
+    "alt": "Buhtle pečene jedna uz drugu u kalupu, posute šećerom u prahu, jedna s džemom od marelice",
+    "dish": "Austrian Buchteln sweet yeast buns baked tightly together in an oval ceramic baking dish, golden brown tops dusted with powdered sugar, one bun pulled apart showing soft white crumb and apricot jam filling"
   }
 ]
