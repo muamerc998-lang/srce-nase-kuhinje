@@ -37,11 +37,16 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   'tvrdi-sir': n(380, 25, 2, 30, { density: 0.42 }),
   mocarela: n(300, 22, 2.2, 22, { density: 0.47 }),
   majoneza: n(680, 1, 0.6, 75, { density: 0.93 }),
+  'krem-sir': n(342, 6, 4.1, 34),
 
   // brašno, šećer, pečenje
   'glatko-brasno': n(364, 10.3, 76.3, 1, { density: 0.53 }),
   secer: n(387, 0, 100, 0, { density: 0.85 }),
   'vanilin-secer': n(390, 0, 98, 0, { density: 0.8 }),
+  'secer-u-prahu': n(389, 0, 99.8, 0, { density: 0.5 }),
+  dzem: n(278, 0.4, 68.9, 0.1, { density: 1.3 }),
+  'cokolada-za-kuhanje': n(515, 5.5, 60, 31),
+  keks: n(440, 7, 72, 14),
   med: n(304, 0.3, 82.4, 0, { density: 1.42 }),
   kakao: n(228, 19.6, 57.9, 13.7, { density: 0.42 }),
   'cokoladne-kapljice': n(480, 4.2, 63.9, 30),
@@ -64,6 +69,7 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   'mljeveno-meso': n(215, 18.6, 0, 15),
   piletina: n(215, 17, 0, 16, { density: 0.58 }),
   pile: n(215, 18.6, 0, 15.1, { edible: 0.68 }),
+  junetina: n(175, 20, 0, 10),
   'suho-meso': n(153, 31.1, 2.8, 1.9),
   sunka: n(163, 16.6, 3.8, 8.6),
 
@@ -96,6 +102,7 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   liker: n(330, 0, 35, 0, { density: 1.05 }),
   senf: n(66, 4.4, 5.8, 3.3, { density: 1.0 }),
   'jabukovo-sirce': zero,
+  sirce: zero,
   'worcestershire-sos': zero,
   kafa: zero,
   voda: zero,
@@ -115,6 +122,9 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   persun: zero,
   bosiljak: zero,
   vlasac: zero,
+  majoran: zero,
+  kim: zero,
+  'ljuta-aleva-paprika': zero,
 }
 
 /** Kuhinjske mjere u ml. */
@@ -124,4 +134,4 @@ export const MEASURE_ML: Record<string, number> = { kasika: 15, kasicica: 5, sol
  * Recepti za koje se procjena ne prikazuje, jer se dio sastojaka ne pojede
  * (temeljac od cijelog pileta, ulje za prženje, sirup u kojem se kuha voće).
  */
-export const NUTRITION_EXCLUDED = new Set(['pileca-supa', 'begova-corba', 'cufte-u-sosu', 'tufahije'])
+export const NUTRITION_EXCLUDED = new Set(['pileca-supa', 'begova-corba', 'cufte-u-sosu', 'tufahije', 'domace-krofne'])

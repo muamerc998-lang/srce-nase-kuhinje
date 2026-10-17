@@ -1,0 +1,1286 @@
+{
+  "format": "srce-nase-kuhinje/v1",
+  "ingredients": [
+    {
+      "slug": "junetina",
+      "name": "junetina",
+      "synonyms": [
+        "govedina",
+        "goveđe meso",
+        "juneće meso"
+      ],
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "majoran",
+      "name": "majoran",
+      "synonyms": [
+        "mažuran"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "kim",
+      "name": "kim",
+      "synonyms": [
+        "kim u zrnu"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "ljuta-aleva-paprika",
+      "name": "ljuta aleva paprika",
+      "synonyms": [
+        "ljuta paprika u prahu"
+      ],
+      "broader": "aleva-paprika",
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "dzem",
+      "name": "džem",
+      "synonyms": [
+        "marmelada"
+      ],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "secer-u-prahu",
+      "name": "šećer u prahu",
+      "synonyms": [
+        "prah šećer"
+      ],
+      "broader": "secer",
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "keks",
+      "name": "keks",
+      "synonyms": [
+        "petit beurre",
+        "plazma keks",
+        "suhi keks"
+      ],
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "cokolada-za-kuhanje",
+      "name": "čokolada za kuhanje",
+      "synonyms": [
+        "tamna čokolada",
+        "čokolada"
+      ],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "krem-sir",
+      "name": "krem sir",
+      "synonyms": [
+        "kremasti sir",
+        "sir za mazanje",
+        "cream cheese"
+      ],
+      "foodGroup": "mlijecno"
+    }
+  ],
+  "recipes": [
+    {
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "relatedGuides": [],
+      "facebook": {},
+      "diets": [],
+      "planId": "SNK-0381",
+      "slug": "musaka",
+      "title": "Musaka s krompirom i mljevenim mesom",
+      "alternativeNames": [
+        "musaka",
+        "musaka s krompirom",
+        "musaka s krumpirom",
+        "musaka od krompira i mesa"
+      ],
+      "summary": "Domaća musaka od kriški krompira i mljevene junetine, zapečena pod prelivom od jaja, kisele pavlake i mlijeka. Peče se sat vremena u tepsiji 20 × 20 cm.",
+      "beforeYouStart": "Krompir isijecite na kriške debele oko 8 mm, sve iste debljine. Pečena musaka treba odstojati 15–20 minuta prije rezanja.",
+      "primaryCategory": "jela-s-mesom",
+      "tags": [
+        "krompir",
+        "mljeveno-meso",
+        "jaja"
+      ],
+      "authors": [
+        "emir-delic"
+      ],
+      "difficulty": "srednje",
+      "methods": [
+        "pecenje"
+      ],
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": false
+      },
+      "times": {
+        "prepMinutes": 20,
+        "cookMinutes": 60,
+        "restMinutes": 15,
+        "restLabel": "odmaranja",
+        "totalMinutes": 95
+      },
+      "equipment": {
+        "panSize": "20 × 20 cm",
+        "temperature": 230,
+        "other": "dublja tava"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Meso",
+          "items": [
+            {
+              "ingredient": "ulje",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "srednja, sitno sjeckana"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 2,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckana"
+            },
+            {
+              "ingredient": "mljeveno-meso",
+              "amount": 450,
+              "unit": "g",
+              "label": "mljevene junetine"
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "slatke aleve paprike"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            }
+          ]
+        },
+        {
+          "title": "Krompir",
+          "items": [
+            {
+              "ingredient": "krompir",
+              "amount": 900,
+              "unit": "g",
+              "label": "krompira",
+              "note": "oguljenog, na kriške od oko 8 mm"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "ulja",
+              "amountMax": 4
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            }
+          ]
+        },
+        {
+          "title": "Preliv",
+          "items": [
+            {
+              "ingredient": "jaja",
+              "amount": 3,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "kisela-pavlaka",
+              "amount": 400,
+              "unit": "g",
+              "label": "kisele pavlake"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 90,
+              "unit": "ml",
+              "label": "mlijeka"
+            },
+            {
+              "ingredient": "persun",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "sitno sjeckanog svježeg peršuna"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Meso",
+          "steps": [
+            {
+              "text": "U dubljoj tavi na srednjoj vatri zagrijte 2 kašike ulja i pirjajte crni i bijeli luk dok ne postanu providni."
+            },
+            {
+              "text": "Dodajte meso, so, biber i alevu papriku i pržite uz često miješanje, razbijajući grudvice."
+            },
+            {
+              "text": "Sklonite tavu s vatre čim meso promijeni boju iz ružičaste u smeđu."
+            }
+          ]
+        },
+        {
+          "title": "Slaganje i pečenje",
+          "steps": [
+            {
+              "text": "Zagrijte rernu na 230 °C."
+            },
+            {
+              "text": "U velikoj posudi rukama izmiješajte kriške krompira s uljem i solju, tako da svaka kriška bude premazana."
+            },
+            {
+              "text": "Trećinu krompira ravnomjerno rasporedite po dnu tepsije 20 × 20 cm, a preko njega polovinu mesa."
+            },
+            {
+              "text": "Ponovite sloj krompira i sloj mesa, pa na vrh složite ostatak krompira."
+            },
+            {
+              "text": "Pecite 40 minuta.",
+              "timerMinutes": 40
+            },
+            {
+              "text": "Dok se musaka peče, izmutite jaja, kiselu pavlaku, mlijeko i peršun."
+            },
+            {
+              "text": "Izvadite tepsiju i ravnomjerno prelijte preliv po vrhu."
+            },
+            {
+              "text": "Pecite još 20 minuta, dok vrh ne porumeni. Ako prebrzo tamni, pokrijte ga folijom.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Ostavite musaku da odstoji 15–20 minuta prije rezanja.",
+              "timerMinutes": 15
+            }
+          ]
+        }
+      ],
+      "approach": "tradicionalni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Musaka s krompirom kakva se pravi u domaćim kuhinjama jednostavnija je od grčke. Nema patlidžana ni bešamela: slojevi krompira i mljevenog mesa peku se dok krompir ne omekša, a onda se preliju smjesom od jaja, kisele pavlake i mlijeka, koja se zapeče u zlatnu koricu.\n\nOvaj recept je za manju tepsiju od 20 × 20 cm i šest porcija. Najviše posla ima sa sječenjem krompira. Ostalo radi rerna."
+        },
+        {
+          "level": "h2",
+          "title": "Po čemu se razlikuje od grčke musake",
+          "body": "Grčka musaka se pravi od patlidžana, s mesom u umaku od paradajza i debelim slojem bešamela. Domaća musaka s krompirom je bliža svakodnevnom ručku: krompir upija sok od mesa, a preliv od jaja i pavlake drži slojeve zajedno.\n\nPreliv ide tek nakon 40 minuta, kad je krompir gotovo pečen. Da ide od početka, jaja bi se za sat vremena na 230 °C prepekla i postala gumena, a krompir ispod još ne bi bio mekan."
+        },
+        {
+          "level": "h2",
+          "title": "Kriške iste debljine",
+          "body": "Krompir sijecite na kriške debele oko 8 mm. Deblje kriške ne stignu omekšati za vrijeme pečenja, a tanke se na rubovima osuše i skvrče. Ako kriške nisu iste debljine, dio krompira bude tvrd, a dio raspadnut.\n\nZa musaku je bolji stariji krompir nego mladi. Mladi krompir ostaje čvrst i vlažan, a stariji se ispeče mekano i lakše upije sok.\n\nSvaku krišku premažite uljem. Ulje pomaže da krompir ne bude suh na mjestima gdje ga ne dodiruje meso. Ako je meso masnije, ulja za krompir stavite manje ili ga izostavite."
+        },
+        {
+          "level": "h2",
+          "title": "Meso samo dok ne promijeni boju",
+          "body": "Meso se na tavi prži samo dok ne prestane biti ružičasto. U rerni se peče još sat vremena, pa bi meso koje je na tavi već zapečeno i suho na kraju bilo tvrdo i mrvičasto."
+        },
+        {
+          "level": "h2",
+          "title": "Koliko slojeva",
+          "body": "U tepsiju od 20 × 20 cm idu tri sloja krompira i dva sloja mesa. To je najmanje što musaci treba da drži oblik. U dubljoj tepsiji mogu i četiri sloja krompira i tri mesa. Krompir je na dnu i na vrhu: donji upija sok od mesa, a gornji nosi preliv."
+        },
+        {
+          "level": "h2",
+          "title": "Odmor, rezanje i ostaci",
+          "body": "Nakon pečenja musaka treba odstojati 15–20 minuta. Preliv se za to vrijeme stegne, sok se slegne u krompir i musaka se reže na komade koji drže oblik.\n\nUz musaku idu salata i hljeb, a po želji kašika kisele pavlake. Ostatak ohladite i stavite u frižider najkasnije dva sata nakon pečenja, dobro pokriven. Pojedite ga u roku od jednog dana. Musaka se ne zamrzava, jer krompir i preliv od jaja nakon odmrzavanja postanu vodenasti.\n\nAko volite jela od mljevenog mesa iz rerne, pogledajte i [punjene paprike](/recepti/punjene-paprike/)."
+        }
+      ],
+      "relatedRecipes": [
+        "punjene-paprike",
+        "lazanje"
+      ],
+      "servedWith": [],
+      "leftovers": {},
+      "seo": {
+        "title": "Musaka s krompirom i mljevenim mesom iz rerne",
+        "description": "Domaća musaka od krompira i mljevene junetine pod prelivom od jaja i kisele pavlake. Koliko debelo sijeći krompir i kada dodati preliv. Recept korak po korak."
+      },
+      "sourceNote": "Balkan Lunch Box – Easy Serbian Ground Beef Potato Moussaka (Musaka sa krompirom i mesom): https://balkanlunchbox.com/potato-and-ground-beef-moussaka-musaka-sa-krompirom-i-mesom-recipe-2-2/. Odabrana verzija: krompir i mljevena junetina, preliv od jaja, kisele pavlake i mlijeka nakon prvog dijela pečenja, bez patlidžana i bešamela (plan SNK-0381). Izvor daje američke mjere: 1 lb ≈ 450 g, 2 lb ≈ 900 g, 14 oz ≈ 400 g, 3 oz mlijeka ≈ 90 ml; ⅓ inča ≈ 8 mm; tepsija 8 × 8 inča ≈ 20 × 20 cm; 450 °F = 230 °C. Izvor navodi 15 min pripreme i 60 min pečenja; priprema je upisana kao 20 min jer uključuje prženje mesa, plus 15 min odmaranja. Čuvanje do 24 h u frižideru i bez zamrzavanja prema izvoru."
+    },
+    {
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "relatedGuides": [],
+      "facebook": {},
+      "diets": [],
+      "planId": "SNK-0336",
+      "slug": "govedji-gulas",
+      "title": "Goveđi gulaš",
+      "alternativeNames": [
+        "juneći gulaš",
+        "gulaš",
+        "bečki gulaš",
+        "gulaš od junetine"
+      ],
+      "summary": "Gust goveđi gulaš s mnogo luka i slatke aleve paprike, bez brašna i bez krompira. Junetina se oko tri sata kuha u umaku od izmiksanog luka, koji se sam zgusne.",
+      "beforeYouStart": "Gulaš se kuha oko tri sata na laganoj vatri i najbolji je kad se skuha dan ranije. Za začin treba kim, ne kumin: to su dva različita začina.",
+      "primaryCategory": "variva-i-punjena-jela",
+      "tags": [
+        "govedina",
+        "luk",
+        "paprika"
+      ],
+      "authors": [
+        "emir-delic"
+      ],
+      "difficulty": "srednje",
+      "methods": [
+        "pirjanje",
+        "kuhanje"
+      ],
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 30,
+        "cookMinutes": 230,
+        "totalMinutes": 260
+      },
+      "equipment": {
+        "other": "veliki lonac s poklopcem, štapni mikser"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Meso i luk",
+          "items": [
+            {
+              "ingredient": "junetina",
+              "amount": 1,
+              "unit": "kg",
+              "label": "junetine bez kosti",
+              "note": "koljenica ili plećka, na kocke od 5–6 cm"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 800,
+              "unit": "g",
+              "label": "crnog luka",
+              "note": "na tanke polumjesece"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "ulja ili pročišćenog maslaca",
+              "note": "jedna za meso, jedna za luk"
+            }
+          ]
+        },
+        {
+          "title": "Začini i tečnost",
+          "items": [
+            {
+              "ingredient": "koncentrat-paradajza",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "koncentrata paradajza",
+              "note": "oko 20 g"
+            },
+            {
+              "ingredient": "majoran",
+              "amount": 0.5,
+              "unit": "kasika",
+              "label": "suhog majorana",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "kim",
+              "amount": 0.5,
+              "unit": "kasika",
+              "label": "kima",
+              "note": "cijelog ili mljevenog, sitno sjeckanog"
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "amount": 4,
+              "unit": "kasika",
+              "label": "slatke aleve paprike",
+              "note": "oko 30 g"
+            },
+            {
+              "ingredient": "ljuta-aleva-paprika",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "ljute aleve paprike",
+              "optional": true
+            },
+            {
+              "ingredient": "sirce",
+              "amount": 0.5,
+              "unit": "kasika",
+              "label": "sirćeta"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.75,
+              "unit": "kasicica",
+              "label": "soli",
+              "note": "i po ukusu"
+            },
+            {
+              "ingredient": "lovor",
+              "amount": 2,
+              "unit": "list",
+              "label": "lovora",
+              "optional": true
+            },
+            {
+              "ingredient": "voda",
+              "amount": 240,
+              "unit": "ml",
+              "label": "vode"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 240,
+              "unit": "ml",
+              "label": "hladne vode"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Meso i luk",
+          "steps": [
+            {
+              "text": "Junetinu isijecite na kocke od 5–6 cm. Odrežite samo deblji sloj masnoće s vanjske strane."
+            },
+            {
+              "text": "Crni luk prepolovite i narežite na tanke polumjesece."
+            },
+            {
+              "text": "U velikom loncu na srednje jakoj vatri zagrijte kašiku ulja i u dva navrata zapecite meso sa svih strana, ukupno 5–10 minuta. Meso izvadite na tanjir.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "U lonac dodajte još kašiku ulja i luk i pržite ga na jakoj vatri 8–10 minuta, stalno miješajući.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Smanjite vatru na srednje slabu i pirjajte luk još oko 15 minuta, često miješajući, dok ne postane mekan i zlatnosmeđ.",
+              "timerMinutes": 15
+            }
+          ]
+        },
+        {
+          "title": "Umak i kuhanje",
+          "steps": [
+            {
+              "text": "Umiješajte koncentrat paradajza, majoran i kim i pržite 30–60 sekundi."
+            },
+            {
+              "text": "Dodajte slatku i ljutu alevu papriku i miješajte samo nekoliko sekundi."
+            },
+            {
+              "text": "Odmah dolijte sirće i 240 ml vode i kuhajte dok gotovo sva tečnost ne ispari, oko 15 minuta.",
+              "timerMinutes": 15
+            },
+            {
+              "text": "Dolijte 240 ml hladne vode i štapnim mikserom izmiksajte luk u gladak umak."
+            },
+            {
+              "text": "Dodajte so, lovor, meso i sok koji je meso pustilo na tanjiru i promiješajte."
+            },
+            {
+              "text": "Poklopite i kuhajte na laganoj vatri oko 3 sata, dok meso ne bude mekano, a umak tamniji i gušći.",
+              "timerMinutes": 180
+            },
+            {
+              "text": "Probajte i po potrebi dosolite."
+            }
+          ]
+        }
+      ],
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Ovo je goveđi gulaš po bečkom receptu: gust, tamnocrven umak s mnogo luka i aleve paprike, u kojem se krupne kocke junetine kuhaju dok ne omekšaju. U njemu nema brašna, krompira ni pavlake. Umak zgušnjavaju luk, koji se izmiksa, i želatina koja se iz mesa oslobodi tokom dugog kuhanja.\n\nAktivnog rada ima oko pola sata. Ostatak vremena gulaš se kuha sam, na laganoj vatri."
+        },
+        {
+          "level": "h2",
+          "title": "Meso kojem trebaju tri sata",
+          "body": "Za gulaš trebaju komadi s dosta vezivnog tkiva: koljenica ili plećka. Tokom dugog, laganog kuhanja vezivno tkivo prelazi u želatinu. Meso od toga postane mekano i sočno, a umak gušći i sjajniji.\n\nNemasni komadi poput buta ili filea za tri sata postanu suhi i vlaknasti. Masnoću unutar komada ne odstranjujte, jer se istopi u umak. Odrežite samo deblji sloj s vanjske strane."
+        },
+        {
+          "level": "h2",
+          "title": "Luka skoro koliko i mesa",
+          "body": "Na kilogram mesa ide 800 g luka. To nije greška: luk je osnova umaka. Prvo se prži na jakoj vatri, pa se dugo pirja na slabijoj, dok ne postane zlatnosmeđ i mekan. Pri tome se smanji na mali dio početne količine.\n\nOvaj korak ne treba skraćivati. Blijed luk daje bljutav umak, a zlatnosmeđ daje slatkoću i boju."
+        },
+        {
+          "level": "h2",
+          "title": "Aleva paprika samo nekoliko sekundi",
+          "body": "Aleva paprika se u vrućoj masnoći brzo prepeče. Zagorjela paprika je gorka i umak dobije mutnu, smeđu boju. Zato je umiješajte samo na nekoliko sekundi i odmah dolijte sirće i vodu.\n\nUzmite slatku alevu papriku, najbolje mađarsku ili domaću slatku. Ljuta paprika je po želji, tek za blagu oštrinu."
+        },
+        {
+          "level": "h2",
+          "title": "Kim, a ne kumin",
+          "body": "Kim i kumin se često miješaju, a imaju potpuno različit okus. Kim je začin koji se stavlja u hljeb i kupus. Kumin je karakterističan za meksičku i indijsku kuhinju i promijenio bi okus gulaša. Za ovaj recept treba kim, sitno sjeckan zajedno s majoranom."
+        },
+        {
+          "level": "h2",
+          "title": "Zašto se luk miksa",
+          "body": "Kad tečnost s lukom ispari, dolije se hladna voda i sve se izmiksa štapnim mikserom. Od luka nastane gladak, gust umak, pa gulašu ne treba brašno. Umak je na početku narandžast i potamni tokom kuhanja.\n\nMeso se vraća u lonac zajedno sa sokom koji je pustilo dok je stajalo na tanjiru. U njemu je dio okusa."
+        },
+        {
+          "level": "h2",
+          "title": "Sutradan je još bolji",
+          "body": "Gulaš ohladite, poklopite i ostavite preko noći u frižideru. Umak se slegne, a okusi povežu. Podgrijavajte onoliko koliko ćete pojesti i po potrebi ga razrijedite s malo vode. Gulaš se dobro zamrzava.\n\nUz njega idu svjež hljeb, nokle ili široki rezanci, a može i [pire krompir](/recepti/pire-krompir/)."
+        }
+      ],
+      "relatedRecipes": [
+        "sarma",
+        "begova-corba"
+      ],
+      "servedWith": [
+        "pire-krompir"
+      ],
+      "leftovers": {},
+      "seo": {
+        "title": "Goveđi gulaš s mnogo luka – gust umak bez brašna",
+        "description": "Goveđi gulaš po bečkom receptu: junetina se tri sata kuha u gustom umaku od luka i aleve paprike, bez brašna. Koje meso uzeti i kako. Recept korak po korak."
+      },
+      "sourceNote": "Lil Vienna – Authentic Austrian Beef Goulash (Wiener Saftgulasch): https://www.lilvienna.com/authentic-austrian-beef-goulash/. Odabrana verzija: bečki gulaš, goveđa koljenica ili plećka, 800 g luka na 1 kg mesa, umak bez brašna (plan SNK-0336). Količine iz izvora u metričkim mjerama; šolja = 240 ml. Izvor ne navodi vremena; računato: priprema 30 min, kuhanje 230 min (zapecanje mesa 10, luk 25, začini i ukuhavanje 15, kuhanje 180), ukupno 260 min. Hlađenje preko noći je preporuka izvora i nije uračunato. Opcija iz komentara (pečenje u rerni) nije preuzeta."
+    },
+    {
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "relatedGuides": [],
+      "facebook": {},
+      "diets": [],
+      "planId": "SNK-0002",
+      "slug": "domace-krofne",
+      "title": "Domaće krofne s džemom",
+      "alternativeNames": [
+        "krofne",
+        "krofne recept",
+        "krofne s pekmezom",
+        "pržene krofne",
+        "berlinerice"
+      ],
+      "summary": "Okrugle krofne od mekog dizanog tijesta s jajima i maslacem, pržene u ulju i punjene džemom. Od ovog tijesta dobije se 15 krofni sa svijetlim prstenom oko sredine.",
+      "beforeYouStart": "Mlijeko, jaja i žumanjak neka budu sobne temperature. Za prženje treba duboka šerpa, ulje duboko najmanje 5 cm i, ako ga imate, termometar.",
+      "primaryCategory": "slatka-peciva",
+      "tags": [
+        "dizano-tijesto",
+        "dzem-i-pekmez",
+        "jaja"
+      ],
+      "authors": [
+        "amra-hodzic"
+      ],
+      "difficulty": "zahtjevno",
+      "methods": [
+        "przenje"
+      ],
+      "meals": [],
+      "yield": {
+        "servings": 15,
+        "unit": "komada",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 25,
+        "cookMinutes": 20,
+        "restMinutes": 90,
+        "restLabel": "dizanja tijesta",
+        "totalMinutes": 135
+      },
+      "equipment": {
+        "other": "mikser s kukom za tijesto, duboka šerpa, termometar, vrećica s dugim nastavkom"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Tijesto",
+          "items": [
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 500,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 65,
+              "unit": "g",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "kvasac",
+              "amount": 7,
+              "unit": "g",
+              "label": "suhog (instant) kvasca"
+            },
+            {
+              "ingredient": "limun",
+              "amount": 1.5,
+              "unit": "kasicica",
+              "label": "rendane limunove korice"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "soli"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 240,
+              "unit": "ml",
+              "label": "mlijeka",
+              "note": "sobne temperature, po potrebi još malo"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 2,
+              "unit": "bez",
+              "label": "jaja",
+              "note": "sobne temperature"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 1,
+              "unit": "bez",
+              "label": "žumanjak",
+              "note": "sobne temperature"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 70,
+              "unit": "g",
+              "label": "maslaca",
+              "note": "otopljenog i ohlađenog"
+            },
+            {
+              "ingredient": "ekstrakt-vanilije",
+              "amount": 1.5,
+              "unit": "kasicica",
+              "label": "ekstrakta vanilije"
+            }
+          ]
+        },
+        {
+          "title": "Prženje, punjenje i posipanje",
+          "items": [
+            {
+              "ingredient": "ulje",
+              "unit": "po-potrebi",
+              "label": "neutralnog ulja za prženje"
+            },
+            {
+              "ingredient": "dzem",
+              "amount": 320,
+              "unit": "g",
+              "label": "džema od malina ili drugog džema"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 200,
+              "unit": "g",
+              "label": "šećera",
+              "note": "za uvaljivanje"
+            },
+            {
+              "ingredient": "cimet",
+              "amount": 1,
+              "unit": "prstohvat",
+              "label": "cimeta"
+            },
+            {
+              "ingredient": "secer-u-prahu",
+              "amount": 60,
+              "unit": "g",
+              "label": "šećera u prahu"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Tijesto",
+          "steps": [
+            {
+              "text": "U posudi miksera pomiješajte brašno, šećer, kvasac, so i limunovu koricu."
+            },
+            {
+              "text": "Dodajte jaja, žumanjak, otopljeni maslac, vaniliju i mlijeko."
+            },
+            {
+              "text": "Mijesite kukom za tijesto oko 10 minuta, dok tijesto ne postane mekano, glatko i ne prestane se lijepiti. Ako je presuho, dodajte malo mlijeka, a ako je previše ljepljivo, malo brašna.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Oblikujte kuglu, stavite je u nauljenu posudu, pokrijte i ostavite na toplom 45–60 minuta, dok se ne udvostruči.",
+              "timerMinutes": 60
+            },
+            {
+              "text": "Tijesto izbijte šakom i podijelite na 15 jednakih komada."
+            },
+            {
+              "text": "Svaki komad oblikujte u glatku kuglu i poredajte ih razmaknute na lim obložen papirom za pečenje."
+            },
+            {
+              "text": "Lagano ih pokrijte i ostavite na toplom 30–60 minuta, dok ne nabubre i gotovo se ne udvostruče.",
+              "timerMinutes": 45
+            }
+          ]
+        },
+        {
+          "title": "Prženje i punjenje",
+          "steps": [
+            {
+              "text": "U dubokoj šerpi zagrijte ulje, duboko najmanje 5 cm, na 175–185 °C."
+            },
+            {
+              "text": "Pržite krofne u nekoliko navrata, oko 2 minute sa svake strane, dok ne postanu tamnozlatne. Okrenite ih samo jednom i ne potapajte ih u ulje.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Izvadite krofne na papirni ubrus."
+            },
+            {
+              "text": "Kad se toliko ohlade da ih možete držati, vrećicom s dugim nastavkom kroz svijetli prsten sa strane napunite ih džemom."
+            },
+            {
+              "text": "Uvaljajte krofne u šećer pomiješan s prstohvatom cimeta."
+            },
+            {
+              "text": "Poredajte ih na rešetku i pospite šećerom u prahu."
+            }
+          ]
+        }
+      ],
+      "approach": "detaljni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Domaće krofne s džemom su okrugle, bez rupe u sredini, kakve se u Njemačkoj zovu berlinerice. Tijesto je bogato jajima, maslacem i mlijekom, prži se u dubokom ulju, a džem se ubrizgava tek nakon prženja. Dobra krofna je lagana i prozračna iznutra, a oko sredine ima svijetao prsten.\n\nZa to su najvažnije dvije stvari: dobro dignuto tijesto i ulje koje cijelo vrijeme drži istu temperaturu."
+        },
+        {
+          "level": "h2",
+          "title": "Tijesto: mekano, ali ne ljepljivo",
+          "body": "Tijesto se mijesi mikserom oko deset minuta. Za to vrijeme se razvije gluten i tijesto postane glatko i elastično, pa može zadržati plinove kvasca. Na kraju treba biti mekano i podatno, ali se ne smije lijepiti za posudu.\n\nBrašno upija različite količine tečnosti, pa se tijesto dorađuje na kraju: kašika mlijeka ako je suho, malo brašna ako je ljepljivo. Mlijeko, jaja i žumanjak neka budu sobne temperature. Hladni sastojci usporavaju kvasac, pa se tijesto duže diže."
+        },
+        {
+          "level": "h2",
+          "title": "Dva dizanja",
+          "body": "Prvo dizanje traje dok se tijesto ne udvostruči, obično 45–60 minuta. Drugo dizanje počinje nakon oblikovanja i traje dok kuglice ne nabubre i gotovo se ne udvostruče.\n\nNajčešća greška je prekratko drugo dizanje. Takve krofne u ulju ostanu zbijene i teške. Provjerite ih prstom: kad lagano pritisnete kuglicu, udubljenje se treba polako vratiti. Ako se vrati odmah, tijesto treba još vremena. Ako ostane udubljeno, krofne su se previše dignule i u ulju mogu splasnuti.\n\nKomade tijesta najlakše je podijeliti vagom. Krofne iste veličine prže se jednako dugo."
+        },
+        {
+          "level": "h2",
+          "title": "Temperatura ulja",
+          "body": "Ulje treba držati na 175–185 °C. U hladnijem ulju krofne se sporo prže i upiju mnogo masnoće, pa su masne. U prevrućem ulju izvana potamne prije nego što se ispeku iznutra.\n\nPržite po nekoliko krofni odjednom. Svaka hladna krofna malo ohladi ulje, a kad ih je previše, temperatura padne. Između dvije ture pričekajte da se ulje opet zagrije. Termometar je ovdje velika pomoć. Bez njega ispržite prvo jednu krofnu i po njoj odredite vatru.\n\nUzmite neutralno ulje koje podnosi visoku temperaturu, npr. suncokretovo ili repičino."
+        },
+        {
+          "level": "h3",
+          "title": "Odakle svijetli prsten",
+          "body": "Dobro dignuta krofna je lagana, pa pliva na ulju. Donja polovina se prži, a sredina ostaje iznad ulja i ne porumeni. Tako nastaje svijetli prsten oko krofne. Zato krofne okrenite samo jednom i ne gurajte ih pod ulje.\n\nPrsten je ujedno najbolje mjesto za punjenje: tijesto je tu najmekše."
+        },
+        {
+          "level": "h2",
+          "title": "Punjenje",
+          "body": "Krofne punite kad se toliko ohlade da ih možete držati u ruci. Vrećicu napunite džemom i nastavak gurnite sa strane, kroz prsten, do sredine. Džem s krupnim komadićima voća ponekad zapne u nastavku, pa ga prije punjenja propasirajte ili dobro izmiješajte.\n\nUmjesto džema od malina možete koristiti drugi gladak džem, kremu od vanilije ili čokoladni namaz."
+        },
+        {
+          "level": "h2",
+          "title": "Najbolje istog dana",
+          "body": "Krofne su najbolje tople, istog dana. U zatvorenoj posudi na sobnoj temperaturi mogu stajati dan-dva, ali postaju gušće.\n\nAko vam je dizano tijesto novo, prvo probajte [domaće mekane kifle](/recepti/domace-mekane-kifle/). One traže manje vremena i nema prženja."
+        }
+      ],
+      "relatedRecipes": [
+        "domace-mekane-kifle",
+        "americke-palacinke"
+      ],
+      "servedWith": [],
+      "leftovers": {},
+      "seo": {
+        "title": "Domaće krofne s džemom – mekane i prozračne iznutra",
+        "description": "Okrugle domaće krofne od dizanog tijesta, pržene u ulju i punjene džemom. Koliko dizati tijesto i na kojoj temperaturi pržiti. Recept korak po korak."
+      },
+      "sourceNote": "The Daring Gourmet – Berliner (German Donuts): https://www.daringgourmet.com/berliner-german-donuts/. Odabrana verzija: pržene okrugle krofne s kvascem i džemom, bez rupe, nisu pečene (plan SNK-0002). Izvor daje samo američke mjere (šolja 240 ml); preračunato: 4 šolje brašna ≈ 500 g, ⅓ šolje šećera ≈ 65 g, 2¼ kašičice instant kvasca ≈ 7 g, 1 šolja mlijeka = 240 ml, 5 kašika maslaca ≈ 70 g, 1 šolja džema ≈ 320 g, oko 1 šolja šećera za uvaljivanje ≈ 200 g, ½ šolje šećera u prahu ≈ 60 g; 350–365 °F ≈ 175–185 °C; 2 inča ≈ 5 cm. Izvor navodi 15 komada po oko 80 g; prema količinama tijesta komadi su nešto manji (oko 65–70 g), pa je upisana podjela na 15 jednakih komada. Izvor navodi 10 min prženja; za 15 krofni u turama upisano je 20 min. Dizanje 45–60 + 30–60 min; upisano 90 min."
+    },
+    {
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "relatedGuides": [],
+      "facebook": {},
+      "diets": [],
+      "planId": "SNK-0007",
+      "slug": "klasicna-domaca-bajadera",
+      "title": "Domaća bajadera s keksom i orasima",
+      "alternativeNames": [
+        "bajadera",
+        "bajadera kolač",
+        "bajadera s keksom",
+        "bajadera s plazmom",
+        "bajadera bez pečenja"
+      ],
+      "summary": "Bajadera bez pečenja od mljevenog keksa i oraha: tamni sloj s čokoladom, svijetli s vanilijom i tanka čokoladna glazura. Za sat vremena se stegne u frižideru.",
+      "beforeYouStart": "Keks i orahe sameljite unaprijed, što sitnije. Smjesa je ljepljiva i brzo se steže, pa sve pripremite prije nego što počnete topiti šećer.",
+      "primaryCategory": "kolaci",
+      "tags": [
+        "keks",
+        "orasi",
+        "cokolada"
+      ],
+      "authors": [
+        "amra-hodzic"
+      ],
+      "difficulty": "lako",
+      "methods": [
+        "bez-pecenja"
+      ],
+      "meals": [],
+      "yield": {
+        "servings": 40,
+        "unit": "komada",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 40,
+        "restMinutes": 60,
+        "restLabel": "hlađenja",
+        "totalMinutes": 100
+      },
+      "equipment": {
+        "panSize": "22 × 30 cm ili manja",
+        "other": "posuda za topljenje čokolade na pari"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Smjesa",
+          "items": [
+            {
+              "ingredient": "voda",
+              "amount": 135,
+              "unit": "ml",
+              "label": "vode",
+              "note": "9 kašika"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 170,
+              "unit": "g",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 170,
+              "unit": "g",
+              "label": "maslaca",
+              "note": "sobne temperature"
+            },
+            {
+              "ingredient": "keks",
+              "amount": 255,
+              "unit": "g",
+              "label": "mljevenog keksa",
+              "note": "npr. plazma ili petit beurre"
+            },
+            {
+              "ingredient": "orasi",
+              "amount": 160,
+              "unit": "g",
+              "label": "mljevenih oraha"
+            },
+            {
+              "ingredient": "ekstrakt-vanilije",
+              "amount": 0.25,
+              "unit": "kasicica",
+              "label": "ekstrakta vanilije ili ruma"
+            }
+          ]
+        },
+        {
+          "title": "Čokolada",
+          "items": [
+            {
+              "ingredient": "cokolada-za-kuhanje",
+              "amount": 200,
+              "unit": "g",
+              "label": "tamne čokolade za kuhanje"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 30,
+              "unit": "g",
+              "label": "maslaca"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Smjesa",
+          "steps": [
+            {
+              "text": "U šerpi srednje veličine na srednjoj vatri otopite šećer u vodi, povremeno miješajući."
+            },
+            {
+              "text": "Dodajte 170 g maslaca i miješajte dok se ne otopi, pa sklonite šerpu s vatre."
+            },
+            {
+              "text": "Umiješajte mljeveni keks, pa mljevene orahe, i miješajte dok smjesa ne postane gusta, ljepljiva i ujednačena."
+            },
+            {
+              "text": "Podijelite smjesu u dvije posude."
+            }
+          ]
+        },
+        {
+          "title": "Čokolada i slojevi",
+          "steps": [
+            {
+              "text": "Čokoladu i 30 g maslaca stavite u posudu iznad lonca s vodom koja lagano ključa i miješajte dok se ne otope. Sklonite s vatre."
+            },
+            {
+              "text": "Polovinu otopljene čokolade umiješajte u jednu posudu sa smjesom, a vaniliju u drugu."
+            },
+            {
+              "text": "Namastite tepsiju i po dnu ravnomjerno rasporedite čokoladnu smjesu."
+            },
+            {
+              "text": "Preko nje rasporedite svijetlu smjesu i poravnajte je lopaticom. Radite brzo, jer se smjesa steže."
+            },
+            {
+              "text": "Prelijte ostatak čokolade i poravnajte je."
+            },
+            {
+              "text": "Pokrijte tepsiju folijom i ostavite u frižideru 1 sat.",
+              "timerMinutes": 60
+            },
+            {
+              "text": "Izrežite bajaderu na kockice, odmah ili tek pred posluživanje."
+            }
+          ]
+        }
+      ],
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Bajadera je kolač bez pečenja koji podsjeća na poznatu bombonijeru istog imena. Pravi se od mljevenog keksa i oraha povezanih otopljenim šećerom i maslacem. Jedna polovina smjese dobije čokoladu, druga vaniliju, a preko oba sloja ide tanka čokoladna glazura.\n\nPosao traje četrdesetak minuta, a kolač se za sat vremena stegne u frižideru. Od jedne tepsije dobije se oko 40 malih kockica."
+        },
+        {
+          "level": "h2",
+          "title": "Keks i orasi što sitniji",
+          "body": "Keks i orahe sameljite skoro u brašno. Krupni komadi keksa i oraha prave rupe u slojevima, pa se kockice pri rezanju mrve. Odgovara bilo koji obični suhi keks, npr. plazma ili petit beurre. Ako nemate multipraktik, keks stavite u kesu i nekoliko puta pređite preko njega oklagijom.\n\nUmjesto oraha mogu lješnjaci i bademi, samostalno ili pomiješani s orasima."
+        },
+        {
+          "level": "h2",
+          "title": "Radite brzo, smjesa se steže",
+          "body": "Šećer se otopi u vodi, doda se maslac, a zatim keks i orasi. Dok je topla, smjesa je ljepljiva i lako se razmazuje. Kako se hladi, sve je čvršća. Zato prije početka pripremite tepsiju, lopaticu i čokoladu, a slojeve razmažite odmah.\n\nSmjesa se dijeli na dva jednaka dijela. U jedan ide polovina otopljene čokolade, u drugi vanilija ili rum. Tamni sloj ide na dno, svijetli preko njega."
+        },
+        {
+          "level": "h2",
+          "title": "Čokolada na pari",
+          "body": "Čokolada se topi s malo maslaca u posudi iznad lonca s vodom koja lagano ključa. Posuda ne smije dodirivati vodu, a u čokoladu ne smije ući ni kap vode ni pare. Od vode se čokolada zgrudva i postane zrnasta.\n\nNajbolja je tamna čokolada za kuhanje. Mliječna čokolada ili čokoladne kapljice također mogu, ali bajadera bude slađa. Čokolade s punjenjem nisu za ovaj kolač."
+        },
+        {
+          "level": "h2",
+          "title": "Debljina i rezanje",
+          "body": "U tepsiji od 22 × 30 cm slojevi su tanji, a u manjoj deblji. Obje varijante su dobre. Birajte prema tome kakve kockice želite.\n\nGlazura se pri rezanju lako lomi. Nož umočite u vruću vodu, obrišite ga i režite jednim potezom. Nož obrišite nakon svakog reza. Bajaderu izvadite iz frižidera 15–20 minuta prije posluživanja, da ne bude pretvrda."
+        },
+        {
+          "level": "h2",
+          "title": "Čuvanje",
+          "body": "Bajadera stoji 5–7 dana u zatvorenoj posudi, u frižideru ili na hladnom i tamnom mjestu. Može se i zamrznuti, ali neizrezana. Dobro je umotajte, a prije rezanja ostavite da se odmrzne skoro do sobne temperature.\n\nAko tražite kolač s orasima koji se peče, pogledajte [bosansku baklavu](/recepti/baklava/)."
+        }
+      ],
+      "relatedRecipes": [
+        "baklava",
+        "brownie"
+      ],
+      "servedWith": [],
+      "leftovers": {},
+      "seo": {
+        "title": "Bajadera s keksom i orasima – kolač bez pečenja",
+        "description": "Domaća bajadera od mljevenog keksa i oraha, s tamnim i svijetlim slojem i čokoladnom glazurom. Gotova za sat vremena u frižideru. Recept korak po korak."
+      },
+      "sourceNote": "Balkan Lunch Box – Bajadera (No-bake walnut pralines): https://balkanlunchbox.com/no-bake-walnut-pralines-bajadera/. Odabrana verzija: keks, orasi i čokolada, tamni i svijetli sloj i glazura (plan SNK-0007). Izvor daje američke mjere: 9 kašika vode ≈ 135 ml, 9 oz keksa ≈ 255 g, 5,6 oz oraha ≈ 160 g, 7 oz maslaca ≈ 200 g (170 g u smjesu, 30 g uz čokoladu), 7 oz čokolade = 200 g; tepsija 9 × 12 inča = 22 × 30 cm. Izvor u popisu navodi 7 oz šećera, a u postupku koristi 6 oz (170 g); upisano 170 g iz postupka. Izvor navodi oko 40 kockica; ukupno vrijeme 40 min + 1 h hlađenja."
+    },
+    {
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "relatedGuides": [],
+      "facebook": {},
+      "diets": [],
+      "planId": "SNK-0028",
+      "slug": "cheesecake",
+      "title": "Pečeni cheesecake s podlogom od keksa",
+      "alternativeNames": [
+        "cheesecake",
+        "čizkejk",
+        "cizkejk",
+        "klasični cheesecake",
+        "cheesecake s krem sirom"
+      ],
+      "summary": "Klasični pečeni cheesecake s kremastim filom od krem sira i podlogom od keksa i maslaca. Peče se na niskoj temperaturi, bez vodene kupelji, i hladi najmanje 4 sata.",
+      "beforeYouStart": "Krem sir i jaja izvadite iz frižidera ranije, da budu sobne temperature. Nakon pečenja cheesecake se hladi u rerni, pa najmanje 4 sata u frižideru, pa ga pravite dan ranije ili ujutro.",
+      "primaryCategory": "torte",
+      "tags": [
+        "sir",
+        "keks",
+        "jaja"
+      ],
+      "authors": [
+        "amra-hodzic"
+      ],
+      "difficulty": "srednje",
+      "methods": [
+        "pecenje"
+      ],
+      "meals": [],
+      "yield": {
+        "servings": 12,
+        "unit": "porcija",
+        "scalable": false
+      },
+      "times": {
+        "prepMinutes": 30,
+        "cookMinutes": 55,
+        "restMinutes": 240,
+        "restLabel": "hlađenja",
+        "totalMinutes": 325
+      },
+      "equipment": {
+        "panSize": "kalup s obručem promjera 20 cm",
+        "temperature": 160,
+        "ovenMode": "gornji-donji",
+        "other": "s ventilatorom 140 °C"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Podloga",
+          "items": [
+            {
+              "ingredient": "keks",
+              "amount": 200,
+              "unit": "g",
+              "label": "običnog keksa",
+              "note": "npr. petit beurre ili plazma"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 120,
+              "unit": "g",
+              "label": "neslanog maslaca",
+              "note": "otopljenog"
+            }
+          ]
+        },
+        {
+          "title": "Fil",
+          "items": [
+            {
+              "ingredient": "krem-sir",
+              "amount": 500,
+              "unit": "g",
+              "label": "krem sira",
+              "note": "čvršćeg, sobne temperature"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "ekstrakt-vanilije",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "ekstrakta vanilije"
+            },
+            {
+              "ingredient": "kisela-pavlaka",
+              "amount": 120,
+              "unit": "g",
+              "label": "punomasne kisele pavlake"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 300,
+              "unit": "g",
+              "label": "sitnog šećera"
+            },
+            {
+              "ingredient": "limun",
+              "amount": 1,
+              "unit": "bez",
+              "label": "limuna",
+              "note": "samo rendana korica"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 3,
+              "unit": "bez",
+              "label": "jaja",
+              "note": "sobne temperature"
+            }
+          ]
+        },
+        {
+          "title": "Za posluživanje",
+          "items": [
+            {
+              "ingredient": "secer-u-prahu",
+              "unit": "po-potrebi",
+              "label": "šećera u prahu",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Podloga",
+          "steps": [
+            {
+              "text": "Zagrijte rernu na 160 °C (140 °C s ventilatorom)."
+            },
+            {
+              "text": "Dno kalupa okrenite naopako, lagano ga namastite i prekrijte papirom za pečenje, pa zakopčajte obruč. Namastite i obložite papirom i stranice."
+            },
+            {
+              "text": "Keks sameljite u sitne mrvice, dodajte otopljeni maslac i miješajte dok smjesa ne liči na mokri pijesak."
+            },
+            {
+              "text": "Mrvice rasporedite po dnu i uz stranice kalupa, skoro do vrha, pa ih čvrsto pritisnite dnom čaše."
+            }
+          ]
+        },
+        {
+          "title": "Fil i pečenje",
+          "steps": [
+            {
+              "text": "Krem sir mutite mikserom na srednje jakoj brzini oko 30 sekundi, dok ne bude gladak."
+            },
+            {
+              "text": "Dodajte brašno i mutite samo dok se ne sjedini."
+            },
+            {
+              "text": "Dodajte vaniliju, kiselu pavlaku, šećer i limunovu koricu i mutite 10–15 sekundi."
+            },
+            {
+              "text": "Dodajte jaja jedno po jedno i nakon svakog mutite samo oko 10 sekundi."
+            },
+            {
+              "text": "Izlijte fil na podlogu i pecite 55 minuta. Gotov je kad je vrh blijedo zlatan i gotovo ravan, a sredina se lagano trese kad pomjerite kalup.",
+              "timerMinutes": 55
+            },
+            {
+              "text": "Isključite rernu, otvorite vrata oko 20 cm i ostavite cheesecake u rerni da se hladi."
+            },
+            {
+              "text": "Prebacite ga u frižider i hladite u kalupu najmanje 4 sata.",
+              "timerMinutes": 240
+            },
+            {
+              "text": "Skinite obruč i pomoću papira prebacite cheesecake na tanjir. Po želji ga pospite šećerom u prahu ili poslužite s voćem."
+            }
+          ]
+        }
+      ],
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Ovaj cheesecake je klasičan i pečen: gust, kremast fil od krem sira, šećera, jaja i malo kisele pavlake, na hrskavoj podlozi od keksa i maslaca. Nema želatine ni šlaga, i ne pravi se bez pečenja.\n\nKod pečenog cheesecakea najčešće se pojave dvije stvari: pukotine na vrhu i grudvice u filu. Ovaj recept ih izbjegava sobnom temperaturom sastojaka, kratkim mućenjem, niskom temperaturom pečenja i polaganim hlađenjem. Vodena kupelj nije potrebna."
+        },
+        {
+          "level": "h2",
+          "title": "Koji krem sir",
+          "body": "Recept je računat za čvršći krem sir, kakav se prodaje u kockama ili čvrstim pakovanjima. Ako imate samo mekani krem sir za mazanje, u čašici (kod nas npr. ABC), izostavite kiselu pavlaku. Mekani sir već ima više vlage, a s pavlakom bi fil bio prerijedak i teže bi se stegnuo.\n\nSir mora biti sobne temperature. Hladan krem sir se ne može glatko izmutiti i u filu ostanu grudvice. Iz istog razloga i jaja trebaju biti sobne temperature: hladna jaja ponovo stegnu umućeni sir."
+        },
+        {
+          "level": "h2",
+          "title": "Mutite kratko",
+          "body": "Fil se ne mući dugo, nego samo dok se svaki sastojak ne sjedini, a jaja jedno po jedno, po desetak sekundi. Što se fil duže muti, više zraka uđe u njega. Taj zrak se u rerni proširi, fil se digne, a zatim padne i pukne."
+        },
+        {
+          "level": "h2",
+          "title": "Zašto ne puca bez vodene kupelji",
+          "body": "Pukotine nastaju kad se fil prepeče ili kad se naglo ohladi. Na 160 °C fil se peče polako i ravnomjerno. Nakon pečenja cheesecake ostaje u ugašenoj rerni s odškrinutim vratima, pa se hladi postepeno.\n\nCheesecake je pečen kad je vrh blijedo zlatan i gotovo ravan, a sredina se blago trese kad pomjerite kalup. Ne čekajte da se i sredina stegne. Ona se stegne tek u frižideru. Prepečen fil je zrnast i puca.\n\nAko ipak pukne, pukotinu prekrijte voćem, šlagom ili šećerom u prahu. Okus to ne mijenja."
+        },
+        {
+          "level": "h2",
+          "title": "Podloga od keksa",
+          "body": "Za podlogu odgovara bilo koji obični suhi keks: petit beurre, plazma ili slični. Mrvice s maslacem trebaju se držati zajedno kad ih stisnete u šaci. Ako se raspadaju, dodajte još malo otopljenog maslaca.\n\nMrvice rasporedite po dnu i uz stranice kalupa, pa ih čvrsto pritisnite ravnim dnom čaše. Slabo pritisnuta podloga se pri rezanju raspada. Keks bez multipraktika usitnite u kesi oklagijom."
+        },
+        {
+          "level": "h2",
+          "title": "Hlađenje i rezanje",
+          "body": "Cheesecake treba najmanje 4 sata u frižideru da se fil potpuno stegne. Zato ga pravite dan ranije ili ujutro za večer. Režite ga nožem umočenim u vruću vodu i obrisanim nakon svakog reza.\n\nUz njega dobro idu jagode, borovnice ili maline. Čuvajte ga pokrivenog u frižideru.\n\nAko tražite kremast desert bez pečenja, pogledajte [tiramisu](/recepti/tiramisu/)."
+        }
+      ],
+      "relatedRecipes": [
+        "tiramisu",
+        "brownie"
+      ],
+      "servedWith": [],
+      "leftovers": {},
+      "seo": {
+        "title": "Pečeni cheesecake s krem sirom i podlogom od keksa",
+        "description": "Klasični pečeni cheesecake s kremastim filom od krem sira i podlogom od keksa. Kako izbjeći pukotine bez vodene kupelji i koji sir uzeti. Recept korak po korak."
+      },
+      "sourceNote": "RecipeTin Eats – Easy Classic Baked Cheesecake: https://www.recipetineats.com/easy-classic-baked-cheesecake/. Odabrana verzija: pečeni cheesecake s krem sirom i podlogom od keksa, bez želatine (plan SNK-0028; uključuje teme SNK-0252 i SNK-0269). Šolja = 250 ml: ½ šolje kisele pavlake ≈ 120 g. Kalup 8 inča = 20 cm; 160 °C, s ventilatorom 140 °C. Napomena izvora: s mekanim krem sirom za mazanje izostaviti kiselu pavlaku. NEDOSTAJE: koliko dugo se cheesecake hladi u rerni (izvor ne navodi) i rok čuvanja; ukupno vrijeme 30 + 55 min + najmanje 4 h hlađenja u frižideru."
+    }
+  ]
+}
