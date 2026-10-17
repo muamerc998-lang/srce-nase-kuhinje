@@ -114,7 +114,7 @@ Namirnice koje ne postoje u registru dodaju se u `ingredients` istog uvoza: kano
 **Postupak (bez vanjskog spremišta):**
 1. U `content/recepti/slike/promptovi.json` dodati `{ slug, alt, dish }` za svaki novi recept. `dish` je opis jela na engleskom prema receptu, a `alt` alt tekst na bosanskom.
 2. `npx tsx scripts/generisi-slike.ts content/recepti/slike/promptovi.json` (zadano: jeftiniji `gpt-image-1-mini`, srednji kvalitet) napravi `content/recepti/slike/<slug>.webp` (1600 × 1200). Ključ je `OPENAI_API_KEY` u `.env.local`, a postojeće slike se preskaču. Svaku sliku pregledati.
-3. Uz `DATABASE_URL` iz `.env.neon` pokrenuti `npx tsx scripts/dodaj-slike.ts content/recepti/slike/promptovi.json`. Skripta pravi medij s izvorom „AI ilustracija“ i postavlja ga kao naslovnu sliku recepta. Fajlovi nastaju u `public/media/`.
+3. Uz `DATABASE_URL` iz `.env.neon` pokrenuti `npx tsx scripts/dodaj-slike.ts content/recepti/slike/promptovi.json`. Skripta pravi medij s izvorom „AI ilustracija“ i postavlja ga kao naslovnu sliku recepta. Fajlovi nastaju u `public/media/`. Svaki fajl se automatski smanji na najviše 100 KB (`scripts/smanji-slike.ts`: kvalitet se spušta do 50, a ako ni to nije dovoljno, slika se malo smanji uz isti omjer). Za ručnu provjeru: `npx tsx scripts/smanji-slike.ts`.
 4. Fajlove iz `public/media/` commitati i pushati na `main`. Vercel ih objavljuje zajedno sa sajtom. Upload kroz `/admin` na live sajtu ne radi, jer Vercel ne dozvoljava pisanje fajlova.
 
 Pravila za promptove i obradu:

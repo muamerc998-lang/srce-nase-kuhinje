@@ -2,7 +2,8 @@
  * Dodaje AI fotografije postojećim receptima i objavljuje izmjenu.
  *   npx tsx scripts/dodaj-slike.ts content/recepti/slike/promptovi.json
  * Za svaki slug: content/recepti/slike/<slug>.webp → Medij (alt, „AI ilustracija“) → naslovna slika recepta.
- * Recept koji već ima naslovnu sliku se preskače. Fajlovi (i veličine) nastaju u public/media;
+ * Recept koji već ima naslovnu sliku se preskače. Fajlovi (i veličine) nastaju u public/media
+ * i automatski se smanjuju na najviše 100 KB (smanji-slike.ts);
  * nakon pokretanja ih commitati i pushati na GitHub — Vercel ih objavljuje sa sajtom.
  */
 import 'dotenv/config'
@@ -10,6 +11,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { getPayload } from 'payload'
 import config from '../src/payload.config'
+import { shrinkRecipeImages } from './smanji-slike'
 
 async function main() {
   const items: { slug: string; alt: string }[] = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'))
@@ -50,6 +52,7 @@ async function main() {
       overrideAccess: true,
       data: { heroImage: media.id, _status: recipe._status === 'published' ? 'published' : 'draft' },
     })
+    await shrinkRecipeImages(it.slug, false)
     console.log(`slika dodana: ${it.slug}`)
   }
   process.exit(0)
