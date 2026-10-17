@@ -218,5 +218,50 @@
     "slug": "overnight-oats-s-borovnicama-i-chia-sjemenkama",
     "alt": "Tegla overnight oatsa s jogurtom, chia sjemenkama, borovnicama i bademima",
     "dish": "a glass jar of overnight oats: creamy pale purple oats and yogurt mixture with chia seeds, topped with fresh blueberries and chopped toasted almonds, a spoon beside the jar"
+  },
+  {
+    "slug": "domaca-strudla-s-jabukama-od-vucenog-tijesta",
+    "alt": "Kriške bečke štrudle s jabukama i grožđicama, s tankim hrskavim slojevima tijesta, posute šećerom u prahu",
+    "dish": "slices of Viennese apple strudel made with paper-thin hand-stretched dough, many thin flaky golden layers wrapped around a filling of soft sliced apples with raisins and cinnamon breadcrumbs, dusted with powdered sugar, on a plate, a little whipped cream beside"
+  },
+  {
+    "slug": "tart-s-jagodama-i-vanilija-kremom",
+    "alt": "Tart s jagodama i kremom od vanilije na hrskavoj kori, jagode sjajne od džema",
+    "dish": "a round French strawberry tart: golden fluted sweet shortcrust shell, filled with smooth pale yellow vanilla pastry cream, topped with neatly arranged halved fresh strawberries glazed with a shiny jam glaze, one slice cut out"
+  },
+  {
+    "slug": "cokoladni-tart-s-ganache-kremom",
+    "alt": "Kriška čokoladnog tarta s tamnom korom i glatkim sjajnim ganacheom, s listićima soli",
+    "dish": "a round chocolate tart with a dark cocoa shortcrust shell filled with smooth, glossy dark chocolate ganache, sprinkled with a few flakes of sea salt, one thin slice cut and placed on a plate with a dollop of whipped cream"
+  },
+  {
+    "slug": "matilda-cokoladna-torta-socni-biskvit",
+    "alt": "Kriška Matilda čokoladne torte s dva vlažna biskvita i debelim slojem sjajne čokoladne kreme",
+    "dish": "a slice of very moist dark chocolate layer cake with two dark chocolate sponge layers and thick glossy chocolate fudge frosting between them and on top and sides, the rest of the round cake behind, on a plate"
+  },
+  {
+    "slug": "medenjaci",
+    "alt": "Medenjaci u obliku zvijezda i srca na limu, smeđi od meda i začina",
+    "dish": "Croatian honey gingerbread cookies (medenjaci) cut into stars, hearts and round shapes, golden brown, plain without icing, a few with a small hole for hanging, on parchment and a wooden board, cinnamon sticks nearby"
+  },
+  {
+    "slug": "dizana-strudla-s-orasima",
+    "alt": "Kriške dizane štrudle s orasima, sa spiralom tamnog nadjeva od oraha, posute šećerom u prahu",
+    "dish": "slices of Croatian walnut roll (orahnjača): soft golden yeast bread dough with a thick brown spiral of ground walnut filling, glossy egg-washed crust dusted with powdered sugar, on a wooden board"
+  },
+  {
+    "slug": "zerbo-pita-s-orasima-i-pekmezom",
+    "alt": "Kocke žerbo kolača s četiri tanke kore, džemom od marelice, orasima i čokoladnom glazurom",
+    "dish": "squares of Hungarian Gerbeaud cake (zserbó): four thin pale pastry layers alternating with apricot jam and ground walnut filling, topped with a thin glossy chocolate cocoa glaze, neatly cut, on a plate"
+  },
+  {
+    "slug": "reforma-torta",
+    "alt": "Komad reforma torte s korama od oraha, čokoladnom kremom i šlagom, posut čokoladom",
+    "dish": "a slice of Serbian Reforma torte: three thin light walnut meringue sponge layers with thick dark chocolate cream between them, the whole cake covered with white whipped cream and decorated with grated chocolate and ground walnuts, on a plate"
+  },
+  {
+    "slug": "san-sebastian-cheesecake",
+    "alt": "San Sebastian cheesecake s tamnom karameliziranom površinom i kremastom sredinom na papiru za pečenje",
+    "dish": "a Basque burnt cheesecake with a deeply caramelised dark brown almost burnt top and edges, sitting on crumpled parchment paper with rustic folds, one slice cut out showing a creamy, soft pale yellow centre"
   }
 ]

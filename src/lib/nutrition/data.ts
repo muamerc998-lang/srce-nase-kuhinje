@@ -120,6 +120,13 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   bademi: n(579, 21.2, 21.6, 49.9),
   'zobene-pahuljice': n(379, 13.2, 67.7, 6.5, { density: 0.37 }),
   'vinski-kamen': zero,
+  prezle: n(395, 13.4, 71.9, 5.3, { density: 0.45 }),
+  grozdjice: n(299, 3.1, 79.2, 0.5),
+  rum: n(231, 0, 0, 0, { density: 0.94 }),
+  jagode: n(32, 0.7, 7.7, 0.3),
+  mlacenica: n(40, 3.3, 4.8, 0.9, { density: 1.03 }),
+  djumbir: zero,
+  karanfilic: zero,
 
   // tekućine
   'crno-vino': n(85, 0.1, 2.6, 0, { density: 0.99 }),
