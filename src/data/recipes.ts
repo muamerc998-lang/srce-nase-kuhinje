@@ -6,6 +6,7 @@ import { effectiveTotal } from '@/lib/recipes/time'
 import type { IngredientLine } from '@/lib/recipes/types'
 import { parseTextBlocks } from '@/lib/content/article-text'
 import { headingId } from '@/lib/content/lexical'
+import { estimateNutrition } from '@/lib/nutrition/estimate'
 
 const HOUR = 3600
 
@@ -54,6 +55,7 @@ export function toRecipeView(r: Recipe) {
     times: { ...(r.times ?? {}), totalMinutes: effectiveTotal(r.times ?? {}) },
     equipment: r.equipment ?? {},
     ingredientGroups: toIngredientGroups(r),
+    nutrition: estimateNutrition(r.slug ?? '', toIngredientGroups(r).flatMap((g) => g.items), r.yield?.servings ?? null),
     stepGroups: toStepGroups(r),
     article: (r.article ?? []).map((sec, i) => ({
       level: (sec.level === 'h3' ? 'h3' : 'h2') as 'h2' | 'h3',

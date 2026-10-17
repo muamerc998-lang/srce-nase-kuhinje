@@ -95,6 +95,8 @@ Format uvoza: `srce-nase-kuhinje/v1` — primjer `content/examples/primjer-uvoza
 
 Namirnice koje ne postoje u registru dodaju se u `ingredients` istog uvoza: kanonski naziv (jednina ili uobičajeni oblik), sinonimi, `broader` (širi pojam), `foodGroup` (meso, riba, mlijecno, jaja, povrce, voce, zitarice, zacini, ostalo). **Ne spajati različite proizvode** (mlijeko ≠ kondenzovano mlijeko).
 
+**Kalorije:** procjena na stranici recepta računa se iz `src/lib/nutrition/data.ts` (vrijednosti na 100 g prema USDA FoodData Central). Za svaku novu namirnicu dodati red s kcal, proteinima, ugljikohidratima i mastima, a za kašike i komade i `density` ili `pieces`. Bez toga se procjena za taj recept ne prikazuje. Recepte u kojima se dio sastojaka ne pojede (temeljac, ulje za prženje, sirup) dodati u `NUTRITION_EXCLUDED`.
+
 ## 5. SEO pravila
 
 - **SEO naslov** (`seo.title`): 45–60 znakova; prirodan; ključni pojam na početku; po želji korist ili razlikovanje. Npr. „Musaka s krompirom — sočna, s preljevom od jaja“. Bez naziva sajta (dodaje se automatski). Bez VELIKIH SLOVA i nabrajanja ključnih riječi.

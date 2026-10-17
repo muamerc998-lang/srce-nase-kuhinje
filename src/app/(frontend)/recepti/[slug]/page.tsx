@@ -37,6 +37,7 @@ import {
 } from '@/components/recipe/RecipeSections'
 import { CommentForm, CorrectionForm } from '@/components/forms/Forms'
 import { RecipeArticle } from '@/components/recipe/RecipeArticle'
+import { NutritionPanel } from '@/components/recipe/NutritionPanel'
 import { ImagePlaceholder } from '@/components/ui/ImagePlaceholder'
 import { recipeJsonLd } from '@/lib/seo/jsonld'
 import { absolute, formatDate, pageMeta } from '@/lib/seo/meta'
@@ -225,13 +226,14 @@ export default async function RecipePage({ params }: Props) {
               <RecipeArticle sections={recipe.article} recipeTitle={recipe.title} />
             </div>
             <aside aria-label="Osnovni podaci o receptu" className="no-print hidden lg:block">
-              <div className="sticky top-24 space-y-4">
+              <div className="space-y-4">
                 <p className="eyebrow">Ukratko</p>
                 <RecipeFacts recipe={recipe} layout="list" />
-                <a href="#recept" className="btn btn-primary w-full">
-                  <ArrowDown aria-hidden="true" className="h-5 w-5" /> Idi na recept
-                </a>
+                <NutritionPanel id="nutritivne-vrijednosti" nutrition={recipe.nutrition} unit={recipe.yield.unit} />
               </div>
+              <a href="#recept" className="btn btn-primary sticky top-24 mt-4 w-full">
+                <ArrowDown aria-hidden="true" className="h-5 w-5" /> Idi na recept
+              </a>
             </aside>
           </div>
 
@@ -278,6 +280,12 @@ export default async function RecipePage({ params }: Props) {
               </section>
             </div>
           </section>
+
+          {recipe.nutrition && (
+            <div className="no-print mt-6 max-w-md lg:hidden">
+              <NutritionPanel id="nutritivne-vrijednosti-mob" nutrition={recipe.nutrition} unit={recipe.yield.unit} />
+            </div>
+          )}
 
           <RecipeAfterActions recipe={saveTarget} canonical={canonical} />
 
