@@ -181,6 +181,11 @@ export default async function RecipePage({ params }: Props) {
               <div className="mt-5 lg:hidden print:block">
                 <RecipeFacts recipe={recipe} />
               </div>
+              {recipe.nutrition && (
+                <div className="no-print mt-4 lg:hidden">
+                  <NutritionPanel id="nutritivne-vrijednosti-mob" nutrition={recipe.nutrition} unit={recipe.yield.unit} />
+                </div>
+              )}
               <p className="mt-5 text-lg text-muted">{recipe.summary}</p>
               <p className="mt-3 text-[0.95rem] text-muted">
                 {recipe.authors.length > 0 && (
@@ -280,12 +285,6 @@ export default async function RecipePage({ params }: Props) {
               </section>
             </div>
           </section>
-
-          {recipe.nutrition && (
-            <div className="no-print mt-6 max-w-md lg:hidden">
-              <NutritionPanel id="nutritivne-vrijednosti-mob" nutrition={recipe.nutrition} unit={recipe.yield.unit} />
-            </div>
-          )}
 
           <RecipeAfterActions recipe={saveTarget} canonical={canonical} />
 
