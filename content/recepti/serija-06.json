@@ -1,0 +1,2225 @@
+{
+  "format": "srce-nase-kuhinje/v1",
+  "ingredients": [
+    {
+      "slug": "evaporirano-mlijeko",
+      "name": "evaporirano mlijeko",
+      "synonyms": [
+        "nezaslađeno kondenzovano mlijeko",
+        "ukuhano mlijeko"
+      ],
+      "broader": "mlijeko",
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "kondenzovano-mlijeko",
+      "name": "kondenzovano mlijeko",
+      "synonyms": [
+        "zaslađeno kondenzovano mlijeko",
+        "kondenzirano mlijeko"
+      ],
+      "broader": "mlijeko",
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "vinski-kamen",
+      "name": "vinski kamen",
+      "synonyms": [
+        "cream of tartar",
+        "kremotartar"
+      ],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "oblande",
+      "name": "oblande",
+      "synonyms": [
+        "oblatne",
+        "listovi oblandi"
+      ],
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "puding-u-prahu",
+      "name": "prah za puding od vanilije",
+      "synonyms": [
+        "custard prah",
+        "puding u prahu"
+      ],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "samodizajuce-brasno",
+      "name": "samodizajuće brašno",
+      "synonyms": [
+        "brašno s praškom za pecivo",
+        "self-raising brašno"
+      ],
+      "broader": "glatko-brasno",
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "kokos",
+      "name": "kokosovo brašno",
+      "synonyms": [
+        "rendani kokos",
+        "kokos"
+      ],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "bademi",
+      "name": "bademi",
+      "synonyms": [
+        "badem"
+      ],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "zobene-pahuljice",
+      "name": "zobene pahuljice",
+      "synonyms": [
+        "ovsene pahuljice",
+        "zob"
+      ],
+      "foodGroup": "zitarice"
+    }
+  ],
+  "recipes": [
+    {
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "relatedGuides": [],
+      "facebook": {},
+      "diets": [
+        "vegetarijansko"
+      ],
+      "servedWith": [],
+      "leftovers": {},
+      "meals": [],
+      "authors": [
+        "amra-hodzic"
+      ],
+      "methods": [
+        "pecenje"
+      ],
+      "planId": "SNK-0026",
+      "slug": "trilece-s-karamelom",
+      "title": "Trileće s karamelom",
+      "alternativeNames": [
+        "trileće",
+        "trilece",
+        "trilece recept",
+        "kolač s tri vrste mlijeka",
+        "trileće s karamel prelivom"
+      ],
+      "summary": "Trileće: lagani biskvit natopljen mješavinom svježeg, kondenzovanog i evaporiranog mlijeka, pod šlagom i slojem domaće karamele. Najbolje je sutradan.",
+      "beforeYouStart": "Kalup se ne maže, jer se biskvit mora uhvatiti za stranice da naraste. Trileće se hladi najmanje 4 sata, a najbolje preko noći. Evaporirano i zaslađeno kondenzovano mlijeko nisu isti proizvod.",
+      "primaryCategory": "kolaci",
+      "tags": [
+        "mlijeko",
+        "karamel",
+        "jaja"
+      ],
+      "difficulty": "zahtjevno",
+      "yield": {
+        "servings": null,
+        "unit": null,
+        "scalable": false
+      },
+      "times": {
+        "prepMinutes": 45,
+        "cookMinutes": 30,
+        "restMinutes": 240,
+        "restLabel": "hlađenja",
+        "totalMinutes": 345
+      },
+      "equipment": {
+        "panSize": "kvadratni kalup 25 × 25 cm",
+        "temperature": 180,
+        "other": "mikser, cjediljka, kist ili ražanj za bušenje"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Karamela",
+          "items": [
+            {
+              "ingredient": "secer",
+              "amount": 300,
+              "unit": "g",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 100,
+              "unit": "g",
+              "label": "neslanog maslaca",
+              "note": "omekšalog"
+            },
+            {
+              "ingredient": "slatka-pavlaka",
+              "amount": 200,
+              "unit": "ml",
+              "label": "slatke pavlake",
+              "note": "vruće"
+            },
+            {
+              "ingredient": "ekstrakt-vanilije",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "ekstrakta vanilije"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.25,
+              "unit": "kasicica",
+              "label": "soli"
+            }
+          ]
+        },
+        {
+          "title": "Biskvit",
+          "items": [
+            {
+              "ingredient": "jaja",
+              "amount": 5,
+              "unit": "bez",
+              "label": "velikih jaja",
+              "note": "odvojeni bjelanjci i žumanjci"
+            },
+            {
+              "ingredient": "vinski-kamen",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "vinskog kamena",
+              "optional": true
+            },
+            {
+              "ingredient": "secer",
+              "amount": 80,
+              "unit": "g",
+              "label": "šećera",
+              "note": "za bjelanjke"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 80,
+              "unit": "g",
+              "label": "šećera",
+              "note": "za žumanjke"
+            },
+            {
+              "ingredient": "ekstrakt-vanilije",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "ekstrakta vanilije"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 80,
+              "unit": "ml",
+              "label": "punomasnog mlijeka"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 150,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "prasak-za-pecivo",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "praška za pecivo"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1,
+              "unit": "prstohvat",
+              "label": "soli"
+            }
+          ]
+        },
+        {
+          "title": "Mliječni preliv",
+          "items": [
+            {
+              "ingredient": "mlijeko",
+              "amount": 300,
+              "unit": "ml",
+              "label": "punomasnog mlijeka"
+            },
+            {
+              "ingredient": "kondenzovano-mlijeko",
+              "amount": 397,
+              "unit": "g",
+              "label": "zaslađenog kondenzovanog mlijeka",
+              "note": "1 konzerva"
+            },
+            {
+              "ingredient": "evaporirano-mlijeko",
+              "amount": 410,
+              "unit": "g",
+              "label": "evaporiranog (nezaslađenog) mlijeka",
+              "note": "1 konzerva"
+            }
+          ]
+        },
+        {
+          "title": "Šlag",
+          "items": [
+            {
+              "ingredient": "slatka-pavlaka",
+              "amount": 500,
+              "unit": "ml",
+              "label": "slatke pavlake za šlag"
+            },
+            {
+              "ingredient": "secer-u-prahu",
+              "amount": 100,
+              "unit": "g",
+              "label": "šećera u prahu"
+            },
+            {
+              "ingredient": "ekstrakt-vanilije",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "ekstrakta vanilije"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Karamela",
+          "steps": [
+            {
+              "text": "Šećer topite u šerpi na srednjoj vatri, stalno miješajući, dok ne postane tamna jantarna karamela."
+            },
+            {
+              "text": "Sklonite šerpu s vatre i umiješajte omekšali maslac, pa polako, uz stalno mućenje, ulijte vruću slatku pavlaku."
+            },
+            {
+              "text": "Umiješajte vaniliju i so, procijedite karamelu kroz cjediljku i ostavite je da se ohladi."
+            }
+          ]
+        },
+        {
+          "title": "Biskvit",
+          "steps": [
+            {
+              "text": "Zagrijte rernu na 180 °C. Kalup nemojte mazati."
+            },
+            {
+              "text": "Bjelanjke mutite s vinskim kamenom. Kad se zapjene, postepeno dodajte 80 g šećera i mutite u čvrst snijeg."
+            },
+            {
+              "text": "U drugoj posudi 1–2 minute mutite žumanjke, 80 g šećera i vaniliju, dok smjesa ne posvijetli.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Umiješajte mlijeko, brašno, prašak za pecivo i so."
+            },
+            {
+              "text": "Umiješajte polovinu snijega, pa ostatak, samo dok ne nestanu bijele pruge."
+            },
+            {
+              "text": "Izlijte smjesu u kalup i pecite oko 30 minuta, dok čačkalica iz sredine ne izađe čista.",
+              "timerMinutes": 30
+            },
+            {
+              "text": "Kalup odmah okrenite naopako na rešetku, s biskvitom u njemu, i ostavite 30 minuta.",
+              "timerMinutes": 30
+            }
+          ]
+        },
+        {
+          "title": "Natapanje i slaganje",
+          "steps": [
+            {
+              "text": "Izmiješajte svježe, kondenzovano i evaporirano mlijeko i ugrijte ih 1–2 minute, tek da budu mlaki."
+            },
+            {
+              "text": "Ohlađeni biskvit izbušite ražnjem ili nožem po cijeloj površini."
+            },
+            {
+              "text": "Mliječni preliv postepeno prelijte preko biskvita, ostavljajući ga da upije između dodavanja, dok ne potrošite sav preliv."
+            },
+            {
+              "text": "Slatku pavlaku, šećer u prahu i vaniliju umutite u mekan šlag. Malo šlaga ostavite za ukras."
+            },
+            {
+              "text": "Ostatak šlaga razmažite po biskvitu."
+            },
+            {
+              "text": "Karamelu, ako je pregusta, kratko ugrijte da bude mlaka i tečna, pa je razmažite preko šlaga."
+            },
+            {
+              "text": "Sačuvanim šlagom povucite linije preko karamele i provucite kroz njih nožem ili ražnjem."
+            },
+            {
+              "text": "Ostavite trileće u frižideru najmanje 4 sata, a najbolje preko noći.",
+              "timerMinutes": 240
+            }
+          ]
+        }
+      ],
+      "approach": "detaljni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Trileće je kolač od laganog biskvita natopljenog s tri vrste mlijeka, po kojima je dobio ime. Ova verzija koristi svježe mlijeko, zaslađeno kondenzovano i evaporirano mlijeko, a odozgo ima šlag i sloj domaće karamele. Biskvit upije gotovo sav preliv, a ipak ostaje u komadu, pa je kolač vrlo sočan, ali se reže.\n\nAutorica recepta napominje da je ovo moderna izvedba, kakva se danas najčešće pravi."
+        },
+        {
+          "level": "h2",
+          "title": "Biskvit koji upija, a ne raspada se",
+          "body": "Biskvit je pjenast: bjelanjci se umute u čvrst snijeg, žumanjci sa šećerom posebno, a onda se lagano sjedine. Zrak iz snijega daje šupljikavu strukturu, koja upija mlijeko kao spužva. Snijeg umiješajte u dva dijela i samo dok ne nestanu pruge, da ne izgubi zrak.\n\nKalup se ne maže, jer se biskvit penje uz stranice. Nakon pečenja se okrene naopako dok se hladi. Tako se ne slegne pod vlastitom težinom."
+        },
+        {
+          "level": "h2",
+          "title": "Kondenzovano i evaporirano mlijeko",
+          "body": "To nisu isti proizvodi. Zaslađeno kondenzovano mlijeko je gusto i vrlo slatko. Evaporirano mlijeko je samo ukuhano, bez šećera, i rijetko. Ako ih zamijenite, kolač će biti preslatkiji ili previše vodenast.\n\nPreliv se tek malo ugrije, da bude mlak, i dodaje se postepeno. Biskvit treba vremena da upije. Ako sve prelijete odjednom, preliv ostane na dnu kalupa."
+        },
+        {
+          "level": "h2",
+          "title": "Karamela bez grudvica",
+          "body": "Šećer se topi uz stalno miješanje dok ne postane tamno jantaran. Svijetla karamela je samo slatka, a tamna ima puniji okus. Ali kad počne mirisati na zagorjelo, već je gorka.\n\nMaslac mora biti omekšao, a slatka pavlaka vruća. Hladni dodaci naglo ohlade karamelu i ona se stvrdne u grudice. Procijedite je za svaki slučaj. Ako se do slaganja previše zgusne, kratko je ugrijte."
+        },
+        {
+          "level": "h2",
+          "title": "Najbolje sutradan",
+          "body": "Trileće treba najmanje 4 sata u frižideru, ali je najbolje preko noći. Biskvit tada ravnomjerno upije mlijeko, a šlag i karamela se stegnu. Čuvajte ga pokrivenog u frižideru.\n\nZa drugi kremast desert koji se pravi dan ranije pogledajte [tiramisu](/recepti/tiramisu/)."
+        }
+      ],
+      "relatedRecipes": [
+        "tiramisu",
+        "krempita"
+      ],
+      "seo": {
+        "title": "Trileće s karamelom – biskvit natopljen s tri mlijeka",
+        "description": "Trileće s karamelom: biskvit natopljen svježim, kondenzovanim i evaporiranim mlijekom, sa šlagom i domaćom karamelom. Kako bez grudvica. Recept korak po korak."
+      },
+      "sourceNote": "Ash Baber – Trilece: https://ashbaber.com/trilece/. Odabrana verzija: tri vrste mlijeka (svježe, zaslađeno kondenzovano, evaporirano), šlag i karamela, bez mlijeka u prahu i griza (plan SNK-0026). Metričke mjere iz izvora; kalup 10 inča ≈ 25 cm; 180 °C, ~30 min. Vinski kamen (cream of tartar) je po izvoru opcionalan. NEDOSTAJE: broj porcija, vrijeme pripreme i rok čuvanja (izvor ih ne navodi); priprema procijenjena na 45 min (karamela, biskvit i šlag)."
+    },
+    {
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "relatedGuides": [],
+      "facebook": {},
+      "diets": [
+        "vegetarijansko"
+      ],
+      "servedWith": [],
+      "leftovers": {},
+      "meals": [],
+      "authors": [
+        "amra-hodzic"
+      ],
+      "methods": [
+        "kuhanje",
+        "bez-pecenja"
+      ],
+      "planId": "SNK-0072",
+      "slug": "oblande-s-keksom",
+      "title": "Oblande s keksom, orasima i čokoladom",
+      "alternativeNames": [
+        "oblande sa keksom",
+        "oblande",
+        "oblatne s keksom",
+        "oblande s orasima i čokoladom"
+      ],
+      "summary": "Oblande s nadjevom od mlijeka, šećera, maslaca, čokolade, mljevenih oraha i keksa. Pet listova i četiri sloja nadjeva preko noći se stegnu pod teretom.",
+      "beforeYouStart": "Oblande se prave dan ranije, jer moraju prenoćiti pod teretom. Listovi su veličine 27,5 × 37,5 cm.",
+      "primaryCategory": "kolaci",
+      "tags": [
+        "keks",
+        "orasi",
+        "cokolada"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 10,
+        "unit": "porcija",
+        "scalable": false
+      },
+      "times": {
+        "prepMinutes": 20,
+        "cookMinutes": 5,
+        "restMinutes": 480,
+        "restLabel": "odležavanja",
+        "totalMinutes": 505
+      },
+      "equipment": {
+        "other": "šira šerpa, težak ravan predmet"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Nadjev",
+          "items": [
+            {
+              "ingredient": "mlijeko",
+              "amount": 300,
+              "unit": "ml",
+              "label": "mlijeka"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 300,
+              "unit": "g",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 250,
+              "unit": "g",
+              "label": "maslaca",
+              "note": "narezanog"
+            },
+            {
+              "ingredient": "cokolada-za-kuhanje",
+              "amount": 100,
+              "unit": "g",
+              "label": "čokolade za kuhanje"
+            },
+            {
+              "ingredient": "vanilin-secer",
+              "amount": 2,
+              "unit": "kesica",
+              "label": "vanilin šećera"
+            },
+            {
+              "ingredient": "orasi",
+              "amount": 250,
+              "unit": "g",
+              "label": "mljevenih oraha"
+            },
+            {
+              "ingredient": "keks",
+              "amount": 200,
+              "unit": "g",
+              "label": "mljevenog keksa"
+            }
+          ]
+        },
+        {
+          "title": "Slaganje",
+          "items": [
+            {
+              "ingredient": "oblande",
+              "amount": 5,
+              "unit": "bez",
+              "label": "oblandi",
+              "note": "27,5 × 37,5 cm"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Nadjev",
+          "steps": [
+            {
+              "text": "U široj šerpi uz miješanje zagrijte mlijeko i šećer do ključanja."
+            },
+            {
+              "text": "Sklonite šerpu s vatre i dodajte narezani maslac."
+            },
+            {
+              "text": "Vratite šerpu na laganu vatru i kuhajte 5 minuta, stalno miješajući.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Sklonite s vatre i u smjesi otopite izlomljenu čokoladu."
+            },
+            {
+              "text": "Kad se smjesa malo ohladi, umiješajte vanilin šećer, orahe i keks."
+            },
+            {
+              "text": "Nadjev podijelite na četiri jednaka dijela."
+            }
+          ]
+        },
+        {
+          "title": "Slaganje",
+          "steps": [
+            {
+              "text": "Prvu oblandu stavite glatkom stranom prema gore i rasporedite po njoj četvrtinu nadjeva, do rubova."
+            },
+            {
+              "text": "Poklopite drugom oblandom i dlanovima je pritisnite."
+            },
+            {
+              "text": "Ponovite dok ne potrošite nadjev i oblande. Posljednja oblanda ide glatkom stranom prema dolje."
+            },
+            {
+              "text": "Prekrijte oblande papirom za pečenje i pritisnite ih teškim ravnim predmetom."
+            },
+            {
+              "text": "Ostavite ih preko noći na hladnom mjestu.",
+              "timerMinutes": 480
+            },
+            {
+              "text": "Sutradan izrežite oblande na komade."
+            }
+          ]
+        }
+      ],
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Oblande s keksom su kolač bez pečenja: pet tankih listova oblandi i četiri sloja nadjeva od mlijeka, šećera, maslaca, čokolade, oraha i mljevenog keksa. Nadjev se kuha svega pet minuta, a ostatak posla obavi teret preko noći.\n\nOva verzija s keksom ima gušći i sitniji nadjev od klasičnih oblandi samo s orasima."
+        },
+        {
+          "level": "h2",
+          "title": "Nadjev se kuha kratko",
+          "body": "Mlijeko i šećer se dovedu do ključanja, doda se maslac i kuha se pet minuta uz miješanje. Za to vrijeme se smjesa malo ukuha. Čokolada se otapa van vatre, jer na direktnoj vatri lako zagori.\n\nOrahe i keks umiješajte kad se smjesa malo prohladi. Nadjev tada postane gust i mazav, taman da se ravnomjerno razmaže do rubova oblande."
+        },
+        {
+          "level": "h2",
+          "title": "Glatka strana van",
+          "body": "Listovi oblandi imaju glatku i hrapavu stranu. Prema izvornom receptu, prva oblanda ide glatkom stranom prema gore, a posljednja glatkom stranom prema dolje, prema nadjevu. Pazite na to dok slažete, jer se listovi kasnije ne mogu okretati.\n\nNadjev podijelite na četiri jednaka dijela. Tako su svi slojevi jednako debeli, a kolač ne bude deblji na jednom kraju."
+        },
+        {
+          "level": "h2",
+          "title": "Teret i noć",
+          "body": "Složene oblande prekrijte papirom za pečenje i pritisnite ih nečim teškim i ravnim, npr. daskom s knjigama. Teret ravnomjerno pritisne slojeve, pa se oni spoje i kolač se kasnije reže bez odvajanja listova. Ostavite ih preko noći na hladnom.\n\nPrema autorici, oblande su najbolje nakon dan-dva. Za drugi kolač s keksom i orasima bez pečenja pogledajte [bajaderu](/recepti/klasicna-domaca-bajadera/)."
+        }
+      ],
+      "relatedRecipes": [
+        "klasicna-domaca-bajadera",
+        "vanilice"
+      ],
+      "seo": {
+        "title": "Oblande s keksom, orasima i čokoladom bez pečenja",
+        "description": "Oblande s nadjevom od keksa, oraha, čokolade i maslaca, bez pečenja. Kako skuhati nadjev i složiti pet listova da se slojevi ne odvajaju. Recept korak po korak."
+      },
+      "sourceNote": "Recepttura – Oblatne s čokoladom i orasima: https://recepttura.com/oblatne-s-cokoladom-i-orasima/. Odabrana verzija: oblande s mljevenim keksom, orasima i čokoladom, pet listova 27,5 × 37,5 cm i četiri sloja nadjeva (plan SNK-0072). Izvor dopušta margarin ili maslac; upisan maslac. 10 porcija; 20 min pripreme, 5 min kuhanja, odležavanje preko noći (upisano 8 h). Broj komada i rok čuvanja izvor ne navodi."
+    },
+    {
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "relatedGuides": [],
+      "facebook": {},
+      "diets": [
+        "vegetarijansko"
+      ],
+      "servedWith": [],
+      "leftovers": {},
+      "meals": [],
+      "authors": [
+        "amra-hodzic"
+      ],
+      "methods": [
+        "pecenje",
+        "kuhanje"
+      ],
+      "planId": "SNK-0010",
+      "slug": "ledene-kocke",
+      "title": "Ledene kocke",
+      "alternativeNames": [
+        "ledene kocke recept",
+        "ledene kocke kolač",
+        "kolač ledene kocke"
+      ],
+      "summary": "Ledene kocke: kakao biskvit natopljen sirupom, visoka bijela krema od mlijeka i maslaca i čokoladna glazura. Peče se samo biskvit, a kolač se hladi najmanje četiri sata.",
+      "beforeYouStart": "Kremu skuhajte prvu, jer se mora potpuno ohladiti prije miješanja s maslacem. Maslac neka bude sobne temperature. Kolač se hladi najmanje 4 sata, a najbolje preko noći.",
+      "primaryCategory": "kolaci",
+      "tags": [
+        "kakao",
+        "mlijeko",
+        "cokolada"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 8,
+        "unit": "porcija",
+        "scalable": false
+      },
+      "times": {
+        "prepMinutes": 40,
+        "cookMinutes": 30,
+        "restMinutes": 240,
+        "restLabel": "hlađenja",
+        "totalMinutes": 310
+      },
+      "equipment": {
+        "panSize": "33 × 19 cm",
+        "temperature": 190,
+        "other": "mikser, posuda za topljenje čokolade na pari"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Krema",
+          "items": [
+            {
+              "ingredient": "mlijeko",
+              "amount": 1,
+              "unit": "l",
+              "label": "mlijeka"
+            },
+            {
+              "ingredient": "gustin",
+              "amount": 80,
+              "unit": "g",
+              "label": "gustina"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 80,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 200,
+              "unit": "g",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 250,
+              "unit": "g",
+              "label": "maslaca",
+              "note": "sobne temperature"
+            }
+          ]
+        },
+        {
+          "title": "Biskvit",
+          "items": [
+            {
+              "ingredient": "jaja",
+              "amount": 4,
+              "unit": "bez",
+              "label": "jaja",
+              "note": "odvojeni bjelanjci i žumanjci"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 100,
+              "unit": "g",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 80,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "prasak-za-pecivo",
+              "amount": 5,
+              "unit": "g",
+              "label": "praška za pecivo"
+            },
+            {
+              "ingredient": "kakao",
+              "amount": 25,
+              "unit": "g",
+              "label": "kakaa"
+            }
+          ]
+        },
+        {
+          "title": "Sirup",
+          "items": [
+            {
+              "ingredient": "voda",
+              "amount": 250,
+              "unit": "ml",
+              "label": "vode"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 100,
+              "unit": "g",
+              "label": "šećera"
+            }
+          ]
+        },
+        {
+          "title": "Glazura",
+          "items": [
+            {
+              "ingredient": "cokolada-za-kuhanje",
+              "amount": 200,
+              "unit": "g",
+              "label": "čokolade za kuhanje"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 6,
+              "unit": "kasika",
+              "label": "ulja"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Krema",
+          "steps": [
+            {
+              "text": "Pomiješajte gustin, brašno i šećer, pa dodajte 2–3 kutlače hladnog mlijeka i izmiješajte bez grudvica."
+            },
+            {
+              "text": "Ostatak mlijeka zagrijte do ključanja, sklonite s vatre i ulijte smjesu s gustinom."
+            },
+            {
+              "text": "Vratite na vatru i stalno miješajte dok se krema ne zgusne."
+            },
+            {
+              "text": "Kremu pokrijte prozirnom folijom položenom na površinu i ostavite da se potpuno ohladi."
+            }
+          ]
+        },
+        {
+          "title": "Biskvit i sirup",
+          "steps": [
+            {
+              "text": "Zagrijte rernu na 190 °C. Tepsiju 33 × 19 cm namastite i pospite brašnom."
+            },
+            {
+              "text": "Bjelanjke umutite u čvrst snijeg, dodajte šećer i ponovo umutite."
+            },
+            {
+              "text": "Dodajte žumanjke jedan po jedan."
+            },
+            {
+              "text": "Pjenjačom ručno umiješajte brašno s praškom za pecivo, pa kakao."
+            },
+            {
+              "text": "Izlijte smjesu u tepsiju, poravnajte je i pecite 20 minuta.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Ostavite biskvit da se ohladi."
+            },
+            {
+              "text": "Vodu i šećer dovedite do ključanja i toplim sirupom prelijte ohlađeni biskvit."
+            }
+          ]
+        },
+        {
+          "title": "Krema, glazura i hlađenje",
+          "steps": [
+            {
+              "text": "Maslac sobne temperature izmutite mikserom, pa postepeno dodajte ohlađenu kremu, mutite nakon svakog dodatka."
+            },
+            {
+              "text": "Kremu rasporedite po biskvitu i poravnajte je."
+            },
+            {
+              "text": "Čokoladu i ulje otopite na pari, kratko prohladite i premažite preko kreme."
+            },
+            {
+              "text": "Ostavite kolač u frižideru najmanje 4 sata, a najbolje preko noći, pa ga izrežite na kocke.",
+              "timerMinutes": 240
+            }
+          ]
+        }
+      ],
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Ledene kocke su kolač s tri jasna sloja: tamni kakao biskvit natopljen sirupom, visoka bijela krema i tanka čokoladna glazura. Ime su dobile po hladnoj, bijeloj kremi i obliku kocki. Peče se samo biskvit, a sve ostalo se kuha ili topi.\n\nNajviše pažnje traži krema. Ako je dobro skuhana i pravilno spojena s maslacem, kocke su visoke, glatke i lijepo se režu."
+        },
+        {
+          "level": "h2",
+          "title": "Krema: kuhanje i hlađenje",
+          "body": "Gustin, brašno i šećer prvo se razmute u malo hladnog mlijeka. Škrob umiješan direktno u vruće mlijeko odmah se zgrudva. Zatim se ta smjesa ulije u mlijeko koje je provrilo i kuha uz stalno miješanje dok se ne zgusne.\n\nKremu pokrijte folijom koja dodiruje površinu. Bez toga se stvori kožica, koja kasnije ostane u kremi kao grudvice. Krema se mora potpuno ohladiti prije nego što se spoji s maslacem."
+        },
+        {
+          "level": "h2",
+          "title": "Maslac i krema iste temperature",
+          "body": "Maslac sobne temperature se umuti, pa mu se kašiku po kašiku dodaje ohlađena krema. Ako je krema još topla, maslac se otopi i krema postane rijetka. Ako je maslac hladan, krema se zgrudva. Kad su oboje iste, sobne temperature, spoje se u glatku, čvrstu kremu."
+        },
+        {
+          "level": "h2",
+          "title": "Topao sirup na hladan biskvit",
+          "body": "Ohlađeni biskvit se prelije toplim sirupom od vode i šećera. Hladan biskvit lakše upije topao sirup i ostaje vlažan, a ne raspada se. Sirup ne treba gustiti, dovoljno je da provri."
+        },
+        {
+          "level": "h2",
+          "title": "Glazura i rezanje",
+          "body": "Čokolada se otapa na pari sa šest kašika ulja. Ulje čini glazuru mekšom, pa ne puca pri rezanju. Prije nanošenja je kratko prohladite, da ne otopi kremu ispod sebe.\n\nKolač treba najmanje 4 sata u frižideru da se krema stegne, a najbolje je preko noći. Režite ga oštrim nožem umočenim u vruću vodu, pa ćete dobiti čiste rubove kocki. Za drugi kolač s kremom od jaja pogledajte [krempitu](/recepti/krempita/)."
+        }
+      ],
+      "relatedRecipes": [
+        "krempita",
+        "madjarica-starinski-kolac"
+      ],
+      "seo": {
+        "title": "Ledene kocke s kakao biskvitom i bijelom kremom",
+        "description": "Ledene kocke: kakao biskvit natopljen sirupom, bijela krema od mlijeka i maslaca i čokoladna glazura. Kako da krema ne bude rijetka. Recept korak po korak."
+      },
+      "sourceNote": "Recepttura – Ledene kocke: https://recepttura.com/ledene-kocke/. Odabrana verzija: kakao biskvit, bijela krema s brašnom i gustinom, čokoladna glazura; tepsija 33 × 19 cm (plan SNK-0010). Izvor dopušta maslac ili margarin; upisan maslac. Gramaže iz izvora; 6 žlica ulja = 6 kašika. Biskvit 20 min na 190 °C. 8 porcija. Hlađenje najmanje 4 h (u sažetku vremena izvora izostavljeno, upisano). Izvor ne navodi broj komada ni čuvanje; vrijeme pripreme procijenjeno na 40 min."
+    },
+    {
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "relatedGuides": [],
+      "facebook": {},
+      "diets": [
+        "vegetarijansko"
+      ],
+      "servedWith": [],
+      "leftovers": {},
+      "meals": [],
+      "authors": [
+        "amra-hodzic"
+      ],
+      "methods": [
+        "pecenje",
+        "kuhanje"
+      ],
+      "planId": "SNK-0241",
+      "slug": "madjarica-starinski-kolac",
+      "title": "Mađarica",
+      "alternativeNames": [
+        "mađarica",
+        "madjarica",
+        "mađarica starinski kolač",
+        "mađarica kolač",
+        "čokoladni kolač s korama"
+      ],
+      "summary": "Mađarica: pet tankih kora od tijesta s kiselom pavlakom i četiri sloja tople čokoladne kreme, pod čokoladnom glazurom. Najbolja je kad prenoći.",
+      "beforeYouStart": "Kore se peku na naopako okrenutom limu 40 × 30 cm. Krema se maže topla, pa je skuhajte tek kad su sve kore pečene. Kolač treba odležati najmanje 2 sata, a najbolje preko noći.",
+      "primaryCategory": "kolaci",
+      "tags": [
+        "cokolada",
+        "kakao",
+        "maslac"
+      ],
+      "difficulty": "zahtjevno",
+      "yield": {
+        "servings": 12,
+        "unit": "porcija",
+        "scalable": false
+      },
+      "times": {
+        "prepMinutes": 75,
+        "cookMinutes": 75,
+        "restMinutes": 120,
+        "restLabel": "odležavanja",
+        "totalMinutes": 270
+      },
+      "equipment": {
+        "panSize": "lim 40 × 30 cm",
+        "temperature": 170,
+        "other": "oklagija, vaga, dugačak nož, lenjir"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Kore",
+          "items": [
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 600,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "prasak-za-pecivo",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "praška za pecivo"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 200,
+              "unit": "g",
+              "label": "neslanog maslaca",
+              "note": "sobne temperature"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 200,
+              "unit": "g",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 2,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "kisela-pavlaka",
+              "amount": 180,
+              "unit": "g",
+              "label": "kisele pavlake"
+            }
+          ]
+        },
+        {
+          "title": "Čokoladna krema",
+          "items": [
+            {
+              "ingredient": "mlijeko",
+              "amount": 1.2,
+              "unit": "l",
+              "label": "mlijeka"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 200,
+              "unit": "g",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 70,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "gustin",
+              "amount": 60,
+              "unit": "g",
+              "label": "gustina"
+            },
+            {
+              "ingredient": "kakao",
+              "amount": 20,
+              "unit": "g",
+              "label": "kakaa"
+            },
+            {
+              "ingredient": "cokolada-za-kuhanje",
+              "amount": 100,
+              "unit": "g",
+              "label": "tamne čokolade (60–65 %)"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 250,
+              "unit": "g",
+              "label": "maslaca",
+              "note": "sobne temperature"
+            }
+          ]
+        },
+        {
+          "title": "Glazura",
+          "items": [
+            {
+              "ingredient": "cokolada-za-kuhanje",
+              "amount": 200,
+              "unit": "g",
+              "label": "tamne čokolade (60–65 %)"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 5,
+              "unit": "kasika",
+              "label": "suncokretovog ulja"
+            },
+            {
+              "ingredient": "slatka-pavlaka",
+              "amount": 3,
+              "unit": "kasika",
+              "label": "tečne slatke pavlake"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Kore",
+          "steps": [
+            {
+              "text": "Prašak za pecivo dobro umiješajte u brašno."
+            },
+            {
+              "text": "Dodajte maslac i prstima ga utrljajte u brašno dok smjesa ne postane mrvičasta."
+            },
+            {
+              "text": "Dodajte šećer, jaja i kiselu pavlaku i kratko zamijesite tijesto. Ako je premekano, dodajte malo brašna."
+            },
+            {
+              "text": "Tijesto umotajte u foliju i ostavite da odmori 10–15 minuta.",
+              "timerMinutes": 15
+            },
+            {
+              "text": "Zagrijte rernu na 170 °C."
+            },
+            {
+              "text": "Izvažite tijesto i podijelite ga na pet dijelova iste težine."
+            },
+            {
+              "text": "Svaki dio razvaljajte na naopako okrenutom limu u pravougaonik od oko 35 × 27 cm, ravnomjerno tanak, od sredine prema rubovima. Lim ne mažite."
+            },
+            {
+              "text": "Koru izbodite viljuškom i pecite 12–13 minuta, dok joj se uglovi ne zarumene, a ostatak ostane svijetao.",
+              "timerMinutes": 13
+            },
+            {
+              "text": "Toplu koru dugačkim nožem odvojite od lima i prebacite na papir za pečenje. Na isti način ispecite svih pet kora."
+            }
+          ]
+        },
+        {
+          "title": "Krema i slaganje",
+          "steps": [
+            {
+              "text": "Mlijeko dovedite do ključanja, a dio mlijeka ostavite sa strane."
+            },
+            {
+              "text": "Pomiješajte brašno, gustin, šećer i kakao, pa ih s ostavljenim mlijekom izmiješajte u glatku smjesu bez grudvica."
+            },
+            {
+              "text": "Smjesu uz stalno miješanje ulijte u mlijeko koje ključa i kuhajte oko 3 minute, dok se krema ne zgusne.",
+              "timerMinutes": 3
+            },
+            {
+              "text": "Kuhajte još oko 2 minute, dok pjenjača ne počne ostavljati tragove u kremi.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Sklonite s vatre i u vruću kremu umiješajte 100 g čokolade i 250 g maslaca, dok ne postane glatka."
+            },
+            {
+              "text": "Izvažite kremu i podijelite je na četiri jednaka dijela."
+            },
+            {
+              "text": "Na lim stavite prvu koru, rasporedite toplu kremu i poklopite sljedećom korom, lagano pritiskajući. Ponovite do pete kore, koja ostaje bez kreme."
+            },
+            {
+              "text": "Ostavite kolač da se potpuno ohladi."
+            }
+          ]
+        },
+        {
+          "title": "Glazura i rezanje",
+          "steps": [
+            {
+              "text": "Čokoladu, ulje i slatku pavlaku otopite na pari."
+            },
+            {
+              "text": "Glazuru ravnomjerno razmažite po gornjoj kori."
+            },
+            {
+              "text": "Ostavite kolač u frižideru najmanje 2 sata, a najbolje preko noći.",
+              "timerMinutes": 120
+            },
+            {
+              "text": "Odrežite neravne rubove, označite rezove lenjirom i izrežite kolač oštrim nožem."
+            }
+          ]
+        }
+      ],
+      "approach": "tradicionalni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Mađarica je starinski kolač s tankim korama i čokoladnom kremom, koji se pravi za slavlja i praznike. Pet kora od prhkog tijesta s kiselom pavlakom naizmjenično se slaže s četiri sloja tople čokoladne kreme, a odozgo ide čokoladna glazura. Kad prenoći, kore omekšaju od kreme i kolač se reže u tanke, ravne komade s jasnim slojevima.\n\nPosla ima dosta, ali nijedan korak nije težak. Najvažnije je da kore budu jednako tanke i da krema na njih ide topla."
+        },
+        {
+          "level": "h2",
+          "title": "Pet kora iste težine",
+          "body": "Tijesto se izvaže i podijeli na pet dijelova iste težine. Samo tako će sve kore biti jednake debljine, a kolač ravan. Kore se razvaljaju direktno na naopako okrenutom limu, od sredine prema rubovima. Rubove ne istanjujte samo da dobijete veličinu, jer će na krajevima izgorjeti.\n\nKore se peku kratko, dok se uglovi tek ne zarumene, a ostatak ostane svijetao. Odvojite ih od lima dok su tople, jer se ohlađene lome. Pažljivo ih prenosite, krhke su.\n\nS dva ista lima posao ide brže: dok se jedna kora peče, drugu razvaljate."
+        },
+        {
+          "level": "h2",
+          "title": "Krema se maže topla",
+          "body": "Krema se kuha od mlijeka, brašna, gustina, šećera i kakaa, a na kraju se, van vatre, u nju umiješaju čokolada i maslac. Nakon što se zgusne, kuhajte je još dvije minute. Tek tada se gustin potpuno skuha i krema se kasnije ne razvodni.\n\nNe hladite je. Topla krema se lako razmaže do uglova, a kore odmah počnu upijati njenu vlagu. Izvažite je i podijelite na četiri jednaka dijela, da svi slojevi budu isti. Peta kora ostaje bez kreme, za nju je glazura."
+        },
+        {
+          "level": "h2",
+          "title": "Glazura i čisti rezovi",
+          "body": "Glazura od čokolade, ulja i malo slatke pavlake ostaje mekana, pa ne puca kad se kolač reže. Nanosi se tek kad se kolač potpuno ohladi.\n\nMađarica se najljepše reže kad prenoći. Prvo odrežite neravne rubove, pa lenjirom označite rezove i režite vrlo oštrim nožem, jednim potezom. Za drugi kolač s kremom i čokoladnom glazurom pogledajte [ledene kocke](/recepti/ledene-kocke/)."
+        }
+      ],
+      "relatedRecipes": [
+        "ledene-kocke",
+        "krempita"
+      ],
+      "seo": {
+        "title": "Mađarica – starinski kolač s korama i čokoladnom kremom",
+        "description": "Mađarica: pet tankih kora i četiri sloja tople čokoladne kreme pod glazurom. Kako razvaljati jednake kore i zašto krema ide topla. Recept korak po korak."
+      },
+      "sourceNote": "Travel Honestly – Mađarica (Croatian chocolate layer cake): https://travelhonestly.com/madarica/. Odabrana verzija: pet kora i četiri sloja vruće čokoladne kreme, glazura od čokolade, ulja i slatke pavlake (plan SNK-0241). Metričke mjere iz izvora; kore oko 35 × 27 cm na limu 40 × 30 cm; 170 °C, 12–13 min po kori. 12 porcija; priprema 1 h 15 min, pečenje 1 h 15 min, odležavanje najmanje 2 h, najbolje preko noći. Izvor ne navodi koliko mlijeka ide u smjesu s brašnom ni čuvanje."
+    },
+    {
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "relatedGuides": [],
+      "facebook": {},
+      "diets": [
+        "vegetarijansko"
+      ],
+      "servedWith": [],
+      "leftovers": {},
+      "meals": [],
+      "authors": [
+        "amra-hodzic"
+      ],
+      "methods": [
+        "pecenje",
+        "kuhanje"
+      ],
+      "planId": "SNK-0025",
+      "slug": "ruske-kape",
+      "title": "Ruske kape",
+      "alternativeNames": [
+        "ruske kape recept",
+        "ruske kapice",
+        "kolač ruske kape"
+      ],
+      "summary": "Ruske kape: dva kruga biskvita, svijetli i kakao, spojena kuhanom kremom od vanilije, uvaljana u kokos i prelivena čokoladom. Od ove količine dobije se 6 kolača.",
+      "beforeYouStart": "Kremu skuhajte prvu, jer se hladi oko 2 sata. Brašno treba biti samodizajuće (s praškom za pecivo), a custard prah nije gotov puding. Jaja neka budu sobne temperature.",
+      "primaryCategory": "kolaci",
+      "tags": [
+        "kakao",
+        "kokos",
+        "cokolada"
+      ],
+      "difficulty": "zahtjevno",
+      "yield": {
+        "servings": 6,
+        "unit": "komada",
+        "scalable": false
+      },
+      "times": {
+        "prepMinutes": 40,
+        "cookMinutes": 15,
+        "restMinutes": 150,
+        "restLabel": "hlađenja",
+        "totalMinutes": 205
+      },
+      "equipment": {
+        "panSize": "dva pliča kalupa 16 × 26 cm",
+        "temperature": 180,
+        "ovenMode": "gornji-donji",
+        "other": "s ventilatorom 160 °C; okrugli modlić promjera 6 cm"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Krema",
+          "items": [
+            {
+              "ingredient": "gustin",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "gustina"
+            },
+            {
+              "ingredient": "puding-u-prahu",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "custard praha ili praha za puding od vanilije"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "sitnog šećera"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 200,
+              "unit": "ml",
+              "label": "mlijeka"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 20,
+              "unit": "g",
+              "label": "maslaca",
+              "note": "na kockice"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 1,
+              "unit": "bez",
+              "label": "žumanjak"
+            },
+            {
+              "ingredient": "ekstrakt-vanilije",
+              "amount": 1.5,
+              "unit": "kasicica",
+              "label": "ekstrakta vanilije"
+            }
+          ]
+        },
+        {
+          "title": "Biskvit",
+          "items": [
+            {
+              "ingredient": "maslac",
+              "unit": "po-potrebi",
+              "label": "otopljenog maslaca za kalupe"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 4,
+              "unit": "bez",
+              "label": "jaja",
+              "note": "sobne temperature"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 165,
+              "unit": "g",
+              "label": "sitnog šećera"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "kipuće vode"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "samodizajuce-brasno",
+              "amount": 100,
+              "unit": "g",
+              "label": "samodizajućeg brašna",
+              "note": "prosijanog"
+            },
+            {
+              "ingredient": "kakao",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "kakaa"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 60,
+              "unit": "ml",
+              "label": "kipuće vode za kakao"
+            }
+          ]
+        },
+        {
+          "title": "Premaz",
+          "items": [
+            {
+              "ingredient": "kokos",
+              "amount": 100,
+              "unit": "g",
+              "label": "kokosovog brašna"
+            },
+            {
+              "ingredient": "cokolada-za-kuhanje",
+              "amount": 50,
+              "unit": "g",
+              "label": "tamne čokolade"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "ulja"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Krema",
+          "steps": [
+            {
+              "text": "U malu šerpu prosijte gustin i custard prah, dodajte šećer i postepeno umutite mlijeko, da smjesa bude glatka."
+            },
+            {
+              "text": "Na srednjoj vatri, često miješajući, kuhajte dok krema ne proključa i zgusne se."
+            },
+            {
+              "text": "Sklonite s vatre i umiješajte maslac, žumanjak i vaniliju."
+            },
+            {
+              "text": "Prebacite kremu u posudu, položite foliju direktno na površinu i ostavite da se ohladi, oko 2 sata."
+            }
+          ]
+        },
+        {
+          "title": "Biskvit",
+          "steps": [
+            {
+              "text": "Zagrijte rernu na 180 °C (160 °C s ventilatorom). Kalupe namastite i dno i duže stranice obložite papirom za pečenje."
+            },
+            {
+              "text": "Kakao razmutite u 60 ml kipuće vode i ostavite da se ohladi."
+            },
+            {
+              "text": "Jaja i šećer mutite na jakoj brzini 5–8 minuta, dok smjesa ne postane vrlo gusta i svijetla. Kad podignete metlicu, trag smjese mora ostati na površini dok ne nacrtate osmicu.",
+              "timerMinutes": 8
+            },
+            {
+              "text": "Pomiješajte 2 kašike kipuće vode i ulje."
+            },
+            {
+              "text": "Prosijte brašno preko jaja, niz rub posude ulijte vodu s uljem i lopaticom lagano sjedinite."
+            },
+            {
+              "text": "Polovinu smjese izlijte u jedan kalup."
+            },
+            {
+              "text": "U ostatak smjese lagano umiješajte kakao i izlijte je u drugi kalup."
+            },
+            {
+              "text": "Kalupe tri puta lagano udarite o radnu ploču i pecite 12–15 minuta, dok se sredina ne vraća na dodir.",
+              "timerMinutes": 15
+            },
+            {
+              "text": "Ostavite biskvite 2 minute u kalupima, pa ih izvadite na rešetku da se potpuno ohlade."
+            }
+          ]
+        },
+        {
+          "title": "Sastavljanje",
+          "steps": [
+            {
+              "text": "Modlićem od 6 cm izrežite po 6 krugova iz svakog biskvita."
+            },
+            {
+              "text": "Modlić ostavite oko kakao kruga, rasporedite po njemu kašiku kreme i poklopite svijetlim krugom, lagano pritiskajući. Skinite modlić."
+            },
+            {
+              "text": "Isto uradite sa svim krugovima."
+            },
+            {
+              "text": "Ostatkom kreme premažite stranice kolača, pa ih uvaljajte u kokos."
+            },
+            {
+              "text": "Kolače poredajte na tanjir i stavite u frižider."
+            },
+            {
+              "text": "Čokoladu i ulje otopite na pari i na vrh svakog kolača rasporedite kašičicu glazure."
+            },
+            {
+              "text": "Ostavite u frižideru 30 minuta, dok se glazura ne stegne, i poslužite hladne.",
+              "timerMinutes": 30
+            }
+          ]
+        }
+      ],
+      "approach": "detaljni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Ruske kape su mali okrugli kolači: kakao krug biskvita na dnu, svijetli na vrhu, između njih krema od vanilije, sa strane kokos, a odozgo kap čokolade. Svaki kolač je jedna porcija. Od ove količine dobije se šest.\n\nOvaj recept je s australske stranice SBS, koja ga je objavila kao balkanski kolač. Zato su u njemu i dva sastojka koja kod nas nisu uobičajena, pa ih treba objasniti."
+        },
+        {
+          "level": "h2",
+          "title": "Samodizajuće brašno i custard prah",
+          "body": "Samodizajuće brašno je brašno kojem je već dodan prašak za pecivo. Kod nas se rijetko prodaje. Ako ga nemate, uobičajena zamjena je 100 g glatkog brašna s oko 1¼ kašičice praška za pecivo. Obično glatko brašno bez praška nije dobra zamjena, jer se biskvit neće dovoljno dići.\n\nCustard prah je prah za kremu od vanilije, sličan našem prahu za puding od vanilije: škrob s aromom i bojom, bez šećera. To nije gotov puding iz čaše. Prije zamjene provjerite sastav na pakovanju."
+        },
+        {
+          "level": "h2",
+          "title": "Biskvit bez masnoće u snijegu",
+          "body": "Biskvit se ne pravi sa snijegom, nego se cijela jaja mute sa šećerom 5–8 minuta, dok smjesa ne postane vrlo gusta. Provjera je jednostavna: kad podignete metlicu, smjesa koja kaplje mora ostati na površini dok nacrtate osmicu. Ako potone ranije, mutite dalje.\n\nBrašno se sjedinjuje lopaticom, kratko, da zrak ostane u smjesi. Kakao se umiješa samo u polovinu smjese, pa iz jedne smjese dobijete i svijetli i tamni biskvit."
+        },
+        {
+          "level": "h2",
+          "title": "Krema mora biti hladna",
+          "body": "Krema se kuha dok ne proključa i zgusne se, a onda se van vatre doda žumanjak, maslac i vanilija. Hladi se oko dva sata pod folijom. Topla krema bi bila prerijetka i iscurila bi između krugova.\n\nKrugove spajajte dok je modlić još oko njih. Modlić drži kremu na mjestu i daje kolaču ravne stranice."
+        },
+        {
+          "level": "h2",
+          "title": "Kokos, čokolada i čuvanje",
+          "body": "Stranice premazane kremom se uvaljaju u kokos, a na vrh ide samo kašičica čokolade. Kokos možete zamijeniti mljevenim orasima. Ruske kape se poslužuju hladne, a u zatvorenoj posudi u frižideru stoje do 2 dana.\n\nZa drugi sitni kolač s čokoladom pogledajte [bajaderu](/recepti/klasicna-domaca-bajadera/)."
+        }
+      ],
+      "relatedRecipes": [
+        "klasicna-domaca-bajadera",
+        "vanilice"
+      ],
+      "seo": {
+        "title": "Ruske kape s kremom od vanilije, kokosom i čokoladom",
+        "description": "Ruske kape: kakao i svijetli biskvit spojeni kremom od vanilije, s kokosom i čokoladom. Šta je custard prah i čime ga zamijeniti. Recept korak po korak."
+      },
+      "sourceNote": "SBS Food – Russians’ hats (Ruske kape): https://www.sbs.com.au/food/recipe/russians-hats-ruske-kape/pbce81tep. Odabrana verzija: dva biskvita (svijetli i kakao), kuhana krema s custard prahom, kokos i čokolada; dva kalupa 16 × 26 cm (plan SNK-0025). Metričke mjere iz izvora; 6 kolača; 180 °C (160 °C s ventilatorom), 12–15 min. Hlađenje ukupno 2½ h prema izvoru. Čuvanje do 2 dana u frižideru prema izvoru. Zamjena samodizajućeg brašna (100 g glatkog brašna + oko 1¼ kašičice praška za pecivo) nije iz izvora, nego uobičajen omjer (oko 1½ kašičice praška na 125 g brašna)."
+    },
+    {
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "relatedGuides": [],
+      "facebook": {},
+      "diets": [
+        "vegetarijansko"
+      ],
+      "servedWith": [],
+      "leftovers": {},
+      "meals": [],
+      "authors": [
+        "amra-hodzic"
+      ],
+      "methods": [
+        "pecenje"
+      ],
+      "planId": "SNK-0024",
+      "slug": "sampita",
+      "title": "Šampita",
+      "alternativeNames": [
+        "šampita",
+        "sampita",
+        "šampita recept",
+        "šampita s biskvitom"
+      ],
+      "summary": "Šampita s mekanim chiffon biskvitom i visokim slojem šama, italijanskog bjelanjka umućenog s vrućim šećernim sirupom. Prije rezanja mora prenoćiti u frižideru.",
+      "beforeYouStart": "Za šam treba termometar za šećer: sirup se kuha do 115 °C. Bjelanjci moraju biti svježi, ne iz tetrapaka. Kalup se ne maže, samo se dno obloži papirom.",
+      "primaryCategory": "kolaci",
+      "tags": [
+        "jaja",
+        "vanilija"
+      ],
+      "difficulty": "zahtjevno",
+      "yield": {
+        "servings": null,
+        "unit": null,
+        "scalable": false
+      },
+      "times": {
+        "prepMinutes": 40,
+        "cookMinutes": 40,
+        "restMinutes": 480,
+        "restLabel": "hlađenja",
+        "totalMinutes": 560
+      },
+      "equipment": {
+        "panSize": "kvadratni kalup 23 × 23 cm",
+        "temperature": 180,
+        "other": "termometar za šećer, mikser"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Biskvit",
+          "items": [
+            {
+              "ingredient": "jaja",
+              "amount": 3,
+              "unit": "bez",
+              "label": "velika jaja",
+              "note": "odvojeni bjelanjci i žumanjci"
+            },
+            {
+              "ingredient": "vinski-kamen",
+              "amount": 0.25,
+              "unit": "kasicica",
+              "label": "vinskog kamena"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 60,
+              "unit": "g",
+              "label": "šećera",
+              "note": "za bjelanjke"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 60,
+              "unit": "g",
+              "label": "šećera",
+              "note": "za žumanjke"
+            },
+            {
+              "ingredient": "ekstrakt-vanilije",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "ekstrakta vanilije"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 50,
+              "unit": "ml",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 50,
+              "unit": "ml",
+              "label": "punomasnog mlijeka"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 100,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "prasak-za-pecivo",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "praška za pecivo"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1,
+              "unit": "prstohvat",
+              "label": "soli"
+            }
+          ]
+        },
+        {
+          "title": "Šam",
+          "items": [
+            {
+              "ingredient": "secer",
+              "amount": 680,
+              "unit": "g",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 340,
+              "unit": "ml",
+              "label": "vode"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 8,
+              "unit": "bez",
+              "label": "bjelanjaka",
+              "note": "od velikih, svježih jaja"
+            },
+            {
+              "ingredient": "vinski-kamen",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "vinskog kamena"
+            },
+            {
+              "ingredient": "ekstrakt-vanilije",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "ekstrakta vanilije"
+            }
+          ]
+        },
+        {
+          "title": "Za vrh",
+          "items": [
+            {
+              "ingredient": "cokolada-za-kuhanje",
+              "unit": "po-potrebi",
+              "label": "rendane tamne čokolade",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Biskvit",
+          "steps": [
+            {
+              "text": "Zagrijte rernu na 180 °C. Dno kvadratnog kalupa obložite papirom za pečenje, a stranice ne mažite."
+            },
+            {
+              "text": "Bjelanjke mutite s vinskim kamenom. Kad se zapjene, postepeno dodajte 60 g šećera i mutite u čvrst snijeg."
+            },
+            {
+              "text": "U drugoj posudi 1–2 minute mutite žumanjke, 60 g šećera i vaniliju, dok ne posvijetle.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Umutite ulje i mlijeko, pa umiješajte brašno, prašak za pecivo i so u glatku smjesu."
+            },
+            {
+              "text": "Umiješajte polovinu snijega, pa ostatak, dok ne nestanu pruge i grudvice."
+            },
+            {
+              "text": "Izlijte smjesu u kalup i pecite 35–40 minuta, dok čačkalica iz sredine ne izađe čista.",
+              "timerMinutes": 40
+            },
+            {
+              "text": "Kalup odmah okrenite naopako na rešetku i ostavite biskvit u njemu da se potpuno ohladi."
+            }
+          ]
+        },
+        {
+          "title": "Šam i slaganje",
+          "steps": [
+            {
+              "text": "Po želji odrežite zapečeni vrh ohlađenog biskvita, da bude ravan, i vratite biskvit u kalup."
+            },
+            {
+              "text": "Šećer i vodu stavite u šerpu na srednju vatru i kuhajte do 115 °C. Ne miješajte, nego šerpu samo lagano zakrećite."
+            },
+            {
+              "text": "Dok se sirup kuha, bjelanjke i vinski kamen stavite u veliku posudu."
+            },
+            {
+              "text": "Kad sirup dostigne 115 °C, sklonite ga s vatre."
+            },
+            {
+              "text": "Bjelanjke umutite na jakoj brzini dok se ne zapjene, pa uz stalno mućenje polako ulijevajte vrući sirup."
+            },
+            {
+              "text": "Mutite još oko 10 minuta, dok šam ne postane čvrst.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Umiješajte vaniliju."
+            },
+            {
+              "text": "Šam ravnomjerno rasporedite po biskvitu i po želji izrendajte čokoladu po vrhu."
+            },
+            {
+              "text": "Ostavite šampitu u frižideru preko noći, pa je izrežite.",
+              "timerMinutes": 480
+            }
+          ]
+        }
+      ],
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Šampita je kolač s visokim, bijelim slojem šama na tankom biskvitu. Šam je bjelanjak umućen s vrućim šećernim sirupom, takozvana italijanska pjena. Za razliku od običnog snijega, on ostaje čvrst, sjajan i ne splasne, pa se šampita može rezati u visoke kocke.\n\nOvo je jedna od mnogih izvedbi: autorica koristi chiffon biskvit, mekan i vlažan zbog ulja. U drugim domaćim receptima podloga je od kora ili lisnatog tijesta."
+        },
+        {
+          "level": "h2",
+          "title": "Sirup do 115 °C",
+          "body": "Za šam je najvažnija temperatura sirupa, i zato treba termometar. Sirup se kuha do 115 °C. Ako je hladniji, šam je vodenast i splasne. Ako je topliji, šećer počne tvrdnuti i šam postane žilav, kao nugat.\n\nSirup se ne miješa dok se kuha, samo se šerpa lagano zakreće. Miješanje može izazvati kristalizaciju šećera, pa sirup postane mutan i zrnast."
+        },
+        {
+          "level": "h2",
+          "title": "Vrući sirup u bjelanjke",
+          "body": "Bjelanjci se umute dok se ne zapjene, a onda se, uz stalno mućenje, u tankom mlazu ulijeva vrući sirup. Lijte ga uz rub posude, ne direktno na metlice, inače se sirup razbaci po stranicama i stvrdne.\n\nZatim mutite još oko deset minuta, dok se šam ne ohladi i postane čvrst i sjajan. Vrući sirup dijelom skuha bjelanjke, pa je šam mnogo stabilniji od običnog snijega.\n\nVinski kamen dodatno učvršćuje pjenu. Bjelanjci moraju biti svježi. Prema autorici, oni iz tetrapaka se slabo mute."
+        },
+        {
+          "level": "h2",
+          "title": "Biskvit se hladi naopako",
+          "body": "Chiffon biskvit se, kao i trileće, peče u kalupu kojem se ne mažu stranice, jer se smjesa penje uz njih. Nakon pečenja kalup se okrene naopako i biskvit se tako hladi. Ako se hladi uspravno, slegne se."
+        },
+        {
+          "level": "h2",
+          "title": "Preko noći u frižideru",
+          "body": "Šampita mora prenoćiti u frižideru. Šam se stegne i lakše reže, a biskvit upije dio vlage. Režite je nožem umočenim u vruću vodu i obrisanim nakon svakog reza. Rendana čokolada na vrhu je po želji.\n\nZa drugi kolač s laganim biskvitom pogledajte [trileće](/recepti/trilece-s-karamelom/)."
+        }
+      ],
+      "relatedRecipes": [
+        "trilece-s-karamelom",
+        "krempita"
+      ],
+      "seo": {
+        "title": "Šampita s mekanim biskvitom i visokim slojem šama",
+        "description": "Šampita s chiffon biskvitom i šamom od bjelanjaka umućenih s vrućim sirupom. Zašto sirup mora biti na 115 °C i kako da šam ne splasne. Recept korak po korak."
+      },
+      "sourceNote": "Ash Baber – Šampita: https://ashbaber.com/sampita/. Odabrana verzija: autoričina izvedba s chiffon biskvitom i italijanskim šamom (sirup na 115 °C), kvadratni kalup 9 inča ≈ 23 cm (plan SNK-0024). Metričke mjere iz izvora; šećer za biskvit 60 g + 60 g (izvor u postupku: prvih i drugih 60 g). Biskvit 35–40 min na 180 °C. Hlađenje preko noći (upisano 8 h). NEDOSTAJE: broj porcija, vrijeme pripreme i rok čuvanja (izvor ih ne navodi); priprema procijenjena na 40 min."
+    },
+    {
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "relatedGuides": [],
+      "facebook": {},
+      "diets": [
+        "vegetarijansko"
+      ],
+      "servedWith": [],
+      "leftovers": {},
+      "meals": [],
+      "authors": [
+        "amra-hodzic"
+      ],
+      "methods": [
+        "kuhanje"
+      ],
+      "planId": "SNK-0008",
+      "slug": "domaca-bosanska-halva",
+      "title": "Domaća bosanska halva od brašna",
+      "alternativeNames": [
+        "halva",
+        "bosanska halva",
+        "halva od brašna",
+        "halva recept",
+        "domaća halva"
+      ],
+      "summary": "Bosanska halva od brašna prženog na maslacu i malo ulja, prelivena vrućim šećernim sirupom. Ovo je manja količina, gotova za dvadesetak minuta.",
+      "beforeYouStart": "Ovo je halva od pšeničnog brašna, ne od griza ni od susama. Brašno se prži polako, oko 10 minuta, uz stalno miješanje. Ne odlazite od šporeta.",
+      "primaryCategory": "deserti-i-kreme",
+      "tags": [
+        "maslac"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": null,
+        "unit": null,
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 5,
+        "cookMinutes": 15,
+        "totalMinutes": 20
+      },
+      "equipment": {
+        "other": "dvije manje šerpe"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Sirup",
+          "items": [
+            {
+              "ingredient": "secer",
+              "amount": 65,
+              "unit": "g",
+              "label": "šećera",
+              "amountMax": 100,
+              "note": "⅓–½ šolje, više za slađu halvu"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 240,
+              "unit": "ml",
+              "label": "vode"
+            }
+          ]
+        },
+        {
+          "title": "Halva",
+          "items": [
+            {
+              "ingredient": "maslac",
+              "amount": 57,
+              "unit": "g",
+              "label": "neslanog maslaca"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "blagog ulja"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 65,
+              "unit": "g",
+              "label": "glatkog brašna",
+              "note": "pola šolje"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "U maloj šerpi lagano kuhajte šećer i vodu dok se šećer ne otopi."
+            },
+            {
+              "text": "Kad sirup provri, sklonite ga sa strane i držite toplim."
+            },
+            {
+              "text": "U drugoj maloj šerpi na laganoj vatri otopite maslac s uljem."
+            },
+            {
+              "text": "Dodajte brašno i pržite ga na srednje slaboj vatri oko 10 minuta, stalno miješajući, dok ne poprimi blijedozlatnu boju i ne zamiriše.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Ulijte topli sirup i miješajte dok se halva ne sjedini."
+            },
+            {
+              "text": "Pokrijte halvu do posluživanja."
+            },
+            {
+              "text": "Poslužite je toplu ili sobne temperature, oblikovanu kašikom, ili je izlijte u posudu, ohladite i izrežite na rombove."
+            }
+          ]
+        }
+      ],
+      "approach": "tradicionalni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Bosanska halva od brašna je jednostavan desert od samo tri osnovna sastojka: brašna, masnoće i šećernog sirupa. Brašno se polako prži na maslacu dok ne poprimi boju i miris, a onda se prelije vrućim sirupom i umiješa u mekanu, slatku masu. Služi se uz kafu, a često se pravi i kad se nešto dijeli s komšijama i gostima.\n\nOvo je manja količina, za nekoliko osoba. Recept se lako udvostruči, samo ostavite isti omjer."
+        },
+        {
+          "level": "h2",
+          "title": "Brašno se prži polako",
+          "body": "Cijela halva zavisi od prženja brašna. Brašno se na laganoj vatri prži desetak minuta, uz stalno miješanje, dok ne promijeni boju od bijele u blijedozlatnu i ne zamiriše na pečeno brašno i maslac. Ne žurite i ne pojačavajte vatru. Brašno zagori vrlo brzo, a zagorjelo je gorko i tada se halva ne može popraviti.\n\nBoja treba biti blijedozlatna, a ne smeđa."
+        },
+        {
+          "level": "h2",
+          "title": "Sirup mora biti topao",
+          "body": "Sirup se skuha prije prženja i drži topao. Topli sirup se lako upije u vruće brašno i halva postane glatka. Kad sirup ulijete, smjesa naglo zašišti i zapari se, pa se odmaknite i miješajte dok se sve ne sjedini.\n\nKoličinu šećera birate sami. S manjom količinom halva je blaga, a s većom slađa. Izvor daje mjere u američkim šoljama od 240 ml. Pola šolje brašna je oko 65 g, a ⅓–½ šolje šećera oko 65–100 g."
+        },
+        {
+          "level": "h2",
+          "title": "Kašikom, u posudi ili kao ružice",
+          "body": "Halvu možete poslužiti toplu, oblikovanu kašikom ili kuglicom za sladoled. Možete je i izliti u posudu, ohladiti i izrezati na rombove. Za ružice je istisnite kroz vrećicu s nastavkom dok je još topla, jer se ohlađena više ne može istiskivati.\n\nDo posluživanja je držite pokrivenu. Za drugi tradicionalni desert s agdom pogledajte [tufahije](/recepti/tufahije/)."
+        }
+      ],
+      "relatedRecipes": [
+        "tufahije",
+        "sutlija-sutlijas"
+      ],
+      "seo": {
+        "title": "Bosanska halva od brašna, maslaca i šećernog sirupa",
+        "description": "Domaća bosanska halva od brašna prženog na maslacu i vrućeg šećernog sirupa. Koliko dugo pržiti brašno da ne zagori i kako je poslužiti. Recept korak po korak."
+      },
+      "sourceNote": "Balkan Basics – Small Batch Flour Halva: https://www.balkanbasics.com/blog/flourhalva. Odabrana verzija: manja tura halve od pšeničnog brašna, maslaca, malo ulja i sirupa (plan SNK-0008). Izvor daje američke šolje (240 ml) bez grama; preračunato: ½ šolje brašna ≈ 65 g, ⅓–½ šolje šećera ≈ 65–100 g, 1 šolja vode = 240 ml, 4 kašike maslaca ≈ 57 g. Prženje oko 10 min. NEDOSTAJE: broj porcija, ukupno vrijeme i čuvanje (izvor ih ne navodi); ukupno vrijeme procijenjeno na 20 min."
+    },
+    {
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "relatedGuides": [],
+      "facebook": {},
+      "diets": [
+        "vegetarijansko"
+      ],
+      "servedWith": [],
+      "leftovers": {},
+      "meals": [],
+      "authors": [
+        "amra-hodzic"
+      ],
+      "methods": [
+        "przenje"
+      ],
+      "planId": "SNK-0080",
+      "slug": "brze-fritule-s-jogurtom",
+      "title": "Brze fritule s jogurtom",
+      "alternativeNames": [
+        "fritule",
+        "fritule s jogurtom",
+        "fritule recept",
+        "brze fritule",
+        "fritule bez kvasca"
+      ],
+      "summary": "Brze fritule od jogurta, jajeta i brašna s praškom za pecivo, bez kvasca i bez dizanja. Prže se u vrućem ulju i posipaju šećerom u prahu.",
+      "beforeYouStart": "Tijesto nije potrebno ostavljati da se diže. Za prženje treba dublja posuda i oko litar ulja.",
+      "primaryCategory": "slatka-peciva",
+      "tags": [
+        "jogurt",
+        "jaja",
+        "limun"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 20,
+        "totalMinutes": 30
+      },
+      "equipment": {
+        "other": "dublja posuda za prženje, dvije kašičice, drvena kašika"
+      },
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "jogurt",
+              "amount": 210,
+              "unit": "ml",
+              "label": "jogurta"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 1,
+              "unit": "bez",
+              "label": "jaje"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "vanilin-secer",
+              "amount": 1,
+              "unit": "kesica",
+              "label": "vanilin šećera"
+            },
+            {
+              "ingredient": "limun",
+              "unit": "po-potrebi",
+              "label": "rendane limunove korice"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 250,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "prasak-za-pecivo",
+              "amount": 0.5,
+              "unit": "kesica",
+              "label": "praška za pecivo"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 1,
+              "unit": "l",
+              "label": "ulja za prženje"
+            },
+            {
+              "ingredient": "secer-u-prahu",
+              "unit": "po-potrebi",
+              "label": "šećera u prahu"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "U posudi pomiješajte jogurt, jaje, šećer i vanilin šećer."
+            },
+            {
+              "text": "Izrendajte limunovu koricu u smjesu i promiješajte."
+            },
+            {
+              "text": "Brašno pomiješajte s praškom za pecivo i dodajte ga u nekoliko navrata, miješajući dok smjesa ne postane glatka."
+            },
+            {
+              "text": "U dubljoj posudi zagrijte ulje. Spremno je kad se oko drvene kašike uronjene u ulje pojave sitni mjehurići."
+            },
+            {
+              "text": "Dvije kašičice umočite u vruće ulje, pa jednom zahvatite smjesu, a drugom je spustite u ulje."
+            },
+            {
+              "text": "Pržite fritule u turama na srednje jakoj vatri oko minutu sa svake strane, dok ne postanu zlatnožute. Ne stavljajte ih previše odjednom.",
+              "timerMinutes": 1
+            },
+            {
+              "text": "Izvadite ih na kuhinjski papir i pospite šećerom u prahu."
+            }
+          ]
+        }
+      ],
+      "approach": "brzi",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Fritule s jogurtom su brza verzija poznatih malih krafnica: umjesto kvasca imaju prašak za pecivo, pa se tijesto ne diže. Smjesa se pomiješa za deset minuta, a kašičicom se spušta u vruće ulje. Posute šećerom u prahu, najbolje su tople."
+        },
+        {
+          "level": "h2",
+          "title": "Gusta smjesa i dvije kašičice",
+          "body": "Smjesa treba biti glatka i dovoljno gusta da sklizne s kašičice u jednom komadu. Brašno dodajte u nekoliko navrata, da ne bude grudvica. Kašičice prvo umočite u vruće ulje. Smjesa se tada ne lijepi i lako sklizne u ulje.\n\nFritule pravite male, jer u ulju porastu. Velike fritule izvana porumene prije nego što se ispeku iznutra."
+        },
+        {
+          "level": "h2",
+          "title": "Ulje i prženje u turama",
+          "body": "Ulje je dovoljno vruće kad se oko drvene kašike uronjene u njega pojave sitni mjehurići. U hladnijem ulju fritule upiju masnoću i budu teške. Ne stavljajte ih previše odjednom: rastu i treba im prostora da se okreću, a svaka hladna fritula malo ohladi ulje.\n\nSvaka tura traje oko dvije minute, po minutu sa svake strane, pa za cijelu količinu računajte desetak tura. Ispržene fritule odmah stavite na kuhinjski papir, da upije višak ulja.\n\nPrašak za pecivo i vanilin šećer su u izvoru navedeni u kesicama. Ako vam je pakovanje veće, prilagodite količinu. Za fritule s kvascem i džemom pogledajte [domaće krofne](/recepti/domace-krofne/)."
+        }
+      ],
+      "relatedRecipes": [
+        "domace-krofne",
+        "americke-palacinke"
+      ],
+      "seo": {
+        "title": "Brze fritule s jogurtom, bez kvasca i bez dizanja",
+        "description": "Brze fritule s jogurtom i praškom za pecivo, bez kvasca. Kako oblikovati fritule kašičicom i na kojoj temperaturi ih pržiti. Recept korak po korak."
+      },
+      "sourceNote": "Recepttura – Fritule s jogurtom: https://recepttura.com/fritule-s-jogurtom/. Odabrana verzija: fritule s jogurtom i praškom za pecivo, bez kvasca (plan SNK-0080). 210 ml jogurta, 250 g brašna, 1 jaje, 2 žlice šećera, 1 vanilin šećer, ½ praška za pecivo (upisano kao pola kesice; gramaža kesice nije navedena), korica limuna bez količine, oko 1 l ulja. 6 porcija. Izvor navodi 10 min pripreme i 2 min prženja (jedna tura); za cijelu količinu u turama upisano 20 min. Temperatura ulja nije navedena u stepenima."
+    },
+    {
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "relatedGuides": [],
+      "facebook": {},
+      "diets": [
+        "vegetarijansko",
+        "bez-jaja"
+      ],
+      "servedWith": [],
+      "leftovers": {},
+      "meals": [
+        "dorucak"
+      ],
+      "authors": [
+        "emir-delic"
+      ],
+      "methods": [
+        "bez-kuhanja"
+      ],
+      "planId": "SNK-0388",
+      "slug": "overnight-oats-s-borovnicama-i-chia-sjemenkama",
+      "title": "Overnight oats s borovnicama i chia sjemenkama",
+      "alternativeNames": [
+        "overnight oats",
+        "zobene pahuljice preko noći",
+        "zobena kaša preko noći",
+        "overnight oats s borovnicama"
+      ],
+      "summary": "Zobene pahuljice preko noći s jogurtom, mlijekom, chia sjemenkama, borovnicama i prženim bademima. Četiri porcije doručka u teglama, spremne ujutro.",
+      "beforeYouStart": "Pahuljice moraju stajati u frižideru najmanje 8 sati, pa ih pripremite uveče. Bademe najprije kratko ispržite na suhoj tavi.",
+      "primaryCategory": "kase-i-zdjele",
+      "tags": [
+        "zob",
+        "borovnice",
+        "chia-sjemenke",
+        "jogurt"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "restMinutes": 480,
+        "restLabel": "hlađenja",
+        "totalMinutes": 495
+      },
+      "equipment": {
+        "other": "četiri tegle od oko 350 ml s poklopcem, tava"
+      },
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "bademi",
+              "amount": 95,
+              "unit": "g",
+              "label": "cijelih badema",
+              "note": "⅔ šolje"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 360,
+              "unit": "ml",
+              "label": "posnog ili mlijeka s 1 % masti"
+            },
+            {
+              "ingredient": "jogurt",
+              "amount": 245,
+              "unit": "g",
+              "label": "običnog posnog ili polumasnog jogurta",
+              "note": "ne grčkog"
+            },
+            {
+              "ingredient": "dzem",
+              "amount": 105,
+              "unit": "g",
+              "label": "džema od borovnica",
+              "note": "bez dodanog šećera"
+            },
+            {
+              "ingredient": "ekstrakt-vanilije",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "ekstrakta vanilije"
+            },
+            {
+              "ingredient": "zobene-pahuljice",
+              "amount": 90,
+              "unit": "g",
+              "label": "krupnih zobenih pahuljica"
+            },
+            {
+              "ingredient": "chia-sjemenke",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "chia sjemenki"
+            },
+            {
+              "ingredient": "borovnice",
+              "amount": 300,
+              "unit": "g",
+              "label": "borovnica"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Bademe pržite na suhoj tavi na srednje jakoj vatri 3–5 minuta, često miješajući, dok ne porumene i zamirišu.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Kad se malo ohlade, krupno ih isjeckajte."
+            },
+            {
+              "text": "U posudi izmiješajte mlijeko, jogurt, džem i vaniliju."
+            },
+            {
+              "text": "Umiješajte zobene pahuljice, chia sjemenke i polovinu badema, pa polovinu borovnica."
+            },
+            {
+              "text": "Smjesu podijelite u četiri tegle i odozgo rasporedite ostatak borovnica i badema."
+            },
+            {
+              "text": "Tegle dobro zatvorite i ostavite u frižideru preko noći, najmanje 8 sati.",
+              "timerMinutes": 480
+            },
+            {
+              "text": "Poslužite hladno ili sobne temperature."
+            }
+          ]
+        }
+      ],
+      "approach": "brzi",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Overnight oats su zobene pahuljice koje se ne kuhaju, nego preko noći omekšaju u mlijeku i jogurtu u frižideru. Ujutro je doručak gotov: gust, kremast i hladan. Ova verzija ima chia sjemenke, koje dodatno zgusnu smjesu, džem od borovnica umjesto šećera, svježe borovnice i pržene bademe.\n\nKoličina je za četiri tegle, pa doručak imate za nekoliko jutara."
+        },
+        {
+          "level": "h2",
+          "title": "Koje pahuljice i koji jogurt",
+          "body": "Uzmite krupne zobene pahuljice. One preko noći omekšaju, a ostanu u komadu. Sitne, instant pahuljice se pretvore u kašu.\n\nRecept je s običnim jogurtom, ne grčkim. Grčki jogurt je gušći i upio bi previše tečnosti, pa bi ujutro smjesa bila pretvrda. Ako ipak koristite grčki, dodajte malo više mlijeka."
+        },
+        {
+          "level": "h2",
+          "title": "Bademi su hrskavi samo ako ih dodate ujutro",
+          "body": "Kratko prženje badema na suhoj tavi pojača njihov okus. Bademi na vrhu tegle će preko noći malo omekšati. Ako ih volite hrskave, ostavite polovinu i pospite je tek ujutro.\n\nSmjesa je slađa ako je džem zaslađen. Džem bez dodanog šećera daje blaži okus.\n\nZa brži doručak bez čekanja pogledajte [jogurt s granolom](/recepti/jogurt-s-granolom/), a za sličan doručak samo s chia sjemenkama [chia puding](/recepti/chia-puding/)."
+        }
+      ],
+      "relatedRecipes": [
+        "chia-puding",
+        "jogurt-s-granolom"
+      ],
+      "seo": {
+        "title": "Overnight oats s borovnicama, chia sjemenkama i bademima",
+        "description": "Overnight oats sa zobenim pahuljicama, jogurtom, chia sjemenkama, borovnicama i bademima. Pripremite četiri tegle uveče za doručak. Recept korak po korak."
+      },
+      "sourceNote": "Whole Grains Council – Blueberry-Chia Overnight Oats (recept Ellie Krieger): https://wholegrainscouncil.org/recipes/blueberry-chia-overnight-oats. Odabrana verzija: 4 porcije s običnim jogurtom, mlijekom i džemom od borovnica (plan SNK-0388). Izvor daje samo američke mjere: ⅔ šolje badema ≈ 95 g, 1½ šolje mlijeka = 360 ml, 1 šolja jogurta ≈ 245 g, ⅓ šolje džema ≈ 105 g, 1 šolja zobenih pahuljica ≈ 90 g, 2 šolje borovnica ≈ 300 g; tegle od 12 oz ≈ 350 ml. 15 min pripreme + najmanje 8 h hlađenja. Rok čuvanja izvor ne navodi."
+    }
+  ]
+}

@@ -108,9 +108,18 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   mak: n(525, 18, 28.1, 41.6),
   griz: n(360, 12.7, 72.8, 1.1),
   'lisnato-tijesto': n(551, 7.4, 45.1, 38.1),
-  gustin: n(381, 0.3, 91.3, 0.1),
+  gustin: n(381, 0.3, 91.3, 0.1, { density: 0.6 }),
   zelatina: n(335, 85.6, 0, 0.1),
   'soda-bikarbona': zero,
+
+  'evaporirano-mlijeko': n(134, 6.8, 10, 7.6, { density: 1.07 }),
+  'kondenzovano-mlijeko': n(321, 7.9, 54.4, 8.7, { density: 1.3 }),
+  'puding-u-prahu': n(350, 0.3, 86, 0.1, { density: 0.6 }),
+  'samodizajuce-brasno': n(354, 9.9, 74.2, 1, { density: 0.53 }),
+  kokos: n(660, 6.9, 23.7, 64.5, { density: 0.35 }),
+  bademi: n(579, 21.2, 21.6, 49.9),
+  'zobene-pahuljice': n(379, 13.2, 67.7, 6.5, { density: 0.37 }),
+  'vinski-kamen': zero,
 
   // tekućine
   'crno-vino': n(85, 0.1, 2.6, 0, { density: 0.99 }),
@@ -150,4 +159,4 @@ export const MEASURE_ML: Record<string, number> = { kasika: 15, kasicica: 5, sol
  * Recepti za koje se procjena ne prikazuje, jer se dio sastojaka ne pojede
  * (temeljac od cijelog pileta, ulje za prženje, sirup u kojem se kuha voće).
  */
-export const NUTRITION_EXCLUDED = new Set(['pileca-supa', 'begova-corba', 'cufte-u-sosu', 'tufahije', 'domace-krofne'])
+export const NUTRITION_EXCLUDED = new Set(['pileca-supa', 'begova-corba', 'cufte-u-sosu', 'tufahije', 'domace-krofne', 'brze-fritule-s-jogurtom'])

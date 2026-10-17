@@ -173,5 +173,50 @@
     "slug": "buhtle",
     "alt": "Buhtle pečene jedna uz drugu u kalupu, posute šećerom u prahu, jedna s džemom od marelice",
     "dish": "Austrian Buchteln sweet yeast buns baked tightly together in an oval ceramic baking dish, golden brown tops dusted with powdered sugar, one bun pulled apart showing soft white crumb and apricot jam filling"
+  },
+  {
+    "slug": "trilece-s-karamelom",
+    "alt": "Kocka trileća s natopljenim biskvitom, slojem šlaga i karamelom na vrhu",
+    "dish": "a square slice of Balkan trileće (tres leches cake): pale soft sponge visibly soaked with milk, a thick layer of white whipped cream on top, covered with a thin glossy layer of amber caramel with swirled white cream lines, a little milk pooling on the white plate"
+  },
+  {
+    "slug": "oblande-s-keksom",
+    "alt": "Pravougaone kriške oblandi s tamnim nadjevom od keksa, oraha i čokolade",
+    "dish": "rectangular slices of Balkan wafer cake (oblande): five thin pale wafer sheets layered with four thin dark brown filling layers of chocolate, ground walnuts and biscuit crumbs, neatly cut and stacked on a plate"
+  },
+  {
+    "slug": "ledene-kocke",
+    "alt": "Kocke kolača ledene kocke s tamnim biskvitom, bijelom kremom i čokoladnom glazurom",
+    "dish": "neat squares of Balkan ledene kocke cake: a thin dark cocoa sponge base, a tall thick layer of white vanilla butter cream, and a thin shiny dark chocolate glaze on top, cut cleanly, on a plate"
+  },
+  {
+    "slug": "madjarica-starinski-kolac",
+    "alt": "Tanki komadi mađarice s pet svijetlih kora, čokoladnom kremom i glazurom",
+    "dish": "thin rectangular slices of Croatian Mađarica cake: five thin pale golden pastry layers alternating with four thin dark chocolate cream layers, topped with a smooth glossy dark chocolate glaze, clean straight cuts, arranged on a plate"
+  },
+  {
+    "slug": "ruske-kape",
+    "alt": "Okrugli kolači ruske kape s tamnim i svijetlim biskvitom, kokosom i čokoladom",
+    "dish": "small round individual Balkan Russian hats cakes: a dark cocoa sponge round at the bottom, a pale vanilla sponge round on top, custard cream between, sides coated with shredded coconut, a small round of chocolate glaze on top, one cut in half showing layers, on a plate"
+  },
+  {
+    "slug": "sampita",
+    "alt": "Visoka kocka šampite s tankim biskvitom i bijelim šamom posutim čokoladom",
+    "dish": "a tall square slice of Balkan šampita: a thin light sponge base and a very tall fluffy glossy white Italian meringue layer on top, sprinkled with a little grated dark chocolate, on a white plate"
+  },
+  {
+    "slug": "domaca-bosanska-halva",
+    "alt": "Bosanska halva od brašna oblikovana kašikom u porcije na tanjiru, uz fildžan kafe",
+    "dish": "Bosnian flour halva: golden-beige soft halva shaped into a few rounded spoonfuls (quenelles) on a small plate, with a traditional Bosnian coffee cup (fildžan) beside it"
+  },
+  {
+    "slug": "brze-fritule-s-jogurtom",
+    "alt": "Male zlatne fritule posute šećerom u prahu u zdjeli",
+    "dish": "a bowl of small round golden fried fritule (Croatian doughnut balls), irregular shapes, generously dusted with powdered sugar, one broken open showing a fluffy interior"
+  },
+  {
+    "slug": "overnight-oats-s-borovnicama-i-chia-sjemenkama",
+    "alt": "Tegla overnight oatsa s jogurtom, chia sjemenkama, borovnicama i bademima",
+    "dish": "a glass jar of overnight oats: creamy pale purple oats and yogurt mixture with chia seeds, topped with fresh blueberries and chopped toasted almonds, a spoon beside the jar"
   }
 ]
