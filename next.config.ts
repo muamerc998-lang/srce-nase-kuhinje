@@ -12,6 +12,9 @@ const nextConfig: NextConfig = {
   trailingSlash: true,
   poweredByHeader: false,
   images: {
+    // Slike se služe direktno: Payload već pravi WebP veličine (320, 800, 1200, 1600 px),
+    // a Vercelova optimizacija slika na besplatnom planu ima mjesečni limit (iznad njega vraća 402).
+    unoptimized: true,
     localPatterns: [{ pathname: '/media/**' }, { pathname: '/api/media/file/**' }, { pathname: '/brand/**' }, { pathname: '/api/submission-images/file/**' }],
     deviceSizes: [360, 480, 640, 768, 1024, 1280, 1600],
     imageSizes: [96, 160, 240, 320],
