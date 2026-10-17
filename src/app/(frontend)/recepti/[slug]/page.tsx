@@ -20,7 +20,13 @@ import { RecipeCard, RecipeRow, CardGrid } from '@/components/recipe/RecipeCard'
 import { RecipeProvider } from '@/components/recipe/RecipeContext'
 import { IngredientsPanel } from '@/components/recipe/IngredientsPanel'
 import { CookingMode } from '@/components/recipe/CookingMode'
-import { RecipeActions, MobileRecipeBar, RecentTracker } from '@/components/recipe/RecipeActions'
+import {
+  RecipeActions,
+  RecipeAfterActions,
+  MobileRecipeBar,
+  RecentTracker,
+} from '@/components/recipe/RecipeActions'
+import { ArrowDown } from 'lucide-react'
 import {
   RecipeFacts,
   StepsList,
@@ -144,14 +150,37 @@ export default async function RecipePage({ params }: Props) {
             </div>
           )}
 
-          <div className="mt-5 grid items-center gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(0,1fr)] lg:gap-12">
-            <header>
-              <p className="print-only text-sm">{canonical}</p>
-              {recipe.category && <p className="eyebrow">{recipe.category.name}</p>}
-              <h1 className="mt-2 text-[2.1rem] font-semibold leading-[1.1] sm:text-[2.8rem]">
-                {recipe.title}
-              </h1>
-              <p className="mt-3 text-lg text-muted">{recipe.summary}</p>
+          <div className="mt-4 grid gap-8 lg:grid-cols-[minmax(0,1fr)_19rem] lg:gap-10 xl:grid-cols-[minmax(0,1fr)_21rem]">
+            <div className="min-w-0">
+              <header>
+                <p className="print-only text-sm">{canonical}</p>
+                {recipe.category && <p className="eyebrow">{recipe.category.name}</p>}
+                <h1 className="mt-2 text-[2rem] font-semibold leading-[1.1] sm:text-[2.6rem]">
+                  {recipe.title}
+                </h1>
+              </header>
+              <div className="print-photo relative mt-4 aspect-[4/3] overflow-hidden rounded-3xl bg-soft shadow-[var(--shadow-card)] sm:aspect-[16/10]">
+                {recipe.image ? (
+                  <Image
+                    src={recipe.image.url}
+                    alt={recipe.image.alt}
+                    fill
+                    priority
+                    fetchPriority="high"
+                    sizes="(min-width: 1280px) 820px, (min-width: 1024px) 66vw, 100vw"
+                    className="object-cover"
+                    style={{
+                      objectPosition: `${recipe.image.focalX ?? 50}% ${recipe.image.focalY ?? 50}%`,
+                    }}
+                  />
+                ) : (
+                  <ImagePlaceholder />
+                )}
+              </div>
+              <div className="mt-5 lg:hidden print:block">
+                <RecipeFacts recipe={recipe} />
+              </div>
+              <p className="mt-5 text-lg text-muted">{recipe.summary}</p>
               <p className="mt-3 text-[0.95rem] text-muted">
                 {recipe.authors.length > 0 && (
                   <>
@@ -171,10 +200,11 @@ export default async function RecipePage({ params }: Props) {
                   </>
                 )}
                 {recipe.guestAuthor && (
-                <>
-                  Recept čitaoca: <strong className="text-ink">{recipe.guestAuthor.name}</strong>{' · '}
-                </>
-              )}
+                  <>
+                    Recept čitaoca: <strong className="text-ink">{recipe.guestAuthor.name}</strong>
+                    {' · '}
+                  </>
+                )}
                 Ažurirano:{' '}
                 <time dateTime={recipe.contentUpdatedAt ?? undefined}>
                   {formatDate(recipe.contentUpdatedAt)}
@@ -190,30 +220,21 @@ export default async function RecipePage({ params }: Props) {
                 )}
               </p>
               <div className="mt-5">
-                <RecipeActions recipe={saveTarget} canonical={canonical} />
+                <RecipeActions recipe={saveTarget} />
               </div>
-            </header>
-            <div className="print-photo relative aspect-[4/3] overflow-hidden rounded-3xl bg-soft shadow-[var(--shadow-card)]">
-              {recipe.image ? (
-                <Image
-                  src={recipe.image.url}
-                  alt={recipe.image.alt}
-                  fill
-                  priority
-                  fetchPriority="high"
-                  sizes="(min-width: 1024px) 560px, 100vw"
-                  className="object-cover"
-                  style={{
-                    objectPosition: `${recipe.image.focalX ?? 50}% ${recipe.image.focalY ?? 50}%`,
-                  }}
-                />
-              ) : (
-                <ImagePlaceholder />
-              )}
+              <RecipeArticle sections={recipe.article} recipeTitle={recipe.title} />
             </div>
+            <aside aria-label="Osnovni podaci o receptu" className="no-print hidden lg:block">
+              <div className="sticky top-24 space-y-4">
+                <p className="eyebrow">Ukratko</p>
+                <RecipeFacts recipe={recipe} layout="list" />
+                <a href="#recept" className="btn btn-primary w-full">
+                  <ArrowDown aria-hidden="true" className="h-5 w-5" /> Idi na recept
+                </a>
+              </div>
+            </aside>
           </div>
 
-          <RecipeArticle sections={recipe.article} recipeTitle={recipe.title} />
           <AdSlot slot="recipe-after-facts" enabled={adsOn('recipe-after-facts')} />
 
           <section
@@ -222,12 +243,12 @@ export default async function RecipePage({ params }: Props) {
             className="card-stripes mt-10 scroll-mt-24 rounded-3xl border border-line bg-white p-5 pt-7 shadow-[var(--shadow-card)] sm:p-8 sm:pt-10"
           >
             <p className="eyebrow">Recept</p>
-            <h2 id="kartica-recepta" className="mt-1 text-[1.6rem] font-semibold leading-tight sm:text-[2rem]">
+            <h2
+              id="kartica-recepta"
+              className="mt-1 text-[1.6rem] font-semibold leading-tight sm:text-[2rem]"
+            >
               {recipe.title}
             </h2>
-            <div className="mt-5">
-              <RecipeFacts recipe={recipe} />
-            </div>
 
             {recipe.beforeYouStart && (
               <aside
@@ -257,6 +278,8 @@ export default async function RecipePage({ params }: Props) {
               </section>
             </div>
           </section>
+
+          <RecipeAfterActions recipe={saveTarget} canonical={canonical} />
 
           <AdSlot slot="recipe-after-steps" enabled={adsOn('recipe-after-steps')} />
 

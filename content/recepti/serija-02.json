@@ -512,23 +512,10 @@
           ]
         }
       ],
-      "tips": [
-        "Povrće koristite iste vrste: svo smrznuto, svo svježe ili svo iz konzerve. Ako je moguće, izbjegnite konzervirano, jer se lako raspadne u kašu.",
-        "Majonezu dodajte postepeno. Povrće je upije dok salata stoji, pa ostatak dodajte tek pred posluživanje, umjesto da salata odmah bude preteška.",
-        "Povrće i jaja možete kuhati u istom loncu ili odvojeno. Važno je da su potpuno ohlađeni prije miješanja s majonezom."
-      ],
-      "substitutions": [
-        "Umjesto šunke izvor dopušta dimljenu govedinu, kuhanu piletinu ili puretinu bez kože, ili ribu.",
-        "Umjesto same majoneze možete koristiti pola majoneze i pola kisele pavlake, ili gusti grčki jogurt.",
-        "Francuska salata je ista salata bez mesa i ribe; za nju izostavite šunku."
-      ],
-      "storage": "Salatu čuvajte pokrivenu u frižideru. Najbolja je drugi dan. Ne zamrzava se.",
-      "faq": [
-        {
-          "question": "Mogu li salatu napraviti dan ranije?",
-          "answer": "Da, i preporučuje se. Salata je najukusnija drugi dan, kad se okusi prožmu, a majoneza se ravnomjerno upije."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [],
       "relatedGuides": [],
       "servedWith": [],
@@ -537,7 +524,40 @@
         "description": "Ruska salata s krompirom, mrkvom, graškom, jajima, šunkom i kiselim krastavcima, povezana majonezom. Najbolja kad odstoji preko noći. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "Balkan Lunch Box – Russian Salad / Ruska salata / Salad Olivier: https://balkanlunchbox.com/russian-salad-aka-ruska-salata-aka-salad-olivier/. Odabrana verzija: povrće, jaja, šunka i majoneza; od ponuđenih mesnih opcija izabrana šunka (plan SNK-0437). Izvor daje američke mjere: 10 oz = 285 g, 7 oz = 200 g, 3 oz = 85 g. Hlađenje 3–4 h prema uputama izvora (karta recepta navodi 2 h kao minimum); ukupno 4 h. Rok čuvanja nije upisan u danima, prema napomeni plana."
+      "sourceNote": "Balkan Lunch Box – Russian Salad / Ruska salata / Salad Olivier: https://balkanlunchbox.com/russian-salad-aka-ruska-salata-aka-salad-olivier/. Odabrana verzija: povrće, jaja, šunka i majoneza; od ponuđenih mesnih opcija izabrana šunka (plan SNK-0437). Izvor daje američke mjere: 10 oz = 285 g, 7 oz = 200 g, 3 oz = 85 g. Hlađenje 3–4 h prema uputama izvora (karta recepta navodi 2 h kao minimum); ukupno 4 h. Rok čuvanja nije upisan u danima, prema napomeni plana.",
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Ruska salata je hladna salata od sitno isječenog kuhanog povrća, jaja, šunke i kiselih krastavaca, povezana majonezom. Ide uz pečeno meso, na prazničnu trpezu i uz pite poput [bureka](/recepti/burek/).\n\nNjen glavni sastojak je zapravo vrijeme. Dok salata stoji u frižideru, povrće upije dio majoneze, okusi se povežu i salata postane kremasta, a ne samo prelivena. Zato je najbolja ako je napravite dan ranije."
+        },
+        {
+          "level": "h2",
+          "title": "Sve isječeno na istu veličinu",
+          "body": "Mrkvu, krompir, jaja, šunku i krastavce sijecite na kockice iste veličine, manje od kocke šećera. Povrće iste veličine se jednako skuha, a u svakoj kašici salate bude pomalo od svega.\n\nKrompir treba biti mekan, ali ne smije se raspadati. Voštani ili mladi krompir lakše zadrži oblik kockica od brašnastog. Povrće kuhajte samo dok viljuška ne prođe bez otpora."
+        },
+        {
+          "level": "h2",
+          "title": "Svježe, smrznuto ili iz konzerve",
+          "body": "Najbolje je da svo povrće bude iste vrste: svo svježe ili svo smrznuto. Povrće iz konzerve je već mekano i u salati se lako pretvori u kašu, pa ga izbjegavajte ako možete. Smrznuti grašak je praktičan i dobro drži oblik."
+        },
+        {
+          "level": "h2",
+          "title": "Prije majoneze sve mora biti hladno",
+          "body": "Kuhano povrće i jaja potpuno ohladite prije miješanja. Majoneza se na toplom povrću razdvaja i postane uljasta, a salata vodenasta. Osim toga, salata s jajima i majonezom treba što prije u frižider, a topla smjesa se u njemu dugo hladi."
+        },
+        {
+          "level": "h2",
+          "title": "Majoneza u dva navrata",
+          "body": "Ne dodajte svu majonezu odjednom. Oko 10 kašika je dovoljno da poveže salatu, a povrće će dio upiti dok stoji. Pred posluživanje salatu promiješajte i, ako je presuha, dodajte još kašiku ili dvije. Tako salata ne bude preteška.\n\nZa lakšu verziju pola majoneze zamijenite kiselom pavlakom ili gustim grčkim jogurtom."
+        },
+        {
+          "level": "h2",
+          "title": "Umjesto šunke",
+          "body": "Šunku možete zamijeniti dimljenom govedinom, kuhanom piletinom ili puretinom bez kože. Ista salata bez mesa često se zove francuska salata.\n\nSalatu čuvajte pokrivenu u frižideru. Ne zamrzava se, jer se majoneza nakon odmrzavanja razdvoji."
+        }
+      ]
     },
     {
       "planId": "SNK-0446",
@@ -730,23 +750,10 @@
           ]
         }
       ],
-      "tips": [
-        "Nadjev mutite dok ne bude potpuno gladak. Grudvice sira ostanu u pečenoj piti kao suha mjesta.",
-        "Ne štedite na premazu gornjih kora: one daju hrskav, zlatan vrh, a najmanje 2–3 kore na vrhu sprečavaju da nadjev iscuri i zagori.",
-        "Preliv od mlijeka i maslaca na kraju omekša gornje kore, pa pita bude sočna, a ne suha i lomljiva."
-      ],
-      "substitutions": [
-        "Od mekih sireva dobro rade rikota, feta, svježi kravlji sir i kozji sir. Tvrdi i polutvrdi sirevi poput gaude, čedara i edamca se ne preporučuju, jer u piti zagore umjesto da se zapeku. Kad mijenjate sir, zadržite istu ukupnu količinu.",
-        "Umjesto suncokretovog možete koristiti drugo neutralno ulje ili samo maslac. Maslinovo ulje izvor ne preporučuje.",
-        "Lisnato tijesto nije zamjena za tanke kore."
-      ],
-      "storage": "Pečena sirnica može stajati na hladnom mjestu do jednog dana, a pokrivena u frižideru 2–3 dana. Jede se topla ili hladna. Ne zamrzava se.",
-      "faq": [
-        {
-          "question": "Mogu li sirnicu složiti ranije i peći kasnije?",
-          "answer": "Bolje ne. Izvor savjetuje da se pita slaže neposredno prije pečenja, jer kore u dodiru s nadjevom brzo omekšaju."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [],
       "relatedGuides": [],
       "servedWith": [],
@@ -755,7 +762,35 @@
         "description": "Slagana sirnica od gotovih kora, s nadjevom od fete, svježeg sira, jaja i kisele pavlake, prelivena mlijekom i maslacem. Sočna i hrskava. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "Balkan Lunch Box – Phyllo Cheese Pie (Slagana sirnica): https://balkanlunchbox.com/phyllo-cheese-pie-slagana-sirnica-recipe/. Odabrana verzija: slagana sirnica s gotovim tankim korama; feta, svježi sir ili rikota, jaja i kisela pavlaka; preliv mlijekom i maslacem (plan SNK-0446). Izvor daje američke mjere: 8 oz ≈ 225 g, 12 oz = 340 g, 1 lb ≈ 450 g, 5–6 kašika maslaca ≈ 70–85 g, 1 šolja mlijeka = 240 ml, 2 kašike maslaca ≈ 28 g; 390 °F = 200 °C, 360 °F = 180 °C. NEDOSTAJE: dimenzije tepsije (izvor navodi samo duboku pravougaonu ili okruglu)."
+      "sourceNote": "Balkan Lunch Box – Phyllo Cheese Pie (Slagana sirnica): https://balkanlunchbox.com/phyllo-cheese-pie-slagana-sirnica-recipe/. Odabrana verzija: slagana sirnica s gotovim tankim korama; feta, svježi sir ili rikota, jaja i kisela pavlaka; preliv mlijekom i maslacem (plan SNK-0446). Izvor daje američke mjere: 8 oz ≈ 225 g, 12 oz = 340 g, 1 lb ≈ 450 g, 5–6 kašika maslaca ≈ 70–85 g, 1 šolja mlijeka = 240 ml, 2 kašike maslaca ≈ 28 g; 390 °F = 200 °C, 360 °F = 180 °C. NEDOSTAJE: dimenzije tepsije (izvor navodi samo duboku pravougaonu ili okruglu).",
+      "approach": "tradicionalni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Sirnica je pita sa sirom, jedna od osnovnih bosanskih pita. Ova je slagana: gotove tanke kore se slažu u tepsiju, a između njih ide nadjev od fete, svježeg sira, jaja i kisele pavlake. Pita se ne savija u rolu, pa je posao brži nego kod pite od razvučenog tijesta i uspije i onome ko nikad nije razvlačio kore.\n\nNa isti način se pravi i [zeljanica](/recepti/zeljanica/), a s mesom [burek](/recepti/burek/)."
+        },
+        {
+          "level": "h2",
+          "title": "Dva sira: jedan za okus, drugi za mekoću",
+          "body": "Feta daje slanoću i izražen okus, a svježi kravlji sir ili rikota daju mekan, kremast nadjev. Zajedno s jajima i kiselom pavlakom u rerni se stegnu u sočan sloj između kora.\n\nOd mekih sireva dobro rade i kozji sir ili domaći mladi sir. Tvrdi i polutvrdi sirevi (gauda, čedar, edamac) nisu dobar izbor: tope se u masne niti i ne stegnu se s jajima kao meki sir. Kad mijenjate sir, zadržite istu ukupnu količinu.\n\nFeta je slana, pa nadjev solite oprezno i probajte ga prije slaganja. Nadjev mutite dok ne bude potpuno gladak. Grudvice sira ostanu u pečenoj piti kao suha mjesta."
+        },
+        {
+          "level": "h2",
+          "title": "Kore premazane, ne natopljene",
+          "body": "Premaz od otopljenog maslaca i ulja nanosite tankim slojem na svaku koru. Maslac daje okus, a s uljem premaz ostaje tečan i lakše se razmazuje. Previše masnoće čini pitu teškom, a premalo ostavlja suhe, lomljive kore.\n\nGotove kore se na zraku brzo suše. Dok slažete, pokrijte ih čistom, blago vlažnom kuhinjskom krpom. Na vrhu moraju biti najmanje 2–3 premazane kore: one daju hrskav vrh i ne puštaju nadjev da iscuri i zagori.\n\nPitu slažite neposredno prije pečenja. Kore u dodiru s vlažnim nadjevom brzo omekšaju, pa pita složena unaprijed ne bude hrskava."
+        },
+        {
+          "level": "h2",
+          "title": "Mlijeko s maslacem na kraju",
+          "body": "Pred kraj pečenja vrh se prelije toplim mlijekom s maslacem. Taj preliv omekša gornje kore, pa sirnica bude sočna, a ne suha i lomljiva. Vraća se u ugašenu rernu samo da se preliv upije.\n\nNakon pečenja pita treba odstojati 20–30 minuta, a sat je još bolje. Nadjev se za to vrijeme stegne, pa se pita reže na uredne komade, bez curenja."
+        },
+        {
+          "level": "h2",
+          "title": "Topla, hladna i sutradan",
+          "body": "Sirnica se jede topla ili hladna, najčešće uz jogurt. Ostatak čuvajte pokriven u frižideru 2–3 dana i podgrijte ga u rerni, da kore opet postanu hrskave. Pita s jajima i sirom ne bi trebala dugo stajati na sobnoj temperaturi. Ne zamrzava se."
+        }
+      ]
     },
     {
       "planId": "SNK-0443",
@@ -988,22 +1023,10 @@
           ]
         }
       ],
-      "tips": [
-        "Sarmu ne miješajte dok se kuha. Miješanje otvara rolnice, a nadjev ispadne u sok. Lonac možete samo lagano protresti.",
-        "Listove probajte prije punjenja. Kiseli kupus se razlikuje po slanoći, a preslani listovi presole cijelo jelo, jer i nadjev i suho meso već nose so.",
-        "Sarme rolajte čvrsto, ali ne prejako: riža u nadjevu tokom kuhanja nabubri i treba joj prostora."
-      ],
-      "substitutions": [
-        "Umjesto junetine izvor dopušta teletinu ili janjetinu. Umjesto suhog goveđeg mesa može pastrma ili dimljena slanina.",
-        "Umjesto paradajz pirea možete koristiti 2 kašike koncentrata paradajza, uz nešto više vode za zapršku."
-      ],
-      "storage": "Kuhana sarma stoji u frižideru do 3 dana. Podgrijavajte samo količinu koju ćete pojesti, na laganoj vatri najmanje 15 minuta, dok ne bude vruća; ako je sok pregust, dolijte malo vode. Ohlađenu sarmu možete zamrznuti do 3 mjeseca. Izvor radije zamrzava sirove, zarolane sarme, pa ih nakon odmrzavanja u frižideru preko noći kuha po receptu.",
-      "faq": [
-        {
-          "question": "Mogu li sarmu podgrijati više puta?",
-          "answer": "Izvor savjetuje da se sarma ne podgrijava dvaput. Zato podgrijte samo onoliko koliko ćete pojesti, a ostatak ostavite u frižideru."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [],
       "relatedGuides": [],
       "servedWith": [
@@ -1014,7 +1037,40 @@
         "description": "Sarma od kiselog kupusa punjenog mljevenom junetinom, rižom i suhim mesom, kuhana tri sata u zaprški. Može se zarolati dan ranije. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "Balkan Lunch Box – Sarma (Stuffed Sour Cabbage Rolls): https://balkanlunchbox.com/sarma-stuffed-cabbage/. Odabrana verzija: kiseli (fermentisani) kupus, nadjev od junetine i riže, suho juneće meso u nadjevu i za kuhanje, višesatno lagano kuhanje (plan SNK-0443). Izvor daje američke mjere: 16 oz ≈ 450 g, 3–4 oz ≈ 85–115 g, 7 oz = 200 g, 24 oz = 680 g, 3,5 oz ulja ≈ 100 ml, 5,5 oz ≈ 155 g, 2 oz mlijeka ≈ 60 ml; 1,5 × 2,5 inča ≈ 4 × 6 cm. Izvor ne navodi broj porcija: 25–35 sarmi, 2–6 po osobi. Uz sarmu izvor predlaže hljeb i pire krompir."
+      "sourceNote": "Balkan Lunch Box – Sarma (Stuffed Sour Cabbage Rolls): https://balkanlunchbox.com/sarma-stuffed-cabbage/. Odabrana verzija: kiseli (fermentisani) kupus, nadjev od junetine i riže, suho juneće meso u nadjevu i za kuhanje, višesatno lagano kuhanje (plan SNK-0443). Izvor daje američke mjere: 16 oz ≈ 450 g, 3–4 oz ≈ 85–115 g, 7 oz = 200 g, 24 oz = 680 g, 3,5 oz ulja ≈ 100 ml, 5,5 oz ≈ 155 g, 2 oz mlijeka ≈ 60 ml; 1,5 × 2,5 inča ≈ 4 × 6 cm. Izvor ne navodi broj porcija: 25–35 sarmi, 2–6 po osobi. Uz sarmu izvor predlaže hljeb i pire krompir.",
+      "approach": "tradicionalni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Sarma je jelo od strpljenja više nego od vještine. Listovi kiselog kupusa pune se mljevenom junetinom, rižom i suhim mesom, slažu se u lonac sa zaprškom i paradajzom i tri sata kuhaju na laganoj vatri. Sav posao je u rolanju. Nakon toga lonac treba samo ostaviti na miru.\n\nPravi se u velikoj količini, za porodični ručak ili goste, i dobro se podgrijava i zamrzava."
+        },
+        {
+          "level": "h2",
+          "title": "Kiseli kupus i suho meso",
+          "body": "Okus sarme daje kiseli, fermentisani kupus. Sarma od svježeg kupusa postoji, ali je drugo jelo: blažeg okusa i s drugačijom pripremom listova.\n\nSuho goveđe meso ide i u nadjev i između slojeva sarmi u loncu. Tokom tri sata kuhanja pusti dimljeni okus u sok. Umjesto njega može pastrma ili dimljena slanina. Za nadjev se uzima bijela okrugla riža, koja tokom kuhanja nabubri i veže nadjev."
+        },
+        {
+          "level": "h2",
+          "title": "Probajte list prije punjenja",
+          "body": "Kiseli kupus se jako razlikuje po slanoći. Preslani listovi presole cijelo jelo, jer so nose i nadjev i suho meso. Zato svaki list kratko umočite u mlaku vodu i probajte komadić. Ako je i dalje preslan, umočite ga još jednom. Ako su listovi i nakon toga slani, nadjev solite oprezno."
+        },
+        {
+          "level": "h2",
+          "title": "Kako se rola sarma",
+          "body": "Debelo središnje rebro lista se ne savija, pa ga izrežite. List zatim prerežite na pola, a veće na tri ili četiri dijela. Od manjih komada dobiju se manje sarme, koje se ravnomjerno skuhaju i ljepše izgledaju na tanjiru.\n\nNa rub lista stavite kašiku nadjeva, preklopite list preko njega i rolajte od sebe, uvlačeći krajeve unutra. Rolajte čvrsto, ali ne prejako: riža u nadjevu nabubri i treba joj malo prostora. Prečvrsto zarolana sarma može pući.\n\nIzrezana rebra i ostatak glavice sitno isjecite. Ne bacaju se, nego idu u lonac između slojeva sarmi i daju sok."
+        },
+        {
+          "level": "h2",
+          "title": "Tri sata bez miješanja",
+          "body": "Sarma se ne miješa dok se kuha. Kašika otvara rolnice i nadjev ispadne u sok. Ako želite da se sok rasporedi, lonac samo lagano protresite.\n\nTečnost treba biti oko prst iznad gornjeg reda sarmi. Kako isparava, dolijevajte vruću vodu, da ključanje ne prestane i da nivo ostane isti. Vatra treba biti tek toliko jaka da sok lagano ključa. Na jakoj vatri listovi se raspadnu prije nego što omekšaju."
+        },
+        {
+          "level": "h2",
+          "title": "Unaprijed, podgrijavanje i zamrzavanje",
+          "body": "Sarme možete zarolati večer ranije i čuvati ih u frižideru, pa ih kuhati sutradan. Kuhana sarma stoji u frižideru do 3 dana.\n\nPodgrijavajte samo onoliko koliko ćete pojesti, na laganoj vatri dok ne bude vruća. Ako je sok pregust, dolijte malo vode. Istu sarmu nemojte podgrijavati više puta.\n\nKuhana sarma se može zamrznuti do 3 mjeseca. Izvor radije zamrzava sirove, zarolane sarme, koje se odmrznu u frižideru preko noći i onda kuhaju po receptu.\n\nUz sarmu idu kisela pavlaka i hljeb, a mnogi je jedu i uz [pire krompir](/recepti/pire-krompir/)."
+        }
+      ]
     },
     {
       "planId": "SNK-0018",
@@ -1154,23 +1210,10 @@
           ]
         }
       ],
-      "tips": [
-        "Šećer je jedna ukupna količina od 100 g: pola ide s drugim mlijekom, a pola s trećim. Ne dodajte ga dvaput u punoj količini.",
-        "Kuhajte polako i miješajte sve češće kako se mlijeko dodaje. Na jakoj vatri mlijeko zagori za dno prije nego što riža omekša.",
-        "Ne kuhajte dok sva tečnost ne nestane. Sutlija koja u loncu izgleda gotova i gusta, kad se ohladi, bude tvrda, jer riža nastavlja upijati mlijeko."
-      ],
-      "substitutions": [
-        "Za gušću sutliju umjesto posljednjih 230 ml dodajte samo 115 ml mlijeka.",
-        "Umjesto bijelog šećera izvor dopušta smeđi šećer ili med, po ukusu.",
-        "Za upola manju količinu uzmite po pola od svakog sastojka, uključujući i tri dijela mlijeka."
-      ],
-      "storage": "Sutlija stoji pokrivena u frižideru do 2 dana. Ako je želite toplu, podgrijte je prije dodavanja cimeta ili drugog posipa.",
-      "faq": [
-        {
-          "question": "Koja riža je najbolja za sutliju?",
-          "answer": "Bijela okrugla riža, npr. arborio. Ona pušta skrob i daje kremastu sutliju. Dugozrnata riža ostaje rastresita i sutlija bude rijetka."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [],
       "relatedGuides": [],
       "servedWith": [],
@@ -1179,7 +1222,25 @@
         "description": "Domaća sutlija od okrugle riže, mlijeka i vanilije, kuhana oko pola sata bez pudinga i pečenja. Topla ili hladna, s cimetom. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "Balkan Lunch Box – Sutlijaš (Balkan rice pudding): https://balkanlunchbox.com/sticky-rice/. Odabrana verzija: osnovna sutlija s okruglom rižom, mlijekom i vanilijom, bez pudinga i bez pečenja; mlijeko u tri navrata (plan SNK-0018). Izvorne zapremine: šolja = 230 ml (ne 250 ml). Šećer: ukupno 3,5 oz ≈ 100 g; izvor ga dodaje u dva koraka, pa je podijeljen na pola."
+      "sourceNote": "Balkan Lunch Box – Sutlijaš (Balkan rice pudding): https://balkanlunchbox.com/sticky-rice/. Odabrana verzija: osnovna sutlija s okruglom rižom, mlijekom i vanilijom, bez pudinga i bez pečenja; mlijeko u tri navrata (plan SNK-0018). Izvorne zapremine: šolja = 230 ml (ne 250 ml). Šećer: ukupno 3,5 oz ≈ 100 g; izvor ga dodaje u dva koraka, pa je podijeljen na pola.",
+      "approach": "brzi",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Sutlija ili sutlijaš je riža kuhana u mlijeku sa šećerom i vanilijom. Ova je bez pudinga i bez pečenja: kremasta je samo od skroba koji riža pusti dok se polako kuha. Gotova je za četrdesetak minuta i jede se topla ili hladna, posuta cimetom."
+        },
+        {
+          "level": "h2",
+          "title": "Okrugla riža i lonac s debljim dnom",
+          "body": "Za sutliju se uzima bijela okrugla riža, npr. arborio. Ona pušta skrob i veže mlijeko u kremu. Dugozrnata riža ostaje rastresita i sutlija bude rijetka.\n\nMlijeko se dodaje u tri navrata, pa ostanite uz lonac. Kad se doda šećer, smjesa se lakše lijepi za dno i zagori, zato pred kraj miješajte sve češće. Lonac s debljim dnom i srednje slaba vatra čuvaju mlijeko od zagorijevanja."
+        },
+        {
+          "level": "h2",
+          "title": "Na kraju treba izgledati rijetko",
+          "body": "Sutlija se zgusne dok se hladi, jer riža nastavlja upijati mlijeko. Zato je skinite s vatre kad je riža mekana, a iznad nje još ima malo mlijeka. Ako je kuhate dok sva tečnost ne nestane, ohlađena će biti tvrda.\n\nAko se u frižideru ipak previše zgusne, umiješajte kašiku-dvije hladnog mlijeka. Ko voli gušću sutliju, umjesto posljednjih 230 ml može dodati samo 115 ml mlijeka.\n\nŠećer je jedna ukupna količina od 100 g, podijeljena na dva dijela. Umjesto bijelog šećera možete koristiti smeđi šećer ili med, po ukusu. Cimet stavite tek pred posluživanje. Pokrivena sutlija stoji u frižideru do 2 dana."
+        }
+      ]
     },
     {
       "planId": "SNK-0001",
@@ -1192,8 +1253,8 @@
         "pamuk kifle",
         "domaće kifle"
       ],
-      "summary": "Mekane mliječne kifle od tijesta s kvascem, maslacem i hladnim mlijekom, premazane mlijekom. Od jedne ture dobije se 16 kifli, prazne ili s nadjevom po želji.",
-      "beforeYouStart": "Tijesto treba biti mekano, ali ne ljepljivo. Ne dodajte više brašna nego što je u receptu, jer kifle postanu tvrđe. Potrebna je i velika radna površina za krug promjera oko 60 cm.",
+      "summary": "Domaće mekane kifle od mliječnog tijesta s maslacem i uljem, s dva kratka dizanja. Od jednog kruga tijesta dobije se 16 kifli, prazne ili s nadjevom po želji.",
+      "beforeYouStart": "Za razvaljivanje treba radna površina na kojoj stane krug promjera oko 60 cm.",
       "primaryCategory": "hljeb-i-slana-peciva",
       "tags": [
         "dizano-tijesto",
@@ -1223,7 +1284,8 @@
       "times": {
         "cookMinutes": 20,
         "restMinutes": 50,
-        "restLabel": "dizanja tijesta"
+        "restLabel": "dizanja tijesta",
+        "prepMinutes": 30
       },
       "equipment": {
         "temperature": 190,
@@ -1350,22 +1412,10 @@
           ]
         }
       ],
-      "tips": [
-        "Tijesto ne smije biti ljepljivo, ali ni tvrdo. Ako se lijepi za ruke, mijesite ga još malo umjesto da dodajete brašno.",
-        "Kod rolanja lagano povlačite vrh trougla. Tako kifla dobije više zavoja i bude ujednačeno mekana.",
-        "S nadjevom ne pretjerujte. Previše nadjeva iscuri tokom pečenja i kifle se otvore."
-      ],
-      "substitutions": [
-        "Umjesto jabukovog sirćeta možete koristiti kašiku limunovog soka ili mlijeka.",
-        "Za slane kifle izvor ih prije pečenja premazuje razmućenim jajetom i posipa sezamom umjesto premaza od mlijeka. Za slatke kifle ih dok su tople pospite šećerom u prahu."
-      ],
-      "storage": "Kifle su dobre i sljedeći dan ako ih čuvate pokrivene ili u posudi s poklopcem.",
-      "faq": [
-        {
-          "question": "Mogu li kifle peći u rerni s ventilatorom?",
-          "answer": "Mogu, na istih 190 °C, ali oko 5 minuta kraće. Izvor kao drugu mogućnost navodi i pečenje na 170 °C, 18–20 minuta."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [],
       "relatedGuides": [],
       "servedWith": [],
@@ -1374,7 +1424,50 @@
         "description": "Mekane domaće kifle od tijesta s kvascem, maslacem i hladnim mlijekom, premazane mlijekom. Recept za 16 kifli, prazne ili s nadjevom. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "Sašina kuhinja – Mliječne kiflice: https://sasina-kuhinja.com/videorecepti/mlijecne-kiflice-recept. Odabrana verzija: prazne mliječne kifle s kvascem, izvorne gramaže, premaz mlijekom, bez čokoladnog punjenja (plan SNK-0001; uključuje i temu SNK-0035 Pamuk kifle). NEDOSTAJE: vrijeme pripreme i miješenja (izvor ga ne navodi), pa ukupno vrijeme nije upisano; poznato je 30 + 15–20 min dizanja i 18–20 min pečenja."
+      "sourceNote": "Sašina kuhinja – Mliječne kiflice: https://sasina-kuhinja.com/videorecepti/mlijecne-kiflice-recept. Odabrana verzija: prazne mliječne kifle s kvascem, izvorne gramaže, premaz mlijekom, bez čokoladnog punjenja (plan SNK-0001; uključuje i temu SNK-0035 Pamuk kifle). Vrijeme pripreme od 30 min (miješenje, razvaljivanje i oblikovanje 16 kifli) je urednička procjena, jer ga izvor ne navodi; dizanje 30 + 15–20 min i pečenje 18–20 min su iz izvora.",
+      "approach": "detaljni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Domaće mekane kifle iz ovog recepta prave se od mliječnog tijesta s kvascem, u koje idu i maslac i ulje. Masnoća čini kifle mekim i nježnim, a dva kratka dizanja skraćuju čekanje, pa se kifle mogu napraviti i za doručak koji nije planiran dan ranije. Od jednog kruga tijesta izrežete 16 trouglova i od svakog urolate kiflu.\n\nKod kifli se najčešće griješi u dvije stvari: doda se previše brašna i kifle se peku predugo. Obje greške daju isti rezultat, tvrdu kiflu."
+        },
+        {
+          "level": "h2",
+          "title": "Kakvo treba biti tijesto",
+          "body": "Dobro tijesto za ove kifle je mekano i podatno, ne lijepi se za ruke, ali nije ni čvrsto kao tijesto za hljeb. Tek zamiješeno može djelovati malo vlažno; nekoliko minuta miješenja to sredi."
+        },
+        {
+          "level": "h3",
+          "title": "Zašto ne dodavati brašno",
+          "body": "Količina brašna u receptu je dovoljna. Brašno koje se doda samo zato što se tijesto u početku malo lijepi upije dio tečnosti, pa kifle nakon pečenja budu suhe i tvrđe. Ako se tijesto lijepi, mijesite ga još malo. Za razvaljivanje tanko pobrašnite radnu površinu, ali ne umiješajte to brašno u tijesto."
+        },
+        {
+          "level": "h3",
+          "title": "Topla masnoća, hladno mlijeko",
+          "body": "Maslac se otopi u ulju, a zatim se u njega ulije hladno mlijeko. Tako se masnoća brzo ohladi i smjesa bude tek mlaka. To je važno jer prevruća tečnost može oštetiti kvasac, pa se tijesto onda slabo diže.\n\nKašika jabukovog sirćeta dio je izvorne recepture. Ako ga nemate, izvorni recept dopušta kašiku limunovog soka ili mlijeka."
+        },
+        {
+          "level": "h2",
+          "title": "Dva kratka dizanja",
+          "body": "Ova receptura ne traži da tijesto stoji dugo. Prvo dizanje traje 30 minuta, nakon čega se tijesto kratko premijesi. Drugo dizanje počinje kad su kifle već oblikovane i premazane mlijekom, i traje 15–20 minuta, dok se rerna grije na 190 °C.\n\nDrugo dizanje je namjerno kratko: kifle trebaju tek malo nabubriti. Ako oblikovane stoje na toplom predugo (izvor navodi najviše oko sat vremena), previše se dignu i u rerni splasnu i izgube oblik."
+        },
+        {
+          "level": "h2",
+          "title": "Od kruga do kifle",
+          "body": "Cijelo tijesto, oko 1 kg, razvaljajte u krug promjera oko 60 cm i debljine svega nekoliko milimetara. Tako se iz jednog kruga dobije 16 trouglova iste veličine, pa se sve kifle ispeku ujednačeno.\n\nSvaki trougao rolajte od šireg kraja prema vrhu i pritom lagano povlačite vrh. Tijesto se tako izdužuje i kifla dobije više zavoja. Vrh trougla neka bude ispod kifle na limu, da se ne odmota u rerni.\n\nAko punite kifle, nadjev stavite na širi kraj i ne pretjerujte. Previše nadjeva iscuri tokom pečenja, a kifle se otvore."
+        },
+        {
+          "level": "h2",
+          "title": "Pečenje: kratko i na pravoj temperaturi",
+          "body": "Kifle se peku 18–20 minuta na 190 °C, s grijačima gore i dole, dok ne porumene. U rerni s ventilatorom pecite ih oko 5 minuta kraće, jer kruženje toplog zraka brže peče tanko tijesto. Izvor kao drugu mogućnost navodi i pečenje na 170 °C, isto 18–20 minuta.\n\nPečene kifle ostavite da se hlade nepokrivene najmanje 15 minuta. Ako ih odmah pokrijete, para ostane zarobljena i kora omekša i postane ljepljiva."
+        },
+        {
+          "level": "h2",
+          "title": "Slane, slatke ili prazne",
+          "body": "Prazne kifle premazane mlijekom idu uz doručak, supu ili jelo s umakom. Za slanu verziju premažite ih razmućenim jajetom i pospite susamom. Za slatke ih, dok su još tople, pospite šećerom u prahu.\n\nSljedeći dan su i dalje mekane ako ih, kad se potpuno ohlade, čuvate pokrivene ili u posudi s poklopcem."
+        }
+      ]
     }
   ]
 }

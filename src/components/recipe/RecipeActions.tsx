@@ -57,12 +57,22 @@ export function ShareButton({ title, url }: { title: string; url: string }) {
   )
 }
 
-export function RecipeActions({ recipe, canonical }: { recipe: SaveTarget; canonical: string }) {
+/** Radnje na vrhu: do recepta i spremanje. */
+export function RecipeActions({ recipe }: { recipe: SaveTarget }) {
   return (
     <div id="radnje-recepta" className="no-print flex flex-wrap gap-2">
-      <a href="#recept" className="btn btn-primary">
+      <a href="#recept" className="btn btn-primary lg:hidden">
         <ArrowDown aria-hidden="true" className="h-5 w-5" /> Idi na recept
       </a>
+      <SaveButton recipe={recipe} variant="full" />
+    </div>
+  )
+}
+
+/** Radnje ispod recepta: štampanje, dijeljenje i spremanje. */
+export function RecipeAfterActions({ recipe, canonical }: { recipe: SaveTarget; canonical: string }) {
+  return (
+    <div className="no-print mt-6 flex flex-wrap items-center gap-2">
       <SaveButton recipe={recipe} variant="full" />
       <PrintButton />
       <ShareButton title={recipe.title} url={canonical} />

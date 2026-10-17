@@ -161,9 +161,9 @@ export function IngredientsPanel() {
   return (
     <section aria-labelledby="sastojci-naslov" id="sastojci" className="scroll-mt-24">
       <div className="flex flex-wrap items-baseline justify-between gap-2">
-        <h2 id="sastojci-naslov" className="text-2xl font-semibold">
+        <h3 id="sastojci-naslov" className="text-2xl font-semibold">
           Sastojci
-        </h2>
+        </h3>
         <p className="print-only">
           Količina: {formatNumber(servings ?? recipe.baseServings ?? 0)} {recipe.yieldUnit}
         </p>
@@ -172,7 +172,7 @@ export function IngredientsPanel() {
         <ServingsControl />
       </div>
       <div className="mt-4">
-        <IngredientList groups={recipe.groups} factor={factor} checked={checked} onToggle={toggle} idPrefix="sastojak" />
+        <IngredientList groups={recipe.groups} factor={factor} checked={checked} onToggle={toggle} idPrefix="sastojak" headingLevel={4} />
       </div>
       <noscript>
         <p className="mt-3 text-sm text-muted">Preračun porcija, označavanje sastojaka i lista za kupovinu traže uključen JavaScript.</p>

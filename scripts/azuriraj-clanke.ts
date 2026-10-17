@@ -1,6 +1,7 @@
 /**
- * Ažurira samo urednički tekst postojećih recepata (pristup, članak, savjeti, zamjene, čuvanje,
- * „šta poslužiti uz ovo“) iz datoteke uvoza. Sastojci, koraci, slike i ostala polja se ne diraju.
+ * Ažurira samo urednički tekst postojećih recepata (opis, „prije početka“, vremena, pristup, članak,
+ * savjeti, zamjene, čuvanje, česta pitanja, ostaci, „šta poslužiti uz ovo“, napomena o izvoru)
+ * iz datoteke uvoza. Sastojci, koraci, slike i ostala polja se ne diraju.
  *
  *   npx tsx scripts/azuriraj-clanke.ts <datoteka.json> <slug,slug>              → pregled (ništa se ne zapisuje)
  *   ... --primijeni                                                             → nova draft verzija
@@ -75,11 +76,17 @@ async function main() {
       overrideAccess: true,
       draft: !publish,
       data: {
+        summary: r.summary,
+        beforeYouStart: r.beforeYouStart ?? null,
+        times: { ...r.times, totalMinutes: r.times.totalMinutes ?? null },
+        sourceNote: r.sourceNote ?? doc.sourceNote,
         approach: (r.approach ?? null) as never,
         article: r.article.map((a) => ({ level: a.level, title: a.title ?? undefined, body: a.body })),
         tips: r.tips.map((text) => ({ text })),
         substitutions: r.substitutions.map((text) => ({ text })),
         storage: r.storage ?? null,
+        faq: r.faq.map((f) => ({ question: f.question, answer: f.answer })),
+        leftovers: { ...(doc.leftovers ?? {}), text: r.leftovers?.text ?? null },
         servedWith,
         _status: publish ? 'published' : 'draft',
       },

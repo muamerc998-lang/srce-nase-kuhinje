@@ -59,13 +59,12 @@ Odaberi pristup koji najbolje odgovara jelu i upiši ga u interno polje `approac
 
 - Broj, redoslijed i nazive sekcija određuje jelo. Članak može imati i samo dva-tri pasusa bez podnaslova, ako je to najbolje.
 - Prva sekcija je obično bez naslova: uvodni pasus koji odmah ulazi u temu i prirodno sadrži glavnu ključnu riječ.
-- **Naslovi su konkretni za jelo**, kao kratka tvrdnja ili pitanje koje čitalac ima:
-  - dobro: „Zašto se brašnasti krompir ne pere nakon kuhanja“, „Temeljac kuhajte tiho, ne burno“, „Koliko dugo se diže tijesto za kifle“, „Kad je tepsija prevelika“;
-  - loše: „Savjeti“, „Najčešće greške“, „Zamjene“, „Čuvanje“, „Uvod“, „Zaključak“, „Sve što trebate znati“.
-- Generičke teme (greške, zamjene, čuvanje) mogu se obraditi, ali pod naslovom koji kaže nešto o konkretnom jelu, ili unutar druge sekcije.
+- **Naslove biraš slobodno**, prema tome šta je najprirodnije za to jelo i za čitaoca. Nema zabranjenih riječi: i „Čuvanje“ ili „Zamjene“ mogu biti dobar naslov kad je to stvarno ono što čitalac traži.
+- Najčešće su najbolji naslovi koji kažu nešto o konkretnom jelu, kao kratka tvrdnja ili pitanje (npr. „Temeljac kuhajte tiho, ne burno“, „Koliko dugo se diže tijesto za kifle“). Ali to je smjernica, ne pravilo. Pitanje je samo: da li naslov čitaocu jasno kaže šta ga čeka?
+- Izbjegavaj da svi recepti imaju isti niz sekcija pod istim imenima. Ako tekst izgleda kao popunjen obrazac, promijeni ga.
 - H2 za glavne teme, H3 samo kad sekcija stvarno ima podteme.
-- Liste samo kad čitalac nešto bira ili provjerava (npr. sorte krompira, znakovi gotovosti). Objašnjenja idu u pasuse.
-- **Raznolikost:** prije pisanja pogledaj naslove sekcija u zadnjih nekoliko recepata (`content/recepti/*.json`). Isti ili gotovo isti naslov se ne ponavlja u dva recepta zaredom.
+- Liste kad čitalac nešto bira ili provjerava (npr. sorte krompira, znakovi gotovosti). Objašnjenja idu u pasuse.
+- **Raznolikost:** prije pisanja pogledaj naslove sekcija u zadnjih nekoliko recepata (`content/recepti/*.json`), da se isti naslovi i isti redoslijed ne ponavljaju bez razloga.
 
 ## 6. Referentni recept
 
@@ -75,7 +74,9 @@ Referenca iz plana služi da se razumije jelo, a ne da se prepiše tekst.
 - Ne preuzimaju se uvod, opisi, savjeti, struktura članka ni podnaslovi. Tekst se ne prepričava rečenicu po rečenicu.
 - Članak se piše iz vlastitog razumijevanja jela: šta je važno, zašto i kako to čitalac vidi u svojoj kuhinji.
 - Kulinarsko objašnjenje koje nije iz reference smije se napisati samo kad je opšte poznato i provjerljivo (npr. da skrob muti supu, da gluten od predugog miješanja čini tijesto žilavim). Ako nisi siguran, ne piši.
-- Ako je izvor nejasan, nepotpun ili sumnjiv, provjeri ga drugim pouzdanim izvorom ili to navedi u `sourceNote` (`NEDOSTAJE: …`). Nikad ne izmišljaj podatak.
+- **Ni izvor nije nepogrešiv.** Tvrdnju iz reference koja zvuči sumnjivo (neobično vrijeme ili temperatura, „pravilo“ bez objašnjenja, sigurnosno upitan postupak) ne prenosi slijepo. Provjeri je drugim pouzdanim izvorom; ako se ne može potvrditi, izostavi je ili napiši opreznije i zabilježi u `sourceNote`.
+- Ako je izvor nejasan ili nepotpun, to navedi u `sourceNote` (`NEDOSTAJE: …`). Nikad ne izmišljaj podatak.
+- **Originalnost:** napiši tekst tako da bi bio isti i da referencu nikad nisi pročitao do kraja. Zajednički mogu biti samo podaci o receptu, nikad rečenice, poređenja, primjeri ni raspored misli.
 
 ## 7. Glas i jezik
 
@@ -92,7 +93,7 @@ Referenca iz plana služi da se razumije jelo, a ne da se prepiše tekst.
 
 ## 8. Dužina
 
-Dužina zavisi od jela, ne od broja riječi. Orijentacija za ceo članak:
+Dužina zavisi od jela, ne od broja riječi. Orijentacija za cijeli članak:
 - brzi i jednostavni recepti: oko 250–500 riječi;
 - većina recepata: oko 500–900 riječi;
 - zahtjevna jela (tijesta, torte, višeslojni kolači): 900–1500 riječi, samo ako sadržaj to opravdava.
@@ -104,7 +105,8 @@ Ako bi tekst trebao biti duži samo da dosegne broj, skrati ga.
 Prije uvoza pročitaj članak i karticu kao urednik i ispravi:
 
 - [ ] Neprirodne formulacije, kalkove i prazne fraze (§7).
-- [ ] Šablonske naslove i naslove koji se ponavljaju iz drugih recepata (§5).
+- [ ] Naslove koji ne govore jasno šta slijedi, ili niz sekcija koji izgleda kao obrazac iz drugih recepata (§5).
+- [ ] Kulinarsku tačnost: da li bi iskusan kuhar potpisao svaku tvrdnju? Sumnjive tvrdnje iz izvora provjeriti ili izostaviti (§6).
 - [ ] Količine, vremena, temperature i redoslijed: da li se slažu u kartici, u članku i u referenci? Da li je ukupno vrijeme stvarno proteklo vrijeme?
 - [ ] Savjete koji ne pomažu ovom jelu („koristite kvalitetne sastojke“) i sekcije koje postoje samo da bi postojale.
 - [ ] Ponavljanje: ista informacija u članku i u kartici, ili dvaput u članku.

@@ -12,7 +12,7 @@ const ovenLabels: Record<string, string> = {
   gornji: 'gornji grijač',
 }
 
-export function RecipeFacts({ recipe }: { recipe: RecipeView }) {
+export function RecipeFacts({ recipe, layout = 'grid' }: { recipe: RecipeView; layout?: 'grid' | 'list' }) {
   const t = recipe.times
   const facts: Array<{ icon: React.ReactNode; label: string; value: string }> = []
   if (t.prepMinutes) facts.push({ icon: <Clock className="h-5 w-5" />, label: 'Priprema', value: formatDuration(t.prepMinutes) })
@@ -31,9 +31,9 @@ export function RecipeFacts({ recipe }: { recipe: RecipeView }) {
     })
   return (
     <section aria-label="Osnovni podaci" className="avoid-break rounded-2xl border border-line bg-white p-4 shadow-[var(--shadow-card)] sm:p-5">
-      <dl className="grid grid-cols-2 gap-x-4 gap-y-4 sm:grid-cols-3 lg:grid-cols-4">
+      <dl className={layout === 'list' ? 'divide-y divide-line' : 'grid grid-cols-2 gap-x-4 gap-y-4 sm:grid-cols-3'}>
         {facts.map((f) => (
-          <div key={f.label}>
+          <div key={f.label} className={layout === 'list' ? 'py-2.5 first:pt-0 last:pb-0' : undefined}>
             <dt className="flex items-center gap-2 text-sm text-muted">
               <span aria-hidden="true" className="text-brand">
                 {f.icon}
@@ -58,7 +58,7 @@ export function StepsList({ recipe }: { recipe: RecipeView }) {
     <div className="space-y-6">
       {recipe.stepGroups.map((g) => (
         <div key={g.id}>
-          {g.title && <h3 className="mb-3 font-sans text-base font-bold uppercase tracking-wide text-bordo">{g.title}</h3>}
+          {g.title && <h4 className="mb-3 font-sans text-base font-bold uppercase tracking-wide text-bordo">{g.title}</h4>}
           <ol className="space-y-5">
             {g.steps.map((s) => {
               n++

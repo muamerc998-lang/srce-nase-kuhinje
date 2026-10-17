@@ -348,7 +348,7 @@
         "fudge brownie"
       ],
       "summary": "Brownie s kakaom i komadićima čokolade, vlažne sredine i tanke sjajne korice. Smjesa se miješa u jednoj posudi i peče oko pola sata u tepsiji 23 × 33 cm.",
-      "beforeYouStart": "Sjajna korica nastaje kad se šećer djelimično otopi u toplom maslacu: smjesu maslaca i šećera zagrijte samo dok ne postane vruća i sjajna, ali ne smije proključati. Ako tepsiju oblažete papirom za pečenje, namastite i papir.",
+      "beforeYouStart": "Ako tepsiju oblažete papirom za pečenje, namastite i papir. Kakao, šećer i brašno najtačnije ćete izmjeriti vagom.",
       "primaryCategory": "kolaci",
       "tags": [
         "cokolada",
@@ -480,22 +480,10 @@
           ]
         }
       ],
-      "tips": [
-        "Ne pecite do potpuno suhe sredine: ako čačkalica izađe čista, brownie je već prepečen i biće suh. Malo udubljenje u sredini je normalno za ovaj recept.",
-        "Kakao, šećer i brašno mjerite vagom. Količine su u izvoru date u gramima, a mjerenje šoljama kod kakaa lako odstupi.",
-        "Za uredne komade režite potpuno ohlađen brownie oštrim nožem koji obrišete između rezova."
-      ],
-      "substitutions": [
-        "Prirodni kakao umjesto holandskog može se koristiti, ali brownie će biti blago kiselkastog okusa i gušće teksture.",
-        "Izvor po želji dodaje 1 kašičicu instant espresso praha za izraženiji okus čokolade. U ovoj osnovnoj verziji ga nema."
-      ],
-      "storage": "Dobro umotan brownie čuva se na sobnoj temperaturi 5–6 dana. Za duže čuvanje zamrznite ga.",
-      "faq": [
-        {
-          "question": "Zašto je brownie u sredini malo upao?",
-          "answer": "Kod browniea s vlažnom sredinom lagano udubljenje je očekivano i ne znači da nije uspio. Pri rezanju jednostavno režite oko njega."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [],
       "relatedGuides": [],
       "servedWith": [],
@@ -504,7 +492,35 @@
         "description": "Brownie s kakaom i komadićima čokolade: vlažna sredina, sjajna korica, jedna posuda i oko 30 minuta pečenja u tepsiji 23 × 33 cm. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "King Arthur Baking – Fudge Brownies: https://www.kingarthurbaking.com/recipes/fudge-brownies-recipe. Odabrana verzija: fudgy brownie s holandskim kakaom i komadićima čokolade, bez opcionalnog espresso praha (prema planu SNK-0015). 350 °F preračunato u 175 °C; 110–120 °F u 43–49 °C. NEDOSTAJE: vrijeme hlađenja prije rezanja (izvor kaže samo da se ohladi) i način rada rerne (izvor ga ne navodi)."
+      "sourceNote": "King Arthur Baking – Fudge Brownies: https://www.kingarthurbaking.com/recipes/fudge-brownies-recipe. Odabrana verzija: fudgy brownie s holandskim kakaom i komadićima čokolade, bez opcionalnog espresso praha (prema planu SNK-0015). 350 °F preračunato u 175 °C; 110–120 °F u 43–49 °C. NEDOSTAJE: vrijeme hlađenja prije rezanja (izvor kaže samo da se ohladi) i način rada rerne (izvor ga ne navodi).",
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Ovaj brownie je gust i vlažan, s mekanom, gotovo kremastom sredinom i tankom sjajnom koricom koja pucketa pod nožem. Na engleskom se takav brownie zove „fudgy“, za razliku od prozračnijeg, kolačkog („cakey“).\n\nSmjesa se pravi u jednoj posudi i bez posebne vještine. Ipak, tri detalja odlučuju kakav će biti: koliko se zagrije maslac sa šećerom, koji kakao koristite i kada izvadite tepsiju iz rerne."
+        },
+        {
+          "level": "h2",
+          "title": "Odakle sjajna korica",
+          "body": "Tanki, sjajni vrh nastaje od šećera koji se otopi prije pečenja. Zato se šećer ne miješa s hladnim maslacem, nego se kratko grije u otopljenom maslacu, dok smjesa ne postane topla i sjajna. Na površini se u rerni od tog otopljenog šećera stvori tanak sloj koji se osuši u koricu, slično kao kod pusica.\n\nSmjesu ne treba dovesti do ključanja. Dovoljno je da bude topla, a šećer da se počne topiti. Ako imate termometar, to je oko 45 °C."
+        },
+        {
+          "level": "h2",
+          "title": "Holandski ili obični kakao",
+          "body": "Recept je računat za holandski (alkalizirani) kakao. On je tamniji i blažeg okusa od prirodnog, jer mu je smanjena kiselost. Prirodni kakao možete koristiti, ali brownie će biti blago kiselkast i nešto gušći.\n\nU smjesi je dosta kakaa, preko 100 g. Mjerite ga vagom: šoljom se kakao lako nabije ili ostane rahao, a dvadesetak grama razlike primijeti se u gustoći.\n\nIzvor po želji dodaje kašičicu instant espresso praha. Ne osjeća se kao kafa, ali pojača okus čokolade. U ovoj osnovnoj verziji ga nema."
+        },
+        {
+          "level": "h2",
+          "title": "Kada ga izvaditi iz rerne",
+          "body": "Ovo je najvažnija odluka. Brownie se vadi dok mu je sredina još vlažna, jer se u vrućoj tepsiji peče još nekoliko minuta i pri hlađenju se steže. Ako čačkalica izađe potpuno čista, već je prepečen i nakon hlađenja će biti suh.\n\nZnakovi da je gotov:\n- rubovi su stegnuti i blago se odvajaju od tepsije;\n- sredina se ne talasa kad pomjerite tepsiju;\n- čačkalica iz sredine izlazi s vlažnim mrvicama, ali bez tečne smjese.\n\nU smjesi su komadići čokolade, pa čačkalica može pogoditi otopljenu kapljicu i izaći umrljana. Tada probajte na još jednom mjestu. Malo udubljenje u sredini nakon hlađenja je normalno."
+        },
+        {
+          "level": "h2",
+          "title": "Rezanje na uredne komade",
+          "body": "Topao brownie je mekan i lijepi se za nož. Ostavite ga da se potpuno ohladi u tepsiji: sredina se tada stegne i komadi drže oblik. Ako ste tepsiju obložili papirom koji viri preko rubova, ohlađeni brownie podignite i režite na dasci.\n\nRežite oštrim nožem i obrišite ga nakon svakog reza. Iz tepsije 23 × 33 cm dobije se 24 komada.\n\nDobro umotan brownie stoji na sobnoj temperaturi 5–6 dana. Za duže čuvanje zamrznite ga izrezanog, pa vadite komad po komad."
+        }
+      ]
     },
     {
       "planId": "SNK-0004",
@@ -655,22 +671,10 @@
           ]
         }
       ],
-      "tips": [
-        "Odmaranje tijesta nije preskakanje vremena: za taj sat brašno upije tečnost, pa su palačinke mekše i manje se kidaju pri okretanju.",
-        "Ako se tijesto stegne prije nego što ga razlijete po dnu, tava je prevruća. Ako palačinka dugo ostaje blijeda i lijepi se, vatra je preslaba.",
-        "Ispečene palačinke slažite jednu na drugu ispod poklopca ili folije, da ostanu tople i mekane dok ne ispečete sve."
-      ],
-      "substitutions": [
-        "Klasičan slatki nadjev je pekmez, džem, čokoladni namaz ili orasi sa šećerom. Za slane palačinke izvor predlaže tanko narezanu šunku i rendani tvrdi sir.",
-        "Recept se lako prepolovi ako vam treba šest palačinki."
-      ],
-      "storage": "Višak ispečenih palačinki možete zamrznuti i iskoristiti kasnije.",
-      "faq": [
-        {
-          "question": "Ide li u tijesto prašak za pecivo?",
-          "answer": "Ne. Tanke palačinke nemaju prašak za pecivo. Prašak ide u američke palačinke, koje su deblje i manje."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [],
       "relatedGuides": [],
       "servedWith": [],
@@ -679,7 +683,40 @@
         "description": "Recept za tanke palačinke od brašna, mlijeka, jaja i maslaca. Tijesto odstoji sat vremena, pa su mekane i lako se savijaju. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "King Arthur Baking – Parisian Street Vendor Crêpes: https://www.kingarthurbaking.com/recipes/parisian-street-vendor-crepes-recipe. Odabrana verzija: tanke palačinke bez praška za pecivo, nadjev opcionalan (plan SNK-0004). Izvor navodi 45 min aktivnog rada; sat odmaranja tijesta je uračunat u ukupno vrijeme. 1/3 šolje tijesta ≈ 80 ml; tava 10 inča ≈ 25 cm."
+      "sourceNote": "King Arthur Baking – Parisian Street Vendor Crêpes: https://www.kingarthurbaking.com/recipes/parisian-street-vendor-crepes-recipe. Odabrana verzija: tanke palačinke bez praška za pecivo, nadjev opcionalan (plan SNK-0004). Izvor navodi 45 min aktivnog rada; sat odmaranja tijesta je uračunat u ukupno vrijeme. 1/3 šolje tijesta ≈ 80 ml; tava 10 inča ≈ 25 cm.",
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Tanke palačinke prave se od brašna, mlijeka, jaja i malo otopljenog maslaca, bez praška za pecivo. Mekane su i savitljive, pa se lako pune i savijaju, i sa slatkim i sa slanim nadjevom.\n\nTijesto je jednostavno. Da li će se palačinke kidati ili lijepo savijati najviše zavisi od dvije stvari: koliko je tijesto odstojalo i koliko je vruća tava."
+        },
+        {
+          "level": "h2",
+          "title": "Sat odmaranja se isplati",
+          "body": "Dok tijesto stoji, brašno upije tečnost, a gluten koji se razvio miješanjem se opusti. Palačinke su zato mekše i elastičnije i manje se kidaju pri okretanju. Tijesto koje se peče odmah daje palačinke koje su žilavije na rubovima.\n\nTečnost se u brašno dodaje u dva dijela da ne bude grudvica: prvo polovina, pa kad se sjedini, ostatak. Ako ipak ostanu grudvice, kratko propasirajte tijesto štapnim mikserom. Ako tijesto napravite ranije, može stajati i u frižideru, samo ga prije pečenja promiješajte."
+        },
+        {
+          "level": "h2",
+          "title": "Prva palačinka pokazuje temperaturu",
+          "body": "Prva palačinka često ne uspije, i to je u redu. Ona služi da se vidi koliko je tava vruća:\n- ako se tijesto stegne prije nego što ga razlijete po dnu, tava je prevruća;\n- ako palačinka dugo ostaje blijeda i lijepi se, vatra je preslaba;\n- dobro je kad se rubovi nakon kratkog vremena počnu dizati i rumeniti, a lopatica lako ulazi ispod.\n\nZa tavu od 25 cm dovoljno je nešto manje od 80 ml tijesta. Tavu premazujte ubrusom s malo maslaca, tek da dno bude masno. U tijestu već ima maslaca, pa je dovoljan vrlo tanak sloj."
+        },
+        {
+          "level": "h2",
+          "title": "Kako ostaju tople i mekane",
+          "body": "Ispečene palačinke slažite jednu na drugu na topao tanjir i pokrijte ih poklopcem ili folijom. Para koja ostaje između njih drži ih mekim dok ne ispečete ostatak. Nepokrivene palačinke se na rubovima brzo osuše."
+        },
+        {
+          "level": "h2",
+          "title": "Nadjevi",
+          "body": "Za slatke palačinke najčešće se koriste pekmez, džem, čokoladni namaz ili mljeveni orasi sa šećerom. Za slane palačinke dobro idu tanko narezana šunka i rendani tvrdi sir, pa se kratko ugriju u tavi da se sir otopi.\n\nAko želite deblje i manje palačinke s praškom za pecivo, to su [američke palačinke](/recepti/americke-palacinke/). One se peku drugačije i imaju drugačije tijesto."
+        },
+        {
+          "level": "h2",
+          "title": "Ako ih ostane",
+          "body": "Ohlađene palačinke složite s papirom za pečenje između njih, stavite u kesu i zamrznite. Tako ih kasnije možete vaditi jednu po jednu. Odmrznute ugrijte kratko u tavi.\n\nRecept se lako prepolovi ako vam treba šest palačinki."
+        }
+      ]
     },
     {
       "planId": "SNK-0409",
@@ -690,7 +727,7 @@
         "pileća supa s rezancima i povrćem",
         "supa od cijelog pileta"
       ],
-      "summary": "Pileća supa od cijelog pileta, s temeljcem koji se kuha sat i po, povrćem i rezancima. Od jednog pileta dobijete supu za šest porcija i još pola skuhanog mesa za drugo jelo.",
+      "summary": "Domaća pileća supa s rezancima od cijelog pileta: temeljac se kuha sat i po, povrće se pirja posebno, a rezanci idu na kraju. Supa ostaje bistra, a pola mesa ostaje za drugo jelo.",
       "beforeYouStart": "Temeljac traži oko sat i po laganog kuhanja, pa ga možete skuhati i dan ranije. Pile treba imati najmanje 1,5 kg da temeljac bude dovoljno jak.",
       "primaryCategory": "supe-i-corbe",
       "tags": [
@@ -953,17 +990,9 @@
           ]
         }
       ],
-      "tips": [
-        "Supa ostaje bistra ako temeljac kuhate jedva primjetno i ako rezance miješate što manje. Jako ključanje i miješanje oslobađaju skrob i mute supu.",
-        "Ako je pile manje od 1,5 kg, ne dodajte više vode, nego malo više začina za supu. Više vode samo razblaži okus.",
-        "Povrće iz temeljca je nakon sat i po vrlo mekano. Ako ga ne želite baciti, mrkvu i celer sitno isjecite i vratite u supu."
-      ],
-      "substitutions": [
-        "Umjesto cijelog pileta možete koristiti batake ili zabatke s kosti i kožom.",
-        "Umjesto začina za supu može ista količina pilećeg ili povrtnog začina, ili 1 izmrvljena kocka za supu na svaku kašičicu.",
-        "Bilo koja tjestenina može umjesto rezanaca. Najlakše se jedu kraći oblici, a dugu tjesteninu prelomite na 3–4 dijela."
-      ],
-      "storage": "Rezance i povrće čuvajte odvojeno od supe, jer rezanci upijaju tečnost i omekšaju. Supa stoji u frižideru 3–4 dana, a sam temeljac se može zamrznuti i čuvati nekoliko mjeseci. Ako temeljac ohladite nekoliko sati u frižideru, masnoća se stegne na površini i lako se skine.",
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
       "faq": [
         {
           "question": "Mogu li temeljac skuhati u sporom kuhalu?",
@@ -981,7 +1010,50 @@
         "description": "Domaća pileća supa od cijelog pileta: temeljac se kuha sat i po, a zatim se dodaju povrće i rezanci. Šest porcija i ostatak mesa. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "RecipeTin Eats – Homemade Chicken Noodle Soup (from scratch): https://www.recipetineats.com/homemade-chicken-noodle-soup-from-scratch/. Odabrana verzija: pileća supa od cijelog pileta s povrćem i rezancima; temeljac se kuha od pileta, nije brza verzija s kockom (plan SNK-0409). Šolja = 250 ml (australijske mjere). Izvor navodi 9–10 šolja vode i u napomeni oko 2,25 l. Plan uz ovaj recept pogrešno predlaže oznaku „Leća“, pa nije dodijeljena."
+      "sourceNote": "RecipeTin Eats – Homemade Chicken Noodle Soup (from scratch): https://www.recipetineats.com/homemade-chicken-noodle-soup-from-scratch/. Odabrana verzija: pileća supa od cijelog pileta s povrćem i rezancima; temeljac se kuha od pileta, nije brza verzija s kockom (plan SNK-0409). Šolja = 250 ml (australijske mjere). Izvor navodi 9–10 šolja vode i u napomeni oko 2,25 l. Plan uz ovaj recept pogrešno predlaže oznaku „Leća“, pa nije dodijeljena.",
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Domaća pileća supa s rezancima se pravi u dva dijela. Prvo se od cijelog pileta, povrća i začina sat i po kuha temeljac, a zatim se od njega pravi sama supa, sa svježim povrćem, mesom i rezancima. Tako svaki dio radi svoj posao: kuhanje pileta daje okus, a povrće i rezanci koji se dodaju na kraju daju teksturu.\n\nKvalitet supe zavisi uglavnom od temeljca: kakvo je pile, koliko vode ide u lonac i kako ključa."
+        },
+        {
+          "level": "h2",
+          "title": "Pile od najmanje 1,5 kg i ne previše vode",
+          "body": "Recept je računat za pile od oko 1,8 kg. Pile manje od 1,5 kg daje slabiji temeljac, a to se ne popravlja većom količinom vode, nego obrnuto: voda samo razblaži okus. Ako je pile manje, vode stavite toliko da ga tek prekrije, a na kraju supu pojačajte s malo više začina za supu.\n\nUmjesto cijelog pileta mogu bataci ili zabatci s kosti i kožom. Važno je da meso ima kosti, jer one temeljcu daju punoću."
+        },
+        {
+          "level": "h2",
+          "title": "Temeljac treba jedva ključati",
+          "body": "Kad temeljac jednom provri, vatru smanjite toliko da se površina tek pomjera. Kod burnog ključanja masnoća i sitni komadići mesa se izmiješaju s tečnošću, pa supa postane mutna i masna.\n\nU prvih pola sata na površini se skupi siva pjena. Skinite je kašikom jednom ili dvaput; kasnije je gotovo nema."
+        },
+        {
+          "level": "h3",
+          "title": "Zašto se povrće iz temeljca baca",
+          "body": "Nakon sat i po kuhanja mrkva, celer i luk iz temeljca su predali okus i postali vrlo mekani. Zato se za supu pirja svježe povrće, koje ostaje čvrsto i slatkasto. Ako ipak ne želite bacati kuhano povrće, sitno ga isjecite i vratite u supu."
+        },
+        {
+          "level": "h3",
+          "title": "Masnoća s površine",
+          "body": "Ako temeljac skuhate dan ranije i ostavite ga preko noći u frižideru, masnoća se stegne u sloj na površini i lako se skine kašikom. Tako dobijete lakšu supu, a temeljac je spreman za drugi dan."
+        },
+        {
+          "level": "h2",
+          "title": "Kako ostaje bistra do tanjira",
+          "body": "Dvije stvari najčešće pokvare bistru supu na samom kraju.\n\nPrva je talog: kad prelivate temeljac u lonac sa povrćem, lijte polako i ostavite posljednji dio s dna lonca. U njemu su sitni komadići koji bi zamutili supu.\n\nDruga su rezanci. Dok se kuhaju, puštaju skrob, a svako miješanje ga razvuče kroz supu. Zato ih promiješajte samo jednom ili dvaput, a kuhajte ih dvije minute kraće nego što piše na pakovanju: dovrše se u vrućoj supi dok je sipate."
+        },
+        {
+          "level": "h2",
+          "title": "Rezanci i začin za supu",
+          "body": "Za ovu supu odgovaraju jajčani rezanci, ali može i bilo koja tjestenina. Najlakše se jedu kraći, širi i uvijeni oblici. Dugu tjesteninu, poput fetućina, prije kuhanja prelomite na tri-četiri dijela.\n\nZačin za supu dodaje se tek u gotovu supu, a ne u temeljac, jer se tek tada vidi koliko je temeljac jak. Krenite s 2 kašičice, probajte, pa po potrebi dodajte još. Umjesto praha može se koristiti izmrvljena kocka za supu, jedna na svaku kašičicu praha. So dodajte na samom kraju, jer i začin za supu sadrži so."
+        },
+        {
+          "level": "h2",
+          "title": "Kad supu ne jedete odmah",
+          "body": "Rezanci u supi stalno upijaju tečnost, pa sutradan od supe ostane gusta kaša. Ako znate da će supe ostati, rezance i povrće čuvajte odvojeno i dodajte ih tek kad podgrijete supu. Tako supa stoji u frižideru 3–4 dana, a sam temeljac se može zamrznuti i čuvati mjesecima."
+        }
+      ]
     },
     {
       "planId": "SNK-0399",
@@ -992,8 +1064,8 @@
         "mediteranska piletina iz rerne",
         "pečena piletina s krompirom"
       ],
-      "summary": "Pečena piletina s krompirom, crvenim lukom i cherry paradajzom u jednoj tepsiji. Bataci i zabatci se prvo peku u umaku od limuna, bijelog luka i origana, a cherry paradajz se dodaje na pola pečenja.",
-      "beforeYouStart": "Koristite komade piletine s kosti i kožom, a ne file. Ako imate vremena, piletinu ostavite u marinadi u frižideru do 24 sata. Bez toga recept takođe uspijeva, jer umaka ima dovoljno.",
+      "summary": "Pečena piletina s krompirom, crvenim lukom i cherry paradajzom u jednoj tepsiji, u umaku od limuna, bijelog luka i origana. Koža se zapeče, a krompir upije umak ispod mesa.",
+      "beforeYouStart": "Piletinu možete marinirati u frižideru do 24 sata unaprijed. Ako nemate vremena, odmah nastavite.",
       "primaryCategory": "jela-s-mesom",
       "tags": [
         "piletina",
@@ -1221,37 +1293,47 @@
         {
           "level": "h2",
           "title": null,
-          "body": "Pečena piletina s krompirom iz jedne tepsije zvuči kao jelo u kojem se ne može pogriješiti, ali dva problema su česta: suha piletina i tepsija bez umaka. U ovom receptu piletina se peče u tečnosti od limunovog soka, temeljca, bijelog luka i origana, pa se umak stvara u samoj tepsiji dok se meso i krompir peku.\n\nRecept je jednostavan, ali tri odluke prave razliku: koji dijelovi piletine, kolika tepsija i kada dodati paradajz."
+          "body": "Pečena piletina s krompirom iz rerne je jelo kojem treba malo rada, a skoro sve se dešava u jednoj tepsiji. Komadi piletine leže na krompiru i crvenom luku, a ispod njih je umak od limunovog soka, bijelog luka, meda i pilećeg temeljca. Dok se meso peče, krompir se kuha u tom umaku i upija ga, a koža piletine na vrhu ostaje izložena vrelom zraku i dobija boju.\n\nDa bi to uspjelo, važna su tri izbora: koji komadi piletine, kakva tepsija i kada ide paradajz."
         },
         {
           "level": "h2",
-          "title": "Bataci i zabatci s kosti, a ne file",
-          "body": "Komadi s kosti i kožom podnose skoro sat u rerni i ostanu sočni. Koža štiti meso odozgo i na kraju postane zlatna i hrskava, a kost usporava prodiranje toplote, pa se meso ne prepeče prije nego što krompir omekša.\n\nZabatke bez kosti i kože možete koristiti, ali ih dodajte tek nakon prvih 20 minuta pečenja, inače će se isušiti. Pileća prsa se u ovom jelu lako isuše, pa ih izvorni recept ne preporučuje. Ako ih ipak koristite, neka se peku samo posljednjih 20 minuta."
+          "title": "Komadi s kosti i kožom, a ne file",
+          "body": "Recept je računat za batake i zabatke s kosti i kožom. Oni podnose 55 minuta u rerni: kost usporava pečenje oko sebe, a koža štiti meso odozgo, pa ostaje sočno i kad je krompir potpuno gotov.\n\nFile bez kosti za to vrijeme se prepeče. Ako ipak koristite zabatke bez kosti i kože, stavite ih u tepsiju tek nakon prvih 20 minuta, kad krompir već dobije prednost. Pileća prsa se ne preporučuju, jer se brzo isuše. Ako nemate drugo, ona idu samo u posljednjih 20 minuta pečenja."
         },
         {
           "level": "h2",
-          "title": "Kad je tepsija prevelika",
-          "body": "Ovo je najčešći razlog zašto na kraju ostane malo umaka. U širokoj tepsiji tečnost se razlije u tanak sloj i ispari dok se piletina peče, pa se krompir na dnu počne lijepiti umjesto da se kuha u umaku.\n\nIzaberite tepsiju u koju krompir, luk i piletina stanu tijesno, u jednom sloju, jedno do drugog. Ne treba ih slagati jedno na drugo, ali ne smije biti ni većih praznih površina po dnu."
+          "title": "Tepsija treba biti tijesna",
+          "body": "Krompir, luk i piletina treba da stoje u jednom sloju, jedno uz drugo. U preširokoj tepsiji tečnost se razlije u tanak sloj i brzo ispari, pa na kraju krompir ostane suh, a umaka gotovo nema.\n\nZato je i redoslijed važan: krompir i luk idu na dno, piletina na njih, a temeljac i marinada se prelivaju preko svega. Meso tako ne leži u tečnosti nego iznad nje, a koža se zapeče umjesto da se kuha."
         },
         {
           "level": "h2",
-          "title": "Zašto paradajz ide tek na pola pečenja",
-          "body": "Cherry paradajz se peče mnogo brže od piletine i krompira. Dodan na početku, potpuno bi se raspao i izgubio oblik. Kad ga dodate nakon prvog pečenja, omekša i pusti dio soka u umak, a ostane cio.\n\nTada se jelo i dodatno začini solju, biberom i kapljicom maslinovog ulja, jer su paradajz i krompir na vrhu još neposoljeni."
+          "title": "Zašto se cherry paradajz dodaje tek na pola pečenja",
+          "body": "Cijeli cherry paradajzi koji se peku 55 minuta potpuno se raspadnu i nestanu u umaku. Kad ih rasporedite tek nakon prvih 20 minuta, ostaju u komadu, malo popucaju i puste sok taman da osvježi umak pred kraj. Tada se dodaju i kašika maslinovog ulja, so i biber, pa se ono što je na vrhu dodatno zapeče."
         },
         {
           "level": "h2",
-          "title": "Krompir i piletina trebaju biti gotovi zajedno",
-          "body": "Brašnasti krompir isječen na komade od oko 2,5 cm ispeče se za isto vrijeme kao bataci. Mladi ili voštani krompir je čvršći i treba mu duže, pa ga pecite sam 20 minuta prije nego što dodate piletinu i ostale sastojke.\n\nKrompir je gotov kad ga viljuška probode bez otpora. Piletina je gotova kad je koža zlatna, a meso uz kost više nije ružičasto. Ako niste sigurni, zarežite najdeblji batak do kosti: sok koji izađe treba biti bistar."
+          "title": "Koji krompir uzeti",
+          "body": "Brašnasti krompir se ispeče za isto vrijeme kao piletina, pa sve može u tepsiju odjednom. Mladi ili voštani krompir je čvršći i treba mu više vremena: takav krompir pecite sam 20 minuta, pa tek onda dodajte luk, piletinu i umak."
         },
         {
           "level": "h2",
-          "title": "Marinada: dan ranije ili odmah",
-          "body": "Piletinu možete ostaviti u marinadi u frižideru do 24 sata, pa sutradan samo složiti tepsiju i staviti je u rernu. Ako nemate vremena, nastavite odmah: umaka ima dovoljno da piletina dobije okus i bez marinade preko noći.\n\nDijon senf malo zgusne umak i doda mu dubinu, ali jelo uspijeva i bez njega. Med se može zamijeniti s jednom kašikom šećera. Origano je osnovni začin, a umjesto njega se mogu staviti ruzmarin ili majčina dušica."
+          "title": "Marinada pomaže, ali nije uslov",
+          "body": "Ako stignete, piletinu ostavite u marinadi u frižideru do 24 sata. Okus limuna, bijelog luka i origana tada prodre dublje u meso. Ako nemate vremena, recept uspijeva i bez toga, jer umaka u tepsiji ima dovoljno.\n\nSenf je dodatak koji malo zgusne umak, ali nije neophodan. Med ublažava kiselost limuna; umjesto njega može kašika šećera."
         },
         {
           "level": "h2",
-          "title": "Drugo povrće u istoj tepsiji",
-          "body": "Uz krompir se mogu peći tikvice, bundeva, batat ili klip kukuruza. Pazite da tepsija i dalje bude ispunjena u jednom sloju, a ne prepuna, jer povrće u previše slojeva pušta vodu i kuha se umjesto da se peče.\n\nUmak s dna tepsije je dio jela, pa ga prelijte preko piletine i krompira pri posluživanju."
+          "title": "Obična rerna ili ventilator",
+          "body": "Temperatura u receptu je 200 °C za rernu s grijačima gore i dole. U rerni s ventilatorom postavite 180 °C, jer topli zrak koji kruži peče jače i brže suši površinu. Na 200 °C s ventilatorom koža bi potamnila prije nego što krompir ispod omekša, a umak bi brže ispario.\n\nAko vam rerna inače peče jače od drugih, provjerite tepsiju nekoliko minuta ranije. Vrijeme se uvijek procjenjuje po krompiru i mesu, a ne samo po satu."
+        },
+        {
+          "level": "h2",
+          "title": "Kako znati da je gotovo",
+          "body": "- Koža je zlatnosmeđa, a na rubovima hrskava.\n- Krompir se probode viljuškom bez otpora.\n- Uz kost meso više nije ružičasto, a sok koji curi je bistar. Ako imate termometar, u najdebljem dijelu treba pokazati najmanje 74 °C."
+        },
+        {
+          "level": "h2",
+          "title": "Drugo povrće i drugi začini",
+          "body": "Dio krompira možete zamijeniti povrćem kojem treba slično vrijeme u rerni: bundevom, batatom ili komadima kukuruza. Tikvica brže omekša, pa je isijecite krupnije od krompira. Ruzmarin ili majčina dušica mogu umjesto origana, a malo kumina i korijandera daje umaku topliji, istočnjački okus.\n\nJelo se služi iz iste tepsije, a umak s dna je najbolji uz komad hljeba i laganu salatu."
         }
       ]
     },

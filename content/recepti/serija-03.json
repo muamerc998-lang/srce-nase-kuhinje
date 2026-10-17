@@ -704,22 +704,10 @@
           ]
         }
       ],
-      "tips": [
-        "Nadjev stavljajte u manjim komadićima, a ne u ravnom sloju. Tako se meso ravnomjerno ispeče i ne pravi zbijenu ploču između kora.",
-        "Ako je gornja kora previše potamnila, možete je nakon pečenja skinuti i tek onda premazati burek maslacem.",
-        "Kore ne natapajte premazom: lagan premaz daje hrskave slojeve, a previše masnoće ih razmekša."
-      ],
-      "substitutions": [
-        "Umjesto junetine izvor dopušta teletinu, janjetinu ili mješavinu mesa.",
-        "U nadjev se po želji može dodati sitno sjeckana mrkva ili krompir, ali osnovni recept ih nema."
-      ],
-      "storage": "Ostatak bureka čuvajte u komadu, ne izrezan. Pokriven kuhinjskom krpom može stajati u ugašenoj rerni do jednog dana, a u frižideru do 3 dana. Jede se podgrijan ili hladan.",
-      "faq": [
-        {
-          "question": "Zašto se kore premazuju maslacem s mineralnom vodom?",
-          "answer": "Voda razrijedi masnoću, pa se svaka kora premaže tanko i ravnomjerno. Burek je zato hrskav, a ne mastan."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [
         "sirnica"
       ],
@@ -732,7 +720,40 @@
         "description": "Slagani burek od gotovih kora i mljevene junetine, pečen na 250 pa 200 °C, s premazom od maslaca i mineralne vode. Hrskav i sočan. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "Balkan Lunch Box – Layered Burek / Ground beef phyllo pie: https://balkanlunchbox.com/ground-beef-phyllo-pie/. Odabrana verzija: slagani burek s junetinom i gotovim korama, bez opcionalnog krompira i mrkve, s premazom i dva režima pečenja (plan SNK-0307). Izvor daje američke mjere: 16 oz ≈ 450 g, 1 oz ≈ 28 g, 3,5 oz ≈ 100 ml; 480 °F = 250 °C, 390 °F = 200 °C; tepsija 12 inča = 30 cm. Izvor u popisu navodi 1 kašičicu ulja, a u postupku 1 kašiku; upisana je kašika iz postupka. Vrijeme pečenja je zbir oba režima (gornja granica 40 min), plus 15 min odmaranja."
+      "sourceNote": "Balkan Lunch Box – Layered Burek / Ground beef phyllo pie: https://balkanlunchbox.com/ground-beef-phyllo-pie/. Odabrana verzija: slagani burek s junetinom i gotovim korama, bez opcionalnog krompira i mrkve, s premazom i dva režima pečenja (plan SNK-0307). Izvor daje američke mjere: 16 oz ≈ 450 g, 1 oz ≈ 28 g, 3,5 oz ≈ 100 ml; 480 °F = 250 °C, 390 °F = 200 °C; tepsija 12 inča = 30 cm. Izvor u popisu navodi 1 kašičicu ulja, a u postupku 1 kašiku; upisana je kašika iz postupka. Vrijeme pečenja je zbir oba režima (gornja granica 40 min), plus 15 min odmaranja.",
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Ovo je slagani burek od gotovih kora. Meso se ne zavija u rolu kao kod bureka od razvučenog tijesta, nego se rasporedi između slojeva kora u okrugloj tepsiji. Za njega ne treba vještina razvlačenja, a ipak daje hrskave slojeve i sočan nadjev.\n\nU Bosni i Hercegovini burek je uvijek s mesom. Pita s drugim nadjevom ima svoje ime, poput [sirnice](/recepti/sirnica/) ili [zeljanice](/recepti/zeljanica/)."
+        },
+        {
+          "level": "h2",
+          "title": "Maslac razrijeđen mineralnom vodom",
+          "body": "Kore se ne premazuju samim maslacem, nego maslacem otopljenim u mineralnoj vodi. Voda razrijedi masnoću, pa se svaka kora premaže tanko i ravnomjerno, a ukupno ide manje masnoće. Burek je zato hrskav, a ne mastan.\n\nKist samo prevucite preko kore. Kore natopljene premazom omekšaju i slijepe se u tijesto."
+        },
+        {
+          "level": "h2",
+          "title": "Meso u komadićima, ne u ploči",
+          "body": "Sirovi nadjev rasporedite po kori u manjim komadićima, a ne kao ravan sloj. Tako se meso ravnomjerno ispeče, a između kora ne nastane zbijena mesna ploča. Luk u nadjevu treba biti sitno sjeckan. Krupni komadi ne stignu omekšati i razdvajaju slojeve.\n\nOsnovni nadjev je samo meso, luk, so i biber. Začin za supu, aleva paprika ili bijeli luk su po želji. Neki u nadjev dodaju i sitno sjeckan krompir ili mrkvu, ali ovaj recept ih nema."
+        },
+        {
+          "level": "h2",
+          "title": "Zašto dvije temperature",
+          "body": "Burek prvo ide na jaku vatru, 250 °C. Za tih nekoliko minuta kore odozgo i sa strana se brzo stegnu i počnu rumeniti. Zatim se temperatura smanji na 200 °C, da se meso između slojeva ispeče do kraja, a vrh ne izgori.\n\nTepsiju okrenite jednom ili dvaput, jer rijetko koja rerna peče potpuno ravnomjerno. Ako vrh tamni prije nego što je vrijeme pečenja isteklo, pokrijte ga folijom ili papirom za pečenje."
+        },
+        {
+          "level": "h2",
+          "title": "Odmor prije rezanja",
+          "body": "Na kraju se vrh premaže otopljenim maslacem i burek još nekoliko minuta stoji u ugašenoj rerni. Zatim ga ostavite izvan rerne najmanje 15 minuta. Sokovi od mesa se za to vrijeme slegnu u kore, pa se burek reže čisto i ne curi.\n\nAko je gornja kora ipak previše potamnila, možete je skinuti i tek onda premazati burek maslacem."
+        },
+        {
+          "level": "h2",
+          "title": "Ostatak bureka",
+          "body": "Ostatak bureka čuvajte u jednom komadu, ne izrezan, jer se tako manje suši. Pokriven ide u frižider, gdje stoji do 3 dana. Burek s mesom ne treba ostavljati da stoji na sobnoj temperaturi duže od par sati. Jede se podgrijan u rerni ili hladan, uz jogurt ili [rusku salatu](/recepti/ruska-salata/)."
+        }
+      ]
     },
     {
       "planId": "SNK-0364",
@@ -1054,23 +1075,10 @@
           ]
         }
       ],
-      "tips": [
-        "Ragu kuhajte dovoljno dugo: gust, mekan ragu drži slojeve, a rijedak razvodni lazanje i one se raspadnu pri rezanju.",
-        "Smjer listova mijenjajte za 90 stepeni u svakom sloju. Tako se slojevi bolje drže kad režete.",
-        "Sir za bešamel i mocarelu rendajte sami. Kupovni rendani sir sadrži sredstvo protiv sljepljivanja, pa se bešamel teže glatko otopi."
-      ],
-      "substitutions": [
-        "Suhi listovi tipa „bez prethodnog kuhanja“ mogu ići direktno, ali ragu tada mora biti dovoljno sočan da ih omekša. Obične suhe listove prethodno skuhajte u vodi s malo maslinovog ulja.",
-        "Umjesto vina možete koristiti vino bez alkohola ili više goveđeg temeljca.",
-        "Izvor dopušta i kombinaciju 750 g junetine i 250 g svinjetine."
-      ],
-      "storage": "Lazanje stoje u frižideru 3 dana i dobro se zamrzavaju. Zamrznute prvo odmrznite, pa pokrivene folijom podgrijte u rerni na 180 °C ili u mikrovalnoj. Ohlađeni ragu prije slaganja podgrijte uz oko 60 ml vode.",
-      "faq": [
-        {
-          "question": "Mogu li lazanje složiti dan ranije?",
-          "answer": "Mogu. Složene i pokrivene lazanje mogu stajati u frižideru do 24 sata prije pečenja."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [],
       "relatedGuides": [],
       "servedWith": [],
@@ -1079,7 +1087,50 @@
         "description": "Lazanje s raguom od junetine koji se sporo kuha, bešamelom sa sirom i mocarelom. Ragu se može skuhati dan ranije, a peku se 25 minuta. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "RecipeTin Eats – Lasagna: https://www.recipetineats.com/lasagna/. Odabrana verzija: lazanje s junećim raguom i bešamelom, bez ricotte (plan SNK-0364). Šolja = 250 ml (australijske mjere): ¼ šolje koncentrata ≈ 60 ml, 1 šolja vina = 250 ml, 4 šolje mlijeka = 1 l. Količine sira i mocarele ostavljene u šoljama kako ih navodi izvor."
+      "sourceNote": "RecipeTin Eats – Lasagna: https://www.recipetineats.com/lasagna/. Odabrana verzija: lazanje s junećim raguom i bešamelom, bez ricotte (plan SNK-0364). Šolja = 250 ml (australijske mjere): ¼ šolje koncentrata ≈ 60 ml, 1 šolja vina = 250 ml, 4 šolje mlijeka = 1 l. Količine sira i mocarele ostavljene u šoljama kako ih navodi izvor.",
+      "approach": "detaljni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Lazanje s mljevenim mesom i bešamelom su jelo za vikend ili goste: listovi tjestenine, gust ragu od junetine i kremast bešamel sa sirom, zapečeni pod mocarelom. Najviše vremena traži ragu, ali on se uglavnom kuha sam. Aktivnog rada ima oko pola sata, a ostatak je čekanje.\n\nNajbolje je raditi u dva dana: ragu skuhati dan ranije, a lazanje složiti i ispeći sutradan. Tako je i ragu bolji, jer se okusi stignu povezati."
+        },
+        {
+          "level": "h2",
+          "title": "Ragu koji drži slojeve",
+          "body": "Od ragua zavisi da li će se lazanje lijepo rezati ili raspasti na tanjiru."
+        },
+        {
+          "level": "h3",
+          "title": "Povrće se pirja, ne prži",
+          "body": "Crni luk, bijeli luk, mrkva i celer pirjaju se desetak minuta na srednjoj vatri, dok ne omekšaju i postanu slatki. Ne smiju porumeniti. Ta slatkoća je osnova okusa ragua. Zato ih sijecite vrlo sitno, da se rastope u umaku i ne osjećaju se kao komadi."
+        },
+        {
+          "level": "h3",
+          "title": "Dugo kuhanje i gustoća",
+          "body": "Dva i po sata laganog kuhanja čine da meso postane mekano, a vino, paradajz i temeljac se ukuhaju u gust umak. Ragu je gotov kad na kašici stoji, a ne razlijeva se. Rijedak ragu razvodni lazanje i one se nakon pečenja raspadnu.\n\nParadajz iz konzerve se razlikuje po kiselosti. Zato šećer dodajte samo ako ragu na kraju i dalje oštro kiseli. Umjesto vina može vino bez alkohola ili više goveđeg temeljca."
+        },
+        {
+          "level": "h2",
+          "title": "Bešamel bez grudvica",
+          "body": "Bešamel se zgušnjava brašnom koje se kratko prži na maslacu. Grudvice nastaju kad se mlijeko doda naglo. Zato prvo dolijte samo šolju mlijeka i miješajte dok ne dobijete glatku, gustu masu. Ostatak se onda lako umiješa. Toplo mlijeko se brže sjedini i umak se brže zgusne.\n\nBešamel je dovoljno kuhan kad obloži poleđinu drvene kašike. Nakon što umiješate sir, treba biti gust, ali da se još može liti.\n\nSir rendajte sami. Kupovni rendani sir ima sredstvo protiv sljepljivanja, pa se u bešamelu teže glatko otopi. To vrijedi i za mocarelu na vrhu."
+        },
+        {
+          "level": "h2",
+          "title": "Koji listovi",
+          "body": "Možete koristiti svježe ili suhe listove. Suhi listovi s oznakom „bez prethodnog kuhanja“ idu direktno u posudu, ali ragu tada mora biti dovoljno sočan da ih omekša. Obične suhe listove prethodno skuhajte u vodi s malo ulja.\n\nU svakom sloju listove okrenite za 90 stepeni u odnosu na prethodni. Ako su svi okrenuti u istom smjeru, lazanje se pri rezanju lakše razdvajaju po slojevima."
+        },
+        {
+          "level": "h2",
+          "title": "Slaganje i odmor",
+          "body": "Na dno ide tanak sloj ragua, da se listovi ne zalijepe za posudu. Zatim slijede tri sloja listova, ragua i bešamela, a na vrh četvrti sloj listova, ostatak bešamela i mocarela.\n\nPečene lazanje ostavite 5–10 minuta prije rezanja. Bešamel i ragu se za to vrijeme stegnu, pa komadi drže oblik.\n\nSložene lazanje mogu stajati pokrivene u frižideru do 24 sata prije pečenja. Ako u rernu idu hladne, iz frižidera, računajte s nekoliko minuta dužim pečenjem, dok i sredina ne bude vruća."
+        },
+        {
+          "level": "h2",
+          "title": "Čuvanje i zamrzavanje",
+          "body": "Pečene lazanje stoje u frižideru 3 dana i dobro se zamrzavaju, cijele ili u porcijama. Zamrznute prvo odmrznite u frižideru, pa ih pokrivene folijom podgrijte u rerni na 180 °C ili u mikrovalnoj."
+        }
+      ]
     },
     {
       "planId": "SNK-0487",
@@ -1266,23 +1317,10 @@
           ]
         }
       ],
-      "tips": [
-        "Smrznuti špinat pušta previše vode i pita postane vodenasta. Svježi, sitno sjeckani špinat daje bolji okus i suhlji nadjev.",
-        "Manja tepsija daje više slojeva i deblju pitu. Kore možete skratiti ili lagano nabirati da stanu.",
-        "Ako rerna jako grije, pecite cijelo vrijeme na 180 °C i dodajte nekoliko minuta. Ako slabo grije, možete ići do 210 °C, ali ne mnogo više."
-      ],
-      "substitutions": [
-        "Dio špinata možete zamijeniti blitvom ili koprivom.",
-        "Za premaz koristite suncokretovo ulje; maslinovo izvor ne preporučuje.",
-        "Umjesto dvije kore po sloju možete koristiti jednu, presavijenu na pola."
-      ],
-      "storage": "Zeljanica stoji u frižideru do 2 dana. Najbolje je podgrijati je u rerni, oko 10 minuta. Ne zamrzava se.",
-      "faq": [
-        {
-          "question": "Je li zeljanica isto što i grčka spanakopita?",
-          "answer": "Ne. Obje su pite od kora sa špinatom i sirom, ali ova zeljanica ima nadjev s jajima i kiselom pavlakom i preliv od mlijeka i maslaca, pa je drugačije teksture."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [
         "sirnica",
         "burek"
@@ -1294,7 +1332,35 @@
         "description": "Zeljanica od gotovih kora sa svježim špinatom, fetom, rikotom, jajima i kiselom pavlakom, prelivena mlijekom i maslacem. Hrskava i sočna. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "Balkan Lunch Box – Spinach pie (Slagana pita zeljanica): https://balkanlunchbox.com/spinach-pie-phyllo-recipe-slagana-pita-zeljanica/. Odabrana verzija: slagana zeljanica sa svježim špinatom, fetom i rikotom, tepsija oko 27 × 39 cm, dva režima pečenja i preliv; nije grčka spanakopita (plan SNK-0487). Izvor daje američke mjere: 16–18 oz ≈ 450–510 g, 4–5 oz ≈ 115–140 g, 16 oz ≈ 450 g, 1 šolja mlijeka = 240 ml; 450 °F = 230 °C, 400 °F = 200 °C, 355 °F = 180 °C. Ukupno vrijeme uključuje 20 min odmaranja."
+      "sourceNote": "Balkan Lunch Box – Spinach pie (Slagana pita zeljanica): https://balkanlunchbox.com/spinach-pie-phyllo-recipe-slagana-pita-zeljanica/. Odabrana verzija: slagana zeljanica sa svježim špinatom, fetom i rikotom, tepsija oko 27 × 39 cm, dva režima pečenja i preliv; nije grčka spanakopita (plan SNK-0487). Izvor daje američke mjere: 16–18 oz ≈ 450–510 g, 4–5 oz ≈ 115–140 g, 16 oz ≈ 450 g, 1 šolja mlijeka = 240 ml; 450 °F = 230 °C, 400 °F = 200 °C, 355 °F = 180 °C. Ukupno vrijeme uključuje 20 min odmaranja.",
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Zeljanica je pita sa zeljem. U ovom receptu to je svježi špinat, uz fetu, rikotu, jaja i kiselu pavlaku. Slaže se od gotovih kora, kao i [sirnica](/recepti/sirnica/), a na kraju se prelije toplim mlijekom s maslacem.\n\nIako liči na grčku spanakopitu, nije ista pita. Nadjev s jajima i kiselom pavlakom i preliv od mlijeka daju zeljanici mekšu, sočniju teksturu."
+        },
+        {
+          "level": "h2",
+          "title": "Samo svježi špinat",
+          "body": "Za zeljanicu uzmite svježi špinat. Smrznuti pušta mnogo vode i pita postane vodenasta. Svježe listove operite, dobro ih osušite i sitno isjecite. Mokri listovi također unose vodu u nadjev.\n\nŠpinat ide u nadjev sirov. U rerni omekša i pusti taman toliko soka koliko nadjev može upiti.\n\nDio špinata možete zamijeniti blitvom ili mladom koprivom. Koprivu berite i čistite u rukavicama."
+        },
+        {
+          "level": "h2",
+          "title": "Tepsija određuje debljinu pite",
+          "body": "Recept je računat za tepsiju od oko 27 × 39 cm. U manjoj tepsiji pita ima više slojeva i bude deblja. Kore koje su veće od tepsije skratite ili ih lagano nabirajte.\n\nUmjesto dvije kore po sloju možete staviti jednu, presavijenu na pola. Na vrhu treba ostati 3–4 kore, da pita ima hrskav vrh i da nadjev ne iscuri. Za premaz koristite maslac sa suncokretovim uljem. Maslinovo ulje izvor ne preporučuje za ovu pitu."
+        },
+        {
+          "level": "h2",
+          "title": "Kad rerna peče jače ili slabije",
+          "body": "Pita se kratko peče na 230 °C, a zatim na 200 °C. Ako vam rerna inače peče jako, pecite cijelo vrijeme na 180 °C i dodajte nekoliko minuta. Ako peče slabo, možete ići do 210 °C, ali ne mnogo više, jer kore izgore prije nego što se nadjev stegne."
+        },
+        {
+          "level": "h2",
+          "title": "Preliv, odmor i podgrijavanje",
+          "body": "Toplo mlijeko s maslacem na kraju omekša gornje kore. Pitu zatim vratite u ugašenu rernu ili je pokrijte čistom krpom, pa ostavite oko 20 minuta. Nadjev se za to vrijeme stegne i pita se lijepo reže.\n\nZeljanica stoji u frižideru do 2 dana. Najbolje je podgrijati je u rerni, oko 10 minuta. U mikrovalnoj kore omekšaju. Ne zamrzava se."
+        }
+      ]
     },
     {
       "planId": "SNK-0426",
@@ -1517,22 +1583,10 @@
           ]
         }
       ],
-      "tips": [
-        "Meso i riža idu u paprike samo napola gotovi, jer se dovrše u rerni. Potpuno skuhana riža bi se raskuhala i nadjev bi bio kašast.",
-        "Paprike ne punite do pucanja: riža u rerni još nabubri i višak nadjeva bi iscurio.",
-        "Okrugla riža (npr. arborio) zadrži sočnost. Dugozrnata riža u nadjevu ostane suha."
-      ],
-      "substitutions": [
-        "Umjesto začina za supu možete koristiti pola kocke za supu ili samo so po ukusu.",
-        "Umjesto svježeg peršuna 4–6 kašičica suhog."
-      ],
-      "storage": "Punjene paprike stoje u frižideru do 24 sata. Ne zamrzavaju se.",
-      "faq": [
-        {
-          "question": "Koje paprike su najbolje za punjenje?",
-          "answer": "Male babure, veličine manje jabuke. Žute i crvene su slađe, a zelene mogu biti kiselkaste."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [
         "sarma"
       ],
@@ -1545,7 +1599,35 @@
         "description": "Punjene paprike s junetinom i rižom, pečene u rerni u umaku od paradajza. Koje paprike i rižu odabrati i kako ih ne prepuniti. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "Balkan Lunch Box – Baked stuffed peppers (Zapečene filovane paprike): https://balkanlunchbox.com/baked-stuffed-peppers-zapecene-filovane-paprike/. Odabrana verzija: male babure, junetina i riža prethodno djelimično skuhani, pečenje u rerni 60–75 min (plan SNK-0426). Izvor daje američke mjere: 10 oz ≈ 285 g, ½ šolje = 120 ml, 1–1,5 šolja = 240–360 ml, 3,5 oz ≈ 100 g, 2 šolje = 480 ml; 440 °F ≈ 225 °C. NEDOSTAJE: veličina tepsije i količina ulja (izvor ih ne navodi). Ukupno vrijeme računato s gornjom granicom pečenja (20 + 75 min)."
+      "sourceNote": "Balkan Lunch Box – Baked stuffed peppers (Zapečene filovane paprike): https://balkanlunchbox.com/baked-stuffed-peppers-zapecene-filovane-paprike/. Odabrana verzija: male babure, junetina i riža prethodno djelimično skuhani, pečenje u rerni 60–75 min (plan SNK-0426). Izvor daje američke mjere: 10 oz ≈ 285 g, ½ šolje = 120 ml, 1–1,5 šolja = 240–360 ml, 3,5 oz ≈ 100 g, 2 šolje = 480 ml; 440 °F ≈ 225 °C. NEDOSTAJE: veličina tepsije i količina ulja (izvor ih ne navodi). Ukupno vrijeme računato s gornjom granicom pečenja (20 + 75 min).",
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Punjene paprike iz rerne razlikuju se od onih kuhanih u loncu. Peku se u umaku od paradajza, pa vrh nadjeva zapeče, a paprike omekšaju i malo potamne na rubovima. Nadjev je od junetine i riže, koji se prije punjenja tek napola skuhaju.\n\nZa ovaj recept treba devet malih paprika i duboka tepsija."
+        },
+        {
+          "level": "h2",
+          "title": "Male paprike, žute ili crvene",
+          "body": "Najbolje su male babure, veličine manje jabuke. Takva paprika omekša za isto vrijeme za koje se nadjev ispeče. Velike paprike traže više nadjeva i duže pečenje, pa vrh nadjeva može presušiti.\n\nŽute i crvene paprike su zrele i slatke. Zelene su nezrele, pa su gorkastije i manje slatke. Ako možete, birajte paprike koje stoje uspravno, da nadjev ostane unutra."
+        },
+        {
+          "level": "h2",
+          "title": "Meso i riža samo napola gotovi",
+          "body": "Riža u nadjevu u rerni nastavlja upijati tečnost iz paprike i umaka. Zato se kuha samo napola. Potpuno skuhana riža bi se raskuhala i nadjev bi bio kašast. Isto važi za meso: pirja se dok ne promijeni boju, a dovrši se u rerni.\n\nOkrugla riža ostaje sočna i veže nadjev. Dugozrnata u nadjevu ostane suha.\n\nPaprike napunite do vrha, ali ih ne nabijajte. Riža još nabubri, pa višak nadjeva iscuri u umak."
+        },
+        {
+          "level": "h2",
+          "title": "Umak se peče prije paprika",
+          "body": "Paradajz i luk idu u tepsiju i u rernu odmah, dok se ona zagrijava. Za to vrijeme paradajz pusti sok, a luk omekša, pa je umak već gotov kad paprike dođu u tepsiju. Preliv od paradajz pirea i vode zatim čini da paprike peku u umaku i ne zagore. Kašičica šećera ublažava kiselost paradajza."
+        },
+        {
+          "level": "h2",
+          "title": "Kad su gotove",
+          "body": "Pečenje traje sat do sat i četvrt. Povremeno okrenite tepsiju i paprike, da se ravnomjerno ispeku. Gotove su kad su potpuno mekane, a vrh nadjeva zapečen. Ako umak previše ispari prije nego što su paprike gotove, dolijte malo vruće vode.\n\nPoslužite ih tople, s kašikom kisele pavlake, uz hljeb ili [pire krompir](/recepti/pire-krompir/). Ostatak stoji u frižideru do 24 sata. Punjene paprike se ne zamrzavaju, jer paprika nakon odmrzavanja postane vodenasta."
+        }
+      ]
     },
     {
       "planId": "SNK-0320",
@@ -1767,23 +1849,10 @@
           ]
         }
       ],
-      "tips": [
-        "Previše hljeba ili prezle u smjesi čini ćufte mekanim i raspadljivim. Jedna dobro iscijeđena kriška je dovoljna za ovu količinu mesa.",
-        "Ulje mora biti jako vruće prije nego što dodate ćufte, da se odmah zapeku i zadrže sok. U hladnom ulju upijaju masnoću.",
-        "U sosu se ćufte samo kratko kuhaju, jer su već pečene. Dugo kuhanje ih isuši."
-      ],
-      "substitutions": [
-        "Najbolja je mljevena junetina ili teletina. Može i piletina, svinjetina, janjetina ili puretina, ali se okus mijenja.",
-        "Umjesto namočenog hljeba možete koristiti malo prezle.",
-        "Za sos uzmite paradajz pire bez dodanih začina."
-      ],
-      "storage": "Ćufte u sosu stoje u frižideru do 2 dana. Izvor savjetuje da se zamrzavaju sirove: oblikovane i uvaljane u brašno 10 minuta zamrznite razmaknute na pladnju, pa ih prebacite u kese, do 2 mjeseca. Odmrzavaju se u frižideru preko noći, a iz frižidera ih izvadite sat prije prženja.",
-      "faq": [
-        {
-          "question": "Uz šta poslužiti ćufte u sosu?",
-          "answer": "Uz pire krompir, rižu, palentu, tjesteninu ili hljeb kojim se pokupi sos."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [],
       "relatedGuides": [],
       "servedWith": [
@@ -1794,7 +1863,30 @@
         "description": "Juneće ćufte s namočenim hljebom i jajetom, zapečene u tavi i prokuhane u paradajz sosu s alevom paprikom. Gotove za 35 minuta. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "Balkan Lunch Box – Balkan meatballs (Ćuftete, ćufte): https://balkanlunchbox.com/balkan-meatballs-recipe-cuftete-cufte/. Odabrana verzija: juneće ćufte u paradajz sosu, veziva namočeni hljeb i jaje, bez riže; prvo zapečene u tavi, pa kratko u sosu (plan SNK-0320). Izvor daje američke mjere: 10 oz ≈ 285 g, 3,5 oz ≈ 100 ml, 7 oz ≈ 200 g, 1,5 šolja = 360 ml. Senf je po pojašnjenju autorice blagi žuti senf. Broj ćufti izvor ne navodi."
+      "sourceNote": "Balkan Lunch Box – Balkan meatballs (Ćuftete, ćufte): https://balkanlunchbox.com/balkan-meatballs-recipe-cuftete-cufte/. Odabrana verzija: juneće ćufte u paradajz sosu, veziva namočeni hljeb i jaje, bez riže; prvo zapečene u tavi, pa kratko u sosu (plan SNK-0320). Izvor daje američke mjere: 10 oz ≈ 285 g, 3,5 oz ≈ 100 ml, 7 oz ≈ 200 g, 1,5 šolja = 360 ml. Senf je po pojašnjenju autorice blagi žuti senf. Broj ćufti izvor ne navodi.",
+      "approach": "brzi",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Ćufte u paradajz sosu su brz ručak za radni dan: za oko 35 minuta male juneće ćufte se zapeku u tavi i kratko prokuhaju u sosu s alevom paprikom. Sos se pravi u istoj tavi, pa ima i okus mesa."
+        },
+        {
+          "level": "h2",
+          "title": "Smjesa koja drži oblik",
+          "body": "Namočen i iscijeđen hljeb čini ćufte mekim, a jaje ih veže. Jedna kriška je dovoljna za ovu količinu mesa. Previše hljeba ili prezle čini ćufte mekanim i one se raspadaju u sosu. Hljeb treba biti vlažan, ali ne smije curiti.\n\nSmjesu oblikujte vlažnim rukama, pa se neće lijepiti. Ćufte pravite male, da se brzo i ravnomjerno ispeku."
+        },
+        {
+          "level": "h2",
+          "title": "Pržite u vrućem ulju i ne pretrpavajte tavu",
+          "body": "Ulje mora biti jako vruće prije nego što dodate ćufte. Tada se odmah zapeku. Kora daje boju i okus sosu i pomaže da ćufte drže oblik. U hladnom ulju ćufte upiju masnoću i lijepe se za tavu.\n\nPržite ih u dva navrata ako treba. Kad je tava prepuna, ulje se ohladi, a ćufte se više kuhaju u vlastitom soku nego što se zapeku.\n\nU sosu se ćufte kuhaju samo 5–6 minuta, jer su već pečene. Ako ih dugo kuhate, isuše se."
+        },
+        {
+          "level": "h2",
+          "title": "Uz šta i kako čuvati",
+          "body": "Uz ćufte idu [pire krompir](/recepti/pire-krompir/), riža, palenta, tjestenina ili hljeb kojim se pokupi sos. Za sos uzmite paradajz pire bez dodanih začina, da začine dozirate sami.\n\nĆufte u sosu stoje u frižideru do 2 dana. Sirove ćufte možete zamrznuti: oblikovane i uvaljane u brašno zamrznite razmaknute na pladnju, pa ih prebacite u kese. Tako stoje do 2 mjeseca. Odmrzavaju se u frižideru preko noći."
+        }
+      ]
     },
     {
       "planId": "SNK-0299",
@@ -2032,23 +2124,10 @@
           ]
         }
       ],
-      "tips": [
-        "Žumanjak i brašno uvijek prvo izmutite s malo toplog temeljca, pa tek onda ulijte u čorbu, uz snažno miješanje. Ako ih dodate direktno, žumanjak se zgruša u pahuljice.",
-        "Krompir za čorbu treba biti brašnast: on se izmiksa u gustu, kremastu osnovu. Mladi krompir ostane ljepljiv.",
-        "Suha bamija se kuha duže i daje hrskaviju teksturu od svježe. Zato ide u lonac ranije, zajedno s krompirom."
-      ],
-      "substitutions": [
-        "Umjesto limunovog soka za bamiju možete koristiti 4–5 kašika sirćeta.",
-        "Ako nemate začin za supu, koristite običnu so po ukusu.",
-        "Ako preskočite miksanje povrća, krompir vam ne treba; čorba je tada rjeđa i zgušnjava se samo brašnom i žumanjkom."
-      ],
-      "storage": "Čorba stoji u zatvorenoj posudi u frižideru do 48 sati. Podgrijavajte je lagano na šporetu i dolijte malo tople vode ako se zgusnula. Podgrijte samo onoliko koliko ćete pojesti.",
-      "faq": [
-        {
-          "question": "Kako se bamiji skida ljepljivost?",
-          "answer": "Potopite je na 30 minuta u kipuću vodu s limunovim sokom ili sirćetom, ili je 15 minuta lagano kuhajte u limunovom soku ili sirćetu, pa ocijedite."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [
         "pileca-supa"
       ],
@@ -2059,7 +2138,40 @@
         "description": "Begova čorba s piletinom, bamijom, povrćem i pasiranim krompirom, zgusnuta brašnom i žumanjkom. Kako skinuti ljepljivost bamiji. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "Balkan Lunch Box – Bey's Soup (Begova čorba), traditional version: https://balkanlunchbox.com/beys-soup-traditional-version/. Odabrana verzija: piletina, bamija i povrće, krompir koji se dijelom pasira, glavno zgušnjavanje brašnom i žumanjkom bez alternativnih zaprški (plan SNK-0299). Izvor daje američke mjere: 2 oz ≈ 55 g, 1–3 oz ≈ 30–85 g; suha bamija 50–100 g i 2 l vode su iz izvora. Za začin izvor navodi 1–2 kašike praha za supu ili 2 kašičice Vegete; upisane su 2 kašičice."
+      "sourceNote": "Balkan Lunch Box – Bey's Soup (Begova čorba), traditional version: https://balkanlunchbox.com/beys-soup-traditional-version/. Odabrana verzija: piletina, bamija i povrće, krompir koji se dijelom pasira, glavno zgušnjavanje brašnom i žumanjkom bez alternativnih zaprški (plan SNK-0299). Izvor daje američke mjere: 2 oz ≈ 55 g, 1–3 oz ≈ 30–85 g; suha bamija 50–100 g i 2 l vode su iz izvora. Za začin izvor navodi 1–2 kašike praha za supu ili 2 kašičice Vegete; upisane su 2 kašičice.",
+      "approach": "tradicionalni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Begova čorba je gusta pileća čorba s bamijom i povrćem, jedno od poznatih jela bosanske kuhinje. Za razliku od bistre [pileće supe](/recepti/pileca-supa/), ona je kremasta i neprozirna. Zgušnjava se pasiranim povrćem, a na kraju brašnom i žumanjkom.\n\nPoslužuje se topla, s kriškom limuna ili kašikom kisele pavlake."
+        },
+        {
+          "level": "h2",
+          "title": "Šta je čini begovom",
+          "body": "Prepoznaju je bamija, piletina i kremasta tekstura. Bamija je sastojak koji je razlikuje od ostalih pilećih čorbi. U domaćim izvedbama najviše se razlikuje način zgušnjavanja: neki prave zapršku od maslaca i brašna, neki dodaju kiselu pavlaku. Ova verzija koristi pasirani krompir i povrće, a zatim brašno i žumanjak."
+        },
+        {
+          "level": "h2",
+          "title": "Kako bamija ne bude ljepljiva",
+          "body": "Bamija pušta ljepljiv sok, koji bi čorbu učinio sluzavom. Zato se prije kuhanja potopi na 30 minuta u kipuću vodu s limunovim sokom, pa se ocijedi. Umjesto limuna može 4–5 kašika sirćeta.\n\nSuha bamija se prodaje nanizana na konac. Skinite je s konca i dodajte u lonac ranije, zajedno s krompirom, jer joj treba više vremena da omekša. Svježa ili smrznuta bamija ide pred kraj."
+        },
+        {
+          "level": "h2",
+          "title": "Piletina s kosti",
+          "body": "Za temeljac uzmite batak i zabatak ili deblja pileća prsa. Kosti daju čorbi punoću, a na bataku i zabatku ima dovoljno mesa za čorbu. Krilca nisu dobra, jer na njima ima malo mesa."
+        },
+        {
+          "level": "h2",
+          "title": "Krompir kao zgušnjivač",
+          "body": "Brašnasti krompir se skuha u temeljcu i izmiksa s celerom i mrkvom. Ta kremasta osnova daje čorbi gustoću. Ako smjesa nakon miksanja postane ljepljiva, procijedite je u čorbu.\n\nAko preskočite miksanje, krompir vam ne treba. Čorba je tada rjeđa i zgušnjava se samo brašnom i žumanjkom."
+        },
+        {
+          "level": "h2",
+          "title": "Žumanjak se ne sipa direktno u lonac",
+          "body": "Žumanjak koji padne u vruću čorbu odmah se zgruša u pahuljice. Zato ga prvo izmutite s brašnom i šoljom toplog temeljca u potpuno glatku smjesu. Tako se žumanjak polako zagrije. Zatim smjesu ulijte u čorbu uz snažno miješanje. Ako se ipak pojave grudvice, procijedite čorbu.\n\nNakon što dodate žumanjak, čorba više ne treba burno ključati.\n\nBegova čorba stoji u zatvorenoj posudi u frižideru do 48 sati. Podgrijte samo onoliko koliko ćete pojesti, lagano i na šporetu. Ako se zgusnula, dolijte malo tople vode."
+        }
+      ]
     },
     {
       "planId": "SNK-0005",
@@ -2247,23 +2359,10 @@
           ]
         }
       ],
-      "tips": [
-        "Agda mora biti hladna, a baklava vruća. Tako kore upiju sirup, a ostanu hrskave; topla agda na toploj baklavi je razmekša.",
-        "Baklavu uvijek režite prije pečenja. Pečene kore se lome i rezovi ne bi bili čisti.",
-        "Orasi trebaju biti što svježiji. Užegli orasi daju gorak okus koji agda ne prikrije.",
-        "Imajte koju koru viška, jer se tanke kore lako pocijepaju pri slaganju."
-      ],
-      "substitutions": [
-        "Okrugla tepsija je preporučena, ali može i kvadratna slične veličine.",
-        "Umjesto ekstrakta vanilije pola kašike tečne vanilije."
-      ],
-      "storage": "Baklava stoji na sobnoj temperaturi do sedmicu dana, a u frižideru 2–3 sedmice, u zatvorenoj posudi. Može se zamrznuti nakon što je preko noći upila agdu: slojeve odvojite papirom za pečenje i prelijte s malo agde. Odmrzava se preko noći na sobnoj temperaturi.",
-      "faq": [
-        {
-          "question": "Kako znati da je baklava pečena?",
-          "answer": "Kad je vrh zlatnosmeđ i baklava se lagano pomjera u tepsiji kad je protresete. Možete viljuškom podići jedan komad i provjeriti je li i dno zlatno."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [
         "tufahije"
       ],
@@ -2274,7 +2373,50 @@
         "description": "Bosanska baklava od tankih kora i mljevenih oraha, rezana prije pečenja i zalivena hladnom agdom s limunom. Zašto hladna agda i kako znati da je pečena."
       },
       "facebook": {},
-      "sourceNote": "Balkan Lunch Box – Balkan (Bosnian) Baklava: https://balkanlunchbox.com/balkan-bosnian-baklava-recipe/. Odabrana verzija: bosanska baklava s orasima i agdom, izvorni omjer kora, oraha, masnoće i agde, bez meda i cimeta (plan SNK-0005). Izvor daje američke mjere (šolja 240 ml): 5 šolja šećera ≈ 1 kg, 3,3 šolje vode ≈ 790 ml, 1,25 šolja maslaca ≈ 285 g, 1,5 šolja šećera ≈ 300 g; orasi ostavljeni u šoljama jer se masa mljevenih oraha razlikuje. 300 °F ≈ 150 °C, 265 °F ≈ 130 °C. Broj komada (80–85) je iz napomena izvora. NEDOSTAJE: veličina tepsije (izvor je ne navodi) i tačno vrijeme odležavanja (nekoliko sati ili preko noći), pa ono nije uračunato u ukupno vrijeme."
+      "sourceNote": "Balkan Lunch Box – Balkan (Bosnian) Baklava: https://balkanlunchbox.com/balkan-bosnian-baklava-recipe/. Odabrana verzija: bosanska baklava s orasima i agdom, izvorni omjer kora, oraha, masnoće i agde, bez meda i cimeta (plan SNK-0005). Izvor daje američke mjere (šolja 240 ml): 5 šolja šećera ≈ 1 kg, 3,3 šolje vode ≈ 790 ml, 1,25 šolja maslaca ≈ 285 g, 1,5 šolja šećera ≈ 300 g; orasi ostavljeni u šoljama jer se masa mljevenih oraha razlikuje. 300 °F ≈ 150 °C, 265 °F ≈ 130 °C. Broj komada (80–85) je iz napomena izvora. NEDOSTAJE: veličina tepsije (izvor je ne navodi) i tačno vrijeme odležavanja (nekoliko sati ili preko noći), pa ono nije uračunato u ukupno vrijeme.",
+      "approach": "detaljni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Bosanska baklava s orasima pravi se od tankih kora, mljevenih oraha sa šećerom i agde, šećernog sirupa s limunom. Izgleda zahtjevno, ali nijedan korak nije težak. Traži pažnju na nekoliko mjesta i dosta strpljenja: dva sata pečenja i najmanje nekoliko sati da upije agdu.\n\nOva količina daje oko 80 komada. Zato se baklava pravi za praznike i goste, i to dan ranije."
+        },
+        {
+          "level": "h2",
+          "title": "Agda ide prva i mora biti hladna",
+          "body": "Agdu skuhajte prije svega ostalog, jer na baklavu ide potpuno ohlađena. Pravilo je jednostavno: jedno vruće, drugo hladno. Kad se hladna agda prelije preko vruće baklave, kore je upiju, a ostanu hrskave. Topla agda na toploj baklavi je razmekša i baklava postane gnjecava.\n\nLimun nije samo zbog okusa. Kiselina sprečava da se šećer u agdi kasnije kristalizira, pa agda ostaje bistra i tečna."
+        },
+        {
+          "level": "h2",
+          "title": "Orasi za nadjev",
+          "body": "Orasi moraju biti svježi. Užegli orasi daju gorak okus koji ni agda ne prikrije, pa ih probajte prije mljevenja.\n\nPolovina oraha se samelje u brašno, a polovina se sitno isjecka. Fino mljeveni orasi sa šećerom vežu nadjev, a krupniji komadići daju mu strukturu. Izvor orahe mjeri šoljama od 240 ml, jer masa mljevenih oraha mnogo zavisi od toga koliko su sitni. Zato ih nismo preračunali u grame."
+        },
+        {
+          "level": "h2",
+          "title": "Slaganje kora",
+          "body": "Kore odmotajte i izrežite ih po obliku tepsije. Okrugla tepsija je preporučena, ali može i kvadratna slične veličine. Kore se na zraku brzo suše i lome, pa ih pokrijte čistom krpom dok radite. Imajte i koju koru viška, jer se tanke kore lako pocijepaju.\n\nNa dno idu 6 kora, svaka premazana maslacem s uljem. Između slojeva nadjeva idu po 2 kore, a na vrh 3–4. Ukupno se dobije desetak slojeva nadjeva. Svaku koru premažite, i one na dnu i one na vrhu. Nepremazane kore se ne zapeku i ostanu kao papir."
+        },
+        {
+          "level": "h2",
+          "title": "Režite prije pečenja",
+          "body": "Baklava se reže sirova. Pečene kore su krhke i lome se pod nožem, pa rezovi ne bi bili čisti, a vrh bi se izmrvio.\n\nOštrim nožem prvo izrežite uzdužne trake široke oko 4 cm, pa okrenite tepsiju za 45 stepeni i režite ponovo. Tako dobijete rombove. Režite do samog dna. Rezovi su i kanali kroz koje agda kasnije uđe u svaki komad."
+        },
+        {
+          "level": "h2",
+          "title": "Dugo pečenje na niskoj temperaturi",
+          "body": "Baklava se peče prvo 15 minuta na 150 °C, dok vrh ne porumeni, a zatim 90–120 minuta na 130 °C. Na niskoj temperaturi toplota stigne kroz sve slojeve, pa su i donje kore hrskave i zlatne, a vrh ne izgori.\n\nBaklava je gotova kad je zlatnosmeđa i kad se lagano pomjera u tepsiji kad je protresete. Za sigurnost viljuškom podignite jedan komad sa strane i pogledajte dno. I ono treba biti zlatno, a ne blijedo."
+        },
+        {
+          "level": "h2",
+          "title": "Zalijevanje i odležavanje",
+          "body": "Nakon 10 minuta prelijte hladnu agdu kutlačom, od rubova prema sredini. Prvo polovinu, a nakon minute ostatak, da kore stignu upijati. Na vrh poredajte kolutove limuna iz agde.\n\nPreko tepsije zatim na 10–15 minuta stavite ravan, težak predmet, veći od tepsije. Slojevi se tako slegnu, a agda se ravnomjerno rasporedi. Potom baklavu pokrijte kuhinjskom krpom i ostavite u hladnoj prostoriji nekoliko sati ili preko noći. U frižider ne ide dok ne upije agdu."
+        },
+        {
+          "level": "h2",
+          "title": "Koliko traje",
+          "body": "Baklava stoji na sobnoj temperaturi do sedmicu dana, a u frižideru 2–3 sedmice, u zatvorenoj posudi. Može se i zamrznuti, ali tek kad je preko noći upila agdu. Slojeve odvojite papirom za pečenje i prelijte s malo agde. Odmrzava se preko noći na sobnoj temperaturi.\n\nOrasi i agda su osnova i za [tufahije](/recepti/tufahije/), drugi poznati bosanski desert."
+        }
+      ]
     },
     {
       "planId": "SNK-0023",
@@ -2476,23 +2618,10 @@
           ]
         }
       ],
-      "tips": [
-        "Za tufahije su najbolje čvrste, kisele jabuke. Slatke i brašnaste sorte se u agdi brzo raspadnu.",
-        "Jabuke ne kuhajte duže od 14–15 minuta ukupno, a kisele često budu gotove za oko 10. Mekše jabuke izvadite čim ih viljuška lako probode.",
-        "Ako jabuku probušite do dna, punite je dok već stoji u posudi, da nadjev ne iscuri."
-      ],
-      "substitutions": [
-        "Umjesto mlijeka u nadjevu možete koristiti biljni napitak ili malo agde.",
-        "Umjesto oraha može bademe ili lješnjake, ali se okus mijenja.",
-        "Umjesto polovice oraha na vrh možete staviti višnju."
-      ],
-      "storage": "Tufahije stoje u frižideru 3–4 dana, a agdu koja preostane čuvajte u posudi s poklopcem u frižideru. Ne zamrzavaju se.",
-      "faq": [
-        {
-          "question": "Koje jabuke su najbolje za tufahije?",
-          "answer": "Manje, čvrste i kisele jabuke, poput zelenih. Slatke sorte koje se brzo raskuhaju nisu dobre za tufahije."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [
         "baklava"
       ],
@@ -2503,7 +2632,40 @@
         "description": "Tufahije: kisele jabuke kuhane u agdi s vanilijom, punjene orasima s mlijekom i maslacem, servirane sa šlagom. Koje jabuke odabrati. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "Balkan Lunch Box – Bosnian walnut stuffed apples (Tufahije): https://balkanlunchbox.com/bosnian-walnut-stuffed-apples-recipe-tufahije/. Odabrana verzija: čvrste kiselkaste jabuke kuhane u agdi, mliječni nadjev s orasima, šlag s polovicom oraha; nisu pečene punjene jabuke (plan SNK-0023). Izvor daje američke mjere: 2 šolje vode = 480 ml, 3 šolje šećera ≈ 600 g, 2 oz mlijeka ≈ 60 ml, 5 oz oraha ≈ 140 g, 1,5 oz maslaca ≈ 40 g. Izvor preporučuje sortu Granny Smith; u tekstu su opisane kao zelene kisele jabuke."
+      "sourceNote": "Balkan Lunch Box – Bosnian walnut stuffed apples (Tufahije): https://balkanlunchbox.com/bosnian-walnut-stuffed-apples-recipe-tufahije/. Odabrana verzija: čvrste kiselkaste jabuke kuhane u agdi, mliječni nadjev s orasima, šlag s polovicom oraha; nisu pečene punjene jabuke (plan SNK-0023). Izvor daje američke mjere: 2 šolje vode = 480 ml, 3 šolje šećera ≈ 600 g, 2 oz mlijeka ≈ 60 ml, 5 oz oraha ≈ 140 g, 1,5 oz maslaca ≈ 40 g. Izvor preporučuje sortu Granny Smith; u tekstu su opisane kao zelene kisele jabuke.",
+      "approach": "tradicionalni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Tufahije su bosanski desert od cijelih jabuka kuhanih u agdi, punjenih orasima i serviranih sa šlagom. Nisu pečene punjene jabuke: jabuke se kratko kuhaju u šećernom sirupu, pa ostaju svijetle, sočne i drže oblik. Nadjev je od mljevenih oraha natopljenih mlijekom, s maslacem i šećerom.\n\nSluže se hladne, pa se mogu napraviti nekoliko sati ili dan unaprijed."
+        },
+        {
+          "level": "h2",
+          "title": "Jabuke koje izdrže agdu",
+          "body": "Za tufahije trebaju čvrste, kisele jabuke manje veličine. Najčešće se uzimaju zelene, poput sorte granny smith. Kiselost uravnotežuje slatku agdu, a čvrsto meso drži oblik tokom kuhanja. Slatke i brašnaste sorte se u agdi brzo raspadnu.\n\nKupite koju jabuku više. Pri vađenju sredine jabuka se lako ošteti ili probuši."
+        },
+        {
+          "level": "h2",
+          "title": "Vađenje sredine",
+          "body": "Jabuku izdubite odozgo, oko peteljke, malim pokretima i sloj po sloj. Tako ostaje što više mesa, a zidovi jabuke ostaju dovoljno debeli da ne puknu u agdi. Dno ne smijete probušiti. Odozdo se izvadi samo cvjetni ostatak, tako da ostane mala rupica kroz koju agda uđe u jabuku.\n\nOguljena jabuka brzo potamni, pa je odmah premažite limunovim sokom, izvana i iznutra. Ako ipak probušite dno, jabuku punite tek kad stoji u posudi, da nadjev ne iscuri."
+        },
+        {
+          "level": "h2",
+          "title": "Kratko kuhanje",
+          "body": "Jabuke se kuhaju do pola uronjene u agdu, prvo s jedne strane, pa s druge. Kisele jabuke su često gotove za desetak minuta. Ukupno ih ne kuhajte duže od 14–15 minuta. Gotove su kad požute i viljuška lako uđe, a jabuka još drži oblik. Ako neka počne pucati, izvadite je ranije od ostalih.\n\nKora jedne jabuke kuha se u agdi i daje joj okus jabuke."
+        },
+        {
+          "level": "h2",
+          "title": "Nadjev od oraha",
+          "body": "Mljeveni orasi se preliju vrućim mlijekom i ostave desetak minuta. Za to vrijeme upiju mlijeko i postanu mekani i sočni. Zatim se dodaju maslac i šećer, otopljeni zajedno.\n\nUmjesto mlijeka može biljni napitak ili malo agde, a umjesto oraha bademi ili lješnjaci, ali tada se okus mijenja."
+        },
+        {
+          "level": "h2",
+          "title": "Posluživanje",
+          "body": "Ohlađene jabuke napunite, prelijte agdom i držite u frižideru do posluživanja. Šlag dodajte tek na tanjiru, na hladnu jabuku, jer se na toploj otopi. Na vrh ide polovica oraha, a umjesto nje može i višnja.\n\nTufahije stoje u frižideru 3–4 dana. Agdu koja preostane čuvajte u posudi s poklopcem u frižideru. Ne zamrzavaju se.\n\nAko volite desert s orasima i agdom, pogledajte i [bosansku baklavu](/recepti/baklava/)."
+        }
+      ]
     },
     {
       "planId": "SNK-0027",
@@ -2645,22 +2807,10 @@
           ]
         }
       ],
-      "tips": [
-        "Piškote u kafu umačite samo oko 2 sekunde. Duže natopljene se raspadnu, a krema postane vodenasta.",
-        "Mascarpone treba biti gust i kvalitetan. Rijedak mascarpone se ne stegne ni nakon hlađenja.",
-        "Krema u početku može izgledati malo grudvasto zbog snijega. To je normalno i izgubi se dok tiramisu odstoji."
-      ],
-      "substitutions": [
-        "Liker je po izboru. Za verziju bez alkohola izvor predlaže nekoliko kapi ekstrakta badema ili vanilije.",
-        "Umjesto kafe iz aparata možete rastopiti 2–3 kašike instant kafe u vrućoj vodi, po ukusu."
-      ],
-      "storage": "Tiramisu čuvajte pokriven u frižideru.",
-      "faq": [
-        {
-          "question": "Ima li ovaj tiramisu slatku pavlaku?",
-          "answer": "Nema. Krema se pravi samo od mascarponea, žumanjaka izmućenih sa šećerom i snijega od bjelanjaka."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [],
       "relatedGuides": [],
       "servedWith": [],
@@ -2669,7 +2819,40 @@
         "description": "Tiramisu s mascarponeom, jajima i piškotama natopljenim kafom, bez pavlake i pečenja. Kako umakati piškote i zašto odstoji preko noći. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "RecipeTin Eats – Easy Tiramisu: https://www.recipetineats.com/easy-tiramisu/. Odabrana verzija: mascarpone, kafa i sirova odvojena jaja, bez pavlake; alkohol opcionalan (plan SNK-0027). Sirova jaja su jasno navedena, bez dodavanja kuhanja žumanjaka iz drugog izvora. Šolja = 250 ml: 1¼ šolje kafe ≈ 310 ml. Posuda 8 inča = 20 cm. Izvor navodi 6–8 porcija; upisano 6. Hlađenje najmanje 4–5 h; u ukupno vrijeme uračunata 4 h. Rok čuvanja u danima izvor ne navodi."
+      "sourceNote": "RecipeTin Eats – Easy Tiramisu: https://www.recipetineats.com/easy-tiramisu/. Odabrana verzija: mascarpone, kafa i sirova odvojena jaja, bez pavlake; alkohol opcionalan (plan SNK-0027). Sirova jaja su jasno navedena, bez dodavanja kuhanja žumanjaka iz drugog izvora. Šolja = 250 ml: 1¼ šolje kafe ≈ 310 ml. Posuda 8 inča = 20 cm. Izvor navodi 6–8 porcija; upisano 6. Hlađenje najmanje 4–5 h; u ukupno vrijeme uračunata 4 h. Rok čuvanja u danima izvor ne navodi.",
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Ovaj tiramisu je bez slatke pavlake. Krema se pravi samo od mascarponea, žumanjaka umućenih sa šećerom i snijega od bjelanjaka. Takva krema je lakša i prozračnija od kreme sa šlagom, a ipak se dobro stegne.\n\nNe peče se, ali treba vrijeme. Najbolji je kad preko noći odstoji u frižideru."
+        },
+        {
+          "level": "h2",
+          "title": "Deset minuta mućenja žumanjaka",
+          "body": "Žumanjci i šećer se mute dok smjesa ne postane gusta i gotovo bijela. To traje oko 10 minuta na jakoj brzini. Za to vrijeme se šećer otopi, a smjesa dobije volumen i postane stabilna. Ako mućenje skratite, krema bude rjeđa i zrnasta od šećera."
+        },
+        {
+          "level": "h2",
+          "title": "Mascarpone se ne mući dugo",
+          "body": "Kad dodate mascarpone, mutite samo dok smjesa ne bude glatka. Predugo mućen mascarpone se može razdvojiti i postati zrnast, slično maslacu koji se počne odvajati.\n\nMascarpone treba biti gust i kvalitetan. Rijedak mascarpone se ne stegne ni nakon hlađenja i tiramisu se razlije na tanjiru."
+        },
+        {
+          "level": "h2",
+          "title": "Snijeg i lagano sjedinjavanje",
+          "body": "Bjelanjci se ne mogu umutiti u čvrst snijeg ako u posudi ima i malo masnoće ili žumanjka. Zato se posuda i metlice nakon kreme operu i osuše.\n\nSnijeg se sjedinjuje s kremom u dva dijela, polako i kašikom, odozdo prema gore. Cilj je da ostane što više zraka. Krema u početku može djelovati malo grudvasto zbog snijega. To je normalno i izgubi se dok tiramisu stoji."
+        },
+        {
+          "level": "h2",
+          "title": "Piškote se samo umoče",
+          "body": "Piškote su suhe i upijaju vrlo brzo. Svaku umočite u kafu samo na oko 2 sekunde, pa je odmah stavite u posudu. Duže natopljene piškote se raspadnu, a kafa iz njih iscuri u kremu i ona postane vodenasta.\n\nKafa treba biti jaka, jer je ona glavni okus pored kreme. Umjesto kafe iz aparata možete rastopiti 2–3 kašike instant kafe u vrućoj vodi. Liker je po izboru. Za verziju bez alkohola izvor predlaže nekoliko kapi ekstrakta badema ili vanilije."
+        },
+        {
+          "level": "h2",
+          "title": "Zašto preko noći",
+          "body": "U frižideru piškote upiju vlagu iz kreme i postanu mekane kao kolač, a krema se stegne. Zato se tiramisu koji je stajao preko noći reže na uredne komade. Kakao stavite tek pred posluživanje. Ako ga stavite ranije, upije vlagu i potamni.\n\nTiramisu sadrži sirova jaja. Držite ga stalno u frižideru i pojedite u roku od dan-dva."
+        }
+      ]
     },
     {
       "planId": "SNK-0118",
@@ -2816,23 +2999,10 @@
           ]
         }
       ],
-      "tips": [
-        "Ne mijesite tijesto dok ne bude potpuno glatko. Predugo miješanje razvije gluten, pa palačinke budu tanke i žilave umjesto prozračne.",
-        "Palačinku okrenite tek kad mjehurići na površini počnu pucati i ne zatvaraju se. Tada je donja strana pečena, a sredina se dovoljno stegla.",
-        "Prvih 15 minuta odmora prašak za pecivo počne djelovati i tijesto se malo zgusne. Ako tijesto stoji duže od toga, uzmite manju količinu mlijeka."
-      ],
-      "substitutions": [
-        "Umjesto šećera izvor dopušta 35 g sladnog mlijeka u prahu, za okus kao u američkim restoranima.",
-        "Za integralniju verziju zamijenite 60 g brašna s 46 g mljevenih zobenih pahuljica.",
-        "Borovnice nisu dio osnovnog recepta. Ako ih dodajete, pospite ih po tijestu u tavi, jer umiješane oboje tijesto."
-      ],
-      "storage": "Palačinke su najbolje odmah. Izvor kao savjet za duže mekane palačinke predlaže da u tijesto dodate jednu rendanu jabuku.",
-      "faq": [
-        {
-          "question": "Po čemu se američke palačinke razlikuju od običnih?",
-          "answer": "Američke palačinke imaju prašak za pecivo, gušću smjesu i peku se kao male, debele palačinke. Obične, tanke palačinke nemaju prašak i razlijevaju se po cijeloj tavi."
-        }
-      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
       "relatedRecipes": [
         "palacinke"
       ],
@@ -2843,7 +3013,30 @@
         "description": "Mekane američke palačinke s praškom za pecivo: pjenasta jaja i mlijeko, 15 minuta odmora i 12 palačinki iz smjese. Kada ih okrenuti. Recept korak po korak."
       },
       "facebook": {},
-      "sourceNote": "King Arthur Baking – Simply Perfect Pancakes: https://www.kingarthurbaking.com/recipes/simply-perfect-pancakes-recipe. Odabrana verzija: američke palačinke s praškom za pecivo, mućenje i 15 minuta odmora, mlijeko kao raspon 227–283 g, bez bobičastog voća (plan SNK-0118). 375 °F ≈ 190 °C; ¼ šolje ≈ 60 ml. Izvor navodi 10 min aktivnog rada i 45 min ukupno; pečenje (20 min) je izvedeno iz toga."
+      "sourceNote": "King Arthur Baking – Simply Perfect Pancakes: https://www.kingarthurbaking.com/recipes/simply-perfect-pancakes-recipe. Odabrana verzija: američke palačinke s praškom za pecivo, mućenje i 15 minuta odmora, mlijeko kao raspon 227–283 g, bez bobičastog voća (plan SNK-0118). 375 °F ≈ 190 °C; ¼ šolje ≈ 60 ml. Izvor navodi 10 min aktivnog rada i 45 min ukupno; pečenje (20 min) je izvedeno iz toga.",
+      "approach": "brzi",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Američke palačinke su male, debele i prozračne. Za razliku od tankih [palačinki](/recepti/palacinke/), imaju prašak za pecivo i gušće tijesto, pa se u tavi dignu umjesto da se razliju. Od ove smjese dobije se 12 palačinki za oko 45 minuta, zajedno s odmorom tijesta."
+        },
+        {
+          "level": "h2",
+          "title": "Zrak iz jaja, a ne iz miješanja",
+          "body": "Prozračnost dolazi od dvije stvari: jaja i mlijeko se mute tri minute u svijetlu pjenu, a prašak za pecivo stvara mjehuriće. Suhe sastojke zatim umiješajte brzo i kratko. Nekoliko grudvica je u redu. Ako miješate dok tijesto ne bude potpuno glatko, razvije se gluten, a palačinke budu tanke i žilave.\n\nTijesto zatim odstoji 15 minuta dok se tava zagrijava i za to vrijeme se malo zgusne.\n\nKoličina mlijeka je data kao raspon. Kad je toplo i vlažno, uzmite manju količinu. Ako je tijesto pregusto da se razlije, dodajte kašiku mlijeka."
+        },
+        {
+          "level": "h2",
+          "title": "Tava i okretanje",
+          "body": "Tava je spremna kad kap vode poskakuje po njoj i odmah ispari. Ako palačinke izvana brzo potamne, a u sredini su sirove, smanjite vatru.\n\nPalačinku okrenite samo jednom, kad mjehurići na površini počnu pucati i više se ne zatvaraju. Tada je donja strana pečena, a sredina se dovoljno stegla. Nakon okretanja je ne pritiskajte lopaticom, jer tako istisnete zrak."
+        },
+        {
+          "level": "h2",
+          "title": "Dodaci",
+          "body": "Borovnice nisu dio osnovnog recepta. Ako ih dodajete, pospite ih po tijestu u tavi, a ne u posudu, jer umiješane oboje tijesto. Umjesto šećera izvor dopušta 35 g sladnog mlijeka u prahu, a za integralniju verziju 60 g brašna možete zamijeniti s 46 g mljevenih zobenih pahuljica.\n\nPalačinke su najbolje odmah. Dok pečete ostatak, ispečene možete držati na tanjiru u rerni zagrijanoj na najnižu temperaturu."
+        }
+      ]
     }
   ]
 }
