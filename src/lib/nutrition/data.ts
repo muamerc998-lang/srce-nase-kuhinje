@@ -44,6 +44,7 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   secer: n(387, 0, 100, 0, { density: 0.85 }),
   'vanilin-secer': n(390, 0, 98, 0, { density: 0.8, pieces: { kesica: 10 } }),
   'secer-u-prahu': n(389, 0, 99.8, 0, { density: 0.5 }),
+  'smedji-secer': n(380, 0.1, 98.1, 0, { density: 0.93 }),
   dzem: n(278, 0.4, 68.9, 0.1, { density: 1.3 }),
   'cokolada-za-kuhanje': n(515, 5.5, 60, 31),
   keks: n(440, 7, 72, 14),
@@ -93,6 +94,7 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   'kiseli-kupus': n(19, 0.9, 4.3, 0.1),
   bamija: n(33, 1.9, 7.5, 0.2),
   jabuke: n(52, 0.3, 13.8, 0.2, { pieces: { bez: 150, kom: 150 } }),
+  banane: n(89, 1.1, 22.8, 0.3, { pieces: { bez: 118, kom: 118 } }),
   orasi: n(654, 15.2, 13.7, 65.2, { density: 0.37 }),
   limun: n(22, 0.4, 6.9, 0.2, { density: 1.0, pieces: { bez: 30, kom: 30 } }),
 
