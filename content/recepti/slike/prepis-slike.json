@@ -12,5 +12,33 @@
     "alt": "Kremasti rižoto sa zapečenim šampinjonima i sjeckanim peršunom na plitkom bijelom tanjiru",
     "focalX": 50,
     "focalY": 55
+  },
+  {
+    "slug": "pileci-gulas",
+    "file": "gusti-pileci-gulas-s-krompirom-i-mrkvom",
+    "alt": "Pileći gulaš s komadima piletine, krompirom, mrkvom i paprikom u crvenkastom sosu, posut peršunom",
+    "focalX": 50,
+    "focalY": 55
+  },
+  {
+    "slug": "buzara-od-dagnji",
+    "file": "dagnje-na-buzaru-u-crvenom-sosu",
+    "alt": "Otvorene dagnje u crvenom sosu od paradajza, vina i bijelog luka, posute peršunom, uz kriške hljeba",
+    "focalX": 45,
+    "focalY": 50
+  },
+  {
+    "slug": "fasirane-snicle",
+    "file": "fasirane-snicle-od-junetine-u-sosu-sa-sampinjonima",
+    "alt": "Pet ovalnih faširanih šnicli u gustom svijetlosmeđem sosu sa šampinjonima u tavi od livenog željeza",
+    "focalX": 45,
+    "focalY": 55
+  },
+  {
+    "slug": "rizoto-s-povrcem",
+    "file": "sareni-rizoto-s-tikvicom-paprikom-i-graskom",
+    "alt": "Rižoto s kockicama tikvice, mrkve i paprike, graškom i listićima bosiljka na bijelom tanjiru",
+    "focalX": 45,
+    "focalY": 60
   }
 ]

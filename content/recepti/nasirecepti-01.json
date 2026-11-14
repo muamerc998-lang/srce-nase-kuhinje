@@ -54,7 +54,7 @@
             { "text": "Na lim stavite papir za pečenje i rasporedite batake s razmakom, da se ne dodiruju." },
             { "text": "Pecite nepokriveno 25 minuta.", "timerMinutes": 25 },
             { "text": "Okrenite batake i premažite ih sokom koji se skupio na limu." },
-            { "text": "Pecite još 15–20 minuta, dok koža ne postane tamnozlatna i hrskava, a termometar zaboden do kosti ne pokaže najmanje 75 °C. Bez termometra: sok iz najdebljeg dijela mora biti bistar.", "timerMinutes": 15 },
+            { "text": "Pecite još 15–20 minuta, dok koža ne postane tamnozlatna i hrskava, a termometar zaboden do kosti ne pokaže najmanje 74 °C. Bez termometra: sok iz najdebljeg dijela mora biti bistar.", "timerMinutes": 15 },
             { "text": "Pečene batake pustite da odstoje 5 minuta, pa ih poslužite.", "timerMinutes": 5 }
           ]
         }
@@ -74,12 +74,12 @@
         {
           "level": "h2",
           "title": "Zlatna koža još ne znači da je pečeno",
-          "body": "Koža potamni prije nego što se meso uz kost ispeče. Najsigurniji je termometar zaboden do kosti. Treba pokazati najmanje 75 °C.\n\nKod batka se ne bojte ni 80 °C. Tamno meso je tad mekše i lakše se odvaja od kosti. Prsa bi se na toj temperaturi već isušila, batak ne.\n\nAko termometra nemate, probodite najdeblji dio nožem sve do kosti. Sok mora biti bistar. Ako je ružičast, vratite lim u rernu i provjerite ponovo za nekoliko minuta.\n\nPet minuta na limu poslije pečenja nemojte preskakati. Sok se slegne, pa manje iscuri kad zagrizete."
+          "body": "Koža potamni prije nego što se meso uz kost ispeče. Najsigurniji je termometar zaboden do kosti. Treba pokazati najmanje 74 °C.\n\nKod batka se ne bojte ni 80 °C. Tamno meso je tad mekše i lakše se odvaja od kosti. Prsa bi se na toj temperaturi već isušila, batak ne.\n\nAko termometra nemate, probodite najdeblji dio nožem sve do kosti. Sok mora biti bistar. Ako je ružičast, vratite lim u rernu i provjerite ponovo za nekoliko minuta.\n\nPet minuta na limu poslije pečenja nemojte preskakati. Sok se slegne, pa manje iscuri kad zagrizete."
         },
         {
           "level": "h2",
           "title": "Kad za stolom ima više ljudi",
-          "body": "Bataci su među jeftinijim dijelovima piletine, a ni marinada ne traži ništa skupo. Kad treba nahraniti više ljudi, ispod bataka složite kriške krompira. Krompir pokupi sok i mast koji kaplju s mesa, pa ručak s prilogom izađe iz rerne odjednom.\n\nAko volite malo slađu koru, u marinadu dodajte kašiku meda. Med brže tamni, pa zadnjih deset minuta češće pogledajte u rernu.\n\nUz batake fino ide pire krompir, kuhana riža ili zelena salata."
+          "body": "Bataci su među jeftinijim dijelovima piletine, a ni marinada ne traži ništa skupo. Kad treba nahraniti više ljudi, ispod bataka složite kriške krompira. Krompir pokupi sok i mast koji kaplju s mesa, pa ručak s prilogom izađe iz rerne odjednom.\n\nAko volite malo slađu koru, u marinadu dodajte kašiku meda. Med brže tamni, pa zadnjih deset minuta češće pogledajte u rernu."
         }
       ],
       "tips": [],
@@ -97,7 +97,7 @@
         "description": "Hrskavi pileći bataci iz rerne: marinada od senfa, limuna i bijelog luka, suha koža i dovoljno mjesta na limu. Uz provjeru pečenosti. Recept korak po korak."
       },
       "family": "Piletina iz rerne",
-      "sourceNote": "Prepis SNK-NR-001. nasirecepti.com, stari post ID 870: https://nasirecepti.com/pileci-bataci-iz-pecnice/ (WP izvoz nasirecepti.WordPress.2026-11-14.xml). Preuzeti samo podaci recepta: 8 bataka (oko 1,2 kg), 3 žlice maslinovog ulja, 1 žlica senfa, sok od pola limuna, 3 češnja češnjaka, po 1 žličica slatke paprike, majčine dušice i soli, pola žličice papra; marinada najmanje 30 min ili preko noći; 15 min na sobnoj; 200 °C (ventilator 190 °C); 40–45 min, okretanje i premazivanje nakon 25 min; najmanje 75 °C uz kost (izvor: tamno meso mekše na 80 °C); 5 min odmora; 4 porcije; prip. 15 + pečenje 45 min. Izostavljeno: pranje bataka (izvor: „operite ako želite“) — ne preporučuje se zbog širenja bakterija po kuhinji. Varijacije iz izvora: krompir ispod mesa, kašika meda u marinadi. Ukupno vrijeme izračunato: 15 + 30 + 15 + 45 + 5 = 110 min. NEDOSTAJE: slika (reciklaza-slike/)."
+      "sourceNote": "Prepis SNK-NR-001. nasirecepti.com, stari post ID 870: https://nasirecepti.com/pileci-bataci-iz-pecnice/ (WP izvoz nasirecepti.WordPress.2026-11-14.xml). Preuzeti samo podaci recepta: 8 bataka (oko 1,2 kg), 3 žlice maslinovog ulja, 1 žlica senfa, sok od pola limuna, 3 češnja češnjaka, po 1 žličica slatke paprike, majčine dušice i soli, pola žličice papra; marinada najmanje 30 min ili preko noći; 15 min na sobnoj; 200 °C (ventilator 190 °C); 40–45 min, okretanje i premazivanje nakon 25 min; najmanje 75 °C uz kost (izvor; na sajtu usklađeno na 74 °C, kao kod svih recepata s piletinom; tamno meso mekše na 80 °C); 5 min odmora; 4 porcije; prip. 15 + pečenje 45 min. Izostavljeno: pranje bataka (izvor: „operite ako želite“) — ne preporučuje se zbog širenja bakterija po kuhinji. Varijacije iz izvora: krompir ispod mesa, kašika meda u marinadi. Ukupno vrijeme izračunato: 15 + 30 + 15 + 45 + 5 = 110 min. NEDOSTAJE: slika (reciklaza-slike/)."
     },
     {
       "planId": "SNK-NR-002",

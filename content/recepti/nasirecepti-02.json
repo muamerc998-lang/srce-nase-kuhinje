@@ -1,0 +1,2396 @@
+{
+  "format": "srce-nase-kuhinje/v1",
+  "ingredients": [
+    {
+      "slug": "pileci-zabataci",
+      "name": "pileći zabataci",
+      "synonyms": [
+        "zabatak",
+        "pileći zabatak bez kosti"
+      ],
+      "broader": "piletina",
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "pileca-prsa",
+      "name": "pileća prsa",
+      "synonyms": [
+        "pileći file",
+        "bijelo meso",
+        "pileća prsa bez kože"
+      ],
+      "broader": "piletina",
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "pileca-prsa-s-kozom",
+      "name": "pileća prsa s kožom",
+      "synonyms": [
+        "cijela pileća prsa"
+      ],
+      "broader": "pileca-prsa",
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "dagnje",
+      "name": "dagnje",
+      "synonyms": [
+        "mušule",
+        "školjke dagnje"
+      ],
+      "foodGroup": "riba"
+    },
+    {
+      "slug": "kozice",
+      "name": "kozice",
+      "synonyms": [
+        "škampići",
+        "račići"
+      ],
+      "foodGroup": "riba"
+    },
+    {
+      "slug": "tikvica",
+      "name": "tikvica",
+      "synonyms": [
+        "tikvice",
+        "zelena tikvica"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "kecap",
+      "name": "kečap",
+      "synonyms": [
+        "ketchup"
+      ],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "govedji-temeljac",
+      "name": "goveđi temeljac",
+      "synonyms": [
+        "goveđi bujon"
+      ],
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "margarin",
+      "name": "margarin",
+      "synonyms": [],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "zumanjak",
+      "name": "žumanjak",
+      "synonyms": [
+        "žumance",
+        "žumance jajeta"
+      ],
+      "foodGroup": "jaja"
+    },
+    {
+      "slug": "zacin-za-piletinu",
+      "name": "začin za piletinu",
+      "synonyms": [
+        "mješavina začina za piletinu"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "estragon",
+      "name": "estragon",
+      "synonyms": [],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "zalfija",
+      "name": "žalfija",
+      "synonyms": [
+        "kadulja"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "ljuta-papricica",
+      "name": "ljuta papričica",
+      "synonyms": [
+        "čili papričica",
+        "feferon"
+      ],
+      "foodGroup": "povrce"
+    }
+  ],
+  "recipes": [
+    {
+      "planId": "SNK-NR-003",
+      "slug": "pileci-gulas",
+      "title": "Pileći gulaš s krompirom i mrkvom",
+      "alternativeNames": [
+        "pileći gulaš",
+        "gulaš od piletine",
+        "pileći gulaš s krompirom"
+      ],
+      "summary": "Pileći gulaš od zabataka bez kosti, s mrkvom, paprikom i krompirom koji ide u šerpu tek na pola kuhanja. Gust sos bez pavlake, gotov za sat i po.",
+      "beforeYouStart": "Temeljac zagrijte prije nego počnete, jer ide u šerpu topao.",
+      "primaryCategory": "variva-i-punjena-jela",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "piletina",
+        "krompir",
+        "mrkva",
+        "paprika"
+      ],
+      "diets": [
+        "bez-jaja",
+        "bez-mlijeka"
+      ],
+      "methods": [
+        "kuhanje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 20,
+        "cookMinutes": 70,
+        "totalMinutes": 90
+      },
+      "equipment": {
+        "other": "široka šerpa s poklopcem"
+      },
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "pileci-zabataci",
+              "amount": 800,
+              "unit": "g",
+              "label": "pilećih zabataka bez kosti i kože"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 3,
+              "unit": "kasika",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 2,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 2,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sjeckana"
+            },
+            {
+              "ingredient": "mrkva",
+              "amount": 2,
+              "unit": "bez",
+              "label": "mrkve",
+              "note": "na kolutove"
+            },
+            {
+              "ingredient": "paprika",
+              "amount": 1,
+              "unit": "bez",
+              "label": "crvena paprika",
+              "note": "na kockice"
+            },
+            {
+              "ingredient": "koncentrat-paradajza",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "koncentrata paradajza"
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "slatke aleve paprike"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "bijelo-vino",
+              "amount": 100,
+              "unit": "ml",
+              "label": "suhog bijelog vina"
+            },
+            {
+              "ingredient": "pileci-temeljac",
+              "amount": 800,
+              "unit": "ml",
+              "label": "toplog pilećeg temeljca"
+            },
+            {
+              "ingredient": "lovor",
+              "amount": 2,
+              "unit": "list",
+              "label": "lovora"
+            },
+            {
+              "ingredient": "majcina-dusica",
+              "amount": 2,
+              "unit": "bez",
+              "label": "grančice svježe majčine dušice"
+            },
+            {
+              "ingredient": "krompir",
+              "amount": 500,
+              "unit": "g",
+              "label": "krompira",
+              "note": "na kocke od 2 cm"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            },
+            {
+              "ingredient": "persun",
+              "unit": "po-ukusu",
+              "label": "svježeg peršuna",
+              "note": "za posluživanje"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Zabatke isijecite na komade veličine oko 4 cm i začinite solju i biberom."
+            },
+            {
+              "text": "U širokoj šerpi zagrijte ulje."
+            },
+            {
+              "text": "Meso pržite u dvije ture, svaku 4–5 minuta, dok svaki komad ne dobije smeđu boju. Pečeno meso sklonite na tanjir.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Na masnoći koja je ostala pirjajte crni luk 6–8 minuta, da omekša i požuti.",
+              "timerMinutes": 6
+            },
+            {
+              "text": "Ubacite bijeli luk, mrkvu i papriku i pirjajte sve zajedno 3 minute.",
+              "timerMinutes": 3
+            },
+            {
+              "text": "Dodajte koncentrat paradajza, alevu papriku i brašno i miješajte minutu."
+            },
+            {
+              "text": "Ulijte vino i ostružite dno šerpe, pa kuhajte dok tečnost malo ne ukuha."
+            },
+            {
+              "text": "Meso vratite u šerpu, pa dodajte lovor, majčinu dušicu i topli temeljac."
+            },
+            {
+              "text": "Kad zakuha, vatru smanjite, šerpu poklopite i ostavite da kuha 25 minuta.",
+              "timerMinutes": 25
+            },
+            {
+              "text": "Ubacite krompir, poklopac malo odmaknite i kuhajte još 25–30 minuta, dok krompir ne bude mekan, a sos gust.",
+              "timerMinutes": 25
+            },
+            {
+              "text": "Lovor i grančice majčine dušice izvadite, pa probajte i po potrebi dosolite."
+            },
+            {
+              "text": "Poslužite posuto sjeckanim peršunom."
+            }
+          ]
+        }
+      ],
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Za ovaj gulaš uzmite zabatke bez kosti i kože, a ne prsa. Zabatak podnese sat kuhanja i ostane sočan. Prsa bi se za to vrijeme raspala u suha vlakna. Uz to je zabatak i jeftiniji, pa četiri porcije izađu bez velikog troška."
+        },
+        {
+          "level": "h2",
+          "title": "Meso prvo, krompir na pola puta",
+          "body": "Najveća greška kod pilećeg gulaša je redoslijed. Ako krompir ide u šerpu zajedno s mesom, za sat se raspadne. Sos postane kaša, a komada više nema.\n\nZato meso prvo kuha samo, 25 minuta. Tek onda ide krompir, na kocke od dva centimetra. Za pola sata omekša taman koliko treba i ostane u komadu.\n\nMeso pecite u dvije ture. Kad ga je previše u šerpi, pusti vodu i kuha se umjesto da porumeni. A smeđa korica s mesa kasnije daje sosu boju i okus."
+        },
+        {
+          "level": "h2",
+          "title": "Šta zgušnjava sos?",
+          "body": "U ovom gulašu nema pavlake ni gotovog zgušnjivača. Gustinu daju kašika brašna, koncentrat paradajza i luk koji se dugo pirja. Luk zato ne žurite. Pirjajte ga polahko, šest do osam minuta, dok ne požuti i ne omekša skroz.\n\nVino se ulije odmah poslije brašna. Bez vina može i kutlača toplog temeljca.\n\nGulaš se može skuhati i dan ranije. Sutradan je sos gušći, pa ga pri podgrijavanju razrijedite s malo vode.\n\nAko je sos na kraju i dalje rijedak, skinite poklopac i pustite ga da kuha još nekoliko minuta. Ako je pregust, dolijte malo temeljca."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "govedji-gulas"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Pileći gulaš od zabataka, s krompirom i mrkvom",
+        "description": "Pileći gulaš od zabataka bez kosti, s krompirom, mrkvom i paprikom. Kada ide krompir da se ne raspadne i šta zgušnjava sos bez pavlake. Recept korak po korak."
+      },
+      "family": "Gulaši",
+      "sourceNote": "Prepis SNK-NR-003. nasirecepti.com, stari post ID 867: https://nasirecepti.com/pileci-gulas/ (WP izvoz 2026-11-14). Preuzeto: 800 g otkoštenih zabataka bez kože na komade 4 cm, 2 glavice luka, 2 češnja češnjaka, 2 mrkve, 1 crvena paprika, 500 g krumpira (kocke 2 cm), 1 žlica koncentrata rajčice, 1 žličica slatke paprike, 1 žlica glatkog brašna, 100 ml suhog bijelog vina, 800 ml toplog pilećeg temeljca, 2 lista lovora, 2 grančice majčine dušice, 3 žlice ulja, sol, papar, peršin; meso u dvije ture 4–5 min; luk 6–8 min; češnjak, mrkva, paprika 3 min; koncentrat, paprika, brašno 1 min; vino; temeljac, poklopljeno 25 min; krumpir djelimično poklopljeno 25–30 min; 4 porcije; prip. 20 + kuh. 70 min. Zamjena za vino (temeljac) dodana kao opšte poznata."
+    },
+    {
+      "planId": "SNK-NR-004",
+      "slug": "buzara-od-dagnji",
+      "title": "Buzara od dagnji",
+      "alternativeNames": [
+        "dagnje na buzaru",
+        "crvena buzara",
+        "školjke na buzaru"
+      ],
+      "summary": "Buzara od dagnji u crvenoj verziji: dagnje kuhane u sosu od bijelog luka, maslinovog ulja, bijelog vina, paradajza i peršuna. Gotova za pola sata, uz hljeb za umakanje.",
+      "beforeYouStart": "Dagnje kupite isti dan kad ih kuhate i do čišćenja ih držite u frižideru, pokrivene vlažnom krpom.",
+      "primaryCategory": "riba-i-morski-plodovi",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "dagnje",
+        "paradajz",
+        "bijeli-luk"
+      ],
+      "diets": [
+        "bez-jaja"
+      ],
+      "methods": [
+        "kuhanje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 20,
+        "cookMinutes": 15,
+        "totalMinutes": 35
+      },
+      "equipment": {
+        "other": "široka šerpa s poklopcem"
+      },
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "dagnje",
+              "amount": 2,
+              "unit": "kg",
+              "label": "svježih dagnji"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 4,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 4,
+              "amountMax": 5,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "paradajz-pire",
+              "amount": 250,
+              "unit": "ml",
+              "label": "pasiranog paradajza"
+            },
+            {
+              "ingredient": "bijelo-vino",
+              "amount": 200,
+              "unit": "ml",
+              "label": "suhog bijelog vina"
+            },
+            {
+              "ingredient": "persun",
+              "amount": 1,
+              "unit": "vezica",
+              "label": "svježeg peršuna",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "prezle",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "prezli",
+              "optional": true
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "svježe mljeveni biber"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-potrebi",
+              "label": "so"
+            },
+            {
+              "ingredient": "hljeb",
+              "unit": "po-potrebi",
+              "label": "hljeba",
+              "note": "za posluživanje"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Dagnje operite pod mlazom hladne vode."
+            },
+            {
+              "text": "Očistite ljušture i povucite vlakna (bradu) koja vire između njih."
+            },
+            {
+              "text": "Bacite dagnje s napuklom ljušturom i one koje ostanu otvorene kad ih lagano kucnete."
+            },
+            {
+              "text": "U širokoj šerpi zagrijte maslinovo ulje i kratko pirjajte bijeli luk, samo dok ne zamiriše."
+            },
+            {
+              "text": "Dodajte pasirani paradajz i kuhajte nekoliko minuta."
+            },
+            {
+              "text": "Ulijte vino i kuhajte dok alkohol ne ispari."
+            },
+            {
+              "text": "Umiješajte peršun."
+            },
+            {
+              "text": "Dodajte dagnje, poklopite šerpu i kuhajte 5–7 minuta, povremeno je protresajući, dok se ljušture ne otvore.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Po želji umiješajte prezle, da se sos malo zgusne."
+            },
+            {
+              "text": "Pobiberite, a so dodajte samo ako je potrebno, jer su dagnje same slane."
+            },
+            {
+              "text": "Poslužite odmah, uz hljeb."
+            }
+          ]
+        }
+      ],
+      "approach": "tradicionalni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Buzara nije jedno jelo, nego način kuhanja. U Dalmaciji i na Kvarneru tako se spremaju dagnje, škampi i druge školjke: kratko, u šerpi, s bijelim lukom, maslinovim uljem, vinom i peršunom. Postoji bijela buzara, samo s vinom, i crvena, u koju ide i paradajz. Ovdje je crvena verzija, u kojoj pasirani paradajz daje sosu gustinu i boju, a dagnje u njega puste svoj morski sok."
+        },
+        {
+          "level": "h2",
+          "title": "Žive dagnje, i ništa drugo",
+          "body": "Dagnje za buzaru moraju biti žive. Ljušture su im zatvorene ili se zatvore kad ih lagano kucnete o radnu ploču. Školjka koja i poslije toga ostane otvorena, kao i ona s napuklom ljušturom, ne ide u šerpu. Svježe dagnje mirišu na more, a ne na ribu.\n\nNajbolje ih je kupiti isti dan kad se kuhaju i do čišćenja držati u frižideru, pokrivene vlažnom krpom. U posudi s vodom iz česme ih ne ostavljajte, jer u slatkoj vodi uginu."
+        },
+        {
+          "level": "h2",
+          "title": "Šta se najčešće pita kod čišćenja?",
+          "body": "Mora li se brada čupati? Mora. To su vlakna kojima se dagnja drži za podlogu i ne jedu se. Uhvatite ih prstima i povucite prema šiljatom kraju školjke.\n\nTreba li ih namakati? Ne treba. Uzgojene dagnje iz prodaje uglavnom nemaju pijeska, pa je dovoljno da ih operete pod mlazom hladne vode.\n\nŠta ako se poneka ne otvori u šerpi? Ako su se ostale otvorile, a nekoliko nije, izdvojite ih i ne jedite."
+        },
+        {
+          "level": "h2",
+          "title": "Sos je pola jela",
+          "body": "Dok se kuhaju, dagnje puste morsku vodu, koja se pomiješa s vinom i paradajzom. Zato sos skoro i ne treba soliti: probajte ga tek na kraju i dodajte prstohvat samo ako zaista fali. Dvije kašike prezli upiju dio tečnosti, pa sos postane gušći i lakše se hvata za hljeb. Bez njih je rjeđi, više kao čorba.\n\nDagnje kuhajte samo dok se ne otvore. Svaki minut preko toga ih steže, pa postanu gumene i sitne.\n\nBuzara se jede iz duboke posude, rukama i kašikom, a uz nju ide domaći hljeb ili prepečene kriške bijelog hljeba, kojima se pokupi sos."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Buzara od dagnji: crvena buzara s vinom i paradajzom",
+        "description": "Buzara od dagnji s bijelim lukom, vinom, paradajzom i peršunom. Kako odabrati i očistiti dagnje i zašto se sos skoro ne soli. Gotovo za oko 35 minuta."
+      },
+      "family": "Plodovi mora",
+      "sourceNote": "Prepis SNK-NR-004. nasirecepti.com, stari post ID 128: https://nasirecepti.com/buzara-od-dagnji/ (WP izvoz 2026-11-14). Preuzeto: 2 kg svježih dagnji, 4–5 češnjeva češnjaka, 4 kašike maslinovog ulja, 200 ml suhog bijelog vina, 250 ml pasirane rajčice, 1 vezica peršina, 2 kašike krušnih mrvica (po želji), biber, sol po potrebi, kruh; čišćenje i odbacivanje napuklih/otvorenih; češnjak kratko, rajčica nekoliko minuta, vino do isparavanja, peršin; dagnje poklopljeno 5–7 min uz protresanje; 4 porcije; prip. 20 + kuh. 15 min. Opšte poznato (nije iz izvora): bijela i crvena buzara, čuvanje dagnji, neotvorene poslije kuhanja se ne jedu."
+    },
+    {
+      "planId": "SNK-NR-005",
+      "slug": "fasirane-snicle",
+      "title": "Faširane šnicle u sosu od gljiva",
+      "alternativeNames": [
+        "faširane šnicle",
+        "faširane šnicle u sosu",
+        "šnicle od mljevenog mesa"
+      ],
+      "summary": "Faširane šnicle od junetine i naribanog luka, kratko zapečene i dopečene u sosu od šampinjona, senfa i goveđeg temeljca. Sve se radi u jednoj tavi.",
+      "primaryCategory": "jela-s-mesom",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "mljeveno-meso",
+        "gljive",
+        "senf",
+        "luk"
+      ],
+      "diets": [],
+      "methods": [
+        "przenje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 5,
+        "unit": "šnicli",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "cookMinutes": 15,
+        "totalMinutes": 30
+      },
+      "equipment": {
+        "other": "široka tava, rende"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Šnicle",
+          "items": [
+            {
+              "ingredient": "crni-luk",
+              "amount": 0.5,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "sitno naribanog"
+            },
+            {
+              "ingredient": "prezle",
+              "amount": 30,
+              "unit": "g",
+              "label": "prezli",
+              "note": "panko ili obične"
+            },
+            {
+              "ingredient": "mljeveno-meso",
+              "amount": 500,
+              "unit": "g",
+              "label": "mljevene junetine"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 1,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckan"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 1,
+              "unit": "bez",
+              "label": "jaje"
+            },
+            {
+              "ingredient": "kecap",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "kečapa"
+            },
+            {
+              "ingredient": "zacin-za-supu",
+              "amount": 1,
+              "unit": "kom",
+              "label": "goveđa kocka za supu",
+              "note": "izmrvljena"
+            },
+            {
+              "ingredient": "worcestershire-sos",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "worcestershire sosa"
+            },
+            {
+              "ingredient": "senf",
+              "amount": 3,
+              "unit": "kasicica",
+              "label": "dijon senfa"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            }
+          ]
+        },
+        {
+          "title": "Sos",
+          "items": [
+            {
+              "ingredient": "crni-luk",
+              "amount": 0.5,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 2,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckana"
+            },
+            {
+              "ingredient": "sampinjoni",
+              "amount": 150,
+              "unit": "g",
+              "label": "šampinjona",
+              "note": "na listiće"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 30,
+              "unit": "g",
+              "label": "maslaca"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 3,
+              "unit": "kasika",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "govedji-temeljac",
+              "amount": 500,
+              "unit": "ml",
+              "label": "goveđeg temeljca"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 120,
+              "unit": "ml",
+              "label": "vode"
+            },
+            {
+              "ingredient": "senf",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "dijon senfa"
+            },
+            {
+              "ingredient": "worcestershire-sos",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "worcestershire sosa"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Šnicle",
+          "steps": [
+            {
+              "text": "Naribani crni luk izmiješajte s prezlama, pa sačekajte par minuta da prezle omekšaju."
+            },
+            {
+              "text": "Dodajte mljeveno meso, bijeli luk, jaje, kečap, izmrvljenu kocku, worcestershire sos i senf."
+            },
+            {
+              "text": "Rukama miješajte dok smjesa ne postane ujednačena i ne počne se držati zajedno."
+            },
+            {
+              "text": "Od smjese napravite 5 jednakih loptica i spljoštite ih u ovalne šnicle."
+            },
+            {
+              "text": "U širokoj tavi jako zagrijte ulje i pržite šnicle minutu po strani, samo da dobiju smeđu koricu."
+            },
+            {
+              "text": "Izvadite šnicle na tanjir. Unutra su još sirove i tako treba."
+            }
+          ]
+        },
+        {
+          "title": "Sos",
+          "steps": [
+            {
+              "text": "U istoj tavi pirjajte crni i bijeli luk 2 minute.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Ubacite šampinjone i pirjajte ih dok ne splasnu i ne dobiju malo boje."
+            },
+            {
+              "text": "Dodajte maslac, a kad se otopi, umiješajte brašno i kratko ga propržite uz stalno miješanje."
+            },
+            {
+              "text": "Temeljac ulijevajte malo po malo, uz stalno miješanje, da sos bude gladak."
+            },
+            {
+              "text": "Dodajte vodu, senf i worcestershire sos."
+            },
+            {
+              "text": "Šnicle vratite u sos, zajedno sa svim što su pustile na tanjiru."
+            },
+            {
+              "text": "Kuhajte 5–7 minuta, da se sos zgusne, a šnicle ispeku i u sredini.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Po potrebi dosolite i pobiberite."
+            }
+          ]
+        }
+      ],
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Paket mljevene junetine, pola sata i jedna tava. Toliko treba za faširane šnicle u sosu od gljiva. Šnicle se samo kratko zapeku, a do kraja se ispeku u sosu. Zato ostanu mekane, a sos dobije okus mesa."
+        },
+        {
+          "level": "h2",
+          "title": "Luk se riba, ne sjecka",
+          "body": "Za smjesu luk naribajte na sitno rende. Na dnu posude ostane i malo soka. Ne bacajte ga, nego u njega odmah sipajte prezle.\n\nZa nekoliko minuta prezle se napiju i omekšaju. Takva smjesa je mekša i bolje se drži. U gotovoj šnicli nema ni tvrdih komadića luka."
+        },
+        {
+          "level": "h2",
+          "title": "Zašto samo minut sa svake strane?",
+          "body": "U tavi se šnicle ne peku do kraja. Samo dobiju smeđu koricu, a sredina ostaje sirova. Ispeku se kasnije u sosu, malo-pomalo, dok sos lagano ključa.\n\nTava za to mora biti dobro vruća. Ako šnicle u ulju samo tiho cvrče, tava je hladna. Meso tad pusti sok i posivi umjesto da dobije koricu.\n\nJa ih okrećem širokom lopaticom, a ne viljuškom. Smjesa je mekana i lako pukne."
+        },
+        {
+          "level": "h2",
+          "title": "Kad se šnicle raspadaju",
+          "body": "Smjesa je premekana ili je premalo miješana. Miješajte je rukama duže, dok ne postane ljepljiva i ne počne se odvajati od posude. Pomaže i da oblikovane šnicle pola sata odstoje u frižideru prije tave."
+        },
+        {
+          "level": "h2",
+          "title": "Sos iz iste tave",
+          "body": "Sos se pravi tamo gdje su se pekle šnicle, i to je cijela poenta. Ono smeđe što ostane na dnu daje mu okus, pa tavu ne perite i ne brišite. Izvadite samo komadiće koji su zagorjeli i pocrnjeli.\n\nBrašno se kratko proprži na maslacu, tek da izgubi miris sirovog. Temeljac ide postepeno, uz stalno miješanje. Ako ga sipate odjednom, sos će imati grudice.\n\nKocka za supu i temeljac već nose so. Sos zato probajte tek kad su šnicle u njemu, pa dosolite ako treba. Neka bude malo rjeđi nego što želite, jer se zgušnjava i dok šnicle stoje."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [
+        "pire-krompir"
+      ],
+      "leftovers": {},
+      "relatedRecipes": [
+        "cufte-u-sosu"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Faširane šnicle od junetine u sosu od šampinjona",
+        "description": "Faširane šnicle od junetine i naribanog luka, kratko zapečene pa dovršene u sosu od šampinjona, senfa i temeljca. Sve u jednoj tavi za pola sata."
+      },
+      "family": "Mljeveno meso",
+      "sourceNote": "Prepis SNK-NR-005. nasirecepti.com, stari post ID 236: https://nasirecepti.com/fasirane-snicle/ (WP izvoz 2026-11-14). Preuzeto: šnicle — ½ glavice luka naribano, ½ šalice panko mrvica (ili ⅓ šalice običnih), 500 g mljevene junetine, 1 češanj češnjaka, 1 jaje, 2 žlice kečapa, 1 goveđa kocka usitnjena, ½ žličice Worcestershire umaka, 3 žličice Dijon senfa (ili 2 žličice senfa u prahu), 1 žlica maslinovog ulja; sos — 2 češnja češnjaka, ½ glavice luka, 150 g šampinjona, 30 g maslaca, 3 žlice brašna, 500 ml goveđeg temeljca, 120 ml vode, 2 žličice Dijon senfa, 2 žličice Worcestershire umaka, sol, papar; zapeći 1 min po strani; luk i češnjak 2 min; šampinjoni; maslac, brašno; temeljac postepeno; šnicle u sos 5–7 min; 5 šnicli; prip. 15 + kuh. 15 min. Mjera pretvorena: ½ šalice panko mrvica ≈ 30 g (panko oko 55–60 g po šalici; ⅓ šalice običnih prezli je sličan iznos po težini). Senf u prahu izostavljen kao alternativa (teško se nalazi)."
+    },
+    {
+      "planId": "SNK-NR-006",
+      "slug": "rizoto-s-povrcem",
+      "title": "Rižoto s povrćem",
+      "alternativeNames": [
+        "rižoto od povrća",
+        "rižoto s tikvicama i graškom",
+        "povrtni rižoto"
+      ],
+      "summary": "Rižoto s povrćem od arborio riže, tikvice, paprike, mrkve i graška, s parmezanom i bosiljkom. Povrće ide u tavu u tri navrata, pa nijedno nije raskuhano.",
+      "beforeYouStart": "Povrće isjecite prije nego što počnete, jer kasnije nema pauze od miješanja.",
+      "primaryCategory": "riza-i-zitarice",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "riza",
+        "tikvice",
+        "paprika",
+        "mrkva"
+      ],
+      "diets": [
+        "bez-jaja"
+      ],
+      "methods": [
+        "kuhanje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "cookMinutes": 30,
+        "totalMinutes": 45
+      },
+      "equipment": {
+        "other": "široka tava s debljim dnom, lonac za temeljac, kutlača"
+      },
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "riza-za-rizoto",
+              "amount": 300,
+              "unit": "g",
+              "label": "riže za rižoto",
+              "note": "arborio"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "mrkva",
+              "amount": 1,
+              "unit": "bez",
+              "label": "mrkva",
+              "note": "na sitne kockice"
+            },
+            {
+              "ingredient": "tikvica",
+              "amount": 1,
+              "unit": "bez",
+              "label": "tikvica",
+              "note": "na kockice"
+            },
+            {
+              "ingredient": "paprika",
+              "amount": 1,
+              "unit": "bez",
+              "label": "crvena paprika",
+              "note": "na kockice"
+            },
+            {
+              "ingredient": "grasak",
+              "amount": 150,
+              "unit": "g",
+              "label": "smrznutog graška"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 1,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sjeckan"
+            },
+            {
+              "ingredient": "bijelo-vino",
+              "amount": 100,
+              "unit": "ml",
+              "label": "suhog bijelog vina"
+            },
+            {
+              "ingredient": "povrtni-temeljac",
+              "amount": 1,
+              "unit": "l",
+              "label": "povrtnog temeljca"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 3,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 30,
+              "unit": "g",
+              "label": "maslaca"
+            },
+            {
+              "ingredient": "parmezan",
+              "amount": 40,
+              "unit": "g",
+              "label": "rendanog parmezana"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            },
+            {
+              "ingredient": "bosiljak",
+              "unit": "po-ukusu",
+              "label": "svježeg bosiljka",
+              "note": "nekoliko listića"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Temeljac stavite da se grije i neka stoji vruć, na najslabijoj vatri."
+            },
+            {
+              "text": "Široku tavu s 2 kašike maslinovog ulja stavite na jaku vatru."
+            },
+            {
+              "text": "Tikvicu i papriku pržite 4–5 minuta, dok im ivice ne dobiju boju.",
+              "timerMinutes": 4
+            },
+            {
+              "text": "Malo ih posolite i prebacite na tanjir."
+            },
+            {
+              "text": "Na ulju koje je ostalo pirjajte crni luk i mrkvu 4 minute.",
+              "timerMinutes": 4
+            },
+            {
+              "text": "Dodajte bijeli luk i rižu, pa ih 2 minute pržite miješajući, dok riža po ivicama ne postane prozirna.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Dodajte vino i pustite ga da ispari, stalno miješajući."
+            },
+            {
+              "text": "Temeljac dodajte kutlaču po kutlaču, svaku sljedeću tek kad riža popije prethodnu. Miješajte stalno, oko 13 minuta.",
+              "timerMinutes": 13
+            },
+            {
+              "text": "Dodajte smrznuti grašak i dolijevajte temeljac još 3 minute.",
+              "timerMinutes": 3
+            },
+            {
+              "text": "Vratite tikvicu i papriku i kuhajte još 2 minute. Zrno treba biti mekano, s tankom čvrstom jezgrom u sredini.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Tavu sklonite s vatre, pa u rižoto umiješajte maslac i parmezan."
+            },
+            {
+              "text": "Začinite solju i biberom, stavite poklopac i pustite 2 minute da odstoji.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Na tanjirima pospite listićima bosiljka."
+            }
+          ]
+        }
+      ],
+      "approach": "brzi",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Tikvica i paprika su mekane i pune vode, a mrkva i grašak su tvrđi i slađi. Kad bi sve to išlo u rižu odjednom, tikvica bi se raskuhala dok mrkva još hrska. Zato se u ovom rižotu povrće dodaje u tri navrata, svako onda kad mu treba."
+        },
+        {
+          "level": "h2",
+          "title": "Redoslijed koji čuva boju",
+          "body": "Tikvica i paprika se prvo kratko zapeku na jakoj vatri i sklone sa strane. Tako vodu puste u tavu, a ne kasnije u rižu, a na rubovima dobiju malo pečene boje. Mrkva ide s lukom na samom početku, jer najduže omekšava, a sitne kockice omekšaju dok se dolijeva temeljac.\n\nZbog toga su i komadi različiti: mrkva na sitne kockice, a tikvica i paprika na nešto krupnije, da se u tavi zapeku umjesto da se raspadnu.\n\nSmrznuti grašak ulazi pet minuta prije kraja i ne treba ga odmrzavati. Za to vrijeme se u vrućem rižotu ugrije i ostane zelen i sladak, a odmrznut unaprijed bi pustio vodu. Tikvica i paprika se vraćaju tek u zadnje dvije minute, samo da se ugriju, pa ostanu u komadu i zadrže boju."
+        },
+        {
+          "level": "h2",
+          "title": "Isto pravilo, drugo povrće",
+          "body": "Ovaj rižoto podnosi i drugo povrće, ako se poštuje isti red: tvrdo ide rano, mekano kasno. Patlidžan na kockice može umjesto tikvice, uz isto kratko zapecanje na početku, a umjesto bosiljka na kraju odgovara i sjeckani peršun."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "rizoto-s-gljivama"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Rižoto s povrćem: tikvica, paprika, mrkva i grašak",
+        "description": "Rižoto s povrćem od arborio riže, tikvice, paprike, mrkve i graška, s parmezanom. Kojim redom ide povrće da ostane u komadu i zadrži boju. Oko 45 minuta."
+      },
+      "family": "Rižota",
+      "sourceNote": "Prepis SNK-NR-006. nasirecepti.com, stari post ID 876: https://nasirecepti.com/rizoto-s-povrcem/ (WP izvoz 2026-11-14). Preuzeto: 300 g arborio riže, 1 glavica luka, 1 mrkva, 1 tikvica, 1 crvena paprika, 150 g smrznutog graška, 1 češanj češnjaka, 100 ml suhog bijelog vina, 1 l povrtnog temeljca, 3 žlice maslinova ulja (2 za tikvicu i papriku), 30 g maslaca, 40 g parmezana, sol, papar, bosiljak; tikvica i paprika 4–5 min na jakoj vatri; luk i mrkva 4 min; češnjak i riža 2 min; vino; temeljac oko 18 min; grašak 5 min prije kraja; tikvica i paprika zadnje 2 min; maslac i parmezan s vatre, 2 min poklopljeno; 4 porcije; prip. 15 + kuh. 30 min. Varijacija (patlidžan, peršun) dodana kao opšte poznata. Dijeta „vegetarijansko“ nije upisana (parmezan, životinjsko sirište) — ista odluka kao kod SNK-NR-002."
+    },
+    {
+      "planId": "SNK-NR-007",
+      "slug": "punjena-pileca-prsa",
+      "title": "Punjena pileća prsa sa špinatom i sirom",
+      "alternativeNames": [
+        "punjena pileća prsa",
+        "pileća prsa punjena špinatom",
+        "punjeni pileći file"
+      ],
+      "summary": "Punjena pileća prsa s nadjevom od špinata, rikote, mocarele i parmezana. Zapeku se u tavi i dopeku u rerni do 74 °C, pa meso oko sira ostane sočno.",
+      "primaryCategory": "jela-s-mesom",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "piletina",
+        "spinat",
+        "rikota",
+        "sir"
+      ],
+      "diets": [
+        "bez-jaja"
+      ],
+      "methods": [
+        "pecenje",
+        "przenje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 20,
+        "cookMinutes": 30,
+        "totalMinutes": 55
+      },
+      "equipment": {
+        "temperature": 200,
+        "other": "tava koja može u rernu ili vatrostalna posuda, čačkalice, termometar za meso"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Nadjev",
+          "items": [
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 1,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sjeckan"
+            },
+            {
+              "ingredient": "spinat",
+              "amount": 150,
+              "unit": "g",
+              "label": "svježeg mladog špinata"
+            },
+            {
+              "ingredient": "rikota",
+              "amount": 100,
+              "unit": "g",
+              "label": "rikote"
+            },
+            {
+              "ingredient": "mocarela",
+              "amount": 80,
+              "unit": "g",
+              "label": "mocarele",
+              "note": "na sitne kockice"
+            },
+            {
+              "ingredient": "parmezan",
+              "amount": 30,
+              "unit": "g",
+              "label": "rendanog parmezana"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            }
+          ]
+        },
+        {
+          "title": "Prsa",
+          "items": [
+            {
+              "ingredient": "pileca-prsa",
+              "amount": 4,
+              "unit": "kom",
+              "label": "pileća prsa",
+              "note": "oko 180 g svako"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "slatke aleve paprike"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Nadjev",
+          "steps": [
+            {
+              "text": "Na kašiki maslinovog ulja kratko propržite bijeli luk."
+            },
+            {
+              "text": "Ubacite špinat i pirjajte 2–3 minute, da splasne.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Špinat ocijedite i rukama iscijedite višak vode."
+            },
+            {
+              "text": "Nasjeckajte ga i ostavite da se ohladi."
+            },
+            {
+              "text": "Izmiješajte špinat s rikotom, mocarelom i parmezanom i lagano pobiberite."
+            }
+          ]
+        },
+        {
+          "title": "Prsa",
+          "steps": [
+            {
+              "text": "Zagrijte rernu na 200 °C."
+            },
+            {
+              "text": "Oštrim nožom napravite u svakim prsima džep: zarežite ih s debljeg boka, otprilike do dvije trećine širine."
+            },
+            {
+              "text": "Džepove napunite nadjevom, a otvor pričvrstite s po dvije čačkalice."
+            },
+            {
+              "text": "Prsa odozgo premažite kašikom ulja i začinite solju, biberom i alevom paprikom."
+            },
+            {
+              "text": "Ostatak ulja zagrijte u tavi koja može u rernu i pržite prsa po 2–3 minute na obje strane, da se zlatno zapeku.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Prebacite tavu u rernu, ili prsa premjestite u vatrostalnu posudu, i pecite 18–22 minute, dok termometar u najdebljem dijelu mesa ne pokaže 74 °C.",
+              "timerMinutes": 18
+            },
+            {
+              "text": "Pečena prsa pustite da odstoje 5 minuta.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Izvucite čačkalice, presijecite svaka prsa ukoso napola i poslužite."
+            }
+          ]
+        }
+      ],
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Pileća prsa najčešće propadnu na isti način. Dok se sredina ispeče, vanjski dio se osuši. Kod punjenih prsa je to još teže, jer nadjev usporava pečenje. Ovdje pomažu dvije stvari: kratko zapecanje u tavi i termometar."
+        },
+        {
+          "level": "h2",
+          "title": "Špinat mora biti suh",
+          "body": "Svježi špinat pusti mnogo vode. Ako ostane u nadjevu, iscuri u rerni. Nadjev bude rijedak, a meso oko njega se razmekša.\n\nZato ga poslije pirjanja iscijedite rukama, jače nego što mislite da treba. Kad više ne kaplje, taman je. Ohlađen nadjev je i gušći, pa se lakše puni.\n\nMocarelu narežite na sitne kockice, a ne na listove. Kockice se ravnomjerno rasporede kroz špinat i rikotu, pa svaki zalogaj ima malo sira."
+        },
+        {
+          "level": "h2",
+          "title": "Kako napraviti džep?",
+          "body": "Oštrim nožom uđite u prsa s debljeg boka i režite dok ne dođete otprilike do dvije trećine širine. Gornji i donji dio moraju ostati spojeni s tri strane. Inače nadjev izađe u tavu.\n\nKoliko nadjeva staviti? Toliko da se otvor još može spojiti. Prepun džep pukne čim meso osjeti vrelinu.\n\nZašto čačkalice? Drže otvor zatvoren dok se meso zapeče. Prije rezanja ih izvadite i prebrojite, da nijedna ne ostane u mesu."
+        },
+        {
+          "level": "h2",
+          "title": "Termometar u meso, ne u sir",
+          "body": "U tavi prsa za par minuta dobiju boju, a u rerni se ispeku na miru, bez okretanja. Samo u rerni bi za zlatnu boju trebalo toliko dugo da se meso isuši.\n\nPrsa su gotova kad u najdebljem dijelu mesa pokažu 74 °C. Termometar zabodite u meso, a ne u nadjev, jer se sir ugrije brže. Bez termometra zarežite jedna prsa na najdebljem mjestu. Meso mora biti bijelo, bez ružičastog.\n\nPoslije rerne prsa neka odstoje pet minuta. Nadjev se za to vrijeme malo stegne, pa sir ne iscuri kad prerežete."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [
+        "pire-krompir"
+      ],
+      "leftovers": {},
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Punjena pileća prsa sa špinatom, rikotom i mocarelom",
+        "description": "Punjena pileća prsa sa špinatom, rikotom, mocarelom i parmezanom, zapečena u tavi i dopečena u rerni. Kako napraviti džep i kad je meso gotovo."
+      },
+      "family": "Piletina iz rerne",
+      "sourceNote": "Prepis SNK-NR-007. nasirecepti.com, stari post ID 873: https://nasirecepti.com/punjena-pileca-prsa/ (WP izvoz 2026-11-14). Preuzeto: 4 pileća prsa (oko 180 g), 150 g mladog špinata, 100 g ricotte, 80 g mozzarelle, 30 g parmezana, 1 češanj češnjaka, 3 žlice maslinova ulja (1 nadjev, 1 premaz, 1 tava), 1 žličica slatke paprike, sol, papar; špinat 2–3 min, iscijediti, ohladiti; 200 °C; džep do dvije trećine; dvije čačkalice; tava 2–3 min po strani; rerna 18–22 min do 74 °C; 5 min odmora; 4 porcije; prip. 20 + kuh. 30 min. Ukupno 55 min (hlađenje špinata)."
+    },
+    {
+      "planId": "SNK-NR-008",
+      "slug": "ravioli-sa-sirom",
+      "title": "Ravioli sa sirom",
+      "alternativeNames": [
+        "domaći ravioli",
+        "ravioli s rikotom",
+        "ravioli punjeni sirom"
+      ],
+      "summary": "Domaći ravioli sa sirom: tijesto od brašna i jaja, nadjev od rikote, parmezana i žumanjka. Kuhaju se 3–4 minute, a zatim se kratko proprže na maslacu.",
+      "beforeYouStart": "Tijesto treba 20 minuta da odmori, pa za to vrijeme napravite nadjev.",
+      "primaryCategory": "tjestenina-i-punjena-tijesta",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "rikota",
+        "sir",
+        "jaja",
+        "maslac"
+      ],
+      "diets": [],
+      "methods": [
+        "kuhanje"
+      ],
+      "difficulty": "zahtjevno",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 35,
+        "cookMinutes": 10,
+        "restMinutes": 20,
+        "restLabel": "odmaranja tijesta",
+        "totalMinutes": 65
+      },
+      "equipment": {
+        "other": "oklagija, nož ili kolut za tijesto, šupljikava kašika"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Tijesto",
+          "items": [
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 300,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 3,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1,
+              "unit": "prstohvat",
+              "label": "soli"
+            }
+          ]
+        },
+        {
+          "title": "Nadjev",
+          "items": [
+            {
+              "ingredient": "rikota",
+              "amount": 250,
+              "unit": "g",
+              "label": "rikote"
+            },
+            {
+              "ingredient": "parmezan",
+              "amount": 50,
+              "unit": "g",
+              "label": "rendanog parmezana"
+            },
+            {
+              "ingredient": "zumanjak",
+              "amount": 1,
+              "unit": "bez",
+              "label": "žumanjak"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            }
+          ]
+        },
+        {
+          "title": "Za posluživanje",
+          "items": [
+            {
+              "ingredient": "maslac",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "maslaca"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "parmezan",
+              "unit": "po-ukusu",
+              "label": "rendani parmezan"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "unit": "po-ukusu",
+              "label": "sitno sjeckanog bijelog luka",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Tijesto",
+          "steps": [
+            {
+              "text": "Brašno sipajte u veću posudu i u sredini napravite udubljenje."
+            },
+            {
+              "text": "U sredinu razbijte jaja i dodajte ulje i so."
+            },
+            {
+              "text": "Viljuškom postepeno uvlačite brašno u jaja, dok se ne poveže."
+            },
+            {
+              "text": "Mijesite 8–10 minuta, dok tijesto ne bude glatko i ne vraća se kad ga pritisnete prstom.",
+              "timerMinutes": 8
+            },
+            {
+              "text": "Tijesto zamotajte u foliju i pustite ga da odmara 20 minuta.",
+              "timerMinutes": 20
+            }
+          ]
+        },
+        {
+          "title": "Nadjev",
+          "steps": [
+            {
+              "text": "Izmiješajte rikotu, parmezan i žumanjak, pa posolite i pobiberite, dok smjesa ne bude glatka."
+            }
+          ]
+        },
+        {
+          "title": "Oblikovanje",
+          "steps": [
+            {
+              "text": "Oklagijom razvucite tijesto u tanke listove."
+            },
+            {
+              "text": "Po jednoj polovini lista poređajte male gomilice nadjeva, s razmakom."
+            },
+            {
+              "text": "Prekrijte drugom polovinom lista i prstima pritisnite tijesto oko svake gomilice, da istisnete zrak."
+            },
+            {
+              "text": "Izrežite raviole nožem ili kolutom za tijesto."
+            }
+          ]
+        },
+        {
+          "title": "Kuhanje",
+          "steps": [
+            {
+              "text": "Zakuhajte veliki lonac posoljene vode."
+            },
+            {
+              "text": "Ubacite raviole i kuhajte ih 3–4 minute, dok ne isplivaju.",
+              "timerMinutes": 3
+            },
+            {
+              "text": "Pokupite ih šupljikavom kašikom i pustite da se ocijede."
+            },
+            {
+              "text": "U tavi otopite maslac s kašikom ulja i kratko propržite raviole."
+            },
+            {
+              "text": "Pospite ih parmezanom ili ih poslužite u sosu od paradajza. Ko voli, može dodati i malo sjeckanog bijelog luka."
+            }
+          ]
+        }
+      ],
+      "approach": "detaljni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Koliko tanko treba razvaljati tijesto za raviole? Toliko da se kroz njega nazire ruka. Od tog pitanja zavisi skoro sve ostalo: debelo tijesto se u vodi kuha duže od nadjeva i ostane tvrdo na rubovima, a pretanko pukne već pri zatvaranju. Ravioli sa sirom zato traže malo strpljenja, ali sastojaka ima malo: brašno, jaja, rikota i parmezan."
+        },
+        {
+          "level": "h2",
+          "title": "Brašno i jaja, bez kapi vode",
+          "body": "Tijesto se pravi samo od glatkog brašna, jaja, kašike ulja i prstohvata soli. Vode nema, pa jaja daju i vlagu i elastičnost, a tijesto dobije blijedožutu boju. Italijanski recepti često traže posebno brašno tipa 00, ali ovaj je računat na obično glatko brašno i s njim radi.\n\nJaja nisu uvijek iste veličine, pa se i tijesto ponaša različito. Ako se poslije par minuta mijesenja i dalje mrvi, navlažite ruke i nastavite. Ako se lijepi za dlanove, pospite malo brašna. Mijesi se osam do deset minuta, dok površina ne postane glatka, a tijesto se ne vrati kad ga pritisnete prstom.\n\nDvadeset minuta odmora pod folijom nije formalnost. Tijesto se za to vrijeme opusti i kasnije se razvaljava bez stalnog skupljanja."
+        },
+        {
+          "level": "h2",
+          "title": "Nadjev ne smije biti vodenast",
+          "body": "Rikota se razlikuje od proizvođača do proizvođača, a neka u pakovanju pusti dosta surutke. Ako je vaša vlažna, ostavite je pola sata u cjediljki prije miješanja. Rijedak nadjev kroz šav iscuri u vodu, a ravioli ostanu prazni.\n\nParmezan nadjevu daje okus i gustinu, a žumanjak ga veže, pa se tokom kuhanja ne raspadne u zrnca. Posolite ga oprezno, jer parmezan već nosi dosta soli, i probajte prije nego što počnete puniti."
+        },
+        {
+          "level": "h2",
+          "title": "Istisnite zrak prije rezanja",
+          "body": "Tijesto razvaljajte dio po dio, a ostatak držite pod folijom, jer se na zraku brzo osuši i počne pucati. Kad je list dovoljno tanak, stavite na jednu polovinu male gomilice nadjeva, otprilike po kašičicu, s dovoljno razmaka da se tijesto oko svake može pritisnuti.\n\nPreklopite list i prstima pritiskajte od nadjeva prema rubu, tako da zrak izađe van. Zarobljen zrak se u vrućoj vodi širi i raskine šav. Tek kad je svaki jastučić zatvoren, izrežite raviole. Rubove po želji možete dodatno pritisnuti viljuškom."
+        },
+        {
+          "level": "h3",
+          "title": "Tijesto se kida dok ga razvaljate",
+          "body": "Najčešće je premalo odmaralo. Pokrijte ga i ostavite još desetak minuta. Ako je suho i puca po rubovima, preklopite ga, kratko premijesite mokrim rukama i pustite da ponovo odmori."
+        },
+        {
+          "level": "h3",
+          "title": "Ravioli pucaju u vodi",
+          "body": "U njima je ostalo zraka ili su prepunjeni. Pomaže i to da voda samo živo ključa, a ne kipi divlje, jer ih jaki mjehurići bacaju jedan o drugi."
+        },
+        {
+          "level": "h3",
+          "title": "Lijepe se jedan za drugi",
+          "body": "Gotove raviole slažite u jednom sloju na pobrašnjenu dasku ili lim, nikad jedan na drugi, i kuhajte ih što prije."
+        },
+        {
+          "level": "h2",
+          "title": "Maslac ili sos od paradajza?",
+          "body": "Najjednostavnije je raviole poslije kuhanja kratko propržiti na maslacu i kašiki maslinovog ulja. Odozdo dobiju tanku zlatnu koricu, a nadjev ostane mekan, pa je dovoljno još malo rendanog parmezana. Za prvi put preporučujemo baš tako. Sos od paradajza, s malo bijelog luka, čini jelo punijim i dobar je izbor kad su ravioli glavni obrok.\n\nSirovi ravioli se mogu zamrznuti. Složite ih na pobrašnjen lim tako da se ne dodiruju, pa kad se stvrdnu, prebacite ih u vrećicu. Kuhaju se direktno iz zamrzivača, bez odmrzavanja, minut-dva duže od svježih."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Ravioli sa sirom: domaće tijesto i nadjev od rikote",
+        "description": "Domaći ravioli sa sirom od tijesta s jajima i nadjeva od rikote i parmezana. Koliko tanko razvaljati, kako zatvoriti da ne pucaju i kako ih zamrznuti."
+      },
+      "family": "Punjena tijesta",
+      "sourceNote": "Prepis SNK-NR-008. nasirecepti.com, stari post ID 141: https://nasirecepti.com/ravioli-sa-sirom/ (WP izvoz 2026-11-14). Preuzeto: tijesto 300 g glatkog brašna, 3 jaja, 1 kašika maslinovog ulja, prstohvat soli, mijesiti 8–10 min, 20 min odmora; nadjev 250 g ricotte, 50 g parmezana, 1 žumanjak, sol, biber; tanki listovi, gomilice nadjeva, pritisnuti oko nadjeva, izrezati; kuhati u posoljenoj vodi 3–4 min dok ne isplivaju; kratko propržiti na 2 kašike maslaca i 1 kašici maslinovog ulja; parmezan ili sos od rajčice, po želji bijeli luk; 4 porcije; prip. 35 + kuh. 10 min. Opšte poznato (nije iz izvora): brašno 00, cijeđenje rikote, zamrzavanje sirovih raviola. Količina nadjeva po raviolu (oko kašičice) dodana kao orijentacija. Dijeta „vegetarijansko“ nije upisana (parmezan)."
+    },
+    {
+      "planId": "SNK-NR-009",
+      "slug": "piletina-u-sosu-od-senfa",
+      "title": "Piletina u sosu od pavlake i senfa",
+      "alternativeNames": [
+        "piletina u sosu od senfa",
+        "piletina sa senfom i pavlakom",
+        "piletina u bijelom sosu sa senfom"
+      ],
+      "summary": "Piletina u sosu od pavlake i senfa: zabataci bez kosti pečeni u tavi, a u istoj tavi za par minuta nastane sos od slatke pavlake, dijona i zrnatog senfa.",
+      "primaryCategory": "jela-s-mesom",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "piletina",
+        "senf",
+        "vrhnje"
+      ],
+      "diets": [
+        "bez-jaja"
+      ],
+      "methods": [
+        "przenje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 10,
+        "totalMinutes": 20
+      },
+      "equipment": {
+        "other": "veća tava"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Piletina",
+          "items": [
+            {
+              "ingredient": "pileci-zabataci",
+              "amount": 700,
+              "unit": "g",
+              "label": "pilećih zabataka bez kosti i kože",
+              "note": "ili pilećih prsa"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 1.5,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "soli"
+            },
+            {
+              "ingredient": "biber",
+              "amount": 0.25,
+              "unit": "kasicica",
+              "label": "mljevenog bibera"
+            }
+          ]
+        },
+        {
+          "title": "Sos",
+          "items": [
+            {
+              "ingredient": "slatka-pavlaka",
+              "amount": 120,
+              "unit": "ml",
+              "label": "slatke pavlake za kuhanje"
+            },
+            {
+              "ingredient": "senf",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "dijon senfa"
+            },
+            {
+              "ingredient": "senf",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "senfa sa zrnima"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.25,
+              "unit": "kasicica",
+              "label": "soli"
+            },
+            {
+              "ingredient": "biber",
+              "amount": 0.25,
+              "unit": "kasicica",
+              "label": "mljevenog bibera"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 1,
+              "amountMax": 2,
+              "unit": "kasika",
+              "label": "vode",
+              "note": "po potrebi"
+            },
+            {
+              "ingredient": "estragon",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "svježeg estragona",
+              "note": "sitno sjeckanog",
+              "optional": true
+            },
+            {
+              "ingredient": "persun",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "svježeg peršuna",
+              "note": "sitno sjeckanog",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Piletinu posolite i pobiberite s obje strane."
+            },
+            {
+              "text": "Veću tavu s maslinovim uljem stavite na srednje jaku vatru."
+            },
+            {
+              "text": "Piletinu pržite oko 4 minute na prvoj strani.",
+              "timerMinutes": 4
+            },
+            {
+              "text": "Okrenite komade i pržite drugu stranu još oko 3 minute, dok meso ne bude pečeno do sredine.",
+              "timerMinutes": 3
+            },
+            {
+              "text": "Izvadite piletinu na tanjir i ostavite je da kratko odstoji."
+            },
+            {
+              "text": "Ako je na dnu tave nešto pocrnjelo, izvadite to, a smeđe zapečeno ostavite."
+            },
+            {
+              "text": "U tavu sipajte pavlaku i oba senfa i miješajte dok se ne sjedine."
+            },
+            {
+              "text": "Začinite solju i biberom, a po želji umiješajte estragon i peršun. Gust sos razrijedite kašikom-dvije vode."
+            },
+            {
+              "text": "Na tanjire složite piletinu, prelijte je sosom i odmah poslužite."
+            }
+          ]
+        }
+      ],
+      "approach": "brzi",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "U ovaj sos idu dva senfa, i to nije hir. Dijon daje oštrinu, a senf sa zrnima blaži, kiselkast okus i malo teksture. Sam dijon bi sos učinio oštrim, a sam zrnati blagim i rijetkim. Zajedno daju sos koji nije ni bljutav ni ljut.\n\nOstalo je brzo, pa je ovo ručak za radni dan, kad se kući stigne kasno. Piletina se ispeče za sedam minuta, a sos nastane dok meso stoji na tanjiru. Najduže od svega ovdje traje dogovor oko priloga."
+        },
+        {
+          "level": "h2",
+          "title": "Zabatak, a može i prsa",
+          "body": "Ja za ovo uzimam zabatke bez kosti. U tavi ostanu sočni i oproste minut viška. Prsa mogu, ali ih prije pečenja istucite na ujednačenu debljinu. Inače se tanji kraj osuši dok se deblji ispeče.\n\nSok koji meso pusti na tanjiru možete sipati u sos. Šteta ga je baciti."
+        },
+        {
+          "level": "h2",
+          "title": "Sos se ne kuha dugo",
+          "body": "Čim se pavlaka i senf sjedine i sos se malo zgusne, gotov je. Predugo kuhan postane gust kao krema i izgubi oštrinu senfa.\n\nAko imate samo dijon, uzmite ga dvije kašike, pa će sos biti oštriji i glatkiji.\n\nEstragon ima blag okus koji podsjeća na anis i klasičan je pratilac senfa i piletine. Ako ga nemate, dovoljan je peršun.\n\nUz ovu piletinu fino ide pire krompir, riža ili tjestenina, nešto što pokupi sos."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [
+        "pire-krompir"
+      ],
+      "leftovers": {},
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Piletina u sosu od pavlake i dva senfa, za 20 minuta",
+        "description": "Zabataci bez kosti pečeni u tavi i preliveni sosom od slatke pavlake, dijona i zrnatog senfa. Brz ručak za radni dan, gotov za oko 20 minuta."
+      },
+      "family": "Piletina iz tave",
+      "sourceNote": "Prepis SNK-NR-009. nasirecepti.com, stari post ID 230: https://nasirecepti.com/piletina-u-umaku-od-vrhnja-i-senfa/ (WP izvoz 2026-11-14). Preuzeto: 700 g pilećih zabataka bez kosti i kože (ili prsa), 1 ½ žlica maslinovog ulja, ½ žličice soli, ¼ žličice papra; sos: 120 ml vrhnja za kuhanje, 1 žlica Dijon senfa, 1 žlica senfa sa zrnima, ¼ žličice soli, ¼ žličice papra, 1–2 žlice vode po potrebi, 2 žličice estragona i 2 žličice peršina (po želji); srednje jaka vatra 4 + 3 min; ukloniti samo zagorjele komadiće; 4 porcije; prip. 10 + kuh. 10 min. Opšte poznato (nije iz izvora): tučenje prsa, sok s tanjira u sos, zamjena samo dijon senfom. Duhovit ton: jedna rečenica u uvodu."
+    },
+    {
+      "planId": "SNK-NR-010",
+      "slug": "rizoto-s-kozicama",
+      "title": "Rižoto s kozicama",
+      "alternativeNames": [
+        "rižoto od kozica",
+        "rižoto sa škampima",
+        "rižoto s račićima"
+      ],
+      "summary": "Rižoto s kozicama na domaćem temeljcu od glava i ljuski, s bijelim vinom, maslacem, peršunom i limunovom koricom. Repovi idu u tavu tek pred kraj, pa ostanu mekani.",
+      "beforeYouStart": "Temeljac od ljuski se kuha 20 minuta, pa ga pristavite prije nego što počnete s rižom.",
+      "primaryCategory": "riza-i-zitarice",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "riza",
+        "limun",
+        "bijeli-luk"
+      ],
+      "diets": [
+        "bez-jaja"
+      ],
+      "methods": [
+        "kuhanje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 20,
+        "cookMinutes": 45,
+        "totalMinutes": 65
+      },
+      "equipment": {
+        "other": "lonac za temeljac, cjediljka, široka tava, kutlača"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Temeljac",
+          "items": [
+            {
+              "ingredient": "kozice",
+              "amount": 600,
+              "unit": "g",
+              "label": "cijelih kozica u ljusci"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 1.2,
+              "unit": "l",
+              "label": "vode"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            }
+          ]
+        },
+        {
+          "title": "Rižoto",
+          "items": [
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 3,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 3,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sjeckana"
+            },
+            {
+              "ingredient": "riza-za-rizoto",
+              "amount": 300,
+              "unit": "g",
+              "label": "riže za rižoto",
+              "note": "arborio ili carnaroli"
+            },
+            {
+              "ingredient": "bijelo-vino",
+              "amount": 100,
+              "unit": "ml",
+              "label": "suhog bijelog vina"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 30,
+              "unit": "g",
+              "label": "maslaca"
+            },
+            {
+              "ingredient": "persun",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "sjeckanog peršuna"
+            },
+            {
+              "ingredient": "limun",
+              "amount": 0.5,
+              "unit": "bez",
+              "label": "limuna",
+              "note": "samo rendana korica"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Temeljac",
+          "steps": [
+            {
+              "text": "Kozicama otkinite glave, oljuštite repove i očistite ih."
+            },
+            {
+              "text": "Repove spremite u frižider, a četiri kozice po želji sačuvajte neoljuštene, za ukras."
+            },
+            {
+              "text": "Glave i ljuske pržite u loncu na kašiki maslinovog ulja 3 minute.",
+              "timerMinutes": 3
+            },
+            {
+              "text": "Nalijte 1,2 l vode, malo posolite, poklopite i kuhajte 20 minuta.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Temeljac procijedite kroz gusto sito i držite ga vrućim."
+            }
+          ]
+        },
+        {
+          "title": "Rižoto",
+          "steps": [
+            {
+              "text": "Na ostatku ulja u širokoj tavi pirjajte crni luk 4 minute.",
+              "timerMinutes": 4
+            },
+            {
+              "text": "Ubacite bijeli luk, a pola minute kasnije i rižu. Pržite rižu 2 minute, stalno je miješajući, dok joj ivice ne postanu staklaste.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Dolijte vino i sačekajte da ispari, uz miješanje."
+            },
+            {
+              "text": "Dolijevajte vruć temeljac kutlaču po kutlaču, svaku tek kad riža upije prethodnu, i stalno miješajte. Tako kuhajte 15–16 minuta.",
+              "timerMinutes": 15
+            },
+            {
+              "text": "Kad riži ostane još malo do kraja, umiješajte repove i dolijte još malo temeljca. Neoljuštene kozice poređajte po površini."
+            },
+            {
+              "text": "Kuhajte 2–3 minute, dok repovi ne postanu ružičasti.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Skinite tavu s ringle, pa dodajte maslac, peršun i rendanu koricu limuna."
+            },
+            {
+              "text": "Začinite solju i biberom, pokrijte i ostavite 2 minute.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Rižoto odmah podijelite po tanjirima, dok je još malo tečan."
+            }
+          ]
+        }
+      ],
+      "approach": "tradicionalni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "U ovom receptu se od kozica ništa ne baca. Repovi idu u rižoto, a glave i ljuske, koje inače završe u smeću, kuhaju se u temeljac. Upravo taj temeljac nosi okus jela, pa rižoto s kozicama miriše na more bez ijedne kocke za supu."
+        },
+        {
+          "level": "h2",
+          "title": "Temeljac iz onoga što se inače baci",
+          "body": "Glave i ljuske se prvo tri minute peku na kašiki ulja, dok ne postanu narandžaste i ne zamirišu. Tek onda se preliju vodom. Prepečene daju temeljcu dublju boju i jači okus nego kad se odmah kuhaju u vodi.\n\nDvadeset minuta lagane vatre je dovoljno. Duže kuhanje ne donosi više okusa, a temeljac od ljuski zna postati gorkast. Posolite ga samo lagano, jer će se tokom kuhanja rižota ukuhati, a procijedite ga kroz gusto sito, da u rižoto ne dospiju komadići ljuske."
+        },
+        {
+          "level": "h2",
+          "title": "Kako se ovo jelo pravi na obali",
+          "body": "Na dalmatinskoj obali rižoto od plodova mora tradicionalno se kuha na temeljcu od tih istih plodova, a ne na kocki ni povrtnom temeljcu. Isto se pravi rižoto od škampa, a crni rižoto dobija boju od crnila sipe. Zajedničko im je i to da se uz njih ne stavlja sir.\n\nZato, za razliku od [rižota s gljivama](/recepti/rizoto-s-gljivama/), ovdje nema parmezana. Maslac na kraju veže rižoto i daje mu kremastost, a sir bi prekrio blag, slatkast okus kozica."
+        },
+        {
+          "level": "h2",
+          "title": "Kozice idu tek na kraju",
+          "body": "Repovi se umiješaju kad je riža skoro gotova i kuhaju se samo dvije do tri minute, dok ne promijene boju iz sive u ružičastu. Duže od toga postanu tvrdi i gumeni. Cijele kozice za ukras polože se odozgo i ugriju se u pari ispod poklopca.\n\nKorica limuna i peršun dodaju se kad je tava već skinuta s vatre, da ostanu svježi. Rendajte samo žuti dio kore, jer je bijeli sloj ispod gorak."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "rizoto-s-gljivama"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Rižoto s kozicama, limunovom koricom i peršunom",
+        "description": "Rižoto s kozicama kuhan na temeljcu od njihovih glava i ljuski, s bijelim vinom, limunom i peršunom, bez sira. Kozice idu tek na kraju, da ostanu sočne."
+      },
+      "family": "Rižota",
+      "sourceNote": "Prepis SNK-NR-010. nasirecepti.com, stari post ID 879: https://nasirecepti.com/rizoto-s-kozicama/ (WP izvoz 2026-11-14). Preuzeto: 600 g cijelih kozica u ljusci, 300 g arborio ili carnaroli riže, 1 glavica luka, 3 češnja češnjaka, 100 ml suhog bijelog vina, 4 žlice maslinova ulja (1 za ljuske), 30 g maslaca, 1,2 l vode, korica pola limuna, 2 žlice peršina, sol, papar; ljuske 3 min, voda, lagano posoliti, 20 min poklopljeno; luk 4 min, češnjak pa riža 2 min; vino; temeljac 15–16 min; kozice 2–3 min; maslac, peršin, korica s vatre, 2 min poklopljeno; 4 porcije; prip. 20 + kuh. 45 min. Opšte poznato (nije iz izvora): dalmatinska tradicija temeljca od plodova mora, bez sira uz plodove mora, gorčina dugo kuhanog temeljca od ljuski, bijeli dio kore."
+    },
+    {
+      "planId": "SNK-NR-011",
+      "slug": "pileca-prsa-iz-rerne",
+      "title": "Pileća prsa iz rerne s krompirom",
+      "alternativeNames": [
+        "pileća prsa iz rerne",
+        "pečena pileća prsa s krompirom",
+        "pileća prsa s kožom iz rerne"
+      ],
+      "summary": "Pileća prsa s kožom pečena u rerni sa začinom za piletinu i maslacem, uz krompir koji se prije pečenja kratko skuha. Žalfija, majčina dušica i malo ljute papričice daju miris cijeloj posudi.",
+      "primaryCategory": "jela-s-mesom",
+      "meals": [
+        "rucak"
+      ],
+      "tags": [
+        "piletina",
+        "krompir",
+        "maslac"
+      ],
+      "diets": [
+        "bez-jaja"
+      ],
+      "methods": [
+        "pecenje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 20,
+        "cookMinutes": 60,
+        "restMinutes": 10,
+        "restLabel": "odmaranja",
+        "totalMinutes": 90
+      },
+      "equipment": {
+        "temperature": 200,
+        "other": "veća posuda za pečenje"
+      },
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "krompir",
+              "amount": 1.2,
+              "unit": "kg",
+              "label": "krompira"
+            },
+            {
+              "ingredient": "pileca-prsa-s-kozom",
+              "amount": 1,
+              "unit": "kg",
+              "label": "pilećih prsa s kožom",
+              "note": "2 komada, oko 500 g svaki"
+            },
+            {
+              "ingredient": "zacin-za-piletinu",
+              "amount": 30,
+              "unit": "g",
+              "label": "začina za piletinu"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 50,
+              "unit": "g",
+              "label": "maslaca",
+              "note": "otopljenog"
+            },
+            {
+              "ingredient": "bijelo-vino",
+              "amount": 50,
+              "unit": "ml",
+              "label": "bijelog vina"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 40,
+              "unit": "ml",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "svježe mljeveni biber"
+            },
+            {
+              "ingredient": "majcina-dusica",
+              "unit": "po-ukusu",
+              "label": "nekoliko grančica svježe majčine dušice"
+            },
+            {
+              "ingredient": "ljuta-papricica",
+              "amount": 1,
+              "unit": "bez",
+              "label": "crvena ljuta papričica",
+              "note": "sitno sjeckana"
+            },
+            {
+              "ingredient": "zalfija",
+              "amount": 10,
+              "unit": "list",
+              "label": "svježe žalfije"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Zagrijte rernu na 200 °C."
+            },
+            {
+              "text": "Krompir ogulite i narežite na kriške."
+            },
+            {
+              "text": "Kriške ubacite u kipuću slanu vodu, kuhajte ih oko 10 minuta i ocijedite.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Pileća prsa natrljajte začinom za piletinu sa svih strana."
+            },
+            {
+              "text": "Stavite ih u posudu za pečenje, kožom prema gore."
+            },
+            {
+              "text": "Oko piletine rasporedite krompir."
+            },
+            {
+              "text": "Preko piletine sipajte otopljeni maslac."
+            },
+            {
+              "text": "Krompir zalijte vinom i maslinovim uljem."
+            },
+            {
+              "text": "Začinite solju i biberom koliko treba, a između krompira poređajte majčinu dušicu, papričicu i listove žalfije."
+            },
+            {
+              "text": "Pecite 50–60 minuta, dok koža piletine ne postane zlatna i hrskava, a krompir ne porumeni.",
+              "timerMinutes": 50
+            },
+            {
+              "text": "Piletinu pokrijte i ostavite oko 10 minuta da odmori.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Narežite je na šnite i poslužite s krompirom i sokom iz posude."
+            }
+          ]
+        }
+      ],
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Pileći file i prsa s kožom nisu isto meso u rerni. File za sat na 200 °C postane suh kao karton. Koža ga čuva: topi se, maže meso odozgo i na kraju postane hrskava. Zato za ovaj ručak tražite cijela prsa s kožom, dva komada od po pola kile. Kod nas je ovo nedjeljni ručak: posuda ide u rernu, a za sat i nešto se sjeda za sto."
+        },
+        {
+          "level": "h2",
+          "title": "Krompir prvo deset minuta u vodu",
+          "body": "Sirov krompir i prsa ne stignu u isto vrijeme. Zato se krompir prvo kuha desetak minuta u slanoj vodi. Kad ga ocijedite, rubovi kriški se malo raspuhnu. Upravo ti rubovi u rerni postanu hrskavi.\n\nOcijeđen krompir ostavite minut-dva da se ispari, pa ga tek onda stavite u posudu. Mokar se peče sporije i ne porumeni lijepo."
+        },
+        {
+          "level": "h2",
+          "title": "Šta ide preko čega",
+          "body": "Otopljeni maslac ide preko kože. Polahko se topi s nje u posudu i usput je zapeče u zlatnu koru. Krompir dobije vino i maslinovo ulje: vino brzo ispari i ostavi mu blagu kiselinu.\n\nZačin za piletinu već ima so, pa posolite samo ako treba. Ljutu papričicu ja sitno sjeckam, da se ljutina rasporedi, a ne da jedan zalogaj peče. Žalfiju i majčinu dušicu pobacajte između kriški krompira."
+        },
+        {
+          "level": "h2",
+          "title": "Ako koža ne porumeni",
+          "body": "Kad je krompir već gotov, a koža i dalje blijeda, premjestite posudu na gornju rešetku za zadnjih desetak minuta. Ako rerna ima ventilator, uključite ga za kraj. Koža tad brzo uhvati boju, a meso se ne stigne isušiti."
+        },
+        {
+          "level": "h2",
+          "title": "Deset minuta pod poklopcem",
+          "body": "Kad izvadite posudu, prsa pokrijte folijom ili poklopcem i ostavite deset minuta. Meso se slegne, pa se šnite lijepo režu i ne raspadaju.\n\nSok s dna posude ne bacajte, nego ga prelijte preko šnita."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "pecena-piletina-s-krompirom",
+        "pileci-bataci-iz-rerne"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Pileća prsa iz rerne s kožom, krompirom i žalfijom",
+        "description": "Pileća prsa s kožom pečena na 200 °C uz krompir, maslac, bijelo vino i žalfiju. Zašto prsa s kožom, a ne file, i zašto krompir prvo deset minuta u vodu."
+      },
+      "family": "Piletina iz rerne",
+      "sourceNote": "Prepis SNK-NR-011. nasirecepti.com, stari post ID 500: https://nasirecepti.com/pileca-prsa-iz-pecnice/ (WP izvoz 2026-11-14). Preuzeto: 1,2 kg krumpira, 2 pileća prsa s kožom (oko 2 × 500 g), 30 g začina za piletinu, 50 g maslaca, 50 ml bijelog vina, 40 ml maslinovog ulja, sol, papar, nekoliko grančica timijana, 1 crvena čili papričica, 10 listova kadulje; krumpir na kriške 10 min u kipućoj slanoj vodi; prsa kožom gore; maslac na piletinu, vino i ulje na krumpir; 200 °C 50–60 min; 10 min odmora pokriveno; 6 porcija; prip. 20 + kuh. 60 min. Izvor ne navodi da li su prsa s kosti. Opšte poznato (nije iz izvora): ispariti krompir prije pečenja. Lični detalj: navika (nedjeljni ručak)."
+    },
+    {
+      "planId": "SNK-NR-012",
+      "slug": "bijelo-meso-u-sosu",
+      "title": "Bijelo meso u sosu sa šampinjonima",
+      "alternativeNames": [
+        "bijelo meso u sosu",
+        "piletina u sosu sa šampinjonima",
+        "pileća prsa u bijelom sosu"
+      ],
+      "summary": "Bijelo meso u sosu: pileća prsa istučena i zapečena na margarinu, pa kratko kuhana u sosu od bijelog vina, slatke pavlake i šampinjona. Gotovo za četrdesetak minuta.",
+      "primaryCategory": "jela-s-mesom",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "piletina",
+        "gljive",
+        "vrhnje"
+      ],
+      "diets": [
+        "bez-jaja"
+      ],
+      "methods": [
+        "przenje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "cookMinutes": 25,
+        "totalMinutes": 40
+      },
+      "equipment": {
+        "other": "veća tava, batić za meso"
+      },
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "pileca-prsa",
+              "amount": 4,
+              "unit": "kom",
+              "label": "pileća prsa"
+            },
+            {
+              "ingredient": "margarin",
+              "amount": 80,
+              "unit": "g",
+              "label": "margarina"
+            },
+            {
+              "ingredient": "bijelo-vino",
+              "amount": 1,
+              "unit": "dl",
+              "label": "bijelog vina"
+            },
+            {
+              "ingredient": "slatka-pavlaka",
+              "amount": 1,
+              "unit": "dl",
+              "label": "slatke pavlake za kuhanje"
+            },
+            {
+              "ingredient": "sampinjoni",
+              "amount": 250,
+              "unit": "g",
+              "label": "šampinjona",
+              "note": "svježih ili mariniranih, na listiće"
+            },
+            {
+              "ingredient": "zacin-za-piletinu",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "začina za piletinu"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Prsa isijecite na odreske ili na kocke."
+            },
+            {
+              "text": "Lagano ih istucite, da budu ujednačene debljine."
+            },
+            {
+              "text": "Šampinjone kratko propirjajte u posebnoj posudi."
+            },
+            {
+              "text": "U tavi otopite margarin i zapecite meso s obje strane, da dobije zlatnu boju."
+            },
+            {
+              "text": "Ulijte vino i lagano pirjajte nekoliko minuta, dok dio tečnosti ne ispari."
+            },
+            {
+              "text": "Dodajte pavlaku, začin za piletinu i šampinjone."
+            },
+            {
+              "text": "Pustite da kuha još par minuta, dok sos ne postane gust."
+            },
+            {
+              "text": "Po potrebi posolite i poslužite."
+            }
+          ]
+        }
+      ],
+      "approach": "brzi",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Pileća prsa se u domaćim kuhinjama zovu bijelo meso, a bijelo meso u sosu obično znači upravo ovo: kratko zapečeni odresci, malo bijelog vina, slatka pavlaka i šampinjoni. Jelo je brzo, ali prsa ne podnose dugo kuhanje. Nemaju masnoće ni vezivnog tkiva koje bi ih omekšalo, pa svaki minut viška istiskuje sok iz mesa. Zato meso u sosu provede tek nekoliko minuta, koliko treba da se sos zgusne."
+        },
+        {
+          "level": "h2",
+          "title": "Zašto se meso tuče?",
+          "body": "Prsa su na jednom kraju debela, a na drugom tanka. Ako ih ne istučete, tanji dio se osuši prije nego što se deblji ispeče. Kad su ujednačene debljine, svi komadi budu gotovi u isto vrijeme. Dovoljno ih je lagano istući batićem ili dnom tave, kroz prozirnu foliju, da se meso ne kida."
+        },
+        {
+          "level": "h2",
+          "title": "Svježi ili marinirani šampinjoni",
+          "body": "Recept dozvoljava oboje. Marinirani su kiseliji, pa i sos bude oštriji, a prije dodavanja ih treba dobro ocijediti, da ga ne razvodne. Svježi daju blaži sos, u kojem se više osjeti pavlaka.\n\nUmjesto margarina može maslac, ali on brže zagori, pa meso tada pecite na srednjoj vatri. Zabataci mogu umjesto prsa, uz nekoliko minuta duže pečenja, jer su deblji i čvršći. Sos na kraju kuhajte samo dok se ne zgusne toliko da se lagano hvata za kašiku; ako je pregust, dolijte kašiku-dvije vode."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [
+        "pire-krompir"
+      ],
+      "leftovers": {},
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Bijelo meso u sosu sa šampinjonima i bijelim vinom",
+        "description": "Pileća prsa istučena, zapečena na margarinu i kratko kuhana u sosu od bijelog vina, slatke pavlake i šampinjona. Brz ručak uz pire, rižu ili tjesteninu."
+      },
+      "family": "Piletina iz tave",
+      "sourceNote": "Prepis SNK-NR-012. nasirecepti.com, stari post ID 508: https://nasirecepti.com/bijelo-meso-u-umaku/ (WP izvoz 2026-11-14). Preuzeto: 4 pileća prsa, 1 dl bijelog vina, 1 dl vrhnja za kuhanje, 250 g šampinjona (svježih ili mariniranih), 1 žlica začina za piletinu (Vegeta ili sličan — brend izbačen), 80 g margarina, sol; narezati, lagano istući; zapeći na margarinu; vino nekoliko minuta; vrhnje, začin, prethodno kratko pirjani šampinjoni; kuhati nekoliko minuta; 4 porcije; prip. 15 + kuh. 25 min. NEDOSTAJE: težina pilećih prsa (izvor: 4 komada) i na čemu se šampinjoni pirjaju (izvor: „prethodno kratko pirjane“). Vremena u koracima izvor navodi samo kao „nekoliko minuta“. Opšte poznato (nije iz izvora): maslac umjesto margarina, marinirani šampinjoni oštriji."
+    }
+  ]
+}

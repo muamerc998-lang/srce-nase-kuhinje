@@ -7311,6 +7311,7 @@ https://tvojrecept.com/recepti/sok-od-grozda
 ### SNK-0334 — Faširane šnicle
 
 - **ID:** SNK-0334
+- **Pokriveno prepisom:** SNK-NR-005 (`fasirane-snicle`, prepis s nasirecepti, 2026-11-14) — ne pisati ponovo.
 - **Recept / radni naslov:** Faširane šnicle
 - **Glavna ključna riječ:** faširane šnicle
 - **Dodatne ključne riječi:** faširane šnicle u umaku od gljiva
@@ -8713,6 +8714,7 @@ https://tvojrecept.com/recepti/povrtna-supa-za-mrsanje-recept
 ### SNK-0430 — Ravioli sa sirom
 
 - **ID:** SNK-0430
+- **Pokriveno prepisom:** SNK-NR-008 (`ravioli-sa-sirom`, prepis s nasirecepti, 2026-11-14) — ne pisati ponovo.
 - **Recept / radni naslov:** Ravioli sa sirom
 - **Glavna ključna riječ:** ravioli sa sirom
 **Vanjski izvor recepture:**
@@ -9586,6 +9588,7 @@ https://tvojrecept.com/recepti/uskrsnji-cupcakes-sa-kremom-od-vanilije
 ### SNK-0490 — Dagnje na buzaru
 
 - **ID:** SNK-0490
+- **Pokriveno prepisom:** SNK-NR-004 (`buzara-od-dagnji`, prepis s nasirecepti, 2026-11-14) — ne pisati ponovo.
 - **Recept / radni naslov:** Dagnje na buzaru
 - **Glavna ključna riječ:** dagnje na buzaru
 - **Dodatne ključne riječi:** buzara od dagnji
@@ -10108,6 +10111,7 @@ https://korisni.com/rucak/piletina-s-curryjem-i-rizom
 ### SNK-0521 — Piletina u umaku od vrhnja i senfa
 
 - **ID:** SNK-0521
+- **Pokriveno prepisom:** SNK-NR-009 (`piletina-u-sosu-od-senfa`, prepis s nasirecepti, 2026-11-14) — ne pisati ponovo.
 - **Recept / radni naslov:** Piletina u umaku od vrhnja i senfa
 - **Glavna ključna riječ:** piletina u umaku od vrhnja i senfa
 - **Vanjski izvor recepture:** https://nasirecepti.com/piletina-u-umaku-od-vrhnja-i-senfa/
@@ -13582,5 +13586,15 @@ Recepti preuzeti s nasirecepti.com i napisani ispočetka po `content/PREPIS-NASI
 
 | SNK ID | Recept | Slug | Stari post | Status |
 |---|---|---|---|---|
-| SNK-NR-001 | Pileći bataci iz rerne | pileci-bataci-iz-rerne | nasirecepti ID 870 | nacrt |
-| SNK-NR-002 | Rižoto s gljivama (pokriva SNK-0527) | rizoto-s-gljivama | nasirecepti ID 852 | nacrt |
+| SNK-NR-001 | Pileći bataci iz rerne | pileci-bataci-iz-rerne | nasirecepti ID 870 | objavljeno |
+| SNK-NR-002 | Rižoto s gljivama (pokriva SNK-0527) | rizoto-s-gljivama | nasirecepti ID 852 | objavljeno |
+| SNK-NR-003 | Pileći gulaš s krompirom i mrkvom | pileci-gulas | nasirecepti ID 867 | nacrt |
+| SNK-NR-004 | Buzara od dagnji (pokriva SNK-0490) | buzara-od-dagnji | nasirecepti ID 128 | nacrt |
+| SNK-NR-005 | Faširane šnicle u sosu od gljiva (pokriva SNK-0334) | fasirane-snicle | nasirecepti ID 236 | nacrt |
+| SNK-NR-006 | Rižoto s povrćem | rizoto-s-povrcem | nasirecepti ID 876 | nacrt |
+| SNK-NR-007 | Punjena pileća prsa sa špinatom i sirom | punjena-pileca-prsa | nasirecepti ID 873 | nacrt |
+| SNK-NR-008 | Ravioli sa sirom (pokriva SNK-0430) | ravioli-sa-sirom | nasirecepti ID 141 | nacrt |
+| SNK-NR-009 | Piletina u sosu od pavlake i senfa (pokriva SNK-0521) | piletina-u-sosu-od-senfa | nasirecepti ID 230 | nacrt |
+| SNK-NR-010 | Rižoto s kozicama | rizoto-s-kozicama | nasirecepti ID 879 | nacrt |
+| SNK-NR-011 | Pileća prsa iz rerne s krompirom | pileca-prsa-iz-rerne | nasirecepti ID 500 | nacrt |
+| SNK-NR-012 | Bijelo meso u sosu sa šampinjonima | bijelo-meso-u-sosu | nasirecepti ID 508 | nacrt |

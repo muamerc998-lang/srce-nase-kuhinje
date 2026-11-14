@@ -166,6 +166,20 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   'bijelo-vino': n(82, 0.1, 2.6, 0, { density: 0.99 }),
   'povrtni-temeljac': n(5, 0.2, 1, 0.1, { density: 1.0 }),
   parmezan: n(420, 28.4, 13.9, 27.8, { density: 0.4 }),
+  'pileci-zabataci': n(121, 19.7, 0, 4.1),
+  'pileca-prsa': n(120, 22.5, 0, 2.6, { pieces: { kom: 180, bez: 180 } }),
+  'pileca-prsa-s-kozom': n(172, 20.9, 0, 9.3),
+  dagnje: n(86, 11.9, 3.7, 2.2, { edible: 0.35 }),
+  kozice: n(85, 20.1, 0, 0.5, { edible: 0.5 }),
+  tikvica: n(17, 1.2, 3.1, 0.3, { pieces: { bez: 200, kom: 200 } }),
+  kecap: n(101, 1, 27, 0.1, { density: 1.15 }),
+  'govedji-temeljac': n(7, 1.1, 0.1, 0.2, { density: 1.0 }),
+  margarin: n(717, 0.2, 0.7, 80, { density: 0.95 }),
+  zumanjak: n(322, 15.9, 3.6, 26.5, { pieces: { bez: 17, kom: 17 } }),
+  'zacin-za-piletinu': zero,
+  estragon: zero,
+  zalfija: zero,
+  'ljuta-papricica': zero,
 }
 
 /** Kuhinjske mjere u ml. */

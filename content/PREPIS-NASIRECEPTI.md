@@ -88,12 +88,25 @@ Pišu se **jedan po jedan**, svaki iz svog briefa. Nikad više recepata iz zajed
 4. **Recept:** brojke u tekstu i na kartici se slažu, nema američkih mjera ni stranih brendova, nema zaostalih čudnih brojki.
 5. **Original:** nijedna rečenica iz starog posta (provjera poređenjem).
 
+Pokreće se: `python -I scripts/provjera-tekstova.py content/recepti/nasirecepti-*.json --xml nasirecepti.WordPress.2026-11-14.xml` (sve serije zajedno, redom iz loga).
+
+**Granice šablona za cijeli sajt** (provjerava `scripts/provjera-tekstova.py`):
+- rečenica o prilogu na kraju („Uz … ide / poslužite / služe se …“): najviše 1 u 5 recepata, i samo kad prilog stvarno nešto znači za jelo;
+- naslovi „Kad nešto ne ide…“ i „Šta se (najčešće) pita…“: svaki najviše jednom na sajtu;
+- „Tri situacije / problema … (naj)češće“: najviše jednom na sajtu;
+- „jedna tava / jednoj tavi“ u uvodu: najviše 1 u 10;
+- „radni dan“: najviše 1 u 5;
+- ulaz „problem + skoro uvijek / najčešće / gotovo uvijek“: najviše 1 u 5;
+- sekcija razbijena na H3 podnaslove: najviše 1 u 5;
+- lični detalj „kod nas“: najviše 1 u 5 tekstova istog autora;
+- isti savjet (npr. zapečeno s dna tave za sos) razvijen u tekstu samo u jednom receptu; u ostalima samo kratko u koraku.
+
 **Provjera samo javlja, a tekst se popravlja po smislu.** Nikad se ne ubacuju kratke rečenice, linkovi ili tekst samo da bi provjera prošla.
 
 ## 7. Log
 
 U log (npr. `content/log-prepis-nasirecepti.md`) se za svaki recept upisuje:
-SNK ID · stari ID · slug · autor · pristup · tip uvoda · broj H2 · vrste sekcija · oblik grešaka (ako ih ima) · završetak · linkovi · status.
+SNK ID · stari ID · slug · autor · pristup · tip uvoda · broj H2 · vrste sekcija · oblik grešaka (ako ih ima) · završetak · zadnja rečenica teksta · linkovi · status.
 
 **Rotacija iz loga:**
 - isti pristup ne dva puta zaredom i nijedan preko ~25% recepata;
@@ -131,4 +144,4 @@ Ako slike za recept nema, recept ostaje nacrt i u izvještaju piše `NEDOSTAJE: 
 8. Upis u log.
 9. Izvještaj: šta je urađeno, šta je NEDOSTAJE, šta treba odluku.
 
-**Pregled urednika:** prvih 5 recepata se čitaju svi, a poslije svaki peti. Objava i zakazivanje tek nakon pregleda: 2–4 dnevno, izmiješane kategorije, nikad cijela kategorija zaredom.
+**Pregled urednika:** prvih 5 recepata se čitaju svi, a poslije svaki peti. Objava i zakazivanje tek nakon pregleda: 2–4 dnevno, izmiješane kategorije, nikad cijela kategorija zaredom. Srodna jela (npr. rižota) razmaknuti: nikad dva iz iste porodice u istoj sedmici.

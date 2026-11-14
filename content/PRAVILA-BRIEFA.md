@@ -65,6 +65,7 @@ Ako jelo prirodno traži nešto što je zabranjeno, bira se najbliža druga opci
 - Fraze koje su se već pojavile u zadnjih 5 recepata, posebno u uvodu i na kraju.
 - Ugao koji bi važio za svako jelo ("ukusno i jednostavno", "savršeno za porodicu").
 - Ugao ili detalj koji nije iz recepta, nego izmišljen (izmišljena tradicija, izmišljeno iskustvo).
+- Šabloni koji nastaju kroz seriju (rečenica o prilogu na kraju, „jedna tava“, „radni dan“, „kod nas“, uvod „problem + najčešće“, H3 podnaslovi…): granice su u PREPIS-NASIRECEPTI.md §6 i važe za cijeli sajt. U brief se zapisuje da li ih ovaj tekst koristi.
 
 ## 6. Autor i stil
 
