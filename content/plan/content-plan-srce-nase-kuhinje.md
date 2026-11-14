@@ -24,6 +24,7 @@ Verzija: 16.10.2026. Preneseno iz posljednjeg plana s doručkom i večerom.
 - [KW doručak](#dio-9)
 - [KW večera](#dio-10)
 - [Revizija tema](#dio-11)
+- [Prepis s nasirecepti (SNK-NR)](#dio-12)
 
 <a id="dio-1"></a>
 ## Briefovi doručak
@@ -10219,6 +10220,7 @@ https://korisni.com/zdravi-recepti/rizoto-sa-sampinjonima
 - **Status tagova:** Prijedlog iz naslova — potvrditi prema recepturi
 - **Napomena o razvrstavanju:** Ranije: Glavna jela / Riža, rižota i jela iz tave. Sada: Glavna jela / Riža i žitarice
 - **Status provjere reference:** Nije provjereno u ovom krugu
+- **Pokriveno prepisom:** SNK-NR-002 (`rizoto-s-gljivama`, prepis s nasirecepti, 2026-11-14) — ne pisati ponovo.
 
 ### SNK-0528 — Zapečene rolice od tikvica sa sirom
 
@@ -13572,3 +13574,13 @@ REVIZIJA: Dalmatinska izvedba mora imati potvrđenu posebnu recepturu; ako se po
 - **Izvorna kategorija / grupa:** Slatki recepti
 - **Izvorna potkategorija / URL:** Kolači
 
+<a id="dio-12"></a>
+
+## Prepis s nasirecepti (SNK-NR)
+
+Recepti preuzeti s nasirecepti.com i napisani ispočetka po `content/PREPIS-NASIRECEPTI.md`. Puni zapis (briefovi, rotacija) je u `content/log-prepis-nasirecepti.md`.
+
+| SNK ID | Recept | Slug | Stari post | Status |
+|---|---|---|---|---|
+| SNK-NR-001 | Pileći bataci iz rerne | pileci-bataci-iz-rerne | nasirecepti ID 870 | nacrt |
+| SNK-NR-002 | Rižoto s gljivama (pokriva SNK-0527) | rizoto-s-gljivama | nasirecepti ID 852 | nacrt |

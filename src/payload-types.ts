@@ -450,7 +450,7 @@ export interface Recipe {
    */
   sourceNote?: string | null;
   /**
-   * npr. SNK-0001 (iz content/plan)
+   * npr. SNK-0001, ili SNK-NR-001 za prepis s nasirecepti (iz content/plan)
    */
   planId?: string | null;
   /**

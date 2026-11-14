@@ -159,6 +159,13 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   majoran: zero,
   kim: zero,
   'ljuta-aleva-paprika': zero,
+  // prepis s nasirecepti (SNK-NR)
+  'pileci-bataci': n(161, 18.1, 0, 9.2, { edible: 0.7, pieces: { bez: 150, kom: 150 } }),
+  sampinjoni: n(22, 3.1, 3.3, 0.3),
+  'riza-za-rizoto': n(358, 6.5, 79, 0.6, { density: 0.85 }),
+  'bijelo-vino': n(82, 0.1, 2.6, 0, { density: 0.99 }),
+  'povrtni-temeljac': n(5, 0.2, 1, 0.1, { density: 1.0 }),
+  parmezan: n(420, 28.4, 13.9, 27.8, { density: 0.4 }),
 }
 
 /** Kuhinjske mjere u ml. */

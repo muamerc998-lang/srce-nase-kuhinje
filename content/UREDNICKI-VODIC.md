@@ -76,18 +76,23 @@ Referenca iz plana služi da se razumije jelo, a ne da se prepiše tekst.
 - Kulinarsko objašnjenje koje nije iz reference smije se napisati samo kad je opšte poznato i provjerljivo (npr. da skrob muti supu, da gluten od predugog miješanja čini tijesto žilavim). Ako nisi siguran, ne piši.
 - **Ni izvor nije nepogrešiv.** Tvrdnju iz reference koja zvuči sumnjivo (neobično vrijeme ili temperatura, „pravilo“ bez objašnjenja, sigurnosno upitan postupak) ne prenosi slijepo. Provjeri je drugim pouzdanim izvorom; ako se ne može potvrditi, izostavi je ili napiši opreznije i zabilježi u `sourceNote`.
 - Ako je izvor nejasan ili nepotpun, to navedi u `sourceNote` (`NEDOSTAJE: …`). Nikad ne izmišljaj podatak.
+- **Izvor se nikad ne spominje u javnom tekstu** (članak, kartica, napomene uz sastojke, FAQ, SEO). Ne pisati „izvorni recept“, „izvor navodi/dopušta“, „autorica (recepta)“, „originalni recept“, „prema autoru“. Činjenica se piše kao činjenica ili mogućnost („može i maslac“, „ne preporučuje se zamrzavanje“). Odakle je podatak zna samo `sourceNote`.
 - **Originalnost:** napiši tekst tako da bi bio isti i da referencu nikad nisi pročitao do kraja. Zajednički mogu biti samo podaci o receptu, nikad rečenice, poređenja, primjeri ni raspored misli.
 
 ## 7. Glas i jezik
 
+- Glas autora (leća, mišljenje, dužina rečenica, bazen riječi) određuje `AUTORI-STILOVI.md`; autor se bira u briefu.
 - Prirodan bosanski, ijekavica, termini iz pravila pisanja (§1). Obraćanje u 2. licu množine, mirno i stručno, kao iskusan kuhar koji objašnjava.
 - Kratke i srednje rečenice. Jedna misao po rečenici.
-- **Bez izmišljenih iskustava:** nema „kod nas se uvijek pravi“, „moja nana“, „testirali smo“, „naši čitaoci kažu“.
+- **Bez tvrdnji o testiranju i izmišljenih događaja:** nema „testirali smo“, „isprobano 10 puta“, „prošle nedjelje sam pravio za 12 ljudi“, ni „naši čitaoci kažu“ kad to nije tačno.
+- **Lični detalj autora** (stav, navika, porodična veza s jelom, veza sa FB zajednicom) dozvoljen je u prvom licu, rijetko i uz ograničenja iz `AUTORI-STILOVI.md` §3 (1–2 rečenice, otprilike svaki treći do četvrti recept; nana/baka/mama najviše u 1 od 10).
 - **Bez praznih AI fraza.** Ne pisati:
   - „U svijetu kulinarstva…“, „Nema ništa bolje od…“, „pravi je užitak“, „savršen za svaku priliku“;
   - „Bilo da ste početnik ili iskusan kuhar…“, „Zaronimo u…“, „Hajde da otkrijemo…“;
   - „Tajna je u ljubavi“, „ne samo da je ukusno, nego i…“, „osvojit će svačije nepce“;
   - „Zaključno“, „Uživajte!“, uskličnike i retorička pitanja kao uvod.
+- Nikad rečenica samo radi linka ili da bi se ubacila ključna riječ (vidi PRAVILA-PISANJA.md §5).
+- Poređenje sa drugim jelom samo kad je prirodno i pomaže razumjeti ovo jelo, ne kao ukras (npr. „kod gulaša…“ u tekstu o rižotu).
 - Ne ponavljati naslov recepta u svakoj sekciji. Ključna riječ ide prirodno u uvod i jedan-dva naslova, srodni pojmovi u tekst.
 - Brojevi i mjere kao u pravilima pisanja (decimalni zarez, „180 °C“, raspon crticom).
 

@@ -52,7 +52,7 @@ Plan je u `content/plan/content-plan-srce-nase-kuhinje.md`. Svaki zadatak ima tr
 
 - Recept se piše **isključivo na osnovu dostavljene reference** (link, knjiga, porodični recept, Facebook objava, bilješka urednika). Referenca se upisuje u interno polje **`sourceNote`** (nije javno).
 - Iz reference se preuzimaju **činjenice**: sastojci, količine, vremena, temperature, veličina kalupa, redoslijed radnji.
-- **Zabranjeno izmišljati**: količine, temperature, vremena, prinos, kalup, nutritivne vrijednosti, ocjene, recenzije, iskustva čitalaca, tvrdnje „testirano u našoj kuhinji“, lične anegdote autora.
+- **Zabranjeno izmišljati**: količine, temperature, vremena, prinos, kalup, nutritivne vrijednosti, ocjene, recenzije, iskustva čitalaca, tvrdnje „testirano u našoj kuhinji“, izmišljeni konkretni događaji (s brojevima i datumima). Lični detalj autora je dozvoljen samo po `AUTORI-STILOVI.md` §3.
 - Ako referenca nema podatak (npr. veličinu kalupa ili vrijeme hlađenja), **ostaviti prazno** i u isporuci navesti: `NEDOSTAJE: …`. Ne pogađati.
 - Ako se dvije reference razlikuju, uzima se jedna (navesti koja) — ne praviti „prosjek“.
 - Tekst reference se **nikad ne kopira** — ni rečenice, ni pasusi, ni struktura uvoda. Činjenice da, formulacije ne.
@@ -63,7 +63,7 @@ Plan je u `content/plan/content-plan-srce-nase-kuhinje.md`. Svaki zadatak ima tr
 Glas, urednički pristup, strukturu članka, naslove, originalnost u odnosu na referencu, dužinu i samoprovjeru određuje **`content/UREDNICKI-VODIC.md`**. Ovdje su samo pravila za kratka polja:
 - Kratak opis (`summary`): 1–2 rečenice, do 300 znakova. Kaže šta je jelo i po čemu je ovaj recept dobar izbor. Bez „U ovom receptu ćete naučiti…“.
 - Napomena prije početka (`beforeYouStart`): samo ono što zaista treba znati prije prvog koraka (namakanje, sobna temperatura, dan ranije). Prikazuje se u kartici recepta.
-- Prvo lice („mi u uredništvu“) samo za stvarne uredničke odluke, nikad za izmišljeno iskustvo.
+- Prvo lice: za uredničke odluke („mi u uredništvu“) i za lični detalj autora po `AUTORI-STILOVI.md` §3. Nikad za tvrdnje o testiranju ni izmišljene konkretne događaje.
 
 ## 4. Struktura recepta (polja u CMS-u / uvozu)
 
@@ -105,6 +105,8 @@ Namirnice koje ne postoje u registru dodaju se u `ingredients` istog uvoza: kano
 - **Podnaslovi u člancima** (H2/H3): opisni, odgovaraju na pitanja koja ljudi stvarno traže.
 - **Ključne riječi**: glavni pojam u naslovu, opisu i prvoj rečenici kratkog opisa — prirodno. **Bez nagomilavanja.** Varijante i sinonimi idu u `alternativeNames`.
 - **Interni linkovi**: u člancima 3–8 linkova na postojeće recepte/vodiče; u receptima kroz polja (povezani recepti, vodiči, šta poslužiti). Samo na objavljen sadržaj.
+- **Nikad rečenica samo radi linka.** Link ide samo u rečenicu koja bi stajala i bez njega. Formule tipa „Sličnu kombinaciju ima i [X]“, „Probajte i [X]“, „X ima Y“ se ne pišu. Ako link nema prirodno mjesto u tekstu, izostavi ga; veza ide kroz polja (povezani recepti, šta poslužiti).
+- **Ključna riječ se ne ugurava.** Rečenica u kojoj glavni pojam stoji kao subjekt samo da bi bio u tekstu („Zato pileći bataci iz rerne traže…“) zvuči kao SEO. Ako je pojam već u naslovu i kratkom opisu, uvod ga ne mora ponoviti doslovno.
 - **Jedinstvenost**: dva recepta ne smiju imati isti naslov, SEO naslov ili meta opis. Ne praviti više stranica istog smisla („brzi ručak“, „ručak na brzinu“).
 - **Schema** se generiše automatski iz polja — zato podaci moraju biti tačni i potpuni (vremena, prinos, sastojci, koraci). Nikad lažne ocjene ni kalorije.
 - **Alt tekst** svake slike: opis onoga što se vidi (§6), ne nabrajanje ključnih riječi.
@@ -169,6 +171,8 @@ appetizing but authentic, no text, no logos, no people, 4:3.
 
 ## 9. Autori
 
+Stil svakog autora (glas, rečenice, bazen riječi, lični detalj, duhovit ton) je u **`content/AUTORI-STILOVI.md`** i važi za sve tekstove. Autor se određuje u briefu (`PRAVILA-BRIEFA.md`).
+
 | Autor | Oblast |
 |---|---|
 | Amra Hodžić | slatki recepti: torte, kolači, palačinke, sitni kolači, deserti |
@@ -176,7 +180,7 @@ appetizing but authentic, no text, no logos, no people, 4:3.
 | Selma Begić | vodiči (Savjeti iz kuhinje), namirnice, članci obroka |
 | Uredništvo Srce naše kuhinje | salate, prilozi, napici, kolekcije, ostalo i mješoviti sadržaj |
 
-- Autoru se ne pripisuju lična iskustva, titule ni tvrdnje o testiranju koje nisu stvarne.
+- Autoru se ne pripisuju titule ni tvrdnje o testiranju koje nisu stvarne. Lični detalj u prvom licu samo po `AUTORI-STILOVI.md` §3.
 - Recept čitaoca koji uredništvo preradi dobija i polje **Gostujući autor**.
 
 ## 10. Kontrolna lista prije isporuke
@@ -195,7 +199,7 @@ appetizing but authentic, no text, no logos, no people, 4:3.
 
 ## 11. Zabranjeno
 
-- Izmišljene količine, vremena, temperature, kalorije, ocjene, recenzije, iskustva, „testirano“.
+- Izmišljene količine, vremena, temperature, kalorije, ocjene, recenzije, konkretni događaji, „testirano“ (lični detalj autora samo po `AUTORI-STILOVI.md` §3).
 - Prepisivanje teksta ili fotografija iz referenci.
 - Generički uvodi i punjenje teksta radi dužine.
 - Nagomilavanje ključnih riječi, isti meta opisi, duple stranice istog smisla.

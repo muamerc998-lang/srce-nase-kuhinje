@@ -128,7 +128,7 @@ export const recipeImportSchema = z.object({
     .max(30)
     .default([]),
   /** interno: ID iz sadržajnog plana (content/plan) */
-  planId: z.string().regex(/^SNK-\d{3,4}$/).optional().nullable(),
+  planId: z.string().regex(/^SNK-(NR-)?\d{3,4}$/).optional().nullable(),
   /** interno: tematska porodica (npr. Cheesecake) */
   family: optText(80),
 })

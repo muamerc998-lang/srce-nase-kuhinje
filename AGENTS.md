@@ -11,6 +11,8 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 # Srce naše kuhinje — napomene za rad na projektu
 
 - **Prije pisanja bilo kojeg sadržaja (recepti, članci, vodiči, opisi, SEO, slike) obavezno pročitati `content/UREDNICKI-VODIC.md` (glas, pristup, struktura) i `content/PRAVILA-PISANJA.md` (izvori, polja, SEO, slike, uvoz) i držati ih se.**
+- **Recepti preuzeti s nasirecepti.com (WordPress XML izvoz): dodatno obavezno pročitati `content/PREPIS-NASIRECEPTI.md` i držati ga se. Za nove recepte se ne koristi.**
+- **Prije svakog briefa (i za prepis i za nove recepte) pročitati `content/PRAVILA-BRIEFA.md` i `content/AUTORI-STILOVI.md`.** Autor se određuje odmah u briefu, a brief i tekst se pišu u njegovom stilu — za svaki tekst na sajtu (recepti, vodiči, savjeti).
 
 - Sav javni tekst, nazivi polja i poruke: bosanski, ijekavica (mlijeko, kuhanje, krompir, kašika, rerna).
 - Shema baze se mijenja samo migracijama (`npm run migrate:create -- naziv`), nikad `push`.

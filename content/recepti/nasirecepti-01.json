@@ -1,0 +1,218 @@
+{
+  "format": "srce-nase-kuhinje/v1",
+  "ingredients": [
+    { "slug": "pileci-bataci", "name": "pileći bataci", "synonyms": ["bataci", "pileći batak"], "broader": "piletina", "foodGroup": "meso" },
+    { "slug": "sampinjoni", "name": "šampinjoni", "synonyms": ["pečurke", "bijeli šampinjoni"], "foodGroup": "povrce" },
+    { "slug": "riza-za-rizoto", "name": "riža za rižoto", "synonyms": ["arborio", "carnaroli"], "broader": "riza", "foodGroup": "zitarice" },
+    { "slug": "bijelo-vino", "name": "bijelo vino", "synonyms": ["suho bijelo vino"], "foodGroup": "ostalo" },
+    { "slug": "povrtni-temeljac", "name": "povrtni temeljac", "synonyms": ["temeljac od povrća", "povrtni bujon"], "foodGroup": "povrce" },
+    { "slug": "parmezan", "name": "parmezan", "synonyms": ["parmigiano reggiano"], "broader": "tvrdi-sir", "foodGroup": "mlijecno" }
+  ],
+  "recipes": [
+    {
+      "planId": "SNK-NR-001",
+      "slug": "pileci-bataci-iz-rerne",
+      "title": "Pileći bataci iz rerne",
+      "alternativeNames": ["pečeni pileći bataci", "pileći bataci u rerni", "bataci iz rerne"],
+      "summary": "Pileći bataci iz rerne u marinadi od senfa, bijelog luka i limuna, pečeni na 200 °C dok koža ne postane tamnozlatna i hrskava. Jeftin ručak s jednog lima, uz malo posla.",
+      "beforeYouStart": "Batake treba marinirati najmanje 30 minuta u frižideru. Mogu stajati u marinadi i preko noći.",
+      "primaryCategory": "jela-s-mesom",
+      "meals": ["rucak", "vecera"],
+      "tags": ["piletina", "senf", "bijeli-luk", "limun"],
+      "diets": ["bez-jaja", "bez-mlijeka"],
+      "methods": ["pecenje"],
+      "difficulty": "lako",
+      "yield": { "servings": 4, "unit": "porcije", "scalable": true },
+      "times": { "prepMinutes": 15, "cookMinutes": 45, "restMinutes": 50, "restLabel": "mariniranja i odmaranja", "totalMinutes": 110 },
+      "equipment": { "temperature": 200, "ovenMode": "gornji-donji", "other": "s ventilatorom 190 °C; veći lim, papir za pečenje, termometar za meso (po želji)" },
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            { "ingredient": "pileci-bataci", "amount": 1.2, "unit": "kg", "label": "pilećih bataka", "note": "8 komada, s kožom" },
+            { "ingredient": "maslinovo-ulje", "amount": 3, "unit": "kasika", "label": "maslinovog ulja" },
+            { "ingredient": "senf", "amount": 1, "unit": "kasika", "label": "senfa" },
+            { "ingredient": "limun", "amount": 0.5, "unit": "bez", "label": "limuna", "note": "samo iscijeđen sok" },
+            { "ingredient": "bijeli-luk", "amount": 3, "unit": "cesanj", "label": "bijelog luka", "note": "sitno sjeckana ili protisnuta" },
+            { "ingredient": "aleva-paprika", "amount": 1, "unit": "kasicica", "label": "slatke aleve paprike" },
+            { "ingredient": "majcina-dusica", "amount": 1, "unit": "kasicica", "label": "suhe majčine dušice" },
+            { "ingredient": "so", "amount": 1, "unit": "kasicica", "label": "soli" },
+            { "ingredient": "biber", "amount": 0.5, "unit": "kasicica", "label": "mljevenog bibera" }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            { "text": "Batake dobro posušite papirnim ubrusom, posebno kožu." },
+            { "text": "U većoj posudi sjedinite ulje, senf, sok od limuna, bijeli luk, alevu papriku, majčinu dušicu, so i biber." },
+            { "text": "Ubacite batake u marinadu i promiješajte ih rukama, tako da svaki bude premazan." },
+            { "text": "Pokrijte posudu i ostavite batake u frižideru najmanje 30 minuta, a mogu i preko noći.", "timerMinutes": 30 },
+            { "text": "Izvadite batake iz frižidera i ostavite ih 15 minuta na sobnoj temperaturi.", "timerMinutes": 15 },
+            { "text": "Za to vrijeme zagrijte rernu na 200 °C, ili na 190 °C s ventilatorom." },
+            { "text": "Na lim stavite papir za pečenje i rasporedite batake s razmakom, da se ne dodiruju." },
+            { "text": "Pecite nepokriveno 25 minuta.", "timerMinutes": 25 },
+            { "text": "Okrenite batake i premažite ih sokom koji se skupio na limu." },
+            { "text": "Pecite još 15–20 minuta, dok koža ne postane tamnozlatna i hrskava, a termometar zaboden do kosti ne pokaže najmanje 75 °C. Bez termometra: sok iz najdebljeg dijela mora biti bistar.", "timerMinutes": 15 },
+            { "text": "Pečene batake pustite da odstoje 5 minuta, pa ih poslužite.", "timerMinutes": 5 }
+          ]
+        }
+      ],
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Kad bataci izađu iz rerne blijedi, s mekanom i gumastom kožom, razlog je skoro uvijek voda. Mokra koža se u rerni prvo kuha na pari, a tek onda peče. Zato je ovdje sve u dvije stvari: suha koža i dovoljno mjesta na limu.\n\nOstalo je jednostavno. Marinada od senfa, bijelog luka, limuna i aleve paprike uhvati se za pola sata. Rerna odradi ostatak, a vi za to vrijeme skuhate prilog."
+        },
+        {
+          "level": "h2",
+          "title": "Ubrus je važniji od marinade",
+          "body": "Batake prije marinade posušite papirnim ubrusom, i to s pritiskom. Najviše pažnje dajte koži, jer ona odlučuje. U marinadi nema vode ni jogurta, pa koža ostaje suha i na limu.\n\nZa osam bataka uzmite veći lim, tako da se komadi ne dodiruju. Zbijeni bataci puste sok i krčkaju se u njemu. Ako vam je lim mali, uzmite dva.\n\nJa ih ne pokrivam folijom, ni na početku. Pod folijom meso ostane sočno, ali koža izađe mekana i blijeda."
+        },
+        {
+          "level": "h2",
+          "title": "Zlatna koža još ne znači da je pečeno",
+          "body": "Koža potamni prije nego što se meso uz kost ispeče. Najsigurniji je termometar zaboden do kosti. Treba pokazati najmanje 75 °C.\n\nKod batka se ne bojte ni 80 °C. Tamno meso je tad mekše i lakše se odvaja od kosti. Prsa bi se na toj temperaturi već isušila, batak ne.\n\nAko termometra nemate, probodite najdeblji dio nožem sve do kosti. Sok mora biti bistar. Ako je ružičast, vratite lim u rernu i provjerite ponovo za nekoliko minuta.\n\nPet minuta na limu poslije pečenja nemojte preskakati. Sok se slegne, pa manje iscuri kad zagrizete."
+        },
+        {
+          "level": "h2",
+          "title": "Kad za stolom ima više ljudi",
+          "body": "Bataci su među jeftinijim dijelovima piletine, a ni marinada ne traži ništa skupo. Kad treba nahraniti više ljudi, ispod bataka složite kriške krompira. Krompir pokupi sok i mast koji kaplju s mesa, pa ručak s prilogom izađe iz rerne odjednom.\n\nAko volite malo slađu koru, u marinadu dodajte kašiku meda. Med brže tamni, pa zadnjih deset minuta češće pogledajte u rernu.\n\nUz batake fino ide pire krompir, kuhana riža ili zelena salata."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": ["pire-krompir"],
+      "leftovers": {},
+      "relatedRecipes": ["pecena-piletina-s-krompirom"],
+      "relatedGuides": [],
+      "authors": ["emir-delic"],
+      "facebook": {},
+      "seo": {
+        "title": "Pileći bataci iz rerne s hrskavom kožom i senfom",
+        "description": "Hrskavi pileći bataci iz rerne: marinada od senfa, limuna i bijelog luka, suha koža i dovoljno mjesta na limu. Uz provjeru pečenosti. Recept korak po korak."
+      },
+      "family": "Piletina iz rerne",
+      "sourceNote": "Prepis SNK-NR-001. nasirecepti.com, stari post ID 870: https://nasirecepti.com/pileci-bataci-iz-pecnice/ (WP izvoz nasirecepti.WordPress.2026-11-14.xml). Preuzeti samo podaci recepta: 8 bataka (oko 1,2 kg), 3 žlice maslinovog ulja, 1 žlica senfa, sok od pola limuna, 3 češnja češnjaka, po 1 žličica slatke paprike, majčine dušice i soli, pola žličice papra; marinada najmanje 30 min ili preko noći; 15 min na sobnoj; 200 °C (ventilator 190 °C); 40–45 min, okretanje i premazivanje nakon 25 min; najmanje 75 °C uz kost (izvor: tamno meso mekše na 80 °C); 5 min odmora; 4 porcije; prip. 15 + pečenje 45 min. Izostavljeno: pranje bataka (izvor: „operite ako želite“) — ne preporučuje se zbog širenja bakterija po kuhinji. Varijacije iz izvora: krompir ispod mesa, kašika meda u marinadi. Ukupno vrijeme izračunato: 15 + 30 + 15 + 45 + 5 = 110 min. NEDOSTAJE: slika (reciklaza-slike/)."
+    },
+    {
+      "planId": "SNK-NR-002",
+      "slug": "rizoto-s-gljivama",
+      "title": "Rižoto s gljivama",
+      "alternativeNames": ["rižoto sa šampinjonima", "rižoto od gljiva", "rižoto s pečurkama"],
+      "summary": "Rižoto s gljivama od arborio riže, šampinjona pečenih posebno, bijelog vina i parmezana. Kremast je bez pavlake, jer riža uz postepeno dolijevanje temeljca pusti škrob.",
+      "beforeYouStart": "Sve sastojke pripremite unaprijed. Kad krene dolijevanje temeljca, rižoto traži stalno miješanje oko 20 minuta.",
+      "primaryCategory": "riza-i-zitarice",
+      "meals": ["rucak", "vecera"],
+      "tags": ["riza", "gljive", "sir"],
+      "diets": ["bez-jaja"],
+      "methods": ["kuhanje"],
+      "difficulty": "srednje",
+      "yield": { "servings": 4, "unit": "porcije", "scalable": true },
+      "times": { "prepMinutes": 10, "cookMinutes": 30, "totalMinutes": 40 },
+      "equipment": { "other": "široka tava s debljim dnom, lonac za temeljac, kutlača" },
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            { "ingredient": "riza-za-rizoto", "amount": 300, "unit": "g", "label": "riže za rižoto", "note": "arborio" },
+            { "ingredient": "sampinjoni", "amount": 400, "unit": "g", "label": "šampinjona" },
+            { "ingredient": "crni-luk", "amount": 1, "unit": "glavica", "label": "crnog luka" },
+            { "ingredient": "bijeli-luk", "amount": 2, "unit": "cesanj", "label": "bijelog luka" },
+            { "ingredient": "bijelo-vino", "amount": 100, "unit": "ml", "label": "suhog bijelog vina" },
+            { "ingredient": "povrtni-temeljac", "amount": 1, "unit": "l", "label": "povrtnog temeljca" },
+            { "ingredient": "maslinovo-ulje", "amount": 2, "unit": "kasika", "label": "maslinovog ulja" },
+            { "ingredient": "maslac", "amount": 40, "unit": "g", "label": "maslaca", "note": "pola za luk, pola na kraju" },
+            { "ingredient": "parmezan", "amount": 40, "unit": "g", "label": "rendanog parmezana" },
+            { "ingredient": "so", "amount": null, "unit": "po-ukusu", "label": "so" },
+            { "ingredient": "biber", "amount": null, "unit": "po-ukusu", "label": "biber" },
+            { "ingredient": "persun", "amount": null, "unit": "po-ukusu", "label": "svježeg peršuna", "note": "sitno sjeckanog, za posluživanje" }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            { "text": "Šampinjone narežite na listiće." },
+            { "text": "Crni i bijeli luk sitno nasjeckajte." },
+            { "text": "Temeljac zagrijte u loncu i držite ga toplim na laganoj vatri." },
+            { "text": "U širokoj tavi zagrijte 1 kašiku maslinovog ulja i pržite šampinjone na jačoj vatri 5–6 minuta, dok ne postanu zlatnosmeđi.", "timerMinutes": 5 },
+            { "text": "Posolite šampinjone i izvadite ih na tanjir." },
+            { "text": "U istu tavu dodajte preostalo ulje i 20 g maslaca, pa pirjajte crni luk 3 minute.", "timerMinutes": 3 },
+            { "text": "Ubacite bijeli luk i rižu i pržite ih uz miješanje 2 minute, dok zrna po rubovima ne postanu staklasta.", "timerMinutes": 2 },
+            { "text": "Prelijte vinom i kuhajte uz miješanje dok skoro sasvim ne ispari." },
+            { "text": "Sipajte kutlaču vrućeg temeljca. Kad ga riža skoro sav upije, sipajte sljedeću. Miješajte cijelo vrijeme i tako nastavite oko 10 minuta.", "timerMinutes": 10 },
+            { "text": "Vratite šampinjone u tavu i nastavite dolijevati temeljac još oko 8 minuta, dok riža ne bude mekana, a zrno u sredini još blago čvrsto.", "timerMinutes": 8 },
+            { "text": "Sklonite tavu s vatre, pa dodajte ostatak maslaca i parmezan i dobro izmiješajte." },
+            { "text": "Posolite i pobiberite po ukusu, poklopite i ostavite 2 minute.", "timerMinutes": 2 },
+            { "text": "Pospite peršunom i odmah poslužite." }
+          ]
+        }
+      ],
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Rižoto s gljivama i obična riža s gljivama iz šerpe imaju skoro iste sastojke, ali su to dva različita jela. Kod riže s gljivama voda se dolije odjednom, šerpa se poklopi i zrna ostanu odvojena. Kod rižota se topao temeljac dodaje kutlaču po kutlaču, uz stalno miješanje, pa riža pusti škrob i jelo postane kremasto bez ijedne kašike pavlake. Zbog toga ovaj recept traži dvadesetak minuta stajanja uz šporet, ali ne i neku posebnu vještinu."
+        },
+        {
+          "level": "h2",
+          "title": "Riža, gljive i temeljac",
+          "body": "Za rižoto treba riža okruglog, punog zrna s mnogo škroba, a u ovom receptu je to arborio. Mi bismo ostali kod nje, jer obična dugozrna riža ne pušta dovoljno škroba, pa rižoto ostane rijedak, sa zrnima koja plivaju u tečnosti. Dobar izbor je i carnaroli, čije zrno duže drži oblik.\n\nŠampinjoni su najblaži izbor i lijepo se slažu s parmezanom. Ako želite izraženiji, šumski okus, istim postupkom možete koristiti bukovače ili mješavinu šumskih gljiva. Povrtni temeljac drži jelo laganim, a pileći mu daje puniji okus, pa birajte prema tome šta služite uz rižoto.\n\nVino donosi blagu kiselinu koja razbija težinu maslaca i sira. Ko ne kuha s vinom, može ga izostaviti i odmah dodati prvu kutlaču temeljca. Rižoto će tada biti blaži, ali i dalje kremast."
+        },
+        {
+          "level": "h2",
+          "title": "Gljive idu u tavu prije riže",
+          "body": "Šampinjoni su uglavnom voda i u vrućoj tavi je brzo puste. Zato se peku sami, na jačoj vatri i u jednom sloju, dok tečnost iz tave ne nestane i dok ne porumene. Tek tada dobiju dublji okus. Izvade se na tanjir i vrate kad je riža napola gotova, pa ostanu cijeli i ne izgube boju.\n\nŠiroka tava tu pomaže dvaput. Gljive u njoj stanu u jedan sloj, a kasnije se riža raširi u tankom sloju i ravnomjerno upija temeljac. Deblje dno drži toplotu ujednačenom, pa riža ne zagori na jednom mjestu dok je na drugom još tvrda."
+        },
+        {
+          "level": "h2",
+          "title": "Kad nešto ne ide po planu",
+          "body": "Rižoto je jelo koje se ispravlja usput, dok je još u tavi. Tri situacije se ponavljaju češće od ostalih."
+        },
+        {
+          "level": "h3",
+          "title": "Temeljac je potrošen, a zrno je još tvrdo",
+          "body": "Dolijte malo vruće vode i nastavite istim tempom. Riža ne upija uvijek jednako, pa je litar temeljca okvirna mjera, a ne pravilo."
+        },
+        {
+          "level": "h3",
+          "title": "Rižoto je pregust",
+          "body": "Umiješajte još kutlaču toplog temeljca ili vode, makar i neposredno prije posluživanja. Rižoto se zgušnjava dok stoji, pa ga je bolje skinuti s vatre malo rjeđeg nego što želite na tanjiru."
+        },
+        {
+          "level": "h3",
+          "title": "Zrna su se raspala u kašu",
+          "body": "Riža se kuhala predugo. Sljedeći put počnite probati zrno oko desete minute dolijevanja i stanite kad u sredini još malo pruža otpor. Važno je i da temeljac bude topao, jer hladan svaki put zaustavi ključanje, kuhanje se oduži, a riža na kraju bude prekuhana izvana i tvrda iznutra."
+        },
+        {
+          "level": "h2",
+          "title": "Rižoto treba da teče, a ne da stoji",
+          "body": "Gotov rižoto je mekan, a zrno u sredini još ima blag otpor pod zubom. Na tanjiru ne smije stajati kao humka, nego se sam od sebe polako raširi. Italijani za tu teksturu kažu all'onda, „na talas“, jer se rižoto pomjera kao gusta tečnost kad malo prodrmate tanjir.\n\nMaslac i parmezan se umiješaju tek kad je tava sklonjena s vatre. Na jakoj vatri sir se zgruda i postane žilav, a ovako se otopi u kremu koja povezuje zrna. Dvije minute pod poklopcem su dovoljne da se sve slegne.\n\nRižoto ne čeka. Kako stoji, upija ostatak tečnosti i postaje zbijen, pa ga poslužite čim je gotov. Ostatak se drži u frižideru u zatvorenoj posudi i zagrijava u tavi uz malo temeljca ili vode i miješanje. Bit će ukusan, ali ne više onako kremast kao prvog dana."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "authors": ["urednistvo"],
+      "facebook": {},
+      "seo": {
+        "title": "Rižoto s gljivama i parmezanom, kremast bez pavlake",
+        "description": "Rižoto s gljivama od arborio riže i pečenih šampinjona, s bijelim vinom i parmezanom. Zašto se temeljac dolijeva postepeno i kako izgleda gotov. Korak po korak."
+      },
+      "family": "Rižota",
+      "sourceNote": "Prepis SNK-NR-002 (pokriva i stavku plana SNK-0527 Rižoto s gljivama). nasirecepti.com, stari post ID 852: https://nasirecepti.com/rizoto-s-gljivama/ (WP izvoz nasirecepti.WordPress.2026-11-14.xml). Preuzeti samo podaci recepta: 300 g arborio riže, 400 g šampinjona, 1 glavica luka, 2 češnja češnjaka, 100 ml suhog bijelog vina, 1 l povrtnog temeljca, 2 žlice maslinovog ulja (1 za gljive), 40 g maslaca (pola s lukom, pola na kraju), 40 g parmezana, sol, papar, peršin; gljive 5–6 min na jačoj vatri pa van; luk 3 min; češnjak i riža 2 min; vino do isparavanja; temeljac postepeno oko 18 min, gljive natrag nakon desetak minuta; maslac i parmezan s vatre, 2 min pod poklopcem; 4 porcije; prip. 10 + kuhanje 30 min. Vino: izvor nema zamjenu; u članku navedeno da se može izostaviti (opšte poznato). Dijeta „vegetarijansko“ namjerno nije upisana: pravi parmezan se pravi sa životinjskim sirištem — odluka urednika. NEDOSTAJE: slika (reciklaza-slike/)."
+    }
+  ]
+}

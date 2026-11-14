@@ -180,6 +180,13 @@ export const planIdField = (prefix: 'SNK' | 'VOD'): TextField => ({
   label: 'ID iz plana',
   unique: true,
   index: true,
-  admin: { position: 'sidebar', description: `npr. ${prefix}-0001 (iz content/plan)` },
-  validate: (v: unknown) => (!v || new RegExp(`^${prefix}-\\d{3,4}$`).test(String(v)) ? true : `Format: ${prefix}-0001`),
+  admin: {
+    position: 'sidebar',
+    description: prefix === 'SNK' ? 'npr. SNK-0001, ili SNK-NR-001 za prepis s nasirecepti (iz content/plan)' : `npr. ${prefix}-0001 (iz content/plan)`,
+  },
+  validate: (v: unknown) => {
+    const re = prefix === 'SNK' ? /^SNK-(NR-)?\d{3,4}$/ : new RegExp(`^${prefix}-\\d{3,4}$`)
+    if (!v || re.test(String(v))) return true
+    return prefix === 'SNK' ? 'Format: SNK-0001 ili SNK-NR-001' : `Format: ${prefix}-0001`
+  },
 })
