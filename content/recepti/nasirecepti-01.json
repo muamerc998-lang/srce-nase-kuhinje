@@ -1,43 +1,171 @@
 {
   "format": "srce-nase-kuhinje/v1",
   "ingredients": [
-    { "slug": "pileci-bataci", "name": "pileći bataci", "synonyms": ["bataci", "pileći batak"], "broader": "piletina", "foodGroup": "meso" },
-    { "slug": "sampinjoni", "name": "šampinjoni", "synonyms": ["pečurke", "bijeli šampinjoni"], "foodGroup": "povrce" },
-    { "slug": "riza-za-rizoto", "name": "riža za rižoto", "synonyms": ["arborio", "carnaroli"], "broader": "riza", "foodGroup": "zitarice" },
-    { "slug": "bijelo-vino", "name": "bijelo vino", "synonyms": ["suho bijelo vino"], "foodGroup": "ostalo" },
-    { "slug": "povrtni-temeljac", "name": "povrtni temeljac", "synonyms": ["temeljac od povrća", "povrtni bujon"], "foodGroup": "povrce" },
-    { "slug": "parmezan", "name": "parmezan", "synonyms": ["parmigiano reggiano"], "broader": "tvrdi-sir", "foodGroup": "mlijecno" }
+    {
+      "slug": "pileci-bataci",
+      "name": "pileći bataci",
+      "synonyms": [
+        "bataci",
+        "pileći batak"
+      ],
+      "broader": "piletina",
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "sampinjoni",
+      "name": "šampinjoni",
+      "synonyms": [
+        "pečurke",
+        "bijeli šampinjoni"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "riza-za-rizoto",
+      "name": "riža za rižoto",
+      "synonyms": [
+        "arborio",
+        "carnaroli"
+      ],
+      "broader": "riza",
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "bijelo-vino",
+      "name": "bijelo vino",
+      "synonyms": [
+        "suho bijelo vino"
+      ],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "povrtni-temeljac",
+      "name": "povrtni temeljac",
+      "synonyms": [
+        "temeljac od povrća",
+        "povrtni bujon"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "parmezan",
+      "name": "parmezan",
+      "synonyms": [
+        "parmigiano reggiano"
+      ],
+      "broader": "tvrdi-sir",
+      "foodGroup": "mlijecno"
+    }
   ],
   "recipes": [
     {
       "planId": "SNK-NR-001",
       "slug": "pileci-bataci-iz-rerne",
       "title": "Pileći bataci iz rerne",
-      "alternativeNames": ["pečeni pileći bataci", "pileći bataci u rerni", "bataci iz rerne"],
+      "alternativeNames": [
+        "pečeni pileći bataci",
+        "pileći bataci u rerni",
+        "bataci iz rerne"
+      ],
       "summary": "Pileći bataci iz rerne u marinadi od senfa, bijelog luka i limuna, pečeni na 200 °C dok koža ne postane tamnozlatna i hrskava. Jeftin ručak s jednog lima, uz malo posla.",
       "beforeYouStart": "Batake treba marinirati najmanje 30 minuta u frižideru. Mogu stajati u marinadi i preko noći.",
       "primaryCategory": "jela-s-mesom",
-      "meals": ["rucak", "vecera"],
-      "tags": ["piletina", "senf", "bijeli-luk", "limun"],
-      "diets": ["bez-jaja", "bez-mlijeka"],
-      "methods": ["pecenje"],
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "piletina",
+        "senf",
+        "bijeli-luk",
+        "limun"
+      ],
+      "diets": [
+        "bez-jaja",
+        "bez-mlijeka"
+      ],
+      "methods": [
+        "pecenje"
+      ],
       "difficulty": "lako",
-      "yield": { "servings": 4, "unit": "porcije", "scalable": true },
-      "times": { "prepMinutes": 15, "cookMinutes": 45, "restMinutes": 50, "restLabel": "mariniranja i odmaranja", "totalMinutes": 110 },
-      "equipment": { "temperature": 200, "ovenMode": "gornji-donji", "other": "s ventilatorom 190 °C; veći lim, papir za pečenje, termometar za meso (po želji)" },
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "cookMinutes": 45,
+        "restMinutes": 50,
+        "restLabel": "mariniranja i odmaranja",
+        "totalMinutes": 110
+      },
+      "equipment": {
+        "temperature": 200,
+        "ovenMode": "gornji-donji",
+        "other": "s ventilatorom 190 °C; veći lim, papir za pečenje, termometar za meso (po želji)"
+      },
       "ingredientGroups": [
         {
           "title": null,
           "items": [
-            { "ingredient": "pileci-bataci", "amount": 1.2, "unit": "kg", "label": "pilećih bataka", "note": "8 komada, s kožom" },
-            { "ingredient": "maslinovo-ulje", "amount": 3, "unit": "kasika", "label": "maslinovog ulja" },
-            { "ingredient": "senf", "amount": 1, "unit": "kasika", "label": "senfa" },
-            { "ingredient": "limun", "amount": 0.5, "unit": "bez", "label": "limuna", "note": "samo iscijeđen sok" },
-            { "ingredient": "bijeli-luk", "amount": 3, "unit": "cesanj", "label": "bijelog luka", "note": "sitno sjeckana ili protisnuta" },
-            { "ingredient": "aleva-paprika", "amount": 1, "unit": "kasicica", "label": "slatke aleve paprike" },
-            { "ingredient": "majcina-dusica", "amount": 1, "unit": "kasicica", "label": "suhe majčine dušice" },
-            { "ingredient": "so", "amount": 1, "unit": "kasicica", "label": "soli" },
-            { "ingredient": "biber", "amount": 0.5, "unit": "kasicica", "label": "mljevenog bibera" }
+            {
+              "ingredient": "pileci-bataci",
+              "amount": 1.2,
+              "unit": "kg",
+              "label": "pilećih bataka",
+              "note": "8 komada, s kožom"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 3,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "senf",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "senfa"
+            },
+            {
+              "ingredient": "limun",
+              "amount": 0.5,
+              "unit": "bez",
+              "label": "limuna",
+              "note": "samo iscijeđen sok"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 3,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckana ili protisnuta"
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "slatke aleve paprike"
+            },
+            {
+              "ingredient": "majcina-dusica",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "suhe majčine dušice"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "soli"
+            },
+            {
+              "ingredient": "biber",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "mljevenog bibera"
+            }
           ]
         }
       ],
@@ -45,17 +173,44 @@
         {
           "title": null,
           "steps": [
-            { "text": "Batake dobro posušite papirnim ubrusom, posebno kožu." },
-            { "text": "U većoj posudi sjedinite ulje, senf, sok od limuna, bijeli luk, alevu papriku, majčinu dušicu, so i biber." },
-            { "text": "Ubacite batake u marinadu i promiješajte ih rukama, tako da svaki bude premazan." },
-            { "text": "Pokrijte posudu i ostavite batake u frižideru najmanje 30 minuta, a mogu i preko noći.", "timerMinutes": 30 },
-            { "text": "Izvadite batake iz frižidera i ostavite ih 15 minuta na sobnoj temperaturi.", "timerMinutes": 15 },
-            { "text": "Za to vrijeme zagrijte rernu na 200 °C, ili na 190 °C s ventilatorom." },
-            { "text": "Na lim stavite papir za pečenje i rasporedite batake s razmakom, da se ne dodiruju." },
-            { "text": "Pecite nepokriveno 25 minuta.", "timerMinutes": 25 },
-            { "text": "Okrenite batake i premažite ih sokom koji se skupio na limu." },
-            { "text": "Pecite još 15–20 minuta, dok koža ne postane tamnozlatna i hrskava, a termometar zaboden do kosti ne pokaže najmanje 74 °C. Bez termometra: sok iz najdebljeg dijela mora biti bistar.", "timerMinutes": 15 },
-            { "text": "Pečene batake pustite da odstoje 5 minuta, pa ih poslužite.", "timerMinutes": 5 }
+            {
+              "text": "Batake dobro posušite papirnim ubrusom, posebno kožu."
+            },
+            {
+              "text": "U većoj posudi sjedinite ulje, senf, sok od limuna, bijeli luk, alevu papriku, majčinu dušicu, so i biber."
+            },
+            {
+              "text": "Ubacite batake u marinadu i promiješajte ih rukama, tako da svaki bude premazan."
+            },
+            {
+              "text": "Pokrijte posudu i ostavite batake u frižideru najmanje 30 minuta, ili preko noći.",
+              "timerMinutes": 30
+            },
+            {
+              "text": "Izvadite batake iz frižidera i ostavite ih 15 minuta na sobnoj temperaturi.",
+              "timerMinutes": 15
+            },
+            {
+              "text": "Za to vrijeme zagrijte rernu na 200 °C, ili na 190 °C s ventilatorom."
+            },
+            {
+              "text": "Na lim stavite papir za pečenje i rasporedite batake s razmakom, da se ne dodiruju."
+            },
+            {
+              "text": "Pecite nepokriveno 25 minuta.",
+              "timerMinutes": 25
+            },
+            {
+              "text": "Okrenite batake i premažite ih sokom koji se skupio na limu."
+            },
+            {
+              "text": "Pecite još 15–20 minuta, dok koža ne postane tamnozlatna i hrskava, a termometar zaboden do kosti ne pokaže najmanje 74 °C. Bez termometra: sok iz najdebljeg dijela mora biti bistar.",
+              "timerMinutes": 15
+            },
+            {
+              "text": "Pečene batake pustite da odstoje 5 minuta, pa ih poslužite.",
+              "timerMinutes": 5
+            }
           ]
         }
       ],
@@ -64,7 +219,7 @@
         {
           "level": "h2",
           "title": null,
-          "body": "Kad bataci izađu iz rerne blijedi, s mekanom i gumastom kožom, razlog je skoro uvijek voda. Mokra koža se u rerni prvo kuha na pari, a tek onda peče. Zato je ovdje sve u dvije stvari: suha koža i dovoljno mjesta na limu.\n\nOstalo je jednostavno. Marinada od senfa, bijelog luka, limuna i aleve paprike uhvati se za pola sata. Rerna odradi ostatak, a vi za to vrijeme skuhate prilog."
+          "body": "Kad bataci izađu iz rerne blijedi, s mekanom i gumastom kožom, razlog je skoro uvijek voda. Mokra koža se u rerni prvo kuha na pari, a tek onda peče. Sve se ovdje svodi na suhu kožu i dovoljno mjesta na limu.\n\nOstalo je jednostavno. Marinada od senfa, bijelog luka, limuna i aleve paprike uhvati se za pola sata. Rerna odradi ostatak, a vi za to vrijeme skuhate prilog."
         },
         {
           "level": "h2",
@@ -86,11 +241,17 @@
       "substitutions": [],
       "storage": null,
       "faq": [],
-      "servedWith": ["pire-krompir"],
+      "servedWith": [
+        "pire-krompir"
+      ],
       "leftovers": {},
-      "relatedRecipes": ["pecena-piletina-s-krompirom"],
+      "relatedRecipes": [
+        "pecena-piletina-s-krompirom"
+      ],
       "relatedGuides": [],
-      "authors": ["emir-delic"],
+      "authors": [
+        "emir-delic"
+      ],
       "facebook": {},
       "seo": {
         "title": "Pileći bataci iz rerne s hrskavom kožom i senfom",
@@ -103,34 +264,122 @@
       "planId": "SNK-NR-002",
       "slug": "rizoto-s-gljivama",
       "title": "Rižoto s gljivama",
-      "alternativeNames": ["rižoto sa šampinjonima", "rižoto od gljiva", "rižoto s pečurkama"],
+      "alternativeNames": [
+        "rižoto sa šampinjonima",
+        "rižoto od gljiva",
+        "rižoto s pečurkama"
+      ],
       "summary": "Rižoto s gljivama od arborio riže, šampinjona pečenih posebno, bijelog vina i parmezana. Kremast je bez pavlake, jer riža uz postepeno dolijevanje temeljca pusti škrob.",
       "beforeYouStart": "Sve sastojke pripremite unaprijed. Kad krene dolijevanje temeljca, rižoto traži stalno miješanje oko 20 minuta.",
       "primaryCategory": "riza-i-zitarice",
-      "meals": ["rucak", "vecera"],
-      "tags": ["riza", "gljive", "sir"],
-      "diets": ["bez-jaja"],
-      "methods": ["kuhanje"],
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "riza",
+        "gljive",
+        "sir"
+      ],
+      "diets": [
+        "bez-jaja"
+      ],
+      "methods": [
+        "kuhanje"
+      ],
       "difficulty": "srednje",
-      "yield": { "servings": 4, "unit": "porcije", "scalable": true },
-      "times": { "prepMinutes": 10, "cookMinutes": 30, "totalMinutes": 40 },
-      "equipment": { "other": "široka tava s debljim dnom, lonac za temeljac, kutlača" },
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 30,
+        "totalMinutes": 40
+      },
+      "equipment": {
+        "other": "široka tava s debljim dnom, lonac za temeljac, kutlača"
+      },
       "ingredientGroups": [
         {
           "title": null,
           "items": [
-            { "ingredient": "riza-za-rizoto", "amount": 300, "unit": "g", "label": "riže za rižoto", "note": "arborio" },
-            { "ingredient": "sampinjoni", "amount": 400, "unit": "g", "label": "šampinjona" },
-            { "ingredient": "crni-luk", "amount": 1, "unit": "glavica", "label": "crnog luka" },
-            { "ingredient": "bijeli-luk", "amount": 2, "unit": "cesanj", "label": "bijelog luka" },
-            { "ingredient": "bijelo-vino", "amount": 100, "unit": "ml", "label": "suhog bijelog vina" },
-            { "ingredient": "povrtni-temeljac", "amount": 1, "unit": "l", "label": "povrtnog temeljca" },
-            { "ingredient": "maslinovo-ulje", "amount": 2, "unit": "kasika", "label": "maslinovog ulja" },
-            { "ingredient": "maslac", "amount": 40, "unit": "g", "label": "maslaca", "note": "pola za luk, pola na kraju" },
-            { "ingredient": "parmezan", "amount": 40, "unit": "g", "label": "rendanog parmezana" },
-            { "ingredient": "so", "amount": null, "unit": "po-ukusu", "label": "so" },
-            { "ingredient": "biber", "amount": null, "unit": "po-ukusu", "label": "biber" },
-            { "ingredient": "persun", "amount": null, "unit": "po-ukusu", "label": "svježeg peršuna", "note": "sitno sjeckanog, za posluživanje" }
+            {
+              "ingredient": "riza-za-rizoto",
+              "amount": 300,
+              "unit": "g",
+              "label": "riže za rižoto",
+              "note": "arborio"
+            },
+            {
+              "ingredient": "sampinjoni",
+              "amount": 400,
+              "unit": "g",
+              "label": "šampinjona"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "crnog luka"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 2,
+              "unit": "cesanj",
+              "label": "bijelog luka"
+            },
+            {
+              "ingredient": "bijelo-vino",
+              "amount": 100,
+              "unit": "ml",
+              "label": "suhog bijelog vina"
+            },
+            {
+              "ingredient": "povrtni-temeljac",
+              "amount": 1,
+              "unit": "l",
+              "label": "povrtnog temeljca"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 40,
+              "unit": "g",
+              "label": "maslaca",
+              "note": "pola za luk, pola na kraju"
+            },
+            {
+              "ingredient": "parmezan",
+              "amount": 40,
+              "unit": "g",
+              "label": "rendanog parmezana"
+            },
+            {
+              "ingredient": "so",
+              "amount": null,
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "amount": null,
+              "unit": "po-ukusu",
+              "label": "biber"
+            },
+            {
+              "ingredient": "persun",
+              "amount": null,
+              "unit": "po-ukusu",
+              "label": "svježeg peršuna",
+              "note": "sitno sjeckanog, za posluživanje"
+            }
           ]
         }
       ],
@@ -138,19 +387,51 @@
         {
           "title": null,
           "steps": [
-            { "text": "Šampinjone narežite na listiće." },
-            { "text": "Crni i bijeli luk sitno nasjeckajte." },
-            { "text": "Temeljac zagrijte u loncu i držite ga toplim na laganoj vatri." },
-            { "text": "U širokoj tavi zagrijte 1 kašiku maslinovog ulja i pržite šampinjone na jačoj vatri 5–6 minuta, dok ne postanu zlatnosmeđi.", "timerMinutes": 5 },
-            { "text": "Posolite šampinjone i izvadite ih na tanjir." },
-            { "text": "U istu tavu dodajte preostalo ulje i 20 g maslaca, pa pirjajte crni luk 3 minute.", "timerMinutes": 3 },
-            { "text": "Ubacite bijeli luk i rižu i pržite ih uz miješanje 2 minute, dok zrna po rubovima ne postanu staklasta.", "timerMinutes": 2 },
-            { "text": "Prelijte vinom i kuhajte uz miješanje dok skoro sasvim ne ispari." },
-            { "text": "Sipajte kutlaču vrućeg temeljca. Kad ga riža skoro sav upije, sipajte sljedeću. Miješajte cijelo vrijeme i tako nastavite oko 10 minuta.", "timerMinutes": 10 },
-            { "text": "Vratite šampinjone u tavu i nastavite dolijevati temeljac još oko 8 minuta, dok riža ne bude mekana, a zrno u sredini još blago čvrsto.", "timerMinutes": 8 },
-            { "text": "Sklonite tavu s vatre, pa dodajte ostatak maslaca i parmezan i dobro izmiješajte." },
-            { "text": "Posolite i pobiberite po ukusu, poklopite i ostavite 2 minute.", "timerMinutes": 2 },
-            { "text": "Pospite peršunom i odmah poslužite." }
+            {
+              "text": "Šampinjone narežite na listiće."
+            },
+            {
+              "text": "Crni i bijeli luk sitno nasjeckajte."
+            },
+            {
+              "text": "Temeljac zagrijte u loncu i držite ga toplim na laganoj vatri."
+            },
+            {
+              "text": "U širokoj tavi zagrijte 1 kašiku maslinovog ulja i pržite šampinjone na jačoj vatri 5–6 minuta, dok ne postanu zlatnosmeđi.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Posolite šampinjone i izvadite ih na tanjir."
+            },
+            {
+              "text": "U istu tavu dodajte preostalo ulje i 20 g maslaca, pa pirjajte crni luk 3 minute.",
+              "timerMinutes": 3
+            },
+            {
+              "text": "Ubacite bijeli luk i rižu i pržite ih uz miješanje 2 minute, dok zrna po rubovima ne postanu staklasta.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Prelijte vinom i kuhajte uz miješanje dok skoro sasvim ne ispari."
+            },
+            {
+              "text": "Sipajte kutlaču vrućeg temeljca. Kad ga riža skoro sav upije, sipajte sljedeću. Miješajte cijelo vrijeme i tako nastavite oko 10 minuta.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Vratite šampinjone u tavu i nastavite dolijevati temeljac još oko 8 minuta, dok riža ne bude mekana, a zrno u sredini još blago čvrsto.",
+              "timerMinutes": 8
+            },
+            {
+              "text": "Sklonite tavu s vatre, pa dodajte ostatak maslaca i parmezan i dobro izmiješajte."
+            },
+            {
+              "text": "Posolite i pobiberite po ukusu, poklopite i ostavite 2 minute.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Pospite peršunom i odmah poslužite."
+            }
           ]
         }
       ],
@@ -205,7 +486,9 @@
       "leftovers": {},
       "relatedRecipes": [],
       "relatedGuides": [],
-      "authors": ["urednistvo"],
+      "authors": [
+        "urednistvo"
+      ],
       "facebook": {},
       "seo": {
         "title": "Rižoto s gljivama i parmezanom, kremast bez pavlake",

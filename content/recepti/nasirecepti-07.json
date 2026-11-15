@@ -22,9 +22,9 @@
     },
     {
       "slug": "kopar",
-      "name": "kopar",
+      "name": "mirođija",
       "synonyms": [
-        "mirođija",
+        "kopar",
         "svježi kopar"
       ],
       "foodGroup": "zacini"
@@ -259,22 +259,22 @@
         {
           "level": "h2",
           "title": null,
-          "body": "Traka tikvice koja pukne čim je počnete savijati obično je predebela ili se nije stigla opustiti. Tanka i lagano posoljena, dok se pravi nadjev, postane savitljiva kao list tijesta. Tada se rolice slažu brzo, a nadjev ostane unutra."
+          "body": "Kanelone bez tijesta: tako se ovo jelo najlakše opiše. Tanka traka tikvice umata nadjev od rikote i pesta, rolice se slože u paradajz sos, a odozgo ide mocarela. Traka postane savitljiva kao list tijesta tek kad je dovoljno tanka i lagano posoljena, pa od nje zavisi sve ostalo."
         },
         {
           "level": "h2",
-          "title": "Koliko tanke trake?",
-          "body": "Tanke tek nekoliko milimetara. Tako tanko se najlakše reže gulilicom za povrće ili ribežom za tanke listove, cijelom dužinom tikvice. Nožem je teže dobiti ujednačenu debljinu, a deblji kraj trake se lomi. Dvije trake se preklope po dužini, da rolica bude šira i da nadjev ne ispada sa strane."
+          "title": "Gulilica umjesto noža",
+          "body": "Trake neka budu debele tek nekoliko milimetara. Tako tanko se najlakše režu gulilicom za povrće ili ribežom za tanke listove, cijelom dužinom tikvice. Nožem je teže dobiti ujednačenu debljinu, a deblji kraj trake se lomi. Dvije trake se preklope po dužini, da rolica bude šira i da nadjev ne ispada sa strane."
         },
         {
           "level": "h2",
           "title": "Sos ide i ispod i preko",
-          "body": "Tri četvrtine paradajz sosa ide na dno lima, a rolice se slažu u njega, završetkom prema dolje. Sos ih drži da se ne odmotaju i daje im vlagu dok se peku. Ostatak sosa i pesta ide preko, a na kraju mocarela. Za dvadesetak minuta na 220 °C sir se rastopi i zapeče, a tikvice omekšaju taman koliko treba."
+          "body": "Tri četvrtine paradajz sosa ide na dno lima, a rolice se slažu u njega, završetkom prema dolje. Sos ih drži da se ne odmotaju i daje im vlagu dok se peku. Ostatak sosa i pesta ide preko, a na kraju mocarela. Za dvadesetak minuta na 220 °C sir se rastopi i zapeče, a tikvice omekšaju koliko treba."
         },
         {
           "level": "h2",
-          "title": "Nadjev od tri sira i pesta",
-          "body": "Rikota daje nadjevu mekoću, tvrdi sir slanoću, a pesto od bosiljka boju i miris. Provolone ili gauda se rendaju sitno, da se izmiješaju s rikotom bez grudvica. Rolice se jedu kao toplo predjelo, po dvije na tanjiru, ili kao lagan ručak, s hljebom kojim se pokupi sos."
+          "title": "Nadjev od rikote i pesta",
+          "body": "Rikota daje nadjevu mekoću, tvrdi sir slanoću, a pesto od bosiljka boju i miris. Provolone ili gauda se rendaju sitno, da se izmiješaju s rikotom bez grudvica. Nadjev ne treba posebno soliti, jer su i tvrdi sir i pesto slani."
         }
       ],
       "tips": [],
@@ -370,7 +370,7 @@
             },
             {
               "ingredient": "mineralna-voda",
-              "amount": 500,
+              "amount": 350,
               "unit": "ml",
               "label": "hladne mineralne vode"
             },
@@ -401,7 +401,7 @@
               "text": "Brašno, prašak za pecivo i so izmiješajte u većoj posudi."
             },
             {
-              "text": "Dodajte jogurt i mineralnu vodu, pa zamijesite glatko i ujednačeno tijesto."
+              "text": "Dodajte jogurt i mineralnu vodu, pa zamijesite mekano, malo ljepljivo tijesto."
             },
             {
               "text": "Tijesto premjestite na pobrašnjenu dasku i pobrašnjenim rukama oblikujte glatku kuglu."
@@ -424,7 +424,7 @@
               "text": "Izvađenu pogaču odmah pokrijte suhom kuhinjskom krpom."
             },
             {
-              "text": "Ko voli, toplu pogaču može premazati maslacem."
+              "text": "Toplu pogaču po želji premažite maslacem."
             }
           ]
         }
@@ -466,19 +466,19 @@
         "description": "Domaća pogača bez kvasca od brašna, jogurta i mineralne vode, pečena 10 minuta na 230 °C i 25 minuta na 175 °C. Mekana je i brza. Recept korak po korak."
       },
       "family": "Pogače",
-      "sourceNote": "Prepis SNK-NR-036 (pokriva SNK-0323). nasirecepti.com, stari post ID 375: https://nasirecepti.com/domaca-pogaca/ (WP izvoz 2026-11-15). Preuzeto: 700 g brašna, 1 i ½ praška za pecivo (→ 1,5 kesica), 1 žlica soli, 1 čaša kiselog jogurta (→ 180 g), 500 ml mineralne vode; suhi sastojci, jogurt i voda, glatko tijesto; kugla na pobrašnjenoj površini, pritisnuti u oblik pogače; podmazani lim, izbockati vilicom; 10 min na 230 °C, zatim 176 °C (→ 175 °C) oko 25 min; pokriti suhom krpom; po želji maslac; 15 min pripreme, 35 min pečenja, 6 porcija. Napomena: opisi koraka 2–4 su u izvozu bili u poljima za naslove koraka (step_N_naslov). Dodano: hladna mineralna voda, pobrašnjene ruke."
+      "sourceNote": "Prepis SNK-NR-036 (pokriva SNK-0323). nasirecepti.com, stari post ID 375: https://nasirecepti.com/domaca-pogaca/ (WP izvoz 2026-11-15). Preuzeto: 700 g brašna, 1 i ½ praška za pecivo (→ 1,5 kesica), 1 žlica soli, 1 čaša kiselog jogurta (→ 180 g), 500 ml mineralne vode; suhi sastojci, jogurt i voda, glatko tijesto; kugla na pobrašnjenoj površini, pritisnuti u oblik pogače; podmazani lim, izbockati vilicom; 10 min na 230 °C, zatim 176 °C (→ 175 °C) oko 25 min; pokriti suhom krpom; po želji maslac; 15 min pripreme, 35 min pečenja, 6 porcija. Napomena: opisi koraka 2–4 su u izvozu bili u poljima za naslove koraka (step_N_naslov). Odluka urednika 2026-11-16: 500 ml vode na 700 g brašna uz 180 g jogurta daje oko 97 % tečnosti — od toga se ne može oblikovati kugla (recept neizvodljiv, §1); u izvozu provjereno da stvarno piše 500 ml → upisano 350 ml mineralne vode. Dodano: hladna mineralna voda, pobrašnjene ruke."
     },
     {
       "planId": "SNK-NR-037",
       "slug": "pohani-sir",
-      "title": "Pohani sir",
+      "title": "Pohovani sir",
       "alternativeNames": [
-        "pohovani sir",
-        "pohani sir u tavi",
-        "pohana gauda",
-        "pohani edamer"
+        "pohani sir",
+        "pohovani sir u tavi",
+        "pohovana gauda",
+        "pohovani edamer"
       ],
-      "summary": "Pohani sir od kriški gaude ili edamera debljine centimetar i po, dvaput provučenih kroz jaja i prezle i prženih minut-dva sa svake strane. Korica je hrskava, a sredina se razvlači.",
+      "summary": "Pohovani sir od kriški gaude ili edamera debljine centimetar i po, dvaput provučenih kroz jaja i prezle i prženih minut-dva sa svake strane. Polutvrdi sir se u ulju razvlači, ali ne iscuri kroz koricu.",
       "primaryCategory": "predjela-i-grickalice",
       "meals": [
         "vecera"
@@ -596,27 +596,12 @@
         {
           "level": "h2",
           "title": null,
-          "body": "Pohani sir je večera za dan kad mesa nema, a treba nešto toplo i zasitno. Četrdeset deka sira i dva jajeta nahrane četvero, uz pomfrit i salatu. A posla je manje nego sa šniclom, jer se sir ne tuče i ne peče dugo."
+          "body": "Za dan kad mesa nema, a treba nešto toplo i zasitno, pohovani sir je najbrža večera. Posla je manje nego sa šniclom: sir se ne tuče i ne peče dugo, nego ide dvaput kroz jaja i prezle i minut-dva u vrelo ulje."
         },
         {
           "level": "h2",
-          "title": "Gauda ili edamer",
-          "body": "Za pohovanje uzimam gaudu ili edamer. Polutvrdi sir se u vrelom ulju rastopi taman toliko da se razvlači, a ne pretvori se u tečnost. Mladi i mekani sirevi iscure kroz koricu prije nego što ona porumeni. Trapist i slični sirevi isto dobro rade."
-        },
-        {
-          "level": "h2",
-          "title": "Centimetar i po",
-          "body": "Kriške se režu debele oko centimetar i po. Tanja kriška se rastopi skroz i izgubi oblik. Deblja ostane hladna i tvrda u sredini, a korica za to vrijeme izgori. Od četrdeset deka izađu četiri kriške, po jedna za svakoga."
-        },
-        {
-          "level": "h2",
-          "title": "Rubovi moraju biti pokriveni",
-          "body": "Sir curi na rubovima, jer je tu korica najtanja. Zato se kriška dvaput provlači kroz jaja i prezle, a rubove posebno pritisnite u mrvice. Ulja u tavi neka bude dva prsta, da kriška pliva."
-        },
-        {
-          "level": "h2",
-          "title": "Pomfrit i tartar sos",
-          "body": "Pohani sir se jede odmah, dok se razvlači. Klasičan tanjir je s pomfritom i tartar sosom, a lakši sa zelenom salatom i kriškom limuna."
+          "title": "Polutvrdi sir, kriška od centimetar i po",
+          "body": "Za pohovanje je najbolja gauda ili edamer. Polutvrdi sir se u vrelom ulju rastopi taman toliko da se razvlači, a ne pretvori se u tečnost, dok mladi i mekani sirevi iscure kroz koricu prije nego što ona porumeni. Trapist i slični sirevi isto dobro rade. Uz pomfrit i tartar sos ovo je klasičan tanjir, a uz zelenu salatu lakša večera.\n\nKriške se režu debele oko centimetar i po, pa izađu četiri. Tanja kriška se rastopi skroz i izgubi oblik, a deblja ostane hladna u sredini dok korica izgori. Rubove dobro pritisnite u mrvice, jer sir prvo krene kroz njih."
         }
       ],
       "tips": [],
@@ -634,8 +619,8 @@
       ],
       "facebook": {},
       "seo": {
-        "title": "Pohani sir s hrskavom koricom i rastegljivom sredinom",
-        "description": "Pohani sir od gaude ili edamera: kriške od 1,5 cm, dvaput u jaja i prezle, minut-dva sa svake strane u ulju. Večera uz pomfrit i salatu. Recept korak po korak."
+        "title": "Pohovani sir s hrskavom koricom i rastegljivom sredinom",
+        "description": "Pohovani sir od gaude ili edamera: kriške od 1,5 cm, dvaput u jaja i prezle, minut-dva sa svake strane. Večera uz pomfrit i salatu. Recept korak po korak."
       },
       "family": "Pohovani sir",
       "sourceNote": "Prepis SNK-NR-037. nasirecepti.com, stari post ID 846: https://nasirecepti.com/pohani-sir/ (WP izvoz 2026-11-15). Preuzeto: 400 g polutvrdog sira (gauda ili edamer), 2 jaja, 4 žlice glatkog brašna, 100 g krušnih mrvica (→ prezle), sol, papar, ulje za prženje; 4 ploške debljine oko 1,5 cm; 20 min u zamrzivaču; brašno, jaja, mrvice, pa još jednom jaja i mrvice, rubovi pokriveni; ulje u sloju oko 2 cm; 1–2 min sa svake strane; papirni ubrus; 15 min pripreme, 10 min prženja, 4 porcije. Recept nema svoju stavku u planu (srodno SNK-0504). Trapist kao zamjena dodan kao opšte poznato."
@@ -787,12 +772,17 @@
         {
           "level": "h2",
           "title": "Čaša se ne okreće",
-          "body": "Krugovi se sijeku čašom ili okruglim kalupom, jednim odlučnim pritiskom. Kad se čaša okrene ili zakrene, rub tijesta se zgnječi i zalijepi, pa se pogačica u rerni ne digne ravno, nego nakrivo. Ostaci se spoje i ponovo razvaljaju, ali samo jednom, jer svako novo razvaljavanje tijesto zagrije i učini ga žilavijim."
+          "body": "Krugovi se sijeku čašom ili okruglim kalupom, jednim odlučnim pritiskom. Kad se čaša okrene ili zakrene, rub tijesta se zgnječi i zalijepi. Takva pogačica se u rerni ne digne ravno, nego nakrivo."
         },
         {
           "level": "h2",
-          "title": "Žumanjak i kim",
-          "body": "Premaz od žumanjka daje pogačicama tamniju zlatnu boju. Kim je po želji. Uz sir dobro pristaje, a ko ga ne voli, može ih posuti s malo krupne soli ili ostaviti samo sa žumanjkom.\n\nPogačice su mekane i tople i hladne, pa su zgodne za ponijeti i za goste. U zatvorenoj posudi ostanu mekane i sutradan."
+          "title": "Ostaci se razvaljaju jednom",
+          "body": "Ostaci tijesta se spoje i ponovo razvaljaju, ali samo jednom. Svako novo razvaljavanje tijesto zagrije i doda mu brašna s daske, pa su pogačice od trećeg kruga žilavije i tvrđe. Ono što ostane i poslije toga ispecite u nepravilnim komadićima, zajedno s ostalima."
+        },
+        {
+          "level": "h2",
+          "title": "Premaz od žumanjka",
+          "body": "Premaz od žumanjka daje pogačicama tamniju zlatnu boju. Kim uz sir dobro pristaje, a ko ga ne voli, može ih posuti s malo krupne soli. Dobre su i samo sa žumanjkom, bez ičega odozgo."
         }
       ],
       "tips": [],
@@ -927,7 +917,7 @@
         {
           "level": "h2",
           "title": null,
-          "body": "Smjesa za ove uštipke je gusta i ljepljiva, kao gust jogurt, a ne tijesto koje se mijesi. Ko joj tu doda brašna da je učvrsti, dobije tvrde i teške uštipke. Upravo takva, mekana smjesa u vrelom ulju naraste u šuplju, laganu lopticu s hrskavom korom, i za to ne treba ni jaje ni mlijeko."
+          "body": "Smjesa od brašna, praška za pecivo i tople vode, gusta i ljepljiva kao jogurt, u vrelom ulju naraste u šuplju, laganu lopticu s hrskavom korom. Za to ne treba ni jaje ni mlijeko. Smjesa samo mora ostati mekana, jer dodatno brašno daje tvrde i teške uštipke."
         },
         {
           "level": "h2",
@@ -937,7 +927,7 @@
         {
           "level": "h2",
           "title": "Kašika umočena u ulje",
-          "body": "Kad kašiku prije svakog uštipka umočite u vrelo ulje, smjesa s nje sklizne sama i ne lijepi se. Manji uštipci se ispeku i u sredini, a veliki ostanu gnjecavi, pa zahvatajte pola kašike.\n\nTopli idu sa sirom i kajmakom za doručak, ili s džemom i medom kao nešto slatko."
+          "body": "Kad kašiku prije svakog uštipka umočite u vrelo ulje, smjesa s nje sklizne sama i ne lijepi se. Manji uštipci se ispeku i u sredini, a veliki ostanu gnjecavi, pa zahvatajte pola kašike. Ako se smjesa ipak počne lijepiti, kašiku ponovo umočite u ulje prije sljedećeg uštipka."
         }
       ],
       "tips": [],
@@ -1158,18 +1148,13 @@
         },
         {
           "level": "h2",
-          "title": "Tri sira",
+          "title": "Mocarela drži, čedar boji",
           "body": "Mocarela drži složenac zajedno i razvlači se. Čedar daje boju i jači okus, a parmezan slanoću. Umjesto čedara dobro ide i gauda ili trapist, bilo koji tvrdi sir koji se topi."
         },
         {
           "level": "h2",
-          "title": "Prezle tek poslije 20 minuta",
-          "body": "Mrvice s maslacem i parmezanom idu na složenac kad se on već malo stegne. Da idu od početka, upile bi vlagu odozdo i ostale meke. Ovako se za zadnjih desetak minuta zapeku i ostanu hrskave."
-        },
-        {
-          "level": "h2",
-          "title": "Pet minuta prije rezanja",
-          "body": "Pustite ga par minuta da se slegne. Vruć se raspada pod nožem, a za pet minuta fino se reže na kocke."
+          "title": "Mrvice na stegnut složenac",
+          "body": "Mrvice s maslacem i parmezanom idu na složenac poslije dvadeset minuta, kad se on već malo stegne. Da idu od početka, upile bi vlagu odozdo i ostale meke, a ovako se za zadnjih desetak minuta zapeku i ostanu hrskave. Pečen složenac pustite pet minuta da se slegne, jer se vruć raspada pod nožem."
         }
       ],
       "tips": [],
@@ -1202,7 +1187,7 @@
         "namaz od bijelog graha i tunjevine",
         "namaz od pasulja i tunjevine"
       ],
-      "summary": "Namaz od graha i tunjevine od bijelog graha iz konzerve, grčkog jogurta, kopra, peršuna, kapara i ljutike, izmiksan tako da ostane malo zrnast. Začin je domaća mješavina majčine dušice, origana i prženog susama.",
+      "summary": "Namaz od graha i tunjevine od bijelog graha iz konzerve, grčkog jogurta, mirođije, peršuna, kapara i ljutike, izmiksan tako da ostane malo zrnast. Začin je domaća mješavina majčine dušice, origana i prženog susama.",
       "primaryCategory": "namazi",
       "meals": [],
       "tags": [
@@ -1275,7 +1260,7 @@
               "ingredient": "kopar",
               "amount": 10,
               "unit": "g",
-              "label": "svježeg kopra",
+              "label": "svježe mirođije",
               "note": "sjeckanog"
             },
             {
@@ -1348,7 +1333,7 @@
               "text": "Grah, jogurt i začinsku mješavinu izmiksajte u multipraktiku u kremastu smjesu."
             },
             {
-              "text": "Dodajte kopar, peršun i limunov sok, pa kratko izmiksajte."
+              "text": "Dodajte mirođiju, peršun i limunov sok, pa kratko izmiksajte."
             },
             {
               "text": "Dodajte tunjevinu, kapare i ljutiku i miksajte samo nekoliko sekundi, da namaz ostane malo zrnast."
@@ -1367,7 +1352,12 @@
         {
           "level": "h2",
           "title": null,
-          "body": "Bijeli grah iz konzerve je ovdje osnova, a ne dodatak. Izmiksan s grčkim jogurtom daje kremastu podlogu, koja nosi tunjevinu i mnogo zelenog bilja, a ne traži ni majonezu ni ulje u smjesi. Zato je namaz lakši od uobičajenih namaza od tunjevine, a maže se jednako dobro."
+          "body": "Jedna konzerva bijelog graha i jedna konzerva tunjevine daju namaz za osam ljudi, gotov za desetak minuta u multipraktiku. Uz njih idu grčki jogurt, šaka zelenog bilja, kapari i ljutika, a majoneze nema."
+        },
+        {
+          "level": "h2",
+          "title": "Kremasta podloga od graha",
+          "body": "Grah izmiksan s grčkim jogurtom postane gust i kremast, pa drži tunjevinu i bilje bez ikakvog ulja u smjesi. Namaz je zbog toga lakši od uobičajenih namaza od tunjevine s majonezom. A maže se jednako dobro, i na hljeb i na krekere."
         },
         {
           "level": "h2",
@@ -1376,13 +1366,13 @@
         },
         {
           "level": "h2",
-          "title": "Grah prvo, tunjevina zadnja",
-          "body": "Grah, jogurt i začin se izmiksaju u glatku kremu. Bilje i limunov sok idu poslije, i kratko miksanje ostavi zelene komadiće. Tunjevina, kapari i ljutika dolaze zadnji i miksaju se samo nekoliko sekundi, tako da namaz ostane malo zrnast i da se tunjevina vidi."
+          "title": "Mnogo zelenog bilja",
+          "body": "Na jednu konzervu graha ide 25 grama peršuna i 10 grama mirođije, dobra šaka sjeckanog bilja. Ono daje namazu svježinu i zelenu boju, pa ga ne štedite. Bilje i limunov sok idu poslije graha i miksaju se kratko, da ostanu vidljivi zeleni komadići."
         },
         {
           "level": "h2",
-          "title": "So tek na kraju",
-          "body": "Kapari i tunjevina su slani, a grah iz konzerve ponekad isto. Zato se so dodaje tek kad je sve izmiksano i probano."
+          "title": "Tunjevina se ne miksa do kraja",
+          "body": "Tunjevina, kapari i ljutika dolaze zadnji i miksaju se samo nekoliko sekundi, tako da namaz ostane malo zrnast i da se tunjevina vidi. Kapari i tunjevina su slani, a grah iz konzerve ponekad isto. So se zbog toga dodaje tek kad je sve izmiksano i probano."
         }
       ],
       "tips": [],
@@ -1400,8 +1390,8 @@
       ],
       "facebook": {},
       "seo": {
-        "title": "Namaz od graha i tunjevine s koprom i kaparima",
-        "description": "Namaz od bijelog graha i tunjevine s grčkim jogurtom, koprom, peršunom i kaparima, sa začinom od majčine dušice, origana i susama. Recept korak po korak."
+        "title": "Namaz od graha i tunjevine s mirođijom i kaparima",
+        "description": "Namaz od bijelog graha i tunjevine s grčkim jogurtom, mirođijom, peršunom i kaparima, sa začinom od majčine dušice, origana i susama. Recept korak po korak."
       },
       "family": "Namazi",
       "sourceNote": "Prepis SNK-NR-041 (pokriva SNK-0510). nasirecepti.com, stari post ID 396: https://nasirecepti.com/namaz-od-graha-i-tune/ (WP izvoz 2026-11-15). Preuzeto: 1 konzerva bijelog graha (cannellini), 85 g grčkog jogurta, 2 žličice za'atara, 10 g kopra, 25 g peršina, sok 1 manjeg limuna, 1 konzerva tune u maslinovom ulju (oko 140 g), 2 žlice kapara, 1 manja ljutika, ½–¾ žličice soli, 1 žličica papra; grah, jogurt, za'atar u multipraktik; kopar, peršin, limun; tuna, kapari, ljutika kratko; sol, papar; maslinovo ulje i bilje; 10 min, 8 porcija. Odluka urednika 2026-11-15: za'atar se kod nas teško nalazi → u sastojcima domaća zamjena (½ kašičice majčine dušice, ½ kašičice origana, 1 kašičica prženog susama), za'atar samo kao opcija u tekstu. Sok limuna → oko 2 kašike."
@@ -1475,7 +1465,7 @@
             },
             {
               "ingredient": "so",
-              "amount": 1,
+              "amount": 0.5,
               "unit": "kasicica",
               "label": "soli"
             }
@@ -1496,7 +1486,7 @@
               "text": "U avokado dodajte krem sir, sjeckani bijeli luk, limunov sok i so."
             },
             {
-              "text": "Sve dobro izmiješajte ili kratko izmiksajte u ujednačen namaz."
+              "text": "Sve dobro izmiješajte ili kratko izmiksajte u ujednačen namaz. Probajte, pa ako treba, dodajte još soli."
             },
             {
               "text": "Namaz pokrijte folijom priljubljenom uz površinu i držite ga u frižideru do posluživanja."
@@ -1509,17 +1499,17 @@
         {
           "level": "h2",
           "title": null,
-          "body": "Izgnječen avokado ostavljen na stolu za pola sata posmeđi na površini. Nije pokvaren, ali namaz koji se pravi za goste ili za sutrašnji doručak treba ostati zelen. Zato ovaj recept ima dvije pomoći: limunov sok u smjesi i foliju priljubljenu direktno uz površinu namaza."
+          "body": "Za ovaj namaz dovoljni su jedan zreo avokado i malo krem sira, a gotov je za deset minuta. Krem sir mu daje gustinu, pa se ne razmazuje po hljebu kao čisti avokado, a bijeli luk i limun daju okus."
         },
         {
           "level": "h2",
           "title": "Zreo, a svijetlozelen avokado",
-          "body": "Zreo avokado popusti pod prstom kad ga lagano stisnete, a peteljka se lako odvoji i ispod nje je zeleno. Tvrd se ne da izgnječiti u glatku masu, nego ostaje u grudvicama, a prezreo je iznutra smeđ i gorkast. Za ovaj namaz treba onaj između, mekan i svijetlozelen. Krem sir mu poslije daje gustinu, pa se namaz ne razmazuje po hljebu kao čisti avokado."
+          "body": "Zreo avokado popusti pod prstom kad ga lagano stisnete, a peteljka se lako odvoji i ispod nje je zeleno. Tvrd se ne da izgnječiti u glatku masu, nego ostaje u grudvicama, a prezreo je iznutra smeđ i gorkast. Za ovaj namaz treba onaj između, mekan i svijetlozelen."
         },
         {
           "level": "h2",
-          "title": "Limun i folija uz površinu",
-          "body": "Avokado posmeđi kad mu meso dođe u dodir sa zrakom. Limunov sok to usporava, jer kiselina koči proces koji avokado mijenja u smeđe. Folija priljubljena direktno uz namaz, bez zraka između, uradi ostalo: gdje nema zraka, nema ni tamnjenja. Tako pokriven, namaz u frižideru ostane zelen i do sutra ujutro."
+          "title": "Folija priljubljena uz namaz",
+          "body": "Izgnječen avokado na zraku posmeđi već za pola sata. Nije pokvaren, ali namaz za goste ili za sutrašnji doručak treba ostati zelen. Limunov sok usporava tamnjenje, jer kiselina koči proces koji avokado mijenja u smeđe. Folija priljubljena direktno uz namaz, bez zraka između, uradi ostalo. Tako pokriven, namaz u frižideru ostane zelen i do sutra ujutro."
         }
       ],
       "tips": [],
@@ -1541,7 +1531,7 @@
         "description": "Namaz od avokada i krem sira s limunovim sokom i bijelim lukom, gotov za 10 minuta. Kako odabrati zreo avokado i sačuvati namaz zelenim. Recept korak po korak."
       },
       "family": "Namazi",
-      "sourceNote": "Prepis SNK-NR-042 (pokriva SNK-0508). nasirecepti.com, stari post ID 399: https://nasirecepti.com/namaz-od-avokada-i-sira/ (WP izvoz 2026-11-15). Preuzeto: 1 zreli avokado, 85 g krem sira, 1 žlica limunovog soka, 2 režnja češnjaka, 1 žličica soli; oguliti, košticu, komadi; zgnječiti vilicom; krem sir, limun, češnjak, sol; promiješati ili kratko izmiksati; u hladnjak do posluživanja; 10 min, 8 porcija. Dodano kao opšte poznato: folija priljubljena uz površinu, kako prepoznati zreo avokado."
+      "sourceNote": "Prepis SNK-NR-042 (pokriva SNK-0508). nasirecepti.com, stari post ID 399: https://nasirecepti.com/namaz-od-avokada-i-sira/ (WP izvoz 2026-11-15). Preuzeto: 1 zreli avokado, 85 g krem sira, 1 žlica limunovog soka, 2 režnja češnjaka, 1 žličica soli; oguliti, košticu, komadi; zgnječiti vilicom; krem sir, limun, češnjak, sol; promiješati ili kratko izmiksati; u hladnjak do posluživanja; 10 min, 8 porcija. Dodano kao opšte poznato: folija priljubljena uz površinu, kako prepoznati zreo avokado. Odluka urednika 2026-11-16: so 1 kašičica → ½ kašičice (krem sir je već slan), uz „probajte i po potrebi dosolite“."
     }
   ]
 }

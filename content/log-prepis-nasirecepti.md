@@ -299,3 +299,14 @@ Odluke urednika 2026-11-15: za pet recepata s nepotpunim mjerama uobičajene mje
 **Različiti uglovi:** #27 avokado i tunjevina — gust namaz za sendvič; #42 avokado i krem sir — zreo avokado i kako da ne potamni. #30 kuglice od mocarele — dva sloja i zamrzivač (savjet razvijen samo ovdje); #37 pohani sir — večera bez mesa, koji sir i koliko debelo. Savjet „suh sir“ samo u #28; test ulja komadićem tijesta samo u #31.
 
 Provjera: `provjera-tekstova.py` nad serijama 01–07 (5-grami prema izvozu 2026-11-15) — „Sve u redu“ (prepravljeni koraci s frazama iz starih postova, „ploške“ → trake/kriške).
+
+### Pregled urednika 26–42 (2026-11-16) — ispravljeno
+
+- #36 pogača: u izvozu stvarno piše 500 ml vode (nije greška pri prenosu) — oko 97 % tečnosti, neizvodljivo za oblikovanje → 350 ml mineralne vode (§1, u sourceNote); kartica „mekano, malo ljepljivo tijesto“, „Toplu pogaču po želji premažite maslacem“.
+- #42: so 1 → ½ kašičice, „probajte, pa ako treba, dodajte još soli“. #28: 16 porcija ostaje.
+- Sadržaj: #35 „Nadjev od rikote i pesta“ (dva sira u nadjevu); #40 „Mocarela drži, čedar boji“ (bez duplog „Tri sira“); #27 „manjeg avokada, ili pola velikog“ i kartica usklađena; #37 bez sekcije o rubovima (jedna rečenica u sekciji o debljini), „četrdeset deka“ jednom; #40 rezanje samo u uvodu.
+- Jezik: „daje manje krugova“, „daje kori malo kiselosti“, „kroz kratki zarez“, kopar → mirođija (i u registru namirnica), kartica u „vi“, „Ako želite više svježine…“, „Pohovani sir“ (naslov; slug ostaje `pohani-sir`, „pohani sir“ u alternativnim nazivima), Emirove riječi kod Uredništva zamijenjene („postepeno“, „baš“, „koliko treba“).
+- Obrasci: uvodi #26 (bez „dvije stvari“), #29 (bez „Zato ovaj recept“), #32 (humus u drugoj rečenici), #35 (kanelone bez tijesta), #39, #41, #42 novi; naslovi bez broja/redoslijeda/„mora biti“ (npr. „Para odvaja opnu“, „Gulilica umjesto noža“, „Tunjevina se ne miksa do kraja“, „Probni komadić tijesta“); #31 bez „kod mene“ i bez sekcije o obliku; #37 bez „uzimam“ i bez budžetne rečenice; završeci #28, #30, #32, #35, #38, #39 bez posluživanja i bez „i sutradan“.
+- Broj H2 planiran za cijelu seriju: 3, 2, 4, 3, 2, 1, 3, 2, 4, 3, 2, 1, 4, 2, 3, 4, 2 — nikad isti kao prethodna dva; Emir 4, 1, 4, 1, 3.
+- Nova pravila u PREPIS §6 i u `provjera-tekstova.py` (pravila s prozorom od NR-026). Pogođeni i stariji tekstovi, ispravljeno: „dvije stvari“ (#1, #7), kartica u 3. licu (#1, #7, #8), dva naslova s brojem (#11), „Zato“ na početku više puta (#11, #14, #16, #17, #18, #20, #23), odgovor na „Koliko …?“ (#25), isti naslov na dva recepta („Dva dizanja“ — krofne, „Strpljenje prije rezanja“ — banana bread). Objavljeni #1, #8, #11, #14 ponovo objavljeni; ostali kao nove draft verzije (zakazani izlaze s novom verzijom).
+- Provjera nad 01–07: „Sve u redu“.

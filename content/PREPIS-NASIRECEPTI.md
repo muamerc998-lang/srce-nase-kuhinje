@@ -110,7 +110,28 @@ Pokreće se: `python -I scripts/provjera-tekstova.py content/recepti/nasirecepti
 - jezik: „stol“ (nominativ i akuzativ: „pred stol“, „za stol“) nije naša riječ, piše se „sto“, „na sto“, „pred sto“. Padeži „stola, stolu, stolom“ su ispravni i u bosanskom (sto, stola, stolu, stolom). Provjera je u listi hrvatskih riječi;
 - isti savjet (npr. zapečeno s dna tave za sos) razvijen u tekstu samo u jednom receptu; u ostalima samo kratko u koraku.
 
+**Granice iz pregleda NR-026–042** (2026-11-16, provjerava `scripts/provjera-tekstova.py`; pravila s prozorom računaju se od NR-026):
+- uvod „kvar → uzrok“ („obično je“, „nastaje kad“ u prve dvije rečenice): najviše 1 u 5;
+- „Zato ovaj recept“, „dvije stvari“, „dvije pomoći“: zabranjeno;
+- uvod „ovdje nije … nego“ / „ovdje je … a ne“: najviše 1 u 5;
+- naslov s brojem ili vremenom (cifra, „pola“, „četvrt“, broj riječima, „minuta“, „sat“): najviše 1 po tekstu;
+- naslov s redoslijedom („prvo“, „prvi“, „tek“, „zadnji“, „na kraju“): najviše 1 u 5;
+- naslov „Koliko …?“: najviše 1 u 10, a prva riječ odgovora nije riječ iz pitanja;
+- naslov „… mora / moraju biti …“: najviše 1 u 5;
+- isti naslov sekcije na dva recepta na sajtu: zabranjeno;
+- „ko voli / ko ima / ko želi / ko ga …“: najviše 1 po tekstu, nikad na kartici; kartica nikad u 3. licu („može“, „ko …“);
+- „Zato“ na početku rečenice: najviše 1 po tekstu (inače „pa“, „zbog toga“ ili bez veznika);
+- „i sutradan“ / „do sutra“ u zadnjem pasusu: najviše 1 u 10;
+- Emir „kod mene“ i „uzimam“: svaki najviše 1 u 5 Emirovih tekstova;
+- druga rečenica kratkog opisa: isti početak (prve dvije riječi) najviše 1 put u 10;
+- upozorenja (ne broje se kao greška): sekcija s manje od 3 rečenice; isti broj H2 kod istog autora 3 puta zaredom; riječi Emirovog fonda („taman“, „malo-pomalo“, „polahko“, „fino“) kod drugog autora;
+- lista riječi: „kopar“ → „mirođija“.
+
 **Granice koje se provjeravaju čitanjem** (skripta ih ne hvata):
+- završetak o posluživanju ili prilici: najviše otprilike 1 u 5 recepata;
+- broj sekcija zavisi od jela (2–5), a ne od autora; Emirov stil su kratke rečenice, ne fiksan broj sekcija;
+- naslovi-etikete „A i B“ / „A ili B“ ne više puta u istom tekstu; naslov radije kaže šta se dešava („Para odvaja opnu“) nego šta je na listi;
+- isto objašnjenje (npr. „sir curi tamo gdje je korica najtanja“) samo u jednom receptu iz iste porodice;
 - izbor dijela piletine („zabatak, a ne prsa“, „prsa s kožom, a ne file“) više nije ugao teksta ni posebna sekcija — to je već urađeno 4 puta (NR-003, 009, 011, 017); u novim pilećim receptima najviše jedna rečenica;
 - leća „jeftino i za više ljudi“ kod Emira ostaje, ali nikad istim riječima kao u ranijim receptima („Kad za stolom ima više ljudi…“, „jeftiniji, pa…“, „ručak se lako rastegne“); prije pisanja pročitati zadnje Emirove tekstove;
 - uvod ne poredi jelo s „klasičnom“ verzijom ako je to već urađeno u srodnom receptu (npr. rižota: poređenje je u rižotu s gljivama);

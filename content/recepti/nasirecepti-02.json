@@ -1246,7 +1246,7 @@
               "text": "Prsa odozgo premažite kašikom ulja i začinite solju, biberom i alevom paprikom."
             },
             {
-              "text": "Ostatak ulja zagrijte u tavi koja može u rernu i pržite prsa po 2–3 minute na obje strane, da se zlatno zapeku.",
+              "text": "Ostatak ulja zagrijte u tavi pogodnoj za rernu i pržite prsa po 2–3 minute na obje strane, da se zlatno zapeku.",
               "timerMinutes": 2
             },
             {
@@ -1268,7 +1268,7 @@
         {
           "level": "h2",
           "title": null,
-          "body": "Pileća prsa najčešće propadnu na isti način. Dok se sredina ispeče, vanjski dio se osuši. Kod punjenih prsa je to još teže, jer nadjev usporava pečenje. Ovdje pomažu dvije stvari: kratko zapecanje u tavi i termometar."
+          "body": "Pileća prsa najčešće propadnu na isti način. Dok se sredina ispeče, vanjski dio se osuši. Kod punjenih prsa je to još teže, jer nadjev usporava pečenje. Ovdje pomažu kratko zapecanje u tavi i termometar."
         },
         {
           "level": "h2",
@@ -1506,7 +1506,7 @@
               "text": "U tavi otopite maslac s kašikom ulja i kratko propržite raviole."
             },
             {
-              "text": "Pospite ih parmezanom ili ih poslužite u sosu od paradajza. Ko voli, može dodati i malo sjeckanog bijelog luka."
+              "text": "Pospite ih parmezanom ili ih poslužite u sosu od paradajza, po želji s malo sjeckanog bijelog luka."
             }
           ]
         }
@@ -2192,8 +2192,8 @@
         },
         {
           "level": "h2",
-          "title": "Krompir prvo deset minuta u vodu",
-          "body": "Sirov krompir i prsa ne stignu u isto vrijeme. Zato se krompir prvo kuha desetak minuta u slanoj vodi. Kad ga ocijedite, rubovi kriški se malo raspuhnu. Upravo ti rubovi u rerni postanu hrskavi.\n\nOcijeđen krompir ostavite minut-dva da se ispari, pa ga tek onda stavite u posudu. Mokar se peče sporije i ne porumeni lijepo."
+          "title": "Krompir se prokuha prije rerne",
+          "body": "Sirov krompir i prsa ne stignu u isto vrijeme. Krompir se zbog toga prvo kuha desetak minuta u slanoj vodi. Kad ga ocijedite, rubovi kriški se malo raspuhnu. Upravo ti rubovi u rerni postanu hrskavi.\n\nOcijeđen krompir ostavite minut-dva da se ispari, pa ga tek onda stavite u posudu. Mokar se peče sporije i ne porumeni lijepo."
         },
         {
           "level": "h2",
