@@ -105,12 +105,16 @@ Pokreće se: `python -I scripts/provjera-tekstova.py content/recepti/nasirecepti
 - H2 u obliku „X se Y, ne Z“ („Luk se riba, ne sjecka“): najviše 1 u 10;
 - naslov u obliku pitanja (H2 ili H3): najviše 1 H2 i 1 H3 po receptu, a recept s takvim naslovom najviše 2 u 5;
 - lični detalj „kod nas“: najviše 1 u 5 tekstova istog autora;
+- „mi bismo“: najviše 1 po tekstu i u najviše 2 od zadnjih 5 tekstova istog autora (Uredništvo);
+- uvod Uredništva kroz kraj, tradiciju ili naziv po krajevima („U Slavoniji…“, „U bosanskim kuhinjama…“): najviše 1 u 5 njegovih recepata (računa se od NR-020);
+- jezik: „stol“ (nominativ i akuzativ: „pred stol“, „za stol“) nije naša riječ, piše se „sto“, „na sto“, „pred sto“. Padeži „stola, stolu, stolom“ su ispravni i u bosanskom (sto, stola, stolu, stolom). Provjera je u listi hrvatskih riječi;
 - isti savjet (npr. zapečeno s dna tave za sos) razvijen u tekstu samo u jednom receptu; u ostalima samo kratko u koraku.
 
 **Granice koje se provjeravaju čitanjem** (skripta ih ne hvata):
 - izbor dijela piletine („zabatak, a ne prsa“, „prsa s kožom, a ne file“) više nije ugao teksta ni posebna sekcija — to je već urađeno 4 puta (NR-003, 009, 011, 017); u novim pilećim receptima najviše jedna rečenica;
 - leća „jeftino i za više ljudi“ kod Emira ostaje, ali nikad istim riječima kao u ranijim receptima („Kad za stolom ima više ljudi…“, „jeftiniji, pa…“, „ručak se lako rastegne“); prije pisanja pročitati zadnje Emirove tekstove;
-- uvod ne poredi jelo s „klasičnom“ verzijom ako je to već urađeno u srodnom receptu (npr. rižota: poređenje je u rižotu s gljivama).
+- uvod ne poredi jelo s „klasičnom“ verzijom ako je to već urađeno u srodnom receptu (npr. rižota: poređenje je u rižotu s gljivama);
+- isti razlog ili savjet ne ponavljati u drugom receptu (npr. krompir prvo u vodu — već u NR-011; suha koža i papir — već u NR-001; „suh nadjev, sok mora ispariti“ — već u NR-021; „… se ovdje ne baca“ — već u NR-010).
 
 **Provjera samo javlja, a tekst se popravlja po smislu.** Nikad se ne ubacuju kratke rečenice, linkovi ili tekst samo da bi provjera prošla.
 

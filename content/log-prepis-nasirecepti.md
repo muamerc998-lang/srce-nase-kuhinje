@@ -214,3 +214,14 @@ Odluka urednika: sajt nema ograničenje za svinjetinu („radi i sa svinjetinom�
 - **25 punjeni patlidžan (Emir, prakticni).** Ugao: sredina u nadjev, zid od 1 cm. Pečenje 20 min → 30 + 10 (uobičajena mjera). Pitanje u naslovu (prozor 21–25: #22, #25).
 - Pristupi na 25: prakticni 6, tehnika 6, brzi 4, tradicionalni 5, detaljni 4 (najviše 24 %).
 - Provjera: `provjera-tekstova.py` nad serijama 01–05 — „Sve u redu“ (prepravljeni koraci s 5-gramima iz starih postova i dva 6-grama).
+
+### Pregled urednika 20–25 (2026-11-15) — ispravljeno
+
+- #22 hladetina: uvod samo o tome kakva je dobra hladetina i šta je steže (bez Slavonije/Bosne/Srbije; „pihtije“ ostaje u alternativnim nazivima); izbačena rečenica „…počinje onaj za stolom“, procjeđivanje prebačeno u tijelo H2 „Od lonca do posude“ (ostala 2 H3); „stol“ → „sto“ (2×); jedno „mi bismo“ → „Supu je bolje razliti…“.
+- #24 uštipci: novi uvod kroz kockice gaude i pola sata u frižideru; „Kod nas su uštipci često prženo tijesto…“ premješteno u sekciju o smjesi; „Mi bismo ostali kod veličine kajsije“ → „Veličina kajsije je prava mjera“.
+- #25 patlidžan: uvod kreće od 350 g mesa za četvero (bez „…se ovdje ne baca“, kao #10); H2 „Nadjev neka bude suh“ → „Kockice patlidžana u tavi“, samo voda iz kockica.
+- #23 carsko meso: H2 „Koža mora biti suha i zarezana“ → „Zarezi kroz kožu i masnoću“ (suha koža i papir već u #1); izbačen razlog za kuhanje krompira (već u #11) i „Sirov bi…“.
+- #16 curry: „mi bismo uzeli blagi curry“ → „bolji je blagi curry“ (prozor Uredništva za „mi bismo“).
+- #1 (objavljen): H2 „Kad za stolom ima više ljudi“ → „Kad dolazi više ljudi“, ponovo objavljen. („za stolom“ je ispravan bosanski oblik; nova formulacija ostaje jer je ta Emirova rečenica već označena kao ponavljanje.) Provjera „stol“ hvata samo nominativ/akuzativ „stol“.
+- Pravila: mljeveno meso 71 °C (PRAVILA-PISANJA §5); u §6 i u provjeri: „mi bismo“ 1 po tekstu i 2 u 5, regionalni uvod Uredništva 1 u 5 (od NR-020), „stol“ (samo taj oblik) u listi riječi.
+- Provjera nad serijama 01–05: „Sve u redu“.

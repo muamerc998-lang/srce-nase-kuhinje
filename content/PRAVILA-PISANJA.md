@@ -108,7 +108,7 @@ Namirnice koje ne postoje u registru dodaju se u `ingredients` istog uvoza: kano
 - **Nikad rečenica samo radi linka.** Link ide samo u rečenicu koja bi stajala i bez njega. Formule tipa „Sličnu kombinaciju ima i [X]“, „Probajte i [X]“, „X ima Y“ se ne pišu. Ako link nema prirodno mjesto u tekstu, izostavi ga; veza ide kroz polja (povezani recepti, šta poslužiti).
 - **Ključna riječ se ne ugurava.** Rečenica u kojoj glavni pojam stoji kao subjekt samo da bi bio u tekstu („Zato pileći bataci iz rerne traže…“) zvuči kao SEO. Ako je pojam već u naslovu i kratkom opisu, uvod ga ne mora ponoviti doslovno.
 - **Jedinstvenost**: dva recepta ne smiju imati isti naslov, SEO naslov ili meta opis. Ne praviti više stranica istog smisla („brzi ručak“, „ručak na brzinu“).
-- **Piletina:** gotovo je kad u najdebljem dijelu mesa (uz kost kod komada s kosti) pokaže **74 °C**. Na cijelom sajtu se piše isti broj.
+- **Piletina:** gotovo je kad u najdebljem dijelu mesa (uz kost kod komada s kosti) pokaže **74 °C**. **Mljeveno meso** (ćufte, šnicle, uštipci, pljeskavice): **71 °C** u sredini. Na cijelom sajtu se pišu isti brojevi.
 - **Schema** se generiše automatski iz polja — zato podaci moraju biti tačni i potpuni (vremena, prinos, sastojci, koraci). Nikad lažne ocjene ni kalorije.
 - **Alt tekst** svake slike: opis onoga što se vidi (§6), ne nabrajanje ključnih riječi.
 

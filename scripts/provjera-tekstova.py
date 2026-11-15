@@ -22,7 +22,7 @@ recs = [r for f in args for r in json.load(io.open(f, encoding='utf-8'))['recipe
 
 w = lambda t: re.findall(r'\w+', t.lower())
 unlink = lambda t: re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', t)
-HR = r'\b(češnjak\w*|rajčic\w*|krumpir\w*|pećnic\w*|žlic\w*|žličic\w*|umak(a|u|om|e|ovi|ima)?|juh\w*|papar|papra|sol|kruh\w*|vrhnj\w*|tijekom|blagdan\w*|obitelj\w*|tjed\w*|tekućin\w*|toplin\w*|tanjur\w*|hladnjak\w*|peršin\w*|kapul\w*|ploške|zdjel\w*|ručnik\w*|kutljač\w*|mozzarell\w*|ricott\w*|kadulj\w*|timijan\w*|šalic\w*)\b'
+HR = r'\b(češnjak\w*|rajčic\w*|krumpir\w*|pećnic\w*|žlic\w*|žličic\w*|umak(a|u|om|e|ovi|ima)?|juh\w*|papar|papra|sol|kruh\w*|vrhnj\w*|tijekom|blagdan\w*|obitelj\w*|tjed\w*|tekućin\w*|toplin\w*|tanjur\w*|hladnjak\w*|peršin\w*|kapul\w*|ploške|zdjel\w*|ručnik\w*|kutljač\w*|mozzarell\w*|ricott\w*|kadulj\w*|timijan\w*|šalic\w*|stol)\b'
 BANNED = r'savršen\w*|fantastič\w*|bogat okus|uživajte|zaključ\w*|u svijetu kulinarstva|bilo da ste|zaronimo|nema ništa bolje'
 
 old = {}
@@ -50,7 +50,17 @@ LIMITS = [
     ('H2 u obliku „… se …, ne …“', lambda r: any(re.search(r'\bse\b[^,]*, ne \w', a['title'] or '') for a in r['article'] if a['level'] == 'h2'), 1, 10),
     ('naslov (H2 ili H3) u obliku pitanja', lambda r: any((a['title'] or '').rstrip().endswith('?') for a in r['article']), 2, 5),
 ]
-PER_AUTHOR = [('lični detalj „kod nas“', lambda r: bool(re.search(r'\b[Kk]od nas\b', art(r))), 1, 5)]
+MI_BISMO = r'\b[Mm]i bismo\b'
+REGIJA = r'Slavonij|Baranj|Dalmacij|Kvarner|Hercegovin|Bosn|bosansk|Srbij|srpsk|po krajevima|u krajevima|na obali|tradicij'
+def nr(r):
+    m = re.search(r'(\d+)$', r.get('planId') or '')
+    return int(m.group(1)) if m else 0
+PER_AUTHOR = [
+    ('lični detalj „kod nas“', lambda r: bool(re.search(r'\b[Kk]od nas\b', art(r))), 1, 5),
+    ('„mi bismo“', lambda r: bool(re.search(MI_BISMO, art(r))), 2, 5),
+    # pravilo od 2026-11-15 (pregled NR-020–025): računa se od NR-020 nadalje
+    ('uvod kroz kraj, tradiciju ili naziv po krajevima', lambda r: nr(r) >= 20 and r['authors'][0] == 'urednistvo' and bool(re.search(REGIJA, intro(r))), 1, 5),
+]
 
 problems = 0
 alltxt = {}
@@ -69,11 +79,13 @@ for r in recs:
     issues = []
     if not 45 <= len(r['seo']['title']) <= 60: issues.append('SEO naslov izvan 45–60')
     if not 140 <= len(r['seo']['description']) <= 160: issues.append('meta opis izvan 140–160')
-    hr = sorted(set(m.lower() for m in re.findall(HR, txt, re.I)))
+    hr = sorted(set(m.group(0).lower() for m in re.finditer(HR, txt, re.I)))
     if hr: issues.append(f'hrvatske riječi: {hr}')
     inf = [s['text'][:40] for g in r['stepGroups'] for s in g['steps'] if re.match(r'^\w+(ti|ći)\b', s['text'])]
     if inf: issues.append(f'infinitiv u koracima: {inf}')
     if '!' in txt: issues.append('uskličnik')
+    mb = len(re.findall(MI_BISMO, arts))
+    if mb > 1: issues.append(f'„mi bismo“ {mb} puta (najviše 1 po tekstu)')
     for lvl in ('h2', 'h3'):
         qn = sum(1 for a in r['article'] if a['level'] == lvl and (a['title'] or '').rstrip().endswith('?'))
         if qn > 1: issues.append(f'{lvl.upper()} u obliku pitanja: {qn} (najviše 1 po receptu)')
