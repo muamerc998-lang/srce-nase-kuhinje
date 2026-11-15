@@ -103,5 +103,75 @@
     "alt": "Pileća prsa punjena špinatom, rikotom i mocarelom, isječena ukoso na bijelom pladnju, posuta slatkom paprikom",
     "focalX": 45,
     "focalY": 55
+  },
+  {
+    "slug": "piletina-u-curry-sosu",
+    "file": "kockice-piletine-u-curry-sosu-s-kiselom-pavlakom",
+    "alt": "Kockice piletine u kremastom curry sosu s lukom, trakama crvene paprike i svježim korijanderom, u tavi na šporetu",
+    "focalX": 50,
+    "focalY": 55
+  },
+  {
+    "slug": "piletina-s-rizom-iz-rerne",
+    "file": "bataci-i-zabataci-na-rizi-iz-rerne",
+    "alt": "Zapečeni pileći bataci i zabataci na riži s kockicama mrkve i paprike, u vatrostalnoj posudi",
+    "focalX": 50,
+    "focalY": 50
+  },
+  {
+    "slug": "rizoto-s-piletinom",
+    "file": "rizoto-od-integralne-rize-s-piletinom",
+    "alt": "Rižoto od integralne riže s kockicama piletine, mrkve i crvene paprike, posut parmezanom i peršunom, na tanjiru",
+    "focalX": 50,
+    "focalY": 55
+  },
+  {
+    "slug": "ludo-tijesto",
+    "file": "ludo-tijesto-s-kvascem-i-jogurtom",
+    "alt": "Naraslo tijesto u nauljenoj kesi u posudi, komad tijesta na pobrašnjenoj ploči i lim s pečenim kiflicama",
+    "focalX": 35,
+    "focalY": 55
+  },
+  {
+    "slug": "slavonski-cobanac",
+    "file": "cobanac-od-divljaci-junetine-i-svinjetine",
+    "alt": "Čobanac s komadima junetine, svinjetine i divljači u gustom crvenom sosu, u dubokom tanjiru uz krišku hljeba",
+    "focalX": 45,
+    "focalY": 60
+  },
+  {
+    "slug": "musaka-od-kelja",
+    "file": "musaka-od-kelja-sa-slaninom-i-sirom",
+    "alt": "Musaka od kelja u staklenoj posudi, presjek sa slojevima listova kelja i mljevenog mesa ispod zapečenog sira",
+    "focalX": 45,
+    "focalY": 55
+  },
+  {
+    "slug": "slavonska-hladetina",
+    "file": "hladetina-od-svinjskih-nogica-s-hrenom",
+    "alt": "Bistra hladetina s komadima mesa i kolutovima mrkve, posuta alevom paprikom, uz naribani hren i bijeli luk",
+    "focalX": 45,
+    "focalY": 50
+  },
+  {
+    "slug": "carsko-meso-iz-rerne",
+    "file": "carsko-meso-s-hrskavom-kozom-i-krompirom",
+    "alt": "Carsko meso s hrskavom kožom zarezanom na kockice i dvije odrezane šnite, uz pečeni krompir na pladnju",
+    "focalX": 50,
+    "focalY": 50
+  },
+  {
+    "slug": "mesni-ustipci-sa-sirom",
+    "file": "mesni-ustipci-s-gaudom-u-tavi",
+    "alt": "Prženi mesni uštipci u tavi, jedan prelomljen s istopljenim sirom i komadićima paprike u sredini",
+    "focalX": 50,
+    "focalY": 55
+  },
+  {
+    "slug": "punjeni-patlidzan",
+    "file": "polovice-patlidzana-punjene-mesom-i-sirom",
+    "alt": "Osam polovica patlidžana punjenih mljevenim mesom, paradajzom i peršunom, sa zapečenim sirom, u limu",
+    "focalX": 50,
+    "focalY": 50
   }
 ]
