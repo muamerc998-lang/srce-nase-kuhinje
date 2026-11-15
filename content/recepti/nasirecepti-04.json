@@ -1,0 +1,880 @@
+{
+  "format": "srce-nase-kuhinje/v1",
+  "ingredients": [
+    {
+      "slug": "curry-prah",
+      "name": "curry prah",
+      "synonyms": [
+        "curry",
+        "kari",
+        "kari prah",
+        "curry začin"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "korijander",
+      "name": "svježi korijander",
+      "synonyms": [
+        "korijander",
+        "list korijandera",
+        "cilantro"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "integralna-riza",
+      "name": "integralna riža",
+      "synonyms": [
+        "smeđa riža",
+        "neljuštena riža"
+      ],
+      "broader": "riza",
+      "foodGroup": "zitarice"
+    }
+  ],
+  "recipes": [
+    {
+      "planId": "SNK-NR-016",
+      "slug": "piletina-u-curry-sosu",
+      "title": "Piletina u curry sosu s kiselom pavlakom",
+      "alternativeNames": [
+        "piletina u curry umaku",
+        "pileći curry",
+        "piletina s curryjem",
+        "curry piletina"
+      ],
+      "summary": "Piletina u curry sosu od kockica pilećih prsa, luka i paprike, s kiselom pavlakom ili grčkim jogurtom. Gotova je za pola sata, a sos ostaje gladak jer pavlaka ide na slabu vatru i više ne prokuha.",
+      "primaryCategory": "jela-s-mesom",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "piletina",
+        "paprika",
+        "kiselo-vrhnje",
+        "luk"
+      ],
+      "diets": [
+        "bez-jaja"
+      ],
+      "methods": [
+        "pirjanje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 20,
+        "totalMinutes": 30
+      },
+      "equipment": {
+        "other": "veća tava"
+      },
+      "beforeYouStart": "Kiselu pavlaku izvadite iz frižidera kad počnete sjeći luk, da ne ide ledena u sos.",
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "srednja, na tanke ploške"
+            },
+            {
+              "ingredient": "paprika",
+              "amount": 1,
+              "unit": "bez",
+              "label": "zelena ili žuta paprika",
+              "note": "na trake"
+            },
+            {
+              "ingredient": "curry-prah",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "curry praha",
+              "note": "podijeljeno na dva dijela"
+            },
+            {
+              "ingredient": "pileca-prsa",
+              "amount": 900,
+              "unit": "g",
+              "label": "pilećih prsa",
+              "note": "bez kože i kostiju, na kockice od oko 2 cm"
+            },
+            {
+              "ingredient": "kisela-pavlaka",
+              "amount": 250,
+              "unit": "g",
+              "label": "kisele pavlake",
+              "altGroup": "pavlaka"
+            },
+            {
+              "ingredient": "grcki-jogurt",
+              "amount": 250,
+              "unit": "g",
+              "label": "grčkog jogurta",
+              "altGroup": "pavlaka"
+            },
+            {
+              "ingredient": "korijander",
+              "amount": 4,
+              "unit": "kasika",
+              "label": "sjeckanog svježeg korijandera",
+              "note": "ili peršuna"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            },
+            {
+              "ingredient": "riza",
+              "unit": "po-potrebi",
+              "label": "kuhane basmati riže",
+              "note": "za posluživanje",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Zagrijte ulje u većoj tavi, pa na njemu pirjajte luk i papriku, dok ne omekšaju, oko 5 minuta.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Umiješajte polovinu curry praha i pržite još 2 minute uz miješanje, dok začin ne zamiriše.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Povrće izvadite iz tave na tanjir."
+            },
+            {
+              "text": "U istu tavu stavite piletinu, pospite je ostatkom curry praha i malo posolite."
+            },
+            {
+              "text": "Pecite piletinu 5–6 minuta uz okretanje, dok kockice ne budu pečene i bijele u sredini.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Vratite povrće u tavu i smanjite vatru na najslabiju."
+            },
+            {
+              "text": "Sklonite tavu s vatre na minut, da prestane cvrčati, pa umiješajte kiselu pavlaku ili grčki jogurt."
+            },
+            {
+              "text": "Vratite tavu na slabu vatru i grijte sos 2–3 minute uz miješanje, bez ključanja, dok ne bude topao i gladak.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Umiješajte polovinu korijandera, pa posolite i pobiberite po ukusu."
+            },
+            {
+              "text": "Poslužite uz rižu i pospite ostatkom korijandera."
+            }
+          ]
+        }
+      ],
+      "approach": "brzi",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Sos od kisele pavlake koji se u tavi razdvoji na sitne grudvice i masnu vodu pokvari jelo koje je do tog trenutka bilo dobro. Kod piletine u curry sosu to se desi u zadnja dva minuta, kad pavlaka padne u tavu koja još ključa. Zato smo ovaj recept složili oko jednog pravila: pavlaka ide na slabu vatru, a sos se poslije nje više ne kuha, nego samo zagrije."
+        },
+        {
+          "level": "h2",
+          "title": "Curry prah se prži, ne posipa",
+          "body": "Curry prah je mješavina mljevenih začina, najčešće kurkume, korijandera, kima, đumbira i bibera, a omjer zavisi od proizvođača. Sirov ima prašnjav i pomalo gorak ukus. Dvije minute na ulju, zajedno s lukom i paprikom, otvore mu miris, pa se zato polovina začina prži s povrćem. Druga polovina ide direktno na piletinu, da i meso ima svoj začin, a ne samo sos oko njega.\n\nMješavine se razlikuju i po ljutini. Za porodični ručak mi bismo uzeli blagi curry, jer se ljutina u ovoj količini sosa ne može razblažiti bez novog dodavanja pavlake."
+        },
+        {
+          "level": "h2",
+          "title": "Povrće izlazi iz tave, piletina ulazi",
+          "body": "Luk i paprika se vade prije mesa iz praktičnog razloga: piletina na kockice traži vruću tavu u kojoj ima mjesta. Kad je tava puna povrća, meso pusti sok i kuha se u njemu umjesto da se zapeče, pa kockice ostanu sive i bez korice.\n\nKomadi trebaju biti podjednaki, oko dva centimetra, da se ispeku za isto vrijeme. Pileća prsa se brzo osuše, pa ih pecite samo dok prerezana kockica u sredini ne bude bijela, a ne staklasta. U sosu se poslije samo ugriju."
+        },
+        {
+          "level": "h2",
+          "title": "Pavlaka tek na slaboj vatri",
+          "body": "Kisela pavlaka i grčki jogurt imaju mnogo vode i bjelančevina, a malo masti u odnosu na slatku pavlaku. Na jakoj toploti se bjelančevine stisnu u grudvice, a tečnost se odvoji, i to je onaj zrnati, isprekidani sos. Zato se povrće prvo vrati u tavu, vatra se spusti na najslabiju, a tava se skloni na minut da prestane cvrčati. Tek tada ide pavlaka, i sos se grije samo toliko da bude topao.\n\nGrčki jogurt je kiseliji i još osjetljiviji, pa kod njega isto pravilo vrijedi strožije. Korijander se ne sviđa svima: kome ne odgovara, isti posao blaže uradi peršun. A riža uz ovo jelo neka bude basmati, jer joj zrna ostanu odvojena i pokupe sos."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "piletina-u-sosu-od-senfa"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Piletina u curry sosu s kiselom pavlakom za 30 minuta",
+        "description": "Piletina u curry sosu s lukom, paprikom i kiselom pavlakom, gotova za pola sata. Kada dodati pavlaku da se sos ne zgruša. Recept korak po korak."
+      },
+      "family": "Piletina u sosu",
+      "sourceNote": "Prepis SNK-NR-016. nasirecepti.com, stari post ID 233: https://nasirecepti.com/piletina-u-curry-umaku/ (WP izvoz 2026-11-14). Preuzeto: 2 žlice maslinovog ulja, 1 luk na ploške, 1 zelena ili žuta paprika, 2 žličice curry praha (pola uz povrće 2 min, pola na piletinu), 900 g pilećih prsa na kockice, 240 ml kiselog vrhnja ili grčkog jogurta, 1/4 šalice korijandera, sol, papar, basmati riža; povrće pirjati 5 min i izvaditi, piletinu peći oko 2 min sa svake strane; 6 porcija; prip. 10 + kuh. 20 min. Sređeno: 240 ml → 250 g; 1/4 šalice korijandera → 4 kašike sjeckanog. NEDOSTAJALO u izvoru (koraci 3–4 nepotpuni): kada se vraća povrće i kada ide pavlaka — odluka urednika 2026-11-15: upisano po uobičajenom postupku (povrće nazad, vatra na najslabiju, tava minut sklonjena, pavlaka, 2–3 min grijanja bez ključanja, pola korijandera u sos, pola za posipanje). Izostavljeno: riža od cvjetače kao prilog. Pečenje kockica 5–6 min uz okretanje umjesto „2 min sa svake strane“."
+    },
+    {
+      "planId": "SNK-NR-017",
+      "slug": "piletina-s-rizom-iz-rerne",
+      "title": "Piletina s rižom iz rerne",
+      "alternativeNames": [
+        "piletina s rižom u rerni",
+        "bataci s rižom iz rerne",
+        "piletina i riža u tepsiji",
+        "piletina s rižom iz pećnice"
+      ],
+      "summary": "Piletina s rižom iz rerne: zapečeni bataci i zabataci na riži s mrkvom i paprikom, pečeni u vrućem temeljcu. Riža se prvo kuha pod folijom, a zadnjih 15 minuta koža ponovo porumeni.",
+      "primaryCategory": "jela-s-mesom",
+      "meals": [
+        "rucak"
+      ],
+      "tags": [
+        "piletina",
+        "riza",
+        "mrkva",
+        "paprika"
+      ],
+      "diets": [
+        "bez-jaja",
+        "bez-mlijeka"
+      ],
+      "methods": [
+        "pecenje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "cookMinutes": 80,
+        "restMinutes": 5,
+        "restLabel": "odmaranja",
+        "totalMinutes": 100
+      },
+      "equipment": {
+        "temperature": 180,
+        "ovenMode": "gornji-donji",
+        "other": "veća tava, vatrostalna posuda oko 30 × 20 cm, aluminijska folija"
+      },
+      "beforeYouStart": "Temeljac zagrijte dok se piletina zapeče, jer u posudu ide vruć.",
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "pileci-bataci",
+              "amount": 700,
+              "unit": "g",
+              "label": "pilećih bataka i zabataka",
+              "note": "s kožom i kostima"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 2,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 2,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "mrkva",
+              "amount": 2,
+              "unit": "bez",
+              "label": "mrkve",
+              "note": "na kockice"
+            },
+            {
+              "ingredient": "paprika",
+              "amount": 1,
+              "unit": "bez",
+              "label": "crvena paprika",
+              "note": "na kockice"
+            },
+            {
+              "ingredient": "riza",
+              "amount": 300,
+              "unit": "g",
+              "label": "riže dugog zrna"
+            },
+            {
+              "ingredient": "pileci-temeljac",
+              "amount": 750,
+              "unit": "ml",
+              "label": "vrućeg pilećeg temeljca",
+              "note": "ili vruće vode"
+            },
+            {
+              "ingredient": "persun",
+              "unit": "po-ukusu",
+              "label": "svježeg peršuna",
+              "note": "sjeckanog"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Uključite rernu na 180 °C."
+            },
+            {
+              "text": "Batake i zabatke posolite i pobiberite sa svih strana."
+            },
+            {
+              "text": "U većoj tavi zagrijte ulje i zapecite piletinu sa svih strana, dok koža ne dobije zlatnu boju, oko 8 minuta.",
+              "timerMinutes": 8
+            },
+            {
+              "text": "Piletinu izvadite na tanjir."
+            },
+            {
+              "text": "Na masnoći koja je ostala u tavi pirjajte oba luka 3–4 minute, dok ne omekšaju.",
+              "timerMinutes": 3
+            },
+            {
+              "text": "Dodajte mrkvu i papriku i dinstajte oko 10 minuta.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Rižu rasporedite po dnu vatrostalne posude, a preko nje povrće iz tave."
+            },
+            {
+              "text": "Na povrće složite piletinu, kožom prema gore."
+            },
+            {
+              "text": "Uz rub posude ulijte vrući temeljac, tako da prekrije rižu, a koža ostane suha."
+            },
+            {
+              "text": "Posudu dobro pokrijte folijom i pecite 45 minuta.",
+              "timerMinutes": 45
+            },
+            {
+              "text": "Skinite foliju i pecite još 15 minuta, dok riža ne upije tečnost, a koža ne porumeni. Uz kost meso treba pokazati 74 °C.",
+              "timerMinutes": 15
+            },
+            {
+              "text": "Ostavite jelo 5 minuta da odstoji, pa ga pospite peršunom.",
+              "timerMinutes": 5
+            }
+          ]
+        }
+      ],
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Ovo je ručak koji se većim dijelom sprema sam. Pola sata stojite uz šporet, a onda posuda ide u rernu i sat vremena samo čekate. Za to vrijeme se riža skuha u temeljcu i soku od mesa, a piletina se ispeče na njoj."
+        },
+        {
+          "level": "h2",
+          "title": "Bataci i zabataci, s kožom",
+          "body": "Za ovo jelo ne uzimam prsa. Sat u rerni ih osuši, a riža ispod njih ostane bez soka. Bataci i zabataci s kostima i kožom puste mast i sok baš u rižu. To je pola okusa ovog jela.\n\nJeftiniji su od prsa, pa se ručak lako rastegne. Ako dolazi neko više, dodajte još dva bataka. Riže može ostati ista količina, jer je ionako ima dovoljno."
+        },
+        {
+          "level": "h2",
+          "title": "Prije rerne zapecite kožu",
+          "body": "U rerni će piletina prvih 45 minuta biti pod folijom, u pari. Tako koža ne dobije boju. Zato se zapeče u tavi prije nego što ode u posudu. Osam minuta na vrelom ulju, dok ne bude zlatna sa svih strana.\n\nPečena neće biti ni blizu, i ne treba. Taj posao uradi rerna."
+        },
+        {
+          "level": "h2",
+          "title": "Plitka i široka posuda",
+          "body": "Riža na dnu treba biti u sloju od dva-tri centimetra. U uskoj i dubokoj posudi riža na dnu se raskuha, a ona gore ostane tvrda. Vatrostalna posuda od oko 30 × 20 cm odgovara ovoj količini.\n\nTemeljac mora biti vruć. Hladan bi ohladio posudu, pa bi riža prvih petnaestak minuta samo stajala u mlakoj tečnosti."
+        },
+        {
+          "level": "h2",
+          "title": "Prvih 45 minuta riža je pod folijom",
+          "body": "Riža i piletina moraju biti gotove zajedno, a ne traže isto. Riži treba zatvorena posuda, da se temeljac ne izgubi u pari. Piletini na kraju treba suh vazduh, da koža opet postane hrskava. Zato prvo folija, pa bez nje.\n\nKad skinete foliju, na dnu treba biti još malo tečnosti. Tek toliko da se vidi kad nagnete posudu. Zadnjih 15 minuta to ispari, a riža ostane fino rastresita.\n\nAko je riža i dalje tvrda, a tečnosti više nema, dolijte oko 100 ml vrućeg temeljca i vratite foliju na desetak minuta."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "pecena-piletina-s-krompirom",
+        "pileci-bataci-iz-rerne"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Piletina s rižom iz rerne: bataci, povrće i temeljac",
+        "description": "Piletina s rižom iz rerne: zapečeni bataci i zabataci na riži s mrkvom i paprikom, prvo pod folijom pa bez nje. Ručak za četvero. Recept korak po korak."
+      },
+      "family": "Piletina iz rerne",
+      "sourceNote": "Prepis SNK-NR-017. nasirecepti.com, stari post ID 418: https://nasirecepti.com/piletina-s-rizom-iz-pecnice/ (WP izvoz 2026-11-14). Preuzeto: 700 g pilećih zabataka i bataka, 2 glavice luka, 2 režnja češnjaka, 2 mrkve, 1 crvena paprika, 300 g riže, peršin, sol, papar, 2 žlice maslinovog ulja, temeljac ili voda; piletinu zapeći, luk i češnjak pirjati, mrkva i paprika oko 10 min; riža, povrće, piletina u vatrostalnu posudu, preliti temeljcem; 180 °C; 4 porcije. SUMNJIVO u izvoru: „oko 20 minuta na 180 °C“ i tečnost „da prekrije sastojke“ — sirova riža i bataci s kosti za to vrijeme nisu gotovi. Odluka urednika 2026-11-15: uobičajene mjere — 750 ml vrućeg temeljca (riža dugog zrna, oko 1 : 2,5 po težini), 45 min pod folijom + 15 min bez folije na 180 °C, 74 °C uz kost, 5 min odmaranja; zapecanje oko 8 min; posuda oko 30 × 20 cm."
+    },
+    {
+      "planId": "SNK-NR-018",
+      "slug": "rizoto-s-piletinom",
+      "title": "Rižoto s piletinom i integralnom rižom",
+      "alternativeNames": [
+        "rižoto s piletinom",
+        "pileći rižoto",
+        "rižoto od piletine",
+        "rižoto s piletinom i povrćem"
+      ],
+      "summary": "Rižoto s piletinom od integralne riže, s mrkvom, paprikom i bijelim lukom. Zrno ostaje čvrsto i odvojeno, a piletina sočna, jer se zapeče na početku i vraća u rižu tek pred kraj.",
+      "primaryCategory": "riza-i-zitarice",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "piletina",
+        "riza",
+        "mrkva",
+        "paprika"
+      ],
+      "diets": [
+        "bez-jaja"
+      ],
+      "methods": [
+        "kuhanje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "cookMinutes": 60,
+        "totalMinutes": 75
+      },
+      "equipment": {
+        "other": "široka tava s debljim dnom, lonac za temeljac"
+      },
+      "beforeYouStart": "Temeljac zagrijte prije nego što počnete i držite ga na najslabijoj vatri, jer se dolijeva vruć.",
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "pileca-prsa",
+              "amount": 2,
+              "unit": "kom",
+              "label": "pileća prsa",
+              "note": "oko 400 g, na kockice od 2 cm"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 2,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "mrkva",
+              "amount": 1,
+              "unit": "bez",
+              "label": "mrkva",
+              "note": "na sitne kockice"
+            },
+            {
+              "ingredient": "paprika",
+              "amount": 1,
+              "unit": "bez",
+              "label": "crvena paprika",
+              "note": "na sitne kockice"
+            },
+            {
+              "ingredient": "integralna-riza",
+              "amount": 200,
+              "unit": "g",
+              "label": "integralne riže"
+            },
+            {
+              "ingredient": "pileci-temeljac",
+              "amount": 800,
+              "unit": "ml",
+              "label": "vrućeg pilećeg temeljca",
+              "note": "ili vruće vode"
+            },
+            {
+              "ingredient": "zacin-za-jela",
+              "unit": "po-ukusu",
+              "label": "začina za jela"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            },
+            {
+              "ingredient": "persun",
+              "unit": "po-ukusu",
+              "label": "svježeg peršuna",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "parmezan",
+              "unit": "po-ukusu",
+              "label": "naribanog parmezana",
+              "note": "za posluživanje",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "U širokoj tavi zagrijte kašiku ulja i kockice piletine pecite 4–5 minuta, okrećući ih, dok ne pobijele spolja.",
+              "timerMinutes": 4
+            },
+            {
+              "text": "Piletinu izvadite na tanjir."
+            },
+            {
+              "text": "U tavu dodajte ostatak ulja i pirjajte crni luk 4–5 minuta, dok ne omekša.",
+              "timerMinutes": 4
+            },
+            {
+              "text": "Dodajte mrkvu, papriku i bijeli luk i pirjajte 5 minuta. Ako se povrće počne hvatati za dno, dolijte kašiku-dvije temeljca.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Umiješajte rižu i miješajte minut, da se zrna ogriju u masnoći."
+            },
+            {
+              "text": "Nalijte oko 200 ml temeljca, pa začinite začinom za jela, solju i biberom."
+            },
+            {
+              "text": "Kuhajte otkriveno na srednje slaboj vatri 30–35 minuta. Kad tečnost skoro nestane, dolijte novih 150–200 ml temeljca i promiješajte.",
+              "timerMinutes": 30
+            },
+            {
+              "text": "Vratite piletinu u rižu i kuhajte još oko 10 minuta, dok zrno ne omekša, a meso ne bude pečeno i bijelo u sredini. Po potrebi dolijte još malo temeljca.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Sklonite tavu s vatre, umiješajte peršun i poslužite, po želji s parmezanom."
+            }
+          ]
+        }
+      ],
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Za klasičan rižoto uzima se riža kratkog, okruglog zrna, koja tokom kuhanja otpušta skrob i sama pravi kremast sos. Ovaj rižoto s piletinom je od integralne riže, i to ga čini drugačijim jelom. Integralno zrno ima ljusku koja skrob drži unutra, pa jelo nije kremasto, nego sočno, a svako zrno ostaje odvojeno i malo čvrsto pod zubom. Mi ga zato gledamo kao domaći rižoto, bliži riži s piletinom iz šerpe nego onom koji se razlijeva po tanjiru, i tako mu i prilazimo."
+        },
+        {
+          "level": "h2",
+          "title": "Integralnoj riži treba više temeljca i vremena",
+          "body": "Ljuska koja drži skrob usporava i upijanje vode. Zato se integralna riža kuha 40–45 minuta, otprilike dvostruko duže od riže za rižoto, i traži znatno više tečnosti. Na 200 g riže računajte oko 800 ml temeljca: dio upije zrno, a dio ispari, jer se kuha otkriveno, u širokoj tavi. Kad bi se nalilo manje, temeljac bi nestao dok je zrno još tvrdo u sredini, i to je greška koju ovo jelo najlakše napravi.\n\nMiješati se ne mora bez prestanka. Integralno zrno nema mnogo skroba koji bi trebalo izmiješati u sos, pa je dovoljno povremeno provjeriti dno i doliti temeljac kad nestane. Gotovo je kad je zrno mekano, a u sredini se još malo osjeti. Integralna riža se teško raskuha u kašu, pa je ovdje veći rizik da ostane tvrda nego da se raspadne."
+        },
+        {
+          "level": "h2",
+          "title": "Piletina se vraća pred kraj",
+          "body": "Pileća prsa na kockice su gotova za nekoliko minuta. Da ostanu u tavi svih 45 minuta, koliko se kuha riža, postala bi suha i vlaknasta, kao meso iz supe. Zato se na početku samo zapeku spolja i izvade, a u rižu se vraćaju za zadnjih desetak minuta. Toliko im je dovoljno da se dopeku i preuzmu ukus temeljca, a da ne izgube sok.\n\nParmezan je po želji, ali integralnom rižotu dobro dođe, jer mu daje malo slanoće i veziva koje zrno samo ne pusti. Ostatak se drži u zatvorenoj posudi u frižideru dan-dva, a pri podgrijavanju mu dolijte malo vode ili temeljca, jer riža i u frižideru nastavi upijati tečnost."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "rizoto-s-gljivama",
+        "rizoto-s-povrcem"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Rižoto s piletinom od integralne riže i povrća",
+        "description": "Rižoto s piletinom od integralne riže, s mrkvom i paprikom. Koliko temeljca i vremena traži integralno zrno i kada vratiti piletinu. Recept korak po korak."
+      },
+      "family": "Rižota",
+      "sourceNote": "Prepis SNK-NR-018. nasirecepti.com, stari post ID 372: https://nasirecepti.com/rizoto-s-piletinom/ (WP izvoz 2026-11-14). Pokriva i plan SNK-0435 (izvor nasirecepti u planu). Preuzeto: 2 pileća prsa, 200 g integralne riže, 1 glavica luka, 2 češnja češnjaka, 1 crvena paprika, 1 mrkva, temeljac ili voda, maslinovo ulje, sol, papar, Vegeta, peršin, parmezan po želji; luk, piletina, mrkva, paprika, češnjak, pa riža i postupno dolijevanje; 4 porcije. SUMNJIVO u izvoru: 400 ml tečnosti i oko 35 min kuhanja za integralnu rižu. Odluka urednika 2026-11-15: uobičajene mjere — 800 ml temeljca, riža 40–45 min; piletina se zapeče i vraća za zadnjih 10 min (u izvoru se kuha od početka, prsa bi presušila). Vegeta → začin za jela. Težina prsa (oko 400 g) procjena."
+    },
+    {
+      "planId": "SNK-NR-019",
+      "slug": "ludo-tijesto",
+      "title": "Ludo tijesto iz frižidera",
+      "alternativeNames": [
+        "tijesto iz frižidera",
+        "univerzalno tijesto za peciva",
+        "tijesto za pizzu i kiflice",
+        "ludo tijesto s jogurtom"
+      ],
+      "summary": "Ludo tijesto s kvascem, jogurtom i praškom za pecivo zamijesite jednom i držite u frižideru do tri dana. Od iste ture pravite pizzu, kiflice, pogačice ili buhtle, koliko vam kad treba.",
+      "primaryCategory": "tijesta-i-podloge",
+      "meals": [],
+      "tags": [
+        "dizano-tijesto",
+        "jogurt",
+        "mlijeko",
+        "jaja"
+      ],
+      "diets": [],
+      "methods": [],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 1,
+        "unit": "tura (oko 1,9 kg)",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 25,
+        "restMinutes": 240,
+        "restLabel": "stajanja u frižideru",
+        "totalMinutes": 265
+      },
+      "equipment": {
+        "other": "veća posuda, najlonska kesa za hranu"
+      },
+      "beforeYouStart": "Tijesto zamijesite dan ranije ili najmanje 4 sata prije oblikovanja. Na početku odlučite da li je slano ili slatko, jer se so ili šećer dodaju u brašno.",
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 1,
+              "unit": "kg",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "kvasac",
+              "amount": 42,
+              "unit": "g",
+              "label": "svježeg kvasca",
+              "note": "1 kocka"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "šećera",
+              "note": "za kvasac"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 400,
+              "unit": "ml",
+              "label": "mlakog mlijeka",
+              "note": "200 ml za kvasac, 200 ml u tijesto"
+            },
+            {
+              "ingredient": "prasak-za-pecivo",
+              "amount": 1,
+              "unit": "kesica",
+              "label": "praška za pecivo"
+            },
+            {
+              "ingredient": "jogurt",
+              "amount": 360,
+              "unit": "g",
+              "label": "jogurta",
+              "note": "2 čaše po 180 g"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 2,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "so",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "soli",
+              "note": "za slano tijesto",
+              "altGroup": "slano-ili-slatko"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "šećera",
+              "note": "za slatko tijesto",
+              "altGroup": "slano-ili-slatko"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "ulja",
+              "note": "za kesu"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Izmrvite kvasac u pola mlijeka (200 ml), dodajte kašičicu šećera i promiješajte."
+            },
+            {
+              "text": "Ostavite 10 minuta, dok se na površini ne napravi pjena.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Brašno prosijte u veću posudu, dodajte prašak za pecivo i so za slano, odnosno šećer za slatko tijesto, pa sve izmiješajte."
+            },
+            {
+              "text": "Na sredini napravite udubljenje i u njega stavite jogurt, ostatak mlijeka, kvasac i jaja."
+            },
+            {
+              "text": "Miješajte varjačom dok se sastojci ne povežu."
+            },
+            {
+              "text": "Mijesite rukama desetak minuta, dok se tijesto ne prestane lijepiti za ruke i ne postane glatko i elastično.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Najlonsku kesu iznutra premažite uljem i stavite tijesto u nju."
+            },
+            {
+              "text": "Istisnite zrak i zavežite kesu pri vrhu, tako da iznad tijesta ostane prostora da naraste."
+            },
+            {
+              "text": "Kesu stavite u veću posudu i držite u frižideru najmanje 4 sata, a najbolje preko noći."
+            },
+            {
+              "text": "Kad vam treba, odsijecite potreban dio, a ostatak odmah vratite u kesu i frižider."
+            },
+            {
+              "text": "Odsječeni komad ostavite 15–20 minuta na sobnoj temperaturi, pa ga oblikujte.",
+              "timerMinutes": 15
+            }
+          ]
+        }
+      ],
+      "approach": "detaljni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "U ovo tijesto idu i kvasac i prašak za pecivo, a uz mlijeko još dvije čaše jogurta. Kvasac ga diže polahko, u frižideru. Prašak mu u rerni da još jedan potisak, pa pecivo bude mekano i kad tijesto treći dan stoji u kesi.\n\nIme mu je ludo, a mirnije tijesto nemam u kući. Ne traži toplo mjesto, ne traži da ga čuvate od propuha i ne ljuti se ako ga zaboravite do sutra."
+        },
+        {
+          "level": "h2",
+          "title": "Frižider radi umjesto toplog mjesta",
+          "body": "Obično dizano tijesto stoji sat-dva na toplom. Ovo ide pravo u frižider. Na hladnom kvasac radi sporo, pa se tijesto diže preko noći i ne preraste. Zato mu dajte najmanje četiri sata, a bolje cijelu noć.\n\nKesa se nauljuje iznutra. Bez ulja se tijesto zalijepi za najlon i kida se kad ga vadite. Zavežite je pri vrhu, a ne uz samo tijesto, jer ono i u frižideru primjetno naraste. Posuda ispod kese je za svaki slučaj, ako se kesa ipak otvori."
+        },
+        {
+          "level": "h2",
+          "title": "Koliko dugo smije stajati?",
+          "body": "Do tri dana, u zatvorenoj kesi. Svaki dan je malo kiselije, ali se to u pečenom pecivu jedva osjeti. Duže ga ne držim, jer kvasac s vremenom slabi i peciva se slabije dignu.\n\nŠta ako tijesto naraste do čvora? Premijesite ga šakom kroz kesu, istisnite zrak i vratite ga u frižider. Neće mu smetati.\n\nZašto komad mora odstajati prije oblikovanja? Hladno tijesto se teško razvlači i vraća se nazad čim ga pustite. Za 15–20 minuta na sobnoj temperaturi omekša toliko da se lijepo razvalja, a ostatak tijesta za to vrijeme mirno čeka u frižideru."
+        },
+        {
+          "level": "h2",
+          "title": "Slano ili slatko, od iste ture",
+          "body": "Razlika je samo u dvije kašičice: soli za slano ili šećera za slatko. To se odlučuje kad se mijesi. Ako ne znate šta ćete praviti, zamijesite slano. Od njega ide pizza, pogačice i kiflice sa sirom, a slatki fil u kiflicama ionako pokrije malo soli. Kod mene jedna tura pokrije pizzu za večeru i kiflice za doručak još dva dana.\n\nPeciva iz ovog tijesta pecite na 200 °C dok ne porumene. Male kiflice i pogačice budu gotove za 15–20 minuta, a pizza na limu otprilike isto, zavisno od debljine.\n\nZa buhtle i slatke rolice zamijesite slatku verziju, a fil od pekmeza ili oraha stavite tek kad razvaljate odsječeni komad."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "domace-mekane-kifle",
+        "buhtle"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Ludo tijesto iz frižidera za pizzu, kiflice i peciva",
+        "description": "Ludo tijesto s kvascem, jogurtom i praškom za pecivo zamijesite jednom i držite u frižideru do tri dana. Za pizzu, kiflice i peciva. Recept korak po korak."
+      },
+      "family": "Dizana tijesta",
+      "sourceNote": "Prepis SNK-NR-019. nasirecepti.com, stari post ID 358: https://nasirecepti.com/ludo-tijesto-tijesto-koje-uvijek-mozete-imati-spremno/ (WP izvoz 2026-11-14). Preuzeto: 1 kg brašna, 1 kocka svježeg kvasca, 1 kašičica šećera, 2 jaja, 2 jogurta, 1 prašak za pecivo, 1 kašičica ulja (za kesu), 400 ml mlakog mlijeka (200 za kvasac); 2 kašičice soli za slano ili 2 kašičice šećera za slatko; kvasac u mlijeko, brašno s praškom, udubljenje, mijesiti, nauljena kesa, frižider, prije oblikovanja kratko na sobnoj temperaturi; prip. 20 min. NEDOSTAJALO u izvoru: koliko stoji u frižideru, koliko traje, mjera jogurta, temperatura pečenja. Odluka urednika 2026-11-15: uobičajene mjere — 2 čaše jogurta po 180 g = 360 g; kvasac 10 min; mijesenje oko 10 min; frižider najmanje 4 h, najbolje preko noći, do 3 dana; komad 15–20 min na sobnoj temperaturi; peciva na 200 °C 15–20 min. Kesa se veže pri vrhu (izvor: „istisnite zrak, dobro zavežite“). Prinos izračunat iz sastojaka (oko 1,9 kg); izvor navodi „10 porcija“."
+    }
+  ]
+}

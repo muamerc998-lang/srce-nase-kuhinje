@@ -7347,6 +7347,7 @@ https://nasirecepti.com/fasirane-snicle/
 ### SNK-0337 — Grah
 
 - **ID:** SNK-0337
+- **Napomena (2026-11-15):** stari nasirecepti „Grah s mesom“ nije prepisan i obrisan je iz WP izvoza (preklapa se s ovim receptom). Ovaj recept se piše kao nov; nasirecepti link ostaje samo kao referenca.
 - **Recept / radni naslov:** Grah
 - **Glavna ključna riječ:** grah
 - **Dodatne ključne riječi:** grah s mesom
@@ -8813,6 +8814,7 @@ https://tvojrecept.com/recepti/riza-sa-povrcem-iz-jedne-tave-za-mrsanje-recept
 ### SNK-0435 — Rižoto s piletinom i povrćem
 
 - **ID:** SNK-0435
+- **Pokriveno prepisom:** SNK-NR-018 (`rizoto-s-piletinom`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Rižoto s piletinom i povrćem
 - **Glavna ključna riječ:** rižoto s piletinom i povrćem
 - **Dodatne ključne riječi:** rižoto s piletinom; ručak s piletinom i kremastim rižotom; rižoto s piletinom i povrćem recept; brzi ručak; piletina i rižoto; pileći zabatak; kremasti rižoto; ručak s piletinom
@@ -9166,6 +9168,7 @@ https://korisni.com/tradicionalna-kuhinja/sogan-dolma
 ### SNK-0461 — Spagete Bolognese
 
 - **ID:** SNK-0461
+- **Napomena (2026-11-15):** stari nasirecepti „Špageti bolognese“ nije prepisan i obrisan je iz WP izvoza (preklapa se s ovim receptom). Ovaj recept se piše kao nov; nasirecepti link ostaje samo kao referenca.
 - **Recept / radni naslov:** Spagete Bolognese
 - **Glavna ključna riječ:** spagete bolognese
 - **Dodatne ključne riječi:** špageti bolognese
@@ -9772,6 +9775,7 @@ https://tvojrecept.com/recepti/ustipci-s-medom
 ### SNK-0501 — Ludo tijesto za slana peciva
 
 - **ID:** SNK-0501
+- **Pokriveno prepisom:** SNK-NR-019 (`ludo-tijesto`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Ludo tijesto za slana peciva
 - **Glavna ključna riječ:** ludo tijesto
 - **Vanjski izvor recepture:** https://nasirecepti.com/ludo-tijesto-tijesto-koje-uvijek-mozete-imati-spremno/
@@ -10067,6 +10071,7 @@ https://korisni.com/brzi-recepti/pileci-paprikas
 ### SNK-0519 — Piletina s rižom iz rerne
 
 - **ID:** SNK-0519
+- **Pokriveno prepisom:** SNK-NR-017 (`piletina-s-rizom-iz-rerne`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Piletina s rižom iz rerne
 - **Glavna ključna riječ:** piletina s rižom iz rerne
 - **Dodatne ključne riječi:** piletina s rižom iz pećnice; pileći pilav iz rerne; piletina s rižom iz rerne recept; piletina; recept iz rerne; riža; brzi ručak; pileći pilav
@@ -13602,3 +13607,7 @@ Recepti preuzeti s nasirecepti.com i napisani ispočetka po `content/PREPIS-NASI
 | SNK-NR-013 | Pileći paprikaš s krompirom | pileci-paprikas | nasirecepti ID 490 | nacrt |
 | SNK-NR-014 | Musaka od patlidžana s bešamelom | musaka-od-patlidzana | nasirecepti ID 362 | nacrt |
 | SNK-NR-015 | Punjeni otkošteni pileći zabataci sa sirom (pokriva SNK-0513) | otkosteni-pileci-zabataci | nasirecepti ID 493 | nacrt |
+| SNK-NR-016 | Piletina u curry sosu s kiselom pavlakom | piletina-u-curry-sosu | nasirecepti ID 233 | nacrt |
+| SNK-NR-017 | Piletina s rižom iz rerne (pokriva SNK-0519) | piletina-s-rizom-iz-rerne | nasirecepti ID 418 | nacrt |
+| SNK-NR-018 | Rižoto s piletinom i integralnom rižom (pokriva SNK-0435) | rizoto-s-piletinom | nasirecepti ID 372 | nacrt |
+| SNK-NR-019 | Ludo tijesto iz frižidera (pokriva SNK-0501) | ludo-tijesto | nasirecepti ID 358 | nacrt |

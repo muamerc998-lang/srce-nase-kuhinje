@@ -182,6 +182,9 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   'ljuta-papricica': zero,
   patlidzan: n(25, 1, 5.9, 0.2, { pieces: { bez: 300, kom: 300 } }),
   'zacin-za-jela': zero,
+  'curry-prah': n(325, 14.3, 55.8, 14, { density: 0.45 }),
+  korijander: n(23, 2.1, 3.7, 0.5, { density: 0.25 }),
+  'integralna-riza': n(367, 7.5, 76.2, 3.2, { density: 0.8 }),
 }
 
 /** Kuhinjske mjere u ml. */
