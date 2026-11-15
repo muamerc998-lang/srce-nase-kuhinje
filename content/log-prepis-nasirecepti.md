@@ -242,3 +242,21 @@ Zakazano (cron 6:00):
 Ostale kategorije (predjela, salate, prilozi…) dopunjavaju se uz ovo, po 2–3 dnevno, kad budu obrađene. Gornji raspored (5 dnevno) je zamijenjen ovim:
 
 16. 11. punjena pileća prsa · 17. 11. čobanac · 18. 11. ludo tijesto · 19. 11. pileći paprikaš · 20. 11. carsko meso · 21. 11. piletina u curry sosu · 22. 11. hladetina · 23. 11. rižoto s piletinom · 24. 11. mesni uštipci · 25. 11. otkošteni zabataci · 26. 11. musaka od kelja · 27. 11. piletina s rižom · 28. 11. punjeni patlidžan · 30. 11. rižoto s povrćem · 7. 12. rižoto s kozicama. Slobodno: 29. 11. i 1.–6. 12.
+
+## Novi izvoz: `nairecepti.WordPress.2026-11-15.xml` (kategorija Predjela, 18 postova)
+
+Stari izvoz (2026-11-14) urednik je obrisao. Provjera duplikata 2026-11-15: poređeno sa svim receptima na sajtu (objavljeni, zakazani, nacrti, `content/recepti/*.json`) i sa 257 recepata na slatkireceptar.com (samo slatko, nema preklapanja).
+
+**Obrisano kao duplikat** (s pripadajućom slikom; kopija XML-a prije brisanja u scratchpadu):
+- 839 Francuska salata — isto jelo kao objavljena `ruska-salata` (kuhano povrće, kiseli krastavci, majoneza); ista namjera pretrage.
+
+**Nije duplikat:** 405 Hercegovački uštipci s jogurtom i 409 Uštipci bez jaja (slano prženo tijesto) ≠ `brze-fritule-s-jogurtom` (slatke fritule). 424 Peciva sa sirom, 375 Domaća pogača, 378 Hambi peciva ≠ `domace-mekane-kifle`. 148 Mozzarella kuglice i 846 Pohani sir — srodni (pohovani sir), objavljivati razmaknuto.
+
+**Za prepis (17):** 148 mozzarella kuglice · 239 pečeni camembert · 242 pužići sa sirom · 245 rolice od tikvica · 248 naribane tikvice sa sirom · 375 domaća pogača · 378 hambi peciva · 393 namaz od avokada i tune · 396 namaz od graha i tune · 399 namaz od avokada i sira · 402 namaz od slanutka · 405 hercegovački uštipci · 409 uštipci bez jaja · 424 peciva sa sirom · 497 pečeni kesteni · 828 punjena jaja · 846 pohani sir. Svi su u planu (SNK-0323, 0380/0504, 0496, 0497, 0508–0512, 0515–0517, 0523, 0525, 0528, 0529).
+
+**Treba odluka / uobičajene mjere:**
+- 248 naribane tikvice: sve u šoljama (cup) — pretvoriti u g/ml po standardu ili NEDOSTAJE.
+- 409 uštipci bez jaja: šolja brašna i šolja vode — pretvoriti (oko 130 g brašna, 240 ml vode); 8 porcija od jedne šolje brašna je sumnjivo malo.
+- 375 domaća pogača: koraci 1–3 imaju samo naslov bez opisa (kako mijesiti i oblikovati); „1 i 1/2 praška“, „1 čaša jogurta“, 176 °C → zaokružiti.
+- 245 rolice od tikvica: čudne brojke iz američkih mjera (375 g, 115 g, 195 g, 110 g) → zaokružiti.
+- 396 namaz od graha i tune: za'atar — kod nas se teško nalazi.
