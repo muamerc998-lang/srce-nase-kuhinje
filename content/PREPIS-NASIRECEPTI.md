@@ -28,6 +28,8 @@ Ulaz je XML izvoz iz WordPressa (npr. `nasirecepti.WordPress.2026-11-14.xml`, ka
 
 **Koraci nisu ograničeni na 5.** Na nasirecepti je šablon dozvoljavao najviše 5 koraka (step_1…step_5), pa su stari koraci često zbijeni (više radnji u jednom). Kod nas koraka ima koliko recept stvarno traži: jedna radnja po koraku (PRAVILA-PISANJA.md §4), pa zbijeni korak može postati dva ili tri. Ne forsira se ni veći ni manji broj — ne dijeliti radnje umjetno i ne dodavati korake koji ništa ne govore. Dodatno objašnjenje uz korak (znak da je gotovo, temperatura, trajanje) ide u korak; "zašto" ide u članak.
 
+**Svinjetina je dozvoljena** (odluka urednika 2026-11-15). Jela sa svinjetinom, slaninom, mašću ili miješanim mljevenim mesom pišu se s mesom iz originala; ne zamjenjuje se junetinom i ne izostavlja.
+
 Stari post se upisuje samo u interno polje `sourceNote` (URL + ID starog posta). U javnom tekstu se nikad ne spominje.
 
 ## 2. Jezik

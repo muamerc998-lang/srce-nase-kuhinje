@@ -185,6 +185,12 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   'curry-prah': n(325, 14.3, 55.8, 14, { density: 0.45 }),
   korijander: n(23, 2.1, 3.7, 0.5, { density: 0.25 }),
   'integralna-riza': n(367, 7.5, 76.2, 3.2, { density: 0.8 }),
+  svinjetina: n(236, 16.7, 0, 18.4),
+  divljac: n(120, 23, 0, 2.4),
+  kelj: n(27, 2, 6.1, 0.1, { pieces: { glavica: 1000 } }),
+  slanina: n(417, 12.6, 1.3, 40),
+  'carsko-meso': n(518, 9.3, 0, 53),
+  gauda: n(356, 24.9, 2.2, 27.4),
 }
 
 /** Kuhinjske mjere u ml. */
@@ -194,4 +200,4 @@ export const MEASURE_ML: Record<string, number> = { kasika: 15, kasicica: 5, sol
  * Recepti za koje se procjena ne prikazuje, jer se dio sastojaka ne pojede
  * (temeljac od cijelog pileta, ulje za prženje, sirup u kojem se kuha voće).
  */
-export const NUTRITION_EXCLUDED = new Set(['pileca-supa', 'begova-corba', 'cufte-u-sosu', 'tufahije', 'domace-krofne', 'brze-fritule-s-jogurtom'])
+export const NUTRITION_EXCLUDED = new Set(['pileca-supa', 'begova-corba', 'cufte-u-sosu', 'tufahije', 'domace-krofne', 'brze-fritule-s-jogurtom', 'slavonska-hladetina'])

@@ -1,0 +1,1458 @@
+{
+  "format": "srce-nase-kuhinje/v1",
+  "ingredients": [
+    {
+      "slug": "svinjetina",
+      "name": "svinjetina",
+      "synonyms": [
+        "svinjsko meso",
+        "svinjski but",
+        "svinjska plećka"
+      ],
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "divljac",
+      "name": "divljač",
+      "synonyms": [
+        "meso divljači",
+        "srnetina",
+        "jelenetina",
+        "veprovina"
+      ],
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "kelj",
+      "name": "kelj",
+      "synonyms": [
+        "glavica kelja",
+        "savojski kupus"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "slanina",
+      "name": "slanina",
+      "synonyms": [
+        "dimljena slanina",
+        "špek",
+        "panceta"
+      ],
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "svinjske-nogice",
+      "name": "svinjske nogice",
+      "synonyms": [
+        "svinjske noge",
+        "nogice"
+      ],
+      "broader": "svinjetina",
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "svinjska-glava",
+      "name": "svinjska glava",
+      "broader": "svinjetina",
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "svinjske-kozice",
+      "name": "svinjske kožice",
+      "synonyms": [
+        "svinjska koža",
+        "kožice"
+      ],
+      "broader": "svinjetina",
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "carsko-meso",
+      "name": "carsko meso",
+      "synonyms": [
+        "svinjska rebra s potrbušinom",
+        "svinjska potrbušina s rebrima"
+      ],
+      "broader": "svinjetina",
+      "foodGroup": "meso"
+    },
+    {
+      "slug": "korijen-persuna",
+      "name": "korijen peršuna",
+      "synonyms": [
+        "peršun korijen",
+        "korijen peršina"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "gauda",
+      "name": "gauda",
+      "synonyms": [
+        "gouda",
+        "sir gauda"
+      ],
+      "broader": "tvrdi-sir",
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "lepinja",
+      "name": "lepinja",
+      "synonyms": [
+        "lepinje"
+      ],
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "kajmak",
+      "name": "kajmak",
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "ajvar",
+      "name": "ajvar",
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "hren",
+      "name": "hren",
+      "synonyms": [
+        "ren",
+        "naribani hren"
+      ],
+      "foodGroup": "povrce"
+    }
+  ],
+  "recipes": [
+    {
+      "planId": "SNK-NR-020",
+      "slug": "slavonski-cobanac",
+      "title": "Slavonski čobanac s tri vrste mesa",
+      "alternativeNames": [
+        "čobanac",
+        "čobanac s divljači",
+        "slavonski čobanac recept",
+        "čobanac od junetine i svinjetine"
+      ],
+      "summary": "Čobanac od divljači, junetine i svinjetine, s mnogo luka i aleve paprike, kuhan tri sata. Meso ide u šerpu u tri navrata, a voda samo jednom, pa jelo ostane gusto i čorbasto bez brašna.",
+      "primaryCategory": "variva-i-punjena-jela",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "svinjetina",
+        "govedina",
+        "luk",
+        "paprika"
+      ],
+      "diets": [
+        "bez-jaja",
+        "bez-mlijeka"
+      ],
+      "methods": [
+        "kuhanje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 30,
+        "cookMinutes": 180,
+        "totalMinutes": 210
+      },
+      "equipment": {
+        "other": "velika šerpa s poklopcem"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "crni-luk",
+              "amount": 5,
+              "amountMax": 6,
+              "unit": "glavica",
+              "label": "srednjih glavica crnog luka"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 2,
+              "amountMax": 3,
+              "unit": "cesanj",
+              "label": "bijelog luka"
+            },
+            {
+              "ingredient": "mrkva",
+              "amount": 2,
+              "amountMax": 3,
+              "unit": "bez",
+              "label": "srednje mrkve"
+            },
+            {
+              "ingredient": "divljac",
+              "amount": 500,
+              "unit": "g",
+              "label": "divljači",
+              "note": "srnetina, jelenetina ili veprovina, na kocke od oko 3 cm"
+            },
+            {
+              "ingredient": "junetina",
+              "amount": 500,
+              "unit": "g",
+              "label": "junetine",
+              "note": "na kocke od oko 3 cm"
+            },
+            {
+              "ingredient": "svinjetina",
+              "amount": 1,
+              "unit": "kg",
+              "label": "svinjetine",
+              "note": "na kocke od oko 3 cm"
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "slatke aleve paprike"
+            },
+            {
+              "ingredient": "ljuta-aleva-paprika",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "ljute aleve paprike"
+            },
+            {
+              "ingredient": "ljuta-papricica",
+              "amount": 1,
+              "unit": "bez",
+              "label": "sušena ljuta papričica"
+            },
+            {
+              "ingredient": "biber-u-zrnu",
+              "amount": 7,
+              "amountMax": 8,
+              "unit": "bez",
+              "label": "zrna crnog bibera"
+            },
+            {
+              "ingredient": "lovor",
+              "amount": 2,
+              "unit": "list",
+              "label": "lovora"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "mljeveni biber"
+            },
+            {
+              "ingredient": "zacin-za-jela",
+              "unit": "po-ukusu",
+              "label": "začin za jela",
+              "note": "ili so"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 1.5,
+              "unit": "l",
+              "label": "vode"
+            },
+            {
+              "ingredient": "paradajz-pire",
+              "amount": 250,
+              "unit": "ml",
+              "label": "pasiranog paradajza"
+            },
+            {
+              "ingredient": "bijelo-vino",
+              "amount": 100,
+              "unit": "ml",
+              "label": "bijelog vina",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Crni luk, bijeli luk i mrkvu sitno isjeckajte ili usitnite u blenderu."
+            },
+            {
+              "text": "Stavite ih u veliku šerpu s malo vode i pirjajte na srednjoj vatri 15–20 minuta, dok luk ne omekša i ne počne se raspadati. Kad voda ispari, dolijte još malo.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Dodajte divljač i, uz povremeno miješanje, dinstajte je s povrćem 20–30 minuta.",
+              "timerMinutes": 25
+            },
+            {
+              "text": "Dodajte junetinu i dinstajte je s ostalim mesom 20–30 minuta, da pusti sok.",
+              "timerMinutes": 25
+            },
+            {
+              "text": "Dodajte svinjetinu i dinstajte sve zajedno oko 20 minuta.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Umiješajte slatku i ljutu alevu papriku, papričicu, biber u zrnu, lovor, mljeveni biber i začin za jela."
+            },
+            {
+              "text": "Odmah ulijte vodu i pustite da provri, pa smanjite vatru."
+            },
+            {
+              "text": "Kuhajte na slaboj vatri, s malo odmaknutim poklopcem, oko 1 sat, dok meso ne bude skoro mekano. Vodu više ne dolijevajte.",
+              "timerMinutes": 60
+            },
+            {
+              "text": "Dodajte pasirani paradajz i, po želji, vino."
+            },
+            {
+              "text": "Kuhajte još oko 20 minuta, dok meso ne bude potpuno mekano. Probajte i po potrebi doradite začine.",
+              "timerMinutes": 20
+            }
+          ]
+        }
+      ],
+      "approach": "tradicionalni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Ime je dobio po čobanima, pastirima koji su ga kuhali u kotliću na otvorenoj vatri. U Slavoniji i Baranji se i danas tako sprema za veće društvo, napolju i satima. Kod kuće ga pravimo u velikoj šerpi na šporetu, a ostaje ono po čemu se čobanac prepoznaje: više vrsta mesa, mnogo luka, slatka i ljuta paprika, i jelo koje je negdje između gulaša i čorbe."
+        },
+        {
+          "level": "h2",
+          "title": "Meso u šerpu ide po redu",
+          "body": "Divljač, junetina i svinjetina ne traže isto vrijeme. Divljači treba najduže, pa ide prva, na luk koji se već raskuhao. Junetina dolazi pola sata kasnije, a svinjetina zadnja, jer bi za tri sata kuhanja omekšala previše i počela se raspadati u niti. Kad sve uđe po redu, na kraju su sve tri vrste mekane, a nijedna nije prekuhana.\n\nKomadi neka budu podjednaki, oko tri centimetra. Sitnije kockice bi se kod dugog kuhanja izgubile u sosu, a veće bi kod svinjetine, koja ima najmanje vremena, ostale tvrde u sredini. Ako divljači nemate, mi bismo umjesto nje uzeli još junetine, jer bolje od svinjetine podnosi dugo kuhanje."
+        },
+        {
+          "level": "h2",
+          "title": "Luk umjesto brašna",
+          "body": "U čobanac ne ide zaprška ni brašno. Gustinu mu daje luk: pet-šest glavica, sitno sjeckanih ili usitnjenih u blenderu, koje se na početku dvadesetak minuta pirjaju na malo vode, dok se ne raspadnu u kašu. Ta kaša se poslije rastopi u sosu i drži ga zajedno. Zato se luk ne prži na jakoj vatri, jer bi zagorio prije nego što omekša.\n\nMrkva ide s lukom i sosu daje malo slatkoće, koja ublaži ljutu papriku."
+        },
+        {
+          "level": "h2",
+          "title": "Vodu dolijte samo jednom",
+          "body": "Voda ide kad je sve meso u šerpi i začinjeno, i to sva odjednom, oko litar i po. Poslije se više ne dolijeva. Dio ispari tokom dugog krčkanja, i tako se čobanac sam zgusne do prave mjere: čorbast, ali ne rijedak. Voda dolivena pred kraj ostaje voda i ne poveže se s lukom i mesom.\n\nZato vatra treba biti slaba, a poklopac malo odmaknut. Na jakoj vatri bi tečnost isparila prije nego što meso omekša, pa bi jelo trebalo razrjeđivati, a to je upravo ono što ovdje ne želimo."
+        },
+        {
+          "level": "h2",
+          "title": "Paradajz i vino tek pred kraj",
+          "body": "Pasirani paradajz se dodaje u zadnjih dvadesetak minuta. Ranije bi njegova kiselost nadjačala ostale okuse, a ovako samo zaokruži sos i da mu boju. Isto je s bijelim vinom, koje je po želji: tih sto mililitara treba tek da prokuha i da alkohol ispari.\n\nLjutina se podešava ljutom paprikom i sušenom papričicom. Ako ne volite jako ljuto, stavite prvo pola papričice, a ostatak dodajte kad probate sos.\n\nČobanac je sutradan još bolji, kad meso preko noći upije začine, pa se isplati skuhati ga dan ranije."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "govedji-gulas"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Čobanac: slavonsko jelo od tri vrste mesa i paprike",
+        "description": "Čobanac od divljači, junetine i svinjetine, s mnogo luka i aleve paprike. Kojim redom meso ide u šerpu i zašto se voda dolijeva jednom. Recept korak po korak."
+      },
+      "family": "Variva od mesa",
+      "sourceNote": "Prepis SNK-NR-020 (pokriva SNK-0494). nasirecepti.com, stari post ID 124: https://nasirecepti.com/cobanac/ (WP izvoz 2026-11-14). Preuzeto: 5–6 glavica crvenog luka, 2–3 režnja češnjaka, 2–3 mrkve, 500 g divljači, 500 g junetine, 1 kg svinjetine, 250 ml pasirane rajčice, Vegeta, 7–8 zrna bibera, mljeveni biber, 2 lovora, slatka i ljuta paprika, 1 sušeni feferon, po želji 100 ml bijelog vina; luk i povrće 15–20 min na malo vode, divljač 20–30 min, junetina 20–30 min, svinjetina oko 20 min, začini, voda jednom, krčkanje, rajčica i vino pred kraj; 30 min pripreme, 180 min kuhanja, 6 porcija. Vegeta → začin za jela. Odluka urednika 2026-11-15: uobičajene mjere — voda „po potrebi“ → 1,5 l; slatka i ljuta paprika bez mjere → 2 kašike slatke i 1 kašičica ljute aleve paprike; kocke oko 3 cm; nakon vode oko 1 h krčkanja + 20 min s paradajzom (ukupno kuhanje oko 180 min)."
+    },
+    {
+      "planId": "SNK-NR-021",
+      "slug": "musaka-od-kelja",
+      "title": "Musaka od kelja s mljevenim mesom",
+      "alternativeNames": [
+        "musaka od kelja s mljevenim mesom",
+        "kelj s mesom iz rerne",
+        "musaka od kelja i slanine"
+      ],
+      "summary": "Musaka od kelja sa slaninom i mljevenim mesom, zapečena sa sirom u rerni. Bez bešamela i jaja, od jedne glavice kelja i malo mesa, a uspijeva kad je kelj kratko kuhan i dobro ocijeđen.",
+      "primaryCategory": "jela-s-mesom",
+      "meals": [
+        "rucak"
+      ],
+      "tags": [
+        "kelj",
+        "mljeveno-meso",
+        "slanina",
+        "sir"
+      ],
+      "diets": [
+        "bez-jaja"
+      ],
+      "methods": [
+        "pecenje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 30,
+        "cookMinutes": 40,
+        "restMinutes": 10,
+        "restLabel": "odmaranja",
+        "totalMinutes": 80
+      },
+      "equipment": {
+        "temperature": 180,
+        "ovenMode": "gornji-donji",
+        "other": "vatrostalna posuda oko 20 × 30 cm"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "kelj",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "kelja",
+              "note": "oko 1 kg"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so",
+              "note": "za vodu i nadjev"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "mljeveno-meso",
+              "amount": 250,
+              "unit": "g",
+              "label": "mljevenog mesa"
+            },
+            {
+              "ingredient": "slanina",
+              "amount": 100,
+              "unit": "g",
+              "label": "slanine",
+              "note": "na sitne kockice"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            },
+            {
+              "ingredient": "tvrdi-sir",
+              "amount": 100,
+              "unit": "g",
+              "label": "tvrdog sira",
+              "note": "naribanog"
+            },
+            {
+              "ingredient": "maslac",
+              "unit": "po-potrebi",
+              "label": "maslac",
+              "note": "za posudu"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Kelju skinite vanjske listove i izrežite kocen."
+            },
+            {
+              "text": "Glavicu kuhajte u kipućoj posoljenoj vodi 4–5 minuta, dok listovi ne omekšaju.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Kelj ocijedite, razdvojite na listove i raširite ih po cjedilu da se ohlade i osuše."
+            },
+            {
+              "text": "Uključite rernu na 180 °C."
+            },
+            {
+              "text": "Na ulju pržite luk oko 5 minuta, dok ne postane staklast.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Dodajte mljeveno meso i slaninu, pa posolite i pobiberite."
+            },
+            {
+              "text": "Pržite oko 20 minuta, uz miješanje, dok sav sok ne ispari i meso ne bude mrvičasto.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Posudu premažite maslacem."
+            },
+            {
+              "text": "Slažite naizmjenično red listova kelja i tanak red nadjeva, dok ne potrošite sastojke."
+            },
+            {
+              "text": "Površinu ravnomjerno pospite sirom."
+            },
+            {
+              "text": "Musaku pecite oko 40 minuta, dok sir odozgo ne porumeni.",
+              "timerMinutes": 40
+            },
+            {
+              "text": "Ostavite musaku 10 minuta prije rezanja.",
+              "timerMinutes": 10
+            }
+          ]
+        }
+      ],
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Kelj je zimi na pijaci među najjeftinijim povrćem. Od jedne glavice i četvrt kile mesa ovdje bude ručak za četvero, iz rerne. Nema bešamela ni jaja. Slojeve drže samo meso i sir, pa sve zavisi od toga koliko je kelj suh kad ide u posudu."
+        },
+        {
+          "level": "h2",
+          "title": "Kelj kratko kuhajte i dobro ocijedite",
+          "body": "Kad se kocen izreže, listovi se poslije lako odvajaju. U kipućoj vodi glavici treba samo četiri-pet minuta, taman da listovi omekšaju i postanu savitljivi. Duže kuhan kelj se u rerni raspadne.\n\nOcijeđene listove raširite i pustite da se ohlade. Voda koja ostane među njima ode u rernu i skupi se na dnu posude. Musaka onda pliva, a sir na vrhu se kuha umjesto da se zapeče.\n\nAko je glavica velika, deblje rebro na listu istanjite nožem. Lakše se slaže i ne ostane tvrdo."
+        },
+        {
+          "level": "h2",
+          "title": "Slaninu ne izbacujte",
+          "body": "Mesa je ovdje malo, a kelja mnogo. Kelj je posan i nema svoje masnoće. Slanina je ta koja je donese: dok se prži s mesom, pusti mast, a kelj je u rerni upije. Bez nje je musaka suha i bljutava, pa je ja ne preskačem.\n\nNadjev pržite dok sav sok od mesa ne ispari. Treba ostati suh i mrvičast, a ne u vlastitoj tečnosti. Slojevi neka budu tanki, da se cijela musaka ispeče za isto vrijeme.\n\nPrerežete li je odmah po vađenju iz rerne, listovi kliznu jedan s drugog i komad se raspadne na tanjiru."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "musaka",
+        "musaka-od-patlidzana"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Musaka od kelja s mljevenim mesom, slaninom i sirom",
+        "description": "Musaka od kelja s mljevenim mesom i slaninom, zapečena sa sirom u rerni. Koliko kuhati kelj i kako ga ocijediti da musaka ne pusti vodu. Recept korak po korak."
+      },
+      "family": "Musake",
+      "sourceNote": "Prepis SNK-NR-021 (pokriva SNK-0505). nasirecepti.com, stari post ID 366: https://nasirecepti.com/musaka-od-kelja/ (WP izvoz 2026-11-14). Preuzeto: 1 svježi kelj, 250 g mljevenog mesa, 100 g slanine, 100 g naribanog sira, 1 luk, sol, papar, malo ulja, maslac za posudu; kelj kratko prokuhati u posoljenoj vodi, ocijediti, razdvojiti listove; luk do staklastog, meso i slanina oko 20 min; slagati red kelja, red nadjeva, sir na vrh; 180 °C oko 40 min; 4 porcije. Odluka urednika 2026-11-15: uobičajene mjere — „1 kelj“ → glavica oko 1 kg; „kratko prokuhajte“ → 4–5 min, cijela glavica bez kocena; posuda nije navedena → oko 20 × 30 cm; odmaranje „nekoliko minuta“ → 10 min."
+    },
+    {
+      "planId": "SNK-NR-022",
+      "slug": "slavonska-hladetina",
+      "title": "Slavonska hladetina od svinjskih nogica",
+      "alternativeNames": [
+        "hladetina",
+        "pihtije",
+        "hladetina od svinjskih nogica",
+        "domaća hladetina"
+      ],
+      "summary": "Slavonska hladetina od svinjskih nogica, kožica i glave, kuhana tri-četiri sata i ohlađena preko noći. Steže se sama, bez želatine, a ostaje bistra kad se kuha tiho i u malo vode.",
+      "primaryCategory": "predjela-i-grickalice",
+      "meals": [],
+      "tags": [
+        "svinjetina",
+        "mrkva"
+      ],
+      "diets": [
+        "bez-jaja",
+        "bez-mlijeka",
+        "bez-glutena",
+        "bez-brasna"
+      ],
+      "methods": [
+        "kuhanje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 10,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 60,
+        "cookMinutes": 240,
+        "restMinutes": 480,
+        "restLabel": "hlađenja",
+        "totalMinutes": 780
+      },
+      "equipment": {
+        "other": "veliki lonac, gusto cjedilo ili gaza, nekoliko dubljih posuda"
+      },
+      "beforeYouStart": "Hladetina se pravi dan ranije, jer se u frižideru steže najmanje 8 sati.",
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "svinjske-nogice",
+              "amount": 3,
+              "unit": "bez",
+              "label": "svinjske nogice"
+            },
+            {
+              "ingredient": "svinjska-glava",
+              "amount": 0.5,
+              "unit": "bez",
+              "label": "svinjske glave"
+            },
+            {
+              "ingredient": "svinjske-kozice",
+              "amount": 300,
+              "unit": "g",
+              "label": "svinjskih kožica"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "crnog luka"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 2,
+              "unit": "cesanj",
+              "label": "bijelog luka"
+            },
+            {
+              "ingredient": "mrkva",
+              "amount": 2,
+              "unit": "bez",
+              "label": "mrkve"
+            },
+            {
+              "ingredient": "korijen-persuna",
+              "amount": 1,
+              "unit": "bez",
+              "label": "korijen peršuna"
+            },
+            {
+              "ingredient": "lovor",
+              "amount": 2,
+              "amountMax": 3,
+              "unit": "list",
+              "label": "lovora"
+            },
+            {
+              "ingredient": "biber-u-zrnu",
+              "amount": 8,
+              "amountMax": 10,
+              "unit": "bez",
+              "label": "zrna crnog bibera"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "voda",
+              "unit": "po-potrebi",
+              "label": "hladne vode"
+            }
+          ]
+        },
+        {
+          "title": "Za posluživanje",
+          "items": [
+            {
+              "ingredient": "hren",
+              "unit": "po-ukusu",
+              "label": "naribani hren",
+              "optional": true
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "unit": "po-ukusu",
+              "label": "bijeli luk",
+              "note": "sitno sjeckan",
+              "optional": true
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "unit": "po-ukusu",
+              "label": "aleva paprika",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Očistite i operite nogice, kožice i glavu, a veće komade isijecite na manje."
+            },
+            {
+              "text": "Očistite mrkvu i korijen peršuna."
+            },
+            {
+              "text": "Luk prerežite na pola i prepecite ga na suhoj tavi, prerezanom stranom dolje, dok ne potamni."
+            },
+            {
+              "text": "Sve meso složite u veliki lonac, dodajte povrće, bijeli luk, lovor i biber, pa nalijte hladne vode toliko da sve prekrije. Posolite."
+            },
+            {
+              "text": "Zagrijte do ključanja, pa smanjite vatru i kašikom skinite pjenu s površine."
+            },
+            {
+              "text": "Kuhajte na slaboj vatri 3–4 sata, dok se meso lako ne odvaja od kostiju. Toplu vodu dolijevajte samo toliko da meso ostane pokriveno.",
+              "timerMinutes": 210
+            },
+            {
+              "text": "Izvadite meso i povrće, a supu procijedite kroz gazu ili vrlo gusto cjedilo."
+            },
+            {
+              "text": "Dok je toplo, meso odvojite od kostiju, odbacite hrskavice koje ne želite, a ostatak isijecite na komadiće."
+            },
+            {
+              "text": "Mrkvu narežite na kolutove."
+            },
+            {
+              "text": "Meso i mrkvu rasporedite u dublje posude."
+            },
+            {
+              "text": "Prelijte ih procijeđenom supom i ostavite nekoliko minuta da se malo ohlade."
+            },
+            {
+              "text": "Posude stavite u frižider na najmanje 8 sati, najbolje preko noći, da se hladetina stegne."
+            },
+            {
+              "text": "Prije posluživanja kašikom skinite masnoću s površine."
+            }
+          ]
+        }
+      ],
+      "approach": "detaljni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Dobra hladetina je bistra, zlatne boje, lagano zadrhti kad se tanjir pomjeri, a nož kroz nju prolazi bez mrvljenja. U Slavoniji se zove hladetina, u Bosni i Srbiji pihtije, a svuda se pravi zimi, za praznike i za veće stolove, jer se kuha dan ranije i čeka u frižideru. Ništa se u nju ne dodaje da bi se stegla: taj posao urade svinjske nogice, kožice i glava."
+        },
+        {
+          "level": "h2",
+          "title": "Kolagen iz nogica, kože i glave",
+          "body": "Nogice, kožice i glava imaju malo mesa, a mnogo kože, tetiva i hrskavice. Tokom dugog kuhanja iz njih izlazi kolagen, koji u supi prelazi u želatinu, pa se ohlađena supa stegne. Zato se ovi dijelovi ne zamjenjuju mesnatijim komadima: but ili plećka dali bi više mesa, ali bi supa od njih ostala tečna. Pola glave daje i meso koje se poslije reže u hladetinu, pa jelo nije samo žele.\n\nLuk se prije kuhanja prepeče na suhoj tavi, prerezanom stranom dolje, dok ne potamni. Supi daje zlatnu boju i malo pečenog mirisa."
+        },
+        {
+          "level": "h2",
+          "title": "Tiho kuhanje i malo vode",
+          "body": "Supa za hladetinu ne smije burno ključati. Na jakoj vatri se masnoća i sitni komadići mesa razbiju i izmiješaju s tečnošću, pa je supa mutna i takva ostane i kad se stegne. Na površini treba tek da se pojavi poneki mjehurić, a pjena koja se skupi na početku skida se kašikom.\n\nVode ide onoliko koliko treba da prekrije meso, i ne više. Što je vode više, to je želatina rjeđa. Tokom tri-četiri sata dio ispari, pa se dolijeva samo toliko da meso ostane pokriveno, i to topla voda, da se kuhanje ne prekida. Mi bismo prije dolili premalo nego previše."
+        },
+        {
+          "level": "h2",
+          "title": "Od lonca do posude",
+          "body": "Kad se meso samo odvaja od kosti, posao na šporetu je gotov, a počinje onaj za stolom."
+        },
+        {
+          "level": "h3",
+          "title": "Procjeđivanje",
+          "body": "Sve se izvadi iz lonca, a supa se procijedi kroz cjedilo obloženo gazom ili kroz vrlo gusto cjedilo. Gaza zadrži i sitne komadiće koje gusto cjedilo propusti, pa je hladetina bistrija."
+        },
+        {
+          "level": "h3",
+          "title": "Meso s kostiju",
+          "body": "Meso se odvaja dok je toplo, jer se ohlađeno stegne i teško se skida s kosti. Hrskavice i komadi kože koji vam ne odgovaraju se odbace, a ostalo se reže na manje komade. Kuhana mrkva ide u posude uz meso, više zbog izgleda nego zbog okusa."
+        },
+        {
+          "level": "h3",
+          "title": "Hlađenje",
+          "body": "Mi bismo supu razlili u nekoliko manjih posuda umjesto u jednu veliku. Brže se stegnu, a za stol se iznosi jedna po jedna, dok ostale čekaju na hladnom. Masnoća koja se u frižideru skupi na vrhu stegne se u bijeli sloj i lako se skine kašikom."
+        },
+        {
+          "level": "h2",
+          "title": "Zašto se hladetina nije stegla?",
+          "body": "Ako je i poslije cijele noći u frižideru mekana, supa je bila previše razrijeđena ili se kuhala prekratko, pa iz kostiju nije izašlo dovoljno kolagena. Hladetina se tada može spasiti. Supu pažljivo odlijte s mesa, vratite je na vatru i kuhajte otkriveno dok se ne smanji, pa je ponovo prelijte preko mesa i vratite u frižider."
+        },
+        {
+          "level": "h2",
+          "title": "Hren, bijeli luk ili paprika",
+          "body": "Hladetina se jede dobro ohlađena, izvađena iz frižidera tek pred stol. Masnoj i blagoj želatini treba nešto oštro, pa se pospe naribanim hrenom, sitno sjeckanim bijelim lukom ili prstohvatom aleve paprike, a ko voli, prelije je i kapima sirćeta."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Slavonska hladetina od svinjskih nogica i kožica",
+        "description": "Slavonska hladetina od svinjskih nogica, kožica i glave, bistra i čvrsta bez želatine. Koliko vode staviti i kako kuhati da se stegne. Recept korak po korak."
+      },
+      "family": "Hladna predjela od mesa",
+      "sourceNote": "Prepis SNK-NR-022 (pokriva SNK-0526). nasirecepti.com, stari post ID 121: https://nasirecepti.com/recept-slavonska-hladetina/ (WP izvoz 2026-11-14). Preuzeto: 3 svinjske nogice, ½ svinjske glave, 300 g svinjskih kožica, 1 glavica luka, 2 režnja češnjaka, 2 mrkve, 1 korijen peršina, 2–3 lovora, 8–10 zrna papra, sol, voda po potrebi; luk prepeći na suhoj tavi; sve u hladnu vodu, lagano kuhati 3–4 sata, dolijevati toplu vodu po potrebi; procijediti kroz gusto cjedilo, meso s kostiju, narezati, s kuhanom mrkvom u posude, preliti juhom, kratko ohladiti; frižider najmanje 8 sati, najbolje preko noći; posluživanje uz hren, češnjak ili mljevenu crvenu papriku; 30 min pripreme, 4 h kuhanja, 10 porcija. Dodano kao opšte poznato: luk prerezan na pola, skidanje pjene, gaza, skidanje masnoće sa stegnute hladetine, spašavanje nestegnute hladetine ukuhavanjem supe, kapi sirćeta pri posluživanju. Vrijeme pripreme 60 min uključuje odvajanje mesa s kostiju. Kalorije se ne računaju (kosti i masnoća se ne jedu) — NUTRITION_EXCLUDED."
+    },
+    {
+      "planId": "SNK-NR-023",
+      "slug": "carsko-meso-iz-rerne",
+      "title": "Carsko meso iz rerne s krompirom",
+      "alternativeNames": [
+        "carsko meso",
+        "carsko meso s krompirom",
+        "pečena svinjska rebra s potrbušinom",
+        "carsko meso iz pećnice"
+      ],
+      "summary": "Carsko meso iz rerne pečeno tri sata na 150 °C, pa dvadeset minuta na 220 °C, s krompirom zapečenim u masnoći s lima. Meso se odvaja od rebra, a koža ostane hrskava.",
+      "primaryCategory": "jela-s-mesom",
+      "meals": [
+        "rucak"
+      ],
+      "tags": [
+        "svinjetina",
+        "krompir",
+        "senf"
+      ],
+      "diets": [
+        "bez-jaja",
+        "bez-mlijeka"
+      ],
+      "methods": [
+        "pecenje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "cookMinutes": 210,
+        "restMinutes": 10,
+        "restLabel": "odmaranja",
+        "totalMinutes": 235
+      },
+      "equipment": {
+        "temperature": 150,
+        "ovenMode": "gornji-donji",
+        "other": "duboki lim za pečenje; rerna prvo na 150 °C, pa na 220 °C"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "carsko-meso",
+              "amount": 1.3,
+              "unit": "kg",
+              "label": "carskog mesa",
+              "note": "u komadu, s kožom"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "aleve paprike"
+            },
+            {
+              "ingredient": "senf",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "senfa"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 100,
+              "unit": "ml",
+              "label": "suncokretovog ulja"
+            },
+            {
+              "ingredient": "krompir",
+              "amount": 1,
+              "unit": "kg",
+              "label": "krompira"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Uključite rernu na 150 °C."
+            },
+            {
+              "text": "Meso dobro osušite kuhinjskim papirom sa svih strana."
+            },
+            {
+              "text": "Kožu oštrim nožem zarežite na kockice, kroz kožu i masnoću, ali ne do mesa."
+            },
+            {
+              "text": "Meso posolite i pospite alevom paprikom."
+            },
+            {
+              "text": "Senf razmutite s malo ulja i premažite njime cijeli komad."
+            },
+            {
+              "text": "Meso stavite u lim, kožom prema gore, i prelijte ostatkom ulja."
+            },
+            {
+              "text": "Pecite oko 3 sata, dok meso ne omekša.",
+              "timerMinutes": 180
+            },
+            {
+              "text": "Pred kraj pečenja krompir ogulite i narežite na kolutove."
+            },
+            {
+              "text": "Krompir stavite u posoljenu kipuću vodu na 10 minuta, pa ga ocijedite.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Meso izvadite iz lima, a rernu pojačajte na 220 °C."
+            },
+            {
+              "text": "Krompir rasporedite po limu i okrenite ga u masnoći koja se skupila, da bude sav premazan."
+            },
+            {
+              "text": "Meso vratite preko krompira, kožom prema gore."
+            },
+            {
+              "text": "Vratite lim u rernu na još 20 minuta, da koža postane zlatna i hrskava.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Ostavite meso 10 minuta prije rezanja.",
+              "timerMinutes": 10
+            }
+          ]
+        }
+      ],
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Koža koja pucketa pod nožem i meso koje se samo odvaja od rebra ne traže istu rernu. Zato se ovaj komad peče u dva navrata: tri sata na 150 °C, pa još dvadeset minuta na 220 °C. Ko odmah upali jaku rernu, dobije tvrdo meso i kožu koja izgori prije nego što hrskne."
+        },
+        {
+          "level": "h2",
+          "title": "Koža mora biti suha i zarezana",
+          "body": "Carsko meso je komad svinjskih rebara s potrbušinom, s debelim slojem kože i masnoće. Koža hrska samo ako je suha. Zato komad prije začinjavanja obrišite kuhinjskim papirom, a kožu najviše.\n\nZarezi idu kroz kožu i masnoću, ali ne do mesa. Kroz njih se mast topi i izlazi, a so i paprika uđu dublje. Senf s malo ulja drži začin na mjestu tokom dugog pečenja."
+        },
+        {
+          "level": "h2",
+          "title": "Tri sata na 150 °C",
+          "body": "Na niskoj temperaturi masnoća se topi sporo, a vezivno tkivo između mesa i rebara omekša. Meso se peče u vlastitoj masti i ostaje sočno. Na jačoj rerni bi se vlakna stegla, a mast bi na limu pocrnjela.\n\nPrva tri sata temperatura se ne diže, ni kad je meso blijedo. Tako i treba da izgleda. Boju dobije tek na kraju."
+        },
+        {
+          "level": "h2",
+          "title": "Krompir ide u mast s lima",
+          "body": "Krompir se prvo kuha deset minuta, pa ide u lim, u mast koja se skupila ispod mesa. Kuhan je upije i za dvadeset minuta na jakoj rerni dobije koricu. Sirov bi za to vrijeme ostao tvrd.\n\nMeso se vraća preko krompira, pa mast koja kaplje s njega ide pravo u krompir.\n\nPrije rezanja neka odstoji deset minuta. Sok se vrati u meso, a koža ostane fino hrskava."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Carsko meso iz rerne s hrskavom kožom i krompirom",
+        "description": "Carsko meso iz rerne: tri sata na 150 °C za mekano meso, pa 20 minuta na 220 °C za hrskavu kožu, s krompirom pečenim u masnoći. Recept korak po korak."
+      },
+      "family": "Svinjetina iz rerne",
+      "sourceNote": "Prepis SNK-NR-023 (pokriva SNK-0492). nasirecepti.com, stari post ID 421: https://nasirecepti.com/carsko-meso-iz-pecnice/ (WP izvoz 2026-11-14). Preuzeto: 1,3 kg carskog mesa, sol, 1 žlica senfa, ½ žličice mljevene crvene paprike, 100 ml suncokretovog ulja, 1 kg krumpira; osušiti meso, zarezati kožu na kockice, posoliti, paprika, senf s malo ulja; lim, ostatak ulja, 150 °C oko 3 sata; krumpir na ploške 10 min u posoljenoj vodi; meso izvaditi, 220 °C, krumpir u masnoću, meso preko; još oko 20 min; odmor 10 min; 15 min pripreme, 210 min pečenja, 6 porcija. Pranje mesa izostavljeno (sigurnost hrane, kao kod piletine). Dodano: kožom prema gore. Ukupno vrijeme 235 min (prijelaz s 150 na 220 °C uračunat)."
+    },
+    {
+      "planId": "SNK-NR-024",
+      "slug": "mesni-ustipci-sa-sirom",
+      "title": "Mesni uštipci sa sirom",
+      "alternativeNames": [
+        "uštipci od mljevenog mesa",
+        "mesni uštipci",
+        "punjeni uštipci sa sirom",
+        "uštipci sa sirom od mesa"
+      ],
+      "summary": "Mesni uštipci sa sirom od junetine i svinjetine, s lukom, paprikom i kockicama gaude, prženi u tavi i posluženi u lepinji. Smjesa pola sata odmori u frižideru, pa uštipci drže oblik, a sir ostane unutra.",
+      "primaryCategory": "jela-s-mesom",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "mljeveno-meso",
+        "svinjetina",
+        "govedina",
+        "sir",
+        "paprika"
+      ],
+      "diets": [],
+      "methods": [
+        "przenje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "cookMinutes": 20,
+        "restMinutes": 30,
+        "restLabel": "hlađenja",
+        "totalMinutes": 65
+      },
+      "equipment": {
+        "other": "veća tava"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "mljeveno-meso",
+              "amount": 850,
+              "unit": "g",
+              "label": "miješanog mljevenog mesa",
+              "note": "pola junetine, pola svinjetine"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 2,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "paprika",
+              "amount": 0.5,
+              "unit": "bez",
+              "label": "crvene paprike babure",
+              "note": "sitno sjeckane"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "soli"
+            },
+            {
+              "ingredient": "biber",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "bibera"
+            },
+            {
+              "ingredient": "prasak-za-pecivo",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "praška za pecivo"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 1,
+              "unit": "bez",
+              "label": "jaje"
+            },
+            {
+              "ingredient": "gauda",
+              "amount": 200,
+              "unit": "g",
+              "label": "gaude",
+              "note": "ili drugog sira koji se topi, na sitne kockice"
+            },
+            {
+              "ingredient": "ulje",
+              "unit": "po-potrebi",
+              "label": "suncokretovog ulja",
+              "note": "za prženje"
+            }
+          ]
+        },
+        {
+          "title": "Za posluživanje",
+          "items": [
+            {
+              "ingredient": "lepinja",
+              "amount": 4,
+              "unit": "bez",
+              "label": "lepinje",
+              "optional": true
+            },
+            {
+              "ingredient": "kajmak",
+              "unit": "po-ukusu",
+              "label": "kajmak",
+              "optional": true
+            },
+            {
+              "ingredient": "ajvar",
+              "unit": "po-ukusu",
+              "label": "ajvar",
+              "optional": true
+            },
+            {
+              "ingredient": "crni-luk",
+              "unit": "po-ukusu",
+              "label": "crni luk",
+              "note": "sitno sjeckan",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "U većoj posudi pomiješajte meso, luk, bijeli luk i papriku."
+            },
+            {
+              "text": "Jaje razmutite i dodajte ga u meso, zajedno sa soli, biberom i praškom za pecivo, pa smjesu dobro izmiješajte rukom."
+            },
+            {
+              "text": "Umiješajte kockice sira."
+            },
+            {
+              "text": "Posudu pokrijte i stavite smjesu u frižider na najmanje 30 minuta.",
+              "timerMinutes": 30
+            },
+            {
+              "text": "Ruke malo nauljite i od smjese pravite kuglice veličine kajsije, pa ih lagano spljoštite."
+            },
+            {
+              "text": "U tavi zagrijte ulje, oko 1 cm visine, na srednje jakoj vatri."
+            },
+            {
+              "text": "Pržite uštipke u turama, okrećući ih jednom, 4–5 minuta po strani, dok ne porumene, a u sredini ne pokažu 71 °C.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Gotove uštipke ocijedite na kuhinjskom papiru."
+            },
+            {
+              "text": "Lepinje prerežite i kratko ih zagrijte u tavi ili na roštilju."
+            },
+            {
+              "text": "Uštipke poslužite u lepinji, s kajmakom, ajvarom ili sjeckanim lukom."
+            }
+          ]
+        }
+      ],
+      "approach": "tradicionalni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Uštipci su u Bosni prije svega prženo tijesto, ono koje se jede sa sirom ili medom. Mesni uštipci su drugo jelo i bliži su pljeskavici nego tim uštipcima: od mljevenog mesa, s lukom i paprikom, oblikovani u male spljoštene okruglice i prženi u tavi. Ovi imaju i kockice sira u smjesi, koje se tokom prženja otope u sitne džepove."
+        },
+        {
+          "level": "h2",
+          "title": "Pola sata u frižideru, pa u tavu",
+          "body": "Smjesa s jajetom i sirom je mekana i ljepljiva dok je topla od ruku. Pola sata u frižideru je stegne, pa se uštipci lako oblikuju i u tavi ne izgube oblik. Ako se taj korak preskoči, rubovi se raspadaju, a kockice sira izađu na površinu i iscure u ulje prije nego što se meso ispeče.\n\nRuke se pri oblikovanju malo nauljuju. Smjesa se onda ne lijepi za dlanove, a površina uštipka ostane glatka i bez pukotina kroz koje bi sir izlazio. Mi bismo ostali kod veličine kajsije, jer veći uštipci teško budu pečeni u sredini prije nego što izgore spolja."
+        },
+        {
+          "level": "h2",
+          "title": "Šta ide u smjesu",
+          "body": "Mljeveno meso je pola juneće, pola svinjsko. Svinjetina daje masnoću i sočnost, a junetina okus i čvršću strukturu, pa se ta mješavina često uzima za jela od mljevenog mesa. Samo od junetine uštipci bi bili suhi i zbijeni.\n\nKašičica praška za pecivo čini ih rahlijim i malo naduvanim. Sir se reže na kockice, a ne rende: rendan bi se otopio u meso i nestao, a kockice ostanu kao mali džepovi. Za to odgovara gauda ili sličan sir koji se lijepo topi.\n\nPržite ih u turama, s razmakom u tavi. Kad ih je previše odjednom, ulje se ohladi, pa uštipci upiju masnoću umjesto da dobiju koricu."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "fasirane-snicle",
+        "cufte-u-sosu"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Mesni uštipci sa sirom od junetine i svinjetine",
+        "description": "Mesni uštipci sa sirom od junetine i svinjetine, s kockicama gaude koje se otope u prženju. Zašto smjesa ide u frižider i kako ih ispeći. Recept korak po korak."
+      },
+      "family": "Jela od mljevenog mesa",
+      "sourceNote": "Prepis SNK-NR-024 (pokriva SNK-0502). nasirecepti.com, stari post ID 412: https://nasirecepti.com/mesni-ustipci-sa-sirom/ (WP izvoz 2026-11-14). Preuzeto: 850 g miješanog mljevenog mesa (svinjetina i junetina 50 : 50), 1 glavica kapule (→ crni luk), 2 režnja češnjaka, ½ crvene paprike babure, 1 žličica soli, ½ žličice papra, 1 žličica praška za pecivo, 1 jaje, 200 g „topljenog sira (Gauda ili po želji)“, suncokretovo ulje za prženje; sir na kockice; frižider najmanje 30 min; nauljenim rukama kuglice veličine marelice (→ kajsije), spljoštiti; pržiti u zagrijanom ulju nekoliko minuta sa svake strane; lepinje prerezati i zagrijati; posluživanje uz salatu, luk, kajmak ili ajvar; 4 porcije. Nejasno u izvoru: „topljeni sir (Gauda)“ — upisana gauda ili drugi sir koji se topi. Odluka urednika 2026-11-15: uobičajene mjere — ulje oko 1 cm, srednje jaka vatra, 4–5 min sa svake strane, 71 °C u sredini (mljeveno meso), cijeđenje na papiru; lepinje, kajmak i ajvar dodani kao opcionalni sastojci za posluživanje (u izvoru samo u koracima). Vremena: 15 min pripreme + 30 min hlađenja + 20 min prženja = 65 min (izvor: 40 + 20)."
+    },
+    {
+      "planId": "SNK-NR-025",
+      "slug": "punjeni-patlidzan",
+      "title": "Punjeni patlidžan s mljevenim mesom",
+      "alternativeNames": [
+        "punjeni patlidžan s mljevenim mesom",
+        "patlidžan punjen mesom",
+        "punjeni patlidžani iz rerne"
+      ],
+      "summary": "Punjeni patlidžan s mljevenim mesom, paradajzom i sirom, iz rerne. Izdubljena sredina patlidžana ide u nadjev, pa je malo mesa dovoljno za četvero, a polovice se peku dok kora ne omekša.",
+      "primaryCategory": "jela-s-mesom",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "patlidzan",
+        "mljeveno-meso",
+        "paradajz",
+        "sir"
+      ],
+      "diets": [
+        "bez-jaja"
+      ],
+      "methods": [
+        "pecenje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 20,
+        "cookMinutes": 70,
+        "totalMinutes": 90
+      },
+      "equipment": {
+        "temperature": 200,
+        "ovenMode": "gornji-donji",
+        "other": "veća tava, lim ili vatrostalna posuda"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "patlidzan",
+              "amount": 4,
+              "unit": "bez",
+              "label": "patlidžana"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 2,
+              "unit": "glavica",
+              "label": "manje glavice crnog luka",
+              "note": "sitno sjeckane"
+            },
+            {
+              "ingredient": "mljeveno-meso",
+              "amount": 350,
+              "unit": "g",
+              "label": "miješanog mljevenog mesa",
+              "note": "junetina i svinjetina"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            },
+            {
+              "ingredient": "paradajz",
+              "amount": 3,
+              "unit": "bez",
+              "label": "manja paradajza",
+              "note": "sitno sjeckana"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 2,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "aleve paprike"
+            },
+            {
+              "ingredient": "persun",
+              "unit": "po-ukusu",
+              "label": "svježeg peršuna",
+              "note": "sjeckanog"
+            },
+            {
+              "ingredient": "tvrdi-sir",
+              "amount": 100,
+              "unit": "g",
+              "label": "tvrdog sira",
+              "note": "naribanog"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Patlidžane prerežite po dužini."
+            },
+            {
+              "text": "Nožem zarežite oko ruba, oko 1 cm od kore, pa kašikom izdubite sredinu."
+            },
+            {
+              "text": "Ono što ste izvadili isijecite na kockice i ostavite sa strane."
+            },
+            {
+              "text": "Polovice iznutra posolite i ostavite ih 20 minuta.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Na maslinovom ulju pirjajte luk dok ne omekša, oko 5 minuta.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Dodajte meso i pržite ga oko 20 minuta, dok tečnost ne ispari, pa ga posolite i pobiberite.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Uključite rernu na 200 °C."
+            },
+            {
+              "text": "U meso umiješajte paradajz, bijeli luk, alevu papriku, peršun i kockice patlidžana."
+            },
+            {
+              "text": "Kuhajte 5–6 minuta, dok kockice ne omekšaju i tečnost ne ispari.",
+              "timerMinutes": 6
+            },
+            {
+              "text": "Polovice obrišite kuhinjskim papirom i složite ih u lim."
+            },
+            {
+              "text": "Napunite ih nadjevom."
+            },
+            {
+              "text": "Pecite 30 minuta.",
+              "timerMinutes": 30
+            },
+            {
+              "text": "Pospite sirom i pecite još oko 10 minuta, dok se sir ne otopi, a kora ne omekša.",
+              "timerMinutes": 10
+            }
+          ]
+        }
+      ],
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Sredina patlidžana se ovdje ne baca. Izdubi se, isiječe na kockice i ide u nadjev s mesom. Zato je 350 grama mljevenog mesa dosta za četiri patlidžana i četiri tanjira. Meso daje okus, a patlidžan količinu."
+        },
+        {
+          "level": "h2",
+          "title": "Koliko ostaviti uz koru?",
+          "body": "Uz koru ostavite oko centimetar mesa. Tanji zid se u rerni sruši i nadjev iscuri. Deblji ostane tvrd, a nadjeva stane malo.\n\nNajlakše ide kad prvo nožem zarežete oko ruba. Kašika onda vadi sredinu i ne dira zid."
+        },
+        {
+          "level": "h2",
+          "title": "Posoljene polovice puste vodu",
+          "body": "Današnji patlidžan rijetko je gorak, pa so ovdje radi drugi posao. Izvuče vodu iz mesa patlidžana. Bez toga bi ta voda u rerni otišla u nadjev, i on bi bio rijedak. Zato se polovice prije punjenja obrišu."
+        },
+        {
+          "level": "h2",
+          "title": "Nadjev neka bude suh",
+          "body": "Meso pržite dok sav sok ne ispari. Tek onda idu paradajz i kockice patlidžana. Kockicama treba pet-šest minuta da omekšaju i puste svoju vodu, a i ona treba da ispari. Nadjev je gotov kad se na dnu tave više ne skuplja tečnost."
+        },
+        {
+          "level": "h2",
+          "title": "Sir tek za zadnjih deset minuta",
+          "body": "Polovice se prvo peku pola sata samo s nadjevom. Toliko treba da kora omekša. Sir bi za to vrijeme izgorio, pa ide tek poslije.\n\nGotovo je kad viljuška bez otpora prođe kroz koru."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "musaka-od-patlidzana",
+        "punjene-paprike"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Punjeni patlidžan s mljevenim mesom i sirom iz rerne",
+        "description": "Punjeni patlidžan s mljevenim mesom, paradajzom i sirom: sredina patlidžana ide u nadjev, a polovice se peku dok kora ne omekša. Recept korak po korak."
+      },
+      "family": "Punjeno povrće",
+      "sourceNote": "Prepis SNK-NR-025 (pokriva SNK-0524). nasirecepti.com, stari post ID 415: https://nasirecepti.com/punjeni-patlidzan-sa-mljevenim-mesom/ (WP izvoz 2026-11-14). Preuzeto: 4 patlidžana, 350 g miješanog mljevenog mesa, 2 manje glavice luka, 2 režnja češnjaka, 3 manje rajčice, 2 žlice maslinovog ulja, 1 žlica mljevene crvene paprike, sol, papar, svježi peršun, 100 g ribanog sira; luk pa meso oko 20 min dok tečnost ne ispari; rajčica, češnjak, paprika, peršun, kratko kuhati; patlidžane prerezati po dužini, izdubiti, posoliti, izdubljeni dio na kockice u nadjev; napuniti; 200 °C oko 20 min, sir pred kraj; 4 porcije. Redoslijed promijenjen: patlidžan se priprema prije nadjeva, jer njegova sredina ide u nadjev. Odluka urednika 2026-11-15: uobičajene mjere — „oko 20 min na 200 °C“ za sirove polovice je premalo → 30 min + 10 min sa sirom; zid oko 1 cm; soljenje 20 min pa brisanje; kockice patlidžana 5–6 min u nadjevu. Vrsta mesa u miješanom mljevenom nije navedena — upisano junetina i svinjetina."
+    }
+  ]
+}

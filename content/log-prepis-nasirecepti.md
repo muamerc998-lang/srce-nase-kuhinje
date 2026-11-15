@@ -27,8 +27,8 @@ Upoređeno s 54 recepta na srcenasekuhinje (baza = `content/recepti/serija-*.jso
 
 | Stari ID | Stari naslov | Napomena |
 |---|---|---|
-| | Slavonska hladetina | **obrisano iz XML-a 2026-11-15** (bez svinjetine postaje drugo jelo; odluka urednika) |
-| | Čobanac | |
+| 121 | Slavonska hladetina | **urađeno → SNK-NR-022** (vraćeno u XML 2026-11-15) |
+| 124 | Čobanac | **urađeno → SNK-NR-020** |
 | | Buzara od dagnji | **urađeno → SNK-NR-004** |
 | | Ravioli sa sirom | **urađeno → SNK-NR-008** |
 | | Piletina u umaku od vrhnja i senfa | **urađeno → SNK-NR-009** |
@@ -36,12 +36,12 @@ Upoređeno s 54 recepta na srcenasekuhinje (baza = `content/recepti/serija-*.jso
 | 236 | Faširane šnicle u umaku od gljiva | **urađeno → SNK-NR-005**; nije duplikat `cufte-u-sosu` (druge šnicle, drugi sos) |
 | 358 | Ludo tijesto | **urađeno → SNK-NR-019** (uobičajene mjere: 360 g jogurta, frižider 4 h–3 dana) |
 | 362 | Musaka od patlidžana s bešamelom | **urađeno → SNK-NR-014**; drugo jelo od `musaka` (s krompirom) |
-| | Musaka od kelja | u naslovu obavezno „od kelja“ |
+| 366 | Musaka od kelja | **urađeno → SNK-NR-021** |
 | 372 | Rižoto s piletinom | **urađeno → SNK-NR-018** (800 ml temeljca, 40–45 min; piletina se vraća na kraju) |
-| | Mesni uštipci sa sirom | |
-| | Punjeni patlidžan s mljevenim mesom | |
+| 412 | Mesni uštipci sa sirom | **urađeno → SNK-NR-024** |
+| 415 | Punjeni patlidžan s mljevenim mesom | **urađeno → SNK-NR-025** |
 | 418 | Piletina s rižom iz pećnice | **urađeno → SNK-NR-017** (750 ml temeljca, 45 min pod folijom + 15 min bez) |
-| | Carsko meso iz pećnice | **obrisano iz XML-a 2026-11-15** (bez svinjetine postaje drugo jelo; odluka urednika) |
+| 421 | Carsko meso iz pećnice | **urađeno → SNK-NR-023** (vraćeno u XML 2026-11-15) |
 | | Pileći paprikaš | **urađeno → SNK-NR-013** |
 | 493 | Otkošteni pileći bataci | **urađeno → SNK-NR-015** (bez pršuta) |
 | | Pileća prsa iz pećnice | **urađeno → SNK-NR-011** |
@@ -80,6 +80,12 @@ Stari ID-ovi koji nedostaju upisuju se kod izvlačenja recepta.
 | 17 | SNK-NR-017 | 418 | piletina-s-rizom-iz-rerne | Emir Delić | prakticni | situacija (rerna radi sama) | vrijeme i tempo (folija pa bez folije) | uklopljeno | praktičan savjet | sintagma · zapovijed · sintagma · tvrdnja | 3 | ne | ne | fino | relatedRecipes pecena-piletina-s-krompirom, pileci-bataci-iz-rerne | nacrt, NEDOSTAJE slika | Ako je riža i dalje tvrda, a tečnosti više nema, dolijte oko 100 ml vrućeg temeljca i vratite foliju na desetak minuta. | 0 |
 | 18 | SNK-NR-018 | 372 | rizoto-s-piletinom | Uredništvo | tehnika | sastojak (integralno zrno) | izbor sastojaka (integralno zrno) | tekuća proza | praktičan savjet (vrsta integralne riže) | tvrdnja · tvrdnja | 2 | ne | ne | — | relatedRecipes rizoto-s-gljivama, rizoto-s-povrcem | nacrt, NEDOSTAJE slika; zakazivati u sedmici bez drugog rižota | Ako kupujete integralnu rižu koju ranije niste kuhali, pogledajte uputu na kesi: ima i djelimično skuhane riže, koja je gotova za dvadesetak minuta i traži manje temeljca. | 0 |
 | 19 | SNK-NR-019 | 358 | ludo-tijesto | Emir Delić | detaljni | sastojak (kvasac + prašak + jogurt) | unaprijed, čuvanje | pitanje-odgovor (u sekciji) | varijacija (slatka verzija) | tvrdnja · pitanje · sintagma | 3 | navika („Kod mene jedna tura pokrije…“) | da — 1–2 rečenice (ime „ludo“, a najmirnije tijesto) | polahko | relatedRecipes domace-mekane-kifle, buhtle | nacrt, NEDOSTAJE slika | Za buhtle i slatke rolice zamijesite slatku verziju, a fil od pekmeza ili oraha stavite tek kad razvaljate odsječeni komad. | 1 |
+| 20 | SNK-NR-020 | 124 | slavonski-cobanac | Uredništvo | tradicionalni | porijeklo / tradicija (čobani, kotlić) | vrijeme i tempo (meso u tri navrata) | tekuća proza | unaprijed (sutradan bolji) | sintagma · sintagma · zapovijed · sintagma | 4 | ne | ne | — | relatedRecipes govedji-gulas | nacrt, NEDOSTAJE slika | Čobanac je sutradan još bolji, kad meso preko noći upije začine, pa se isplati skuhati ga dan ranije. | 0 |
+| 21 | SNK-NR-021 | 366 | musaka-od-kelja | Emir Delić | prakticni | situacija (zima, jeftin kelj) | tehnika (kratko kuhati, ocijediti) | uklopljeno | praktičan savjet (ne rezati odmah) | zapovijed · zapovijed | 2 | stav u 1. licu („pa je ja ne preskačem“ — slanina) | ne | taman | relatedRecipes musaka, musaka-od-patlidzana | nacrt, NEDOSTAJE slika | Prerežete li je odmah po vađenju iz rerne, listovi kliznu jedan s drugog i komad se raspadne na tanjiru. | 0 |
+| 22 | SNK-NR-022 | 121 | slavonska-hladetina | Uredništvo | detaljni | ukus, miris ili izgled (bistra, zadrhti) | izbor sastojaka (dijelovi s kolagenom) | H3 pod-naslovi (od lonca do posude) | uz šta ide (hren, bijeli luk, paprika) | sintagma · sintagma · sintagma · pitanje · sintagma | 5 (+3 H3) | ne | ne | — | nema | nacrt, NEDOSTAJE slika | Masnoj i blagoj želatini treba nešto oštro, pa se pospe naribanim hrenom, sitno sjeckanim bijelim lukom ili prstohvatom aleve paprike, a ko voli, prelije je i kapima sirćeta. | 1 |
+| 23 | SNK-NR-023 | 421 | carsko-meso-iz-rerne | Emir Delić | tehnika | česta greška (jaka rerna od početka) | vrijeme i tempo (150 °C pa 220 °C) | tekuća proza | kratka rečenica | tvrdnja · sintagma · tvrdnja | 3 | ne | ne | fino | nema | nacrt, NEDOSTAJE slika | Sok se vrati u meso, a koža ostane fino hrskava. | 0 |
+| 24 | SNK-NR-024 | 412 | mesni-ustipci-sa-sirom | Uredništvo | tradicionalni | poređenje / naziv (uštipci od tijesta i mesni) | tehnika (hlađenje smjese, kockice sira) | uklopljeno | praktičan savjet (prženje u turama) | zapovijed · sintagma | 2 | ne | ne | — | relatedRecipes fasirane-snicle, cufte-u-sosu | nacrt, NEDOSTAJE slika | Kad ih je previše odjednom, ulje se ohladi, pa uštipci upiju masnoću umjesto da dobiju koricu. | 0 |
+| 25 | SNK-NR-025 | 415 | punjeni-patlidzan | Emir Delić | prakticni | sastojak (sredina ide u nadjev) | izbor sastojaka (patlidžan, zid, so) | pitanje-odgovor (naslov-pitanje) | kratka rečenica (znak gotovosti) | pitanje · tvrdnja · zapovijed · sintagma | 4 | ne | ne | — | relatedRecipes musaka-od-patlidzana, punjene-paprike | nacrt, NEDOSTAJE slika | Gotovo je kad viljuška bez otpora prođe kroz koru. | 1 |
 
 ## Briefovi
 
@@ -184,7 +190,7 @@ Odluka urednika: četiri recepta s nepotpunim ili sumnjivim podacima pisati po u
 
 ### Brisanje iz XML-a 2026-11-15 (odluka urednika)
 
-Obrisani postovi i njihove slike: slavonska hladetina, carsko meso iz pećnice (bez svinjetine to su druga jela), grah s mesom (preklapa se sa SNK-0337), špageti bolognese (SNK-0461 / SNK-0301). Kopija XML-a prije brisanja je u scratchpadu sesije.
+Obrisani postovi i njihove slike: slavonska hladetina i carsko meso iz pećnice (greška: brisanje je počivalo na pretpostavci da je sajt bez svinjetine, a to pravilo nikad nije postojalo — oba vraćena u XML iz kopije istog dana), grah s mesom (preklapa se sa SNK-0337), špageti bolognese (SNK-0461 / SNK-0301). Kopija XML-a prije brisanja je u scratchpadu sesije.
 
 Ostalo u XML-u za prepis (čeka odluku o svinjetini / mljevenom mesu): čobanac, musaka od kelja, mesni uštipci sa sirom, punjeni patlidžan s mljevenim mesom; gulaš 808 na čekanju.
 
@@ -195,3 +201,16 @@ Dodane mjere prihvaćene; pravilo o dopuni standardnom vrijednošću upisano u P
 - #17: izbačena sekcija „Bataci i zabataci, s kožom“ (izbor dijela piletine 4. put kod Emira) i budžetna rečenica (kao u #1 i #3); ostala jedna rečenica o masti i soku bataka u sekciji o zapečenoj koži. Ugao: riža (posuda, folija, vruć temeljac).
 - #18: uvod bez poređenja s klasičnim rižotom (kao #2); kraj o ostacima zamijenjen savjetom o djelimično skuhanoj integralnoj riži (ostaci već u #2 i #13).
 - Nove granice u §6 i u `provjera-tekstova.py`: kraj o ostacima/podgrijavanju 1 u 5, H2 „… se …, ne …“ 1 u 10; čitanjem: dio piletine više nije ugao, Emirova budžetna leća ne istim riječima.
+
+### 20–25 — svinjetina i briefovi (2026-11-15)
+
+Odluka urednika: sajt nema ograničenje za svinjetinu („radi i sa svinjetinom“). Ranije napisano „čeka odluku o svinjetini“ i „bez svinjetine postaje drugo jelo; odluka urednika“ bila je pretpostavka, ne pravilo. Hladetina i carsko meso vraćeni u XML iz kopije prije brisanja (scratchpad). Pravilo upisano u PREPIS-NASIRECEPTI.md §1. NR-015 (rolice od zabataka) ostaje bez pršuta dok urednik ne kaže drugačije.
+
+- **20 čobanac (Uredništvo, tradicionalni).** Ugao: meso u tri navrata i voda samo jednom; gustina od luka, bez brašna. Mišljenje: bez divljači više junetine. Kraj „sutradan bolji“ (nije kraj o podgrijavanju).
+- **21 musaka od kelja (Emir, prakticni).** Ugao: voda iz kelja — kratko kuhati i ocijediti. Mišljenje + stav u 1. licu: slanina ostaje. Leća: jedna glavica i četvrt kile mesa (nove riječi, ne „jeftiniji, pa…“).
+- **22 hladetina (Uredništvo, detaljni).** Ugao: kolagen iz nogica, kože i glave; tiho kuhanje i malo vode. H3 samo ovdje (prozor 18–22). Pitanje u naslovu: „Zašto se hladetina nije stegla?“. Kalorije isključene (NUTRITION_EXCLUDED).
+- **23 carsko meso (Emir, tehnika).** Ugao: dvije temperature. Bez stava u 1. licu (#21 već stav). Pranje mesa izostavljeno.
+- **24 mesni uštipci (Uredništvo, tradicionalni).** Ugao: naziv (u Bosni uštipci su tijesto) i šta drži uštipak zajedno. 71 °C za mljeveno meso (uobičajena mjera).
+- **25 punjeni patlidžan (Emir, prakticni).** Ugao: sredina u nadjev, zid od 1 cm. Pečenje 20 min → 30 + 10 (uobičajena mjera). Pitanje u naslovu (prozor 21–25: #22, #25).
+- Pristupi na 25: prakticni 6, tehnika 6, brzi 4, tradicionalni 5, detaljni 4 (najviše 24 %).
+- Provjera: `provjera-tekstova.py` nad serijama 01–05 — „Sve u redu“ (prepravljeni koraci s 5-gramima iz starih postova i dva 6-grama).

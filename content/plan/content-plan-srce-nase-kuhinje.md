@@ -9623,6 +9623,7 @@ https://tvojrecept.com/recepti/uskrsnji-cupcakes-sa-kremom-od-vanilije
 ### SNK-0492 — Carsko meso iz rerne
 
 - **ID:** SNK-0492
+- **Pokriveno prepisom:** SNK-NR-023 (`carsko-meso-iz-rerne`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Carsko meso iz rerne
 - **Glavna ključna riječ:** carsko meso iz rerne
 - **Dodatne ključne riječi:** carsko meso iz pećnice
@@ -9662,6 +9663,7 @@ https://nasirecepti.com/cikla-za-zimnicu/
 ### SNK-0494 — Slavonski čobanac
 
 - **ID:** SNK-0494
+- **Pokriveno prepisom:** SNK-NR-020 (`slavonski-cobanac`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Slavonski čobanac
 - **Glavna ključna riječ:** čobanac
 - **Vanjski izvor recepture:** https://nasirecepti.com/cobanac/
@@ -9791,6 +9793,7 @@ https://tvojrecept.com/recepti/ustipci-s-medom
 ### SNK-0502 — Mesni uštipci sa sirom
 
 - **ID:** SNK-0502
+- **Pokriveno prepisom:** SNK-NR-024 (`mesni-ustipci-sa-sirom`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Mesni uštipci sa sirom
 - **Glavna ključna riječ:** mesni uštipci sa sirom
 - **Vanjski izvor recepture:** https://nasirecepti.com/mesni-ustipci-sa-sirom/
@@ -9836,6 +9839,7 @@ https://tvojrecept.com/recepti/ustipci-s-medom
 ### SNK-0505 — Musaka od kelja s mljevenim mesom
 
 - **ID:** SNK-0505
+- **Pokriveno prepisom:** SNK-NR-021 (`musaka-od-kelja`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Musaka od kelja s mljevenim mesom
 - **Glavna ključna riječ:** musaka od kelja
 - **Vanjski izvor recepture:** https://nasirecepti.com/musaka-od-kelja/
@@ -10165,6 +10169,7 @@ https://korisni.com/rucak/piletina-s-curryjem-i-rizom
 ### SNK-0524 — Punjeni patlidžan s mljevenim mesom
 
 - **ID:** SNK-0524
+- **Pokriveno prepisom:** SNK-NR-025 (`punjeni-patlidzan`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Punjeni patlidžan s mljevenim mesom
 - **Glavna ključna riječ:** punjeni patlidžan
 - **Vanjski izvor recepture:** https://nasirecepti.com/punjeni-patlidzan-sa-mljevenim-mesom/
@@ -10197,6 +10202,7 @@ https://korisni.com/rucak/piletina-s-curryjem-i-rizom
 ### SNK-0526 — Slavonska hladetina
 
 - **ID:** SNK-0526
+- **Pokriveno prepisom:** SNK-NR-022 (`slavonska-hladetina`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Slavonska hladetina
 - **Glavna ključna riječ:** hladetina
 - **Vanjski izvor recepture:** https://nasirecepti.com/recept-slavonska-hladetina/
@@ -13611,3 +13617,9 @@ Recepti preuzeti s nasirecepti.com i napisani ispočetka po `content/PREPIS-NASI
 | SNK-NR-017 | Piletina s rižom iz rerne (pokriva SNK-0519) | piletina-s-rizom-iz-rerne | nasirecepti ID 418 | nacrt |
 | SNK-NR-018 | Rižoto s piletinom i integralnom rižom (pokriva SNK-0435) | rizoto-s-piletinom | nasirecepti ID 372 | nacrt |
 | SNK-NR-019 | Ludo tijesto iz frižidera (pokriva SNK-0501) | ludo-tijesto | nasirecepti ID 358 | nacrt |
+| SNK-NR-020 | Slavonski čobanac s tri vrste mesa (pokriva SNK-0494) | slavonski-cobanac | nasirecepti ID 124 | nacrt |
+| SNK-NR-021 | Musaka od kelja s mljevenim mesom (pokriva SNK-0505) | musaka-od-kelja | nasirecepti ID 366 | nacrt |
+| SNK-NR-022 | Slavonska hladetina od svinjskih nogica (pokriva SNK-0526) | slavonska-hladetina | nasirecepti ID 121 | nacrt |
+| SNK-NR-023 | Carsko meso iz rerne s krompirom (pokriva SNK-0492) | carsko-meso-iz-rerne | nasirecepti ID 421 | nacrt |
+| SNK-NR-024 | Mesni uštipci sa sirom (pokriva SNK-0502) | mesni-ustipci-sa-sirom | nasirecepti ID 412 | nacrt |
+| SNK-NR-025 | Punjeni patlidžan s mljevenim mesom (pokriva SNK-0524) | punjeni-patlidzan | nasirecepti ID 415 | nacrt |
