@@ -236,3 +236,9 @@ Zakazano (cron 6:00):
 - 17. 11.: curry, carsko meso, hladetina, punjeni patlidžan, mesni uštipci — 5.
 - 18. 11.: piletina s rižom, musaka od kelja (druga sedmica od musake od patlidžana 15. 11.).
 - 23. 11.: rižoto s piletinom — rižota idu sedmično: gljive 14. 11., piletina 23. 11., povrće 30. 11., kozice 7. 12.
+
+### Novi raspored 2026-11-15 (odluka urednika: jedno prepisano jelo dnevno)
+
+Ostale kategorije (predjela, salate, prilozi…) dopunjavaju se uz ovo, po 2–3 dnevno, kad budu obrađene. Gornji raspored (5 dnevno) je zamijenjen ovim:
+
+16. 11. punjena pileća prsa · 17. 11. čobanac · 18. 11. ludo tijesto · 19. 11. pileći paprikaš · 20. 11. carsko meso · 21. 11. piletina u curry sosu · 22. 11. hladetina · 23. 11. rižoto s piletinom · 24. 11. mesni uštipci · 25. 11. otkošteni zabataci · 26. 11. musaka od kelja · 27. 11. piletina s rižom · 28. 11. punjeni patlidžan · 30. 11. rižoto s povrćem · 7. 12. rižoto s kozicama. Slobodno: 29. 11. i 1.–6. 12.
