@@ -161,3 +161,9 @@ Provjere (scratchpad provjera.py): 0 hrvatskih riječi, 0 rečenica iz starih po
 - #14 musaka od patlidžana — scena G (iz rerne) — musaka-od-patlidzana-s-besamelom
 - #15 otkošteni zabataci — scena F (krupni kadar) — punjene-rolice-od-pilecih-zabataka-sa-sirom
 - #7 punjena pileća prsa — scena E (porodični sto) — pileca-prsa-punjena-spinatom-rikotom-i-mocarelom
+
+### Objava 2026-11-15/16
+
+- 15. 11.: objavljena musaka od patlidžana (5. objava tog dana).
+- 16. 11. (cron u 6:00): zakazani punjena pileća prsa, pileći paprikaš, otkošteni zabataci.
+- Rižota ostaju: povrće 30. 11., kozice 7. 12.
