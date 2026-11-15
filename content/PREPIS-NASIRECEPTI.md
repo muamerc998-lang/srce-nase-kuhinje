@@ -24,6 +24,7 @@ Ulaz je XML izvoz iz WordPressa (npr. `nasirecepti.WordPress.2026-11-14.xml`, ka
 - **Nema američkih mjera:** šolje (cup), unce (oz), funte (lb), štapići maslaca, °F. Sve u g, ml, kom, kašike/kašičice, °C. Ako je pretvaranje nesigurno, zapisati `NEDOSTAJE: provjera mjere – …` i ne nagađati.
 - **Nema stranih brendova ni proizvoda kojih kod nas nema:** umjesto naziva brenda ide naša, opšta namirnica (npr. "kisela pavlaka", "krem sir", "pileći temeljac"). Proizvodi koji se kod nas teško nalaze (npr. "half-and-half", "heavy cream", "cake flour", "kosher salt") prevode se u ono što se kod nas kupuje.
 - **Očite greške u receptu** (npr. 3 kg soli, vrijeme koje se ne slaže između teksta i koraka) ne popravljati nagađanjem: zapisati `NEDOSTAJE: …` i javiti u izvještaju.
+- **Očito neizvodljiv recept** (premalo tečnosti, prekratko vrijeme, fali korak) smije se dopuniti **standardnom vrijednošću** za takvo jelo (odluka urednika 2026-11-15). Svaka takva dopuna mora biti u izvještaju (tabela „Mjere koje sam dodao“: šta je falilo ili bilo sumnjivo → šta je upisano) i u `sourceNote` recepta. Ako nije jasno šta je standard, i dalje ide `NEDOSTAJE` i recept ne ide dalje.
 
 **Koraci nisu ograničeni na 5.** Na nasirecepti je šablon dozvoljavao najviše 5 koraka (step_1…step_5), pa su stari koraci često zbijeni (više radnji u jednom). Kod nas koraka ima koliko recept stvarno traži: jedna radnja po koraku (PRAVILA-PISANJA.md §4), pa zbijeni korak može postati dva ili tri. Ne forsira se ni veći ni manji broj — ne dijeliti radnje umjetno i ne dodavati korake koji ništa ne govore. Dodatno objašnjenje uz korak (znak da je gotovo, temperatura, trajanje) ide u korak; "zašto" ide u članak.
 
@@ -98,9 +99,16 @@ Pokreće se: `python -I scripts/provjera-tekstova.py content/recepti/nasirecepti
 - „radni dan“: najviše 1 u 5;
 - ulaz „problem + skoro uvijek / najčešće / gotovo uvijek“: najviše 1 u 5;
 - sekcija razbijena na H3 podnaslove: najviše 1 u 5;
+- kraj teksta o ostacima i podgrijavanju („ostatak se drži u frižideru…“, „pri podgrijavanju dolijte…“): najviše 1 u 5;
+- H2 u obliku „X se Y, ne Z“ („Luk se riba, ne sjecka“): najviše 1 u 10;
 - naslov u obliku pitanja (H2 ili H3): najviše 1 H2 i 1 H3 po receptu, a recept s takvim naslovom najviše 2 u 5;
 - lični detalj „kod nas“: najviše 1 u 5 tekstova istog autora;
 - isti savjet (npr. zapečeno s dna tave za sos) razvijen u tekstu samo u jednom receptu; u ostalima samo kratko u koraku.
+
+**Granice koje se provjeravaju čitanjem** (skripta ih ne hvata):
+- izbor dijela piletine („zabatak, a ne prsa“, „prsa s kožom, a ne file“) više nije ugao teksta ni posebna sekcija — to je već urađeno 4 puta (NR-003, 009, 011, 017); u novim pilećim receptima najviše jedna rečenica;
+- leća „jeftino i za više ljudi“ kod Emira ostaje, ali nikad istim riječima kao u ranijim receptima („Kad za stolom ima više ljudi…“, „jeftiniji, pa…“, „ručak se lako rastegne“); prije pisanja pročitati zadnje Emirove tekstove;
+- uvod ne poredi jelo s „klasičnom“ verzijom ako je to već urađeno u srodnom receptu (npr. rižota: poređenje je u rižotu s gljivama).
 
 **Provjera samo javlja, a tekst se popravlja po smislu.** Nikad se ne ubacuju kratke rečenice, linkovi ili tekst samo da bi provjera prošla.
 

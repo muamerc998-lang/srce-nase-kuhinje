@@ -46,6 +46,8 @@ LIMITS = [
     ('„radni dan“', lambda r: 'radni dan' in art(r).lower() or 'radni dan' in r['summary'].lower(), 1, 5),
     ('ulaz „skoro uvijek / najčešće / gotovo uvijek“', lambda r: bool(re.search(r'skoro uvijek|najčešće|gotovo uvijek', intro(r), re.I)), 1, 5),
     ('sekcija razbijena na H3 podnaslove', lambda r: any(a['level'] == 'h3' for a in r['article']), 1, 5),
+    ('kraj o ostacima i podgrijavanju', lambda r: bool(re.search(r'podgrija|\bostat(ak|ke|ci)\b[^.]*(frižider|čuva|drži)|zagrijava[^.]*(temeljc|vod)', last_par(r), re.I)), 1, 5),
+    ('H2 u obliku „… se …, ne …“', lambda r: any(re.search(r'\bse\b[^,]*, ne \w', a['title'] or '') for a in r['article'] if a['level'] == 'h2'), 1, 10),
     ('naslov (H2 ili H3) u obliku pitanja', lambda r: any((a['title'] or '').rstrip().endswith('?') for a in r['article']), 2, 5),
 ]
 PER_AUTHOR = [('lični detalj „kod nas“', lambda r: bool(re.search(r'\b[Kk]od nas\b', art(r))), 1, 5)]
