@@ -191,6 +191,26 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   slanina: n(417, 12.6, 1.3, 40),
   'carsko-meso': n(518, 9.3, 0, 53),
   gauda: n(356, 24.9, 2.2, 27.4),
+  kesteni: n(196, 1.6, 44, 1.3),
+  avokado: n(160, 2, 8.5, 14.7, { pieces: { bez: 200, kom: 200 } }),
+  tunjevina: n(116, 25.5, 0, 0.8),
+  'limunov-sok': n(22, 0.4, 6.9, 0.2, { density: 1.0 }),
+  krastavac: n(15, 0.7, 3.6, 0.1, { pieces: { bez: 300, kom: 300 } }),
+  'ostro-brasno': n(364, 10.3, 76.3, 1, { density: 0.53 }),
+  susam: n(573, 17.7, 23.5, 49.7, { density: 0.6 }),
+  'bijeli-luk-u-prahu': n(331, 16.6, 72.7, 0.7, { density: 0.5 }),
+  'luk-u-prahu': n(341, 10.4, 79.1, 1, { density: 0.5 }),
+  'italijanski-zacini': zero,
+  slanutak: n(139, 7, 22.5, 2.6),
+  tahini: n(595, 17, 21.2, 53.8, { density: 1.0 }),
+  kumin: zero,
+  kamamber: n(300, 19.8, 0.5, 24.3),
+  'cili-pahuljice': zero,
+  pesto: n(418, 5, 6, 41),
+  'bijeli-grah': n(114, 7.3, 21.6, 0.3, { pieces: { konzerva: 240 } }),
+  kopar: zero,
+  kapari: n(23, 2.4, 4.9, 0.9, { density: 0.6 }),
+  ljutika: n(72, 2.5, 16.8, 0.1, { pieces: { bez: 40, kom: 40 } }),
 }
 
 /** Kuhinjske mjere u ml. */
@@ -200,4 +220,4 @@ export const MEASURE_ML: Record<string, number> = { kasika: 15, kasicica: 5, sol
  * Recepti za koje se procjena ne prikazuje, jer se dio sastojaka ne pojede
  * (temeljac od cijelog pileta, ulje za prženje, sirup u kojem se kuha voće).
  */
-export const NUTRITION_EXCLUDED = new Set(['pileca-supa', 'begova-corba', 'cufte-u-sosu', 'tufahije', 'domace-krofne', 'brze-fritule-s-jogurtom', 'slavonska-hladetina'])
+export const NUTRITION_EXCLUDED = new Set(['pileca-supa', 'begova-corba', 'cufte-u-sosu', 'tufahije', 'domace-krofne', 'brze-fritule-s-jogurtom', 'slavonska-hladetina', 'hercegovacki-ustipci-s-jogurtom', 'ustipci-bez-jaja', 'pohani-sir', 'pohovane-mozzarella-kuglice'])

@@ -1,0 +1,1818 @@
+{
+  "format": "srce-nase-kuhinje/v1",
+  "ingredients": [
+    {
+      "slug": "kesteni",
+      "name": "kesteni",
+      "synonyms": [
+        "pitomi kesten",
+        "kesten"
+      ],
+      "foodGroup": "voce"
+    },
+    {
+      "slug": "avokado",
+      "name": "avokado",
+      "foodGroup": "voce"
+    },
+    {
+      "slug": "tunjevina",
+      "name": "tunjevina",
+      "synonyms": [
+        "tuna",
+        "tunjevina iz konzerve"
+      ],
+      "foodGroup": "riba"
+    },
+    {
+      "slug": "limunov-sok",
+      "name": "limunov sok",
+      "synonyms": [
+        "sok od limuna",
+        "cijeđeni limun"
+      ],
+      "broader": "limun",
+      "foodGroup": "voce"
+    },
+    {
+      "slug": "krastavac",
+      "name": "krastavac",
+      "synonyms": [
+        "svježi krastavac",
+        "salatni krastavac"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "ostro-brasno",
+      "name": "oštro brašno",
+      "synonyms": [
+        "oštro bijelo brašno",
+        "brašno tip 400 oštro"
+      ],
+      "foodGroup": "zitarice"
+    },
+    {
+      "slug": "susam",
+      "name": "susam",
+      "synonyms": [
+        "sezam",
+        "sjemenke susama"
+      ],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "bijeli-luk-u-prahu",
+      "name": "bijeli luk u prahu",
+      "synonyms": [
+        "češnjak u prahu",
+        "granulirani bijeli luk"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "luk-u-prahu",
+      "name": "luk u prahu",
+      "synonyms": [
+        "crni luk u prahu",
+        "granulirani luk"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "italijanski-zacini",
+      "name": "mješavina italijanskih začina",
+      "synonyms": [
+        "italijanski začini",
+        "italijanska mješavina začina"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "slanutak",
+      "name": "slanutak",
+      "synonyms": [
+        "leblebija",
+        "naut",
+        "slanutak iz konzerve"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "tahini",
+      "name": "tahini",
+      "synonyms": [
+        "tahini pasta",
+        "tahan",
+        "sezamova pasta"
+      ],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "kumin",
+      "name": "kumin",
+      "synonyms": [
+        "mljeveni kumin",
+        "rimski kim"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "kamamber",
+      "name": "kamamber",
+      "synonyms": [
+        "camembert",
+        "sir kamamber"
+      ],
+      "foodGroup": "mlijecno"
+    },
+    {
+      "slug": "cili-pahuljice",
+      "name": "čili pahuljice",
+      "synonyms": [
+        "ljuta paprika u listićima",
+        "pahuljice ljute papričice"
+      ],
+      "foodGroup": "zacini"
+    }
+  ],
+  "recipes": [
+    {
+      "planId": "SNK-NR-026",
+      "slug": "peceni-kesteni-iz-rerne",
+      "title": "Pečeni kesteni iz rerne",
+      "alternativeNames": [
+        "pečeni kesteni",
+        "kesteni u rerni",
+        "kako ispeći kestene",
+        "kesteni iz pećnice"
+      ],
+      "summary": "Pečeni kesteni iz rerne, zarezani u obliku slova X, kratko prokuhani i pečeni na 200 °C. Nakon pečenja četvrt sata odstoje umotani u krpu, pa se ljuska i opna skidaju zajedno.",
+      "primaryCategory": "predjela-i-grickalice",
+      "meals": [],
+      "tags": [
+        "kesteni"
+      ],
+      "diets": [
+        "posno",
+        "vegetarijansko",
+        "vegansko",
+        "bez-jaja",
+        "bez-mlijeka",
+        "bez-glutena",
+        "bez-brasna"
+      ],
+      "methods": [
+        "pecenje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 35,
+        "restMinutes": 15,
+        "restLabel": "odmaranja u krpi",
+        "totalMinutes": 60
+      },
+      "equipment": {
+        "temperature": 200,
+        "ovenMode": "gornji-donji",
+        "other": "lim, papir za pečenje, čista kuhinjska krpa"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "kesteni",
+              "amount": 500,
+              "unit": "g",
+              "label": "kestena"
+            },
+            {
+              "ingredient": "voda",
+              "unit": "po-potrebi",
+              "label": "vode",
+              "note": "za kratko kuhanje"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Uključite rernu na 200 °C."
+            },
+            {
+              "text": "Oštrim nožem urežite krst preko zaobljene strane svakog kestena, kroz ljusku do ploda."
+            },
+            {
+              "text": "Prokuhajte ih 5 minuta u kipućoj vodi ili ih umjesto toga držite pola sata u hladnoj vodi.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Kestene koji plutaju bacite, a ostale ocijedite i osušite."
+            },
+            {
+              "text": "Poslažite ih u lim na papir za pečenje, zarezom prema gore."
+            },
+            {
+              "text": "Pecite ih 25–30 minuta, dok se zarez ne raširi, a plod ne omekša.",
+              "timerMinutes": 30
+            },
+            {
+              "text": "Vruće kestene odmah umotajte u kuhinjsku krpu i pustite ih da odstoje 15 minuta.",
+              "timerMinutes": 15
+            },
+            {
+              "text": "Ogulite ih dok su još topli."
+            }
+          ]
+        }
+      ],
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Kesten koji se ne da oguliti, nego se kruni zajedno s ljuskom, obično je ohlađen prerano. Ljuska i tanka opna ispod nje odvajaju se dok je kesten vruć i pun pare, a čim se ohladi, opna se ponovo zalijepi za plod. Zato se kod pečenja kestena pazi na dvije stvari: kako para izlazi u rerni i kako se zadrži poslije nje."
+        },
+        {
+          "level": "h2",
+          "title": "Zarez preko zaobljene strane",
+          "body": "Kesten se zarezuje krstom, u obliku slova X, na zaobljenoj strani, kroz ljusku do ploda. Bez zareza para ostaje zarobljena ispod ljuske, pa kesten u rerni može pući, a ljuska se poslije ne otvara. Zarez neka ide skoro preko cijele strane, jer se kroz kratki ljuska otvori tek malo i teško se hvata prstima.\n\nKratko kuhanje prije rerne natopi ljusku vodom, pa se plod u rerni peče u vlastitoj pari i ostane mekan. Isto se postigne s pola sata u hladnoj vodi, ako vam je tako lakše."
+        },
+        {
+          "level": "h2",
+          "title": "Kesteni koji plutaju idu u smeće",
+          "body": "Dok se kuhaju ili namaču, neki kesteni ostanu na površini. Takvi su iznutra suhi, šuplji ili crvljivi, pa ih odbacite bez žaljenja. Za pečenje su najbolji krupni, sjajni i teški kesteni, kojima ljuska nije naborana ni mekana pod prstom."
+        },
+        {
+          "level": "h2",
+          "title": "Četvrt sata u krpi",
+          "body": "Pečeni kesteni idu iz rerne pravo u čistu kuhinjsku krpu. Para koja izlazi iz njih ostaje zarobljena, opna ispod ljuske omekša i odvaja se zajedno s ljuskom, a kesteni su poslije petnaest minuta i dalje topli.\n\nGulite ih odmah po vađenju iz krpe. Kad se ohlade, opna se ponovo uhvati za plod, pa ih prije guljenja vratite na nekoliko minuta u toplu rernu."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Pečeni kesteni iz rerne: kako ih ispeći da se lako gule",
+        "description": "Pečeni kesteni iz rerne: zarez u obliku slova X, pet minuta kuhanja, 25–30 minuta na 200 °C i četvrt sata u krpi, pa se lako gule. Recept korak po korak."
+      },
+      "family": "Kesteni",
+      "sourceNote": "Prepis SNK-NR-026 (pokriva SNK-0516). nasirecepti.com, stari post ID 497: https://nasirecepti.com/peceni-kesteni-iz-pecnice/ (WP izvoz 2026-11-15). Preuzeto: kesteni (količina po želji), voda, kuhinjska krpa; zarez X na zaobljenoj strani; 5 min kuhanja ili 30 min u hladnoj vodi; baciti one koji plutaju; lim, zarezom gore; 200 °C 25–30 min; 15 min u krpi; guliti tople; 4 porcije. Odluka urednika 2026-11-15: uobičajena mjera — količina „po želji“ → 500 g za 4 porcije. Dodano kao opšte poznato: izbor kestena (krupni, sjajni, teški), ohlađene kratko vratiti u toplu rernu."
+    },
+    {
+      "planId": "SNK-NR-027",
+      "slug": "namaz-od-avokada-i-tunjevine",
+      "title": "Namaz od avokada i tunjevine",
+      "alternativeNames": [
+        "namaz od avokada i tune",
+        "namaz od tune i avokada",
+        "avokado namaz s tunjevinom"
+      ],
+      "summary": "Namaz od avokada i tunjevine s majonezom, senfom i limunovim sokom, gotov za petnaest minuta. Dovoljno je gust za sendvič ili tortilju i ne natopi hljeb.",
+      "primaryCategory": "namazi",
+      "meals": [],
+      "tags": [
+        "avokado",
+        "tunjevina",
+        "senf"
+      ],
+      "diets": [
+        "bez-mlijeka",
+        "bez-glutena",
+        "bez-brasna"
+      ],
+      "methods": [
+        "bez-kuhanja"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 2,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "totalMinutes": 15
+      },
+      "equipment": {},
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "avokado",
+              "amount": 0.5,
+              "unit": "bez",
+              "label": "velikog avokada",
+              "note": "ili 1 manji"
+            },
+            {
+              "ingredient": "tunjevina",
+              "amount": 100,
+              "unit": "g",
+              "label": "tunjevine u salamuri",
+              "note": "ocijeđene, 1 konzerva"
+            },
+            {
+              "ingredient": "majoneza",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "majoneze"
+            },
+            {
+              "ingredient": "limunov-sok",
+              "amount": 1,
+              "amountMax": 2,
+              "unit": "kasika",
+              "label": "limunovog soka",
+              "altGroup": "kiselina"
+            },
+            {
+              "ingredient": "jabukovo-sirce",
+              "amount": 1,
+              "amountMax": 2,
+              "unit": "kasika",
+              "label": "jabukovog sirćeta",
+              "altGroup": "kiselina"
+            },
+            {
+              "ingredient": "senf",
+              "amount": 1,
+              "amountMax": 2,
+              "unit": "kasicica",
+              "label": "senfa"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "svježe mljeveni biber"
+            },
+            {
+              "ingredient": "krastavac",
+              "amount": 0.5,
+              "unit": "bez",
+              "label": "krastavca",
+              "note": "sitno sjeckanog",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Avokado prerežite, izvadite košticu i kašikom izdubite meso."
+            },
+            {
+              "text": "Meso avokada viljuškom zgnječite u grubu kašu."
+            },
+            {
+              "text": "Tunjevinu dobro ocijedite i umiješajte u avokado."
+            },
+            {
+              "text": "Dodajte majonezu, kašiku limunovog soka ili sirćeta, kašičicu senfa i biber, pa promiješajte."
+            },
+            {
+              "text": "Probajte, pa doradite ukus s još malo limuna ili senfa."
+            },
+            {
+              "text": "Po želji pred posluživanje umiješajte sitno sjeckani krastavac."
+            }
+          ]
+        }
+      ],
+      "approach": "brzi",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Za sendvič koji se nosi na posao ili u školu namaz mora biti gust, da ne natopi hljeb do podneva. Ovaj se pravi od pola avokada i jedne konzerve tunjevine, a avokado radi posao koji bi inače radila veća količina majoneze: veže tunjevinu u kremastu, ali čvrstu masu."
+        },
+        {
+          "level": "h2",
+          "title": "Tunjevinu dobro ocijedite",
+          "body": "Tečnost iz konzerve, bila to salamura ili ulje, prva razvodni namaz. Zato tunjevinu ocijedite u cjedilu i pritisnite je viljuškom, pa je tek onda miješajte s avokadom. Avokado se gnječi viljuškom, a ne u blenderu, jer usitnjen do kraja postane kaša i namaz izgubi strukturu.\n\nLimunov sok i senf dodajte malo-pomalo. Tunjevina je slana, a avokado blag, pa je lakše dodati još kašičicu nego popraviti prekiseo namaz."
+        },
+        {
+          "level": "h2",
+          "title": "Za sendvič, tortilju ili uz povrće",
+          "body": "U sendviču namaz ide direktno na hljeb, a listovi salate i kolutovi paradajza preko njega, da vlaga iz povrća ne dođe do hljeba. U tortilji je dovoljna tanka traka namaza po sredini, jer se pri savijanju razlije prema rubovima.\n\nKo voli više svježine, može umiješati pola sitno sjeckanog krastavca. Krastavac pusti vodu, pa ga dodajte tek pred jelo."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Namaz od avokada i tunjevine za sendviče i tortilje",
+        "description": "Namaz od avokada i tunjevine s majonezom, senfom i limunom, gotov za 15 minuta. Dovoljno je gust za sendvič i tortilju i ne natopi hljeb. Recept korak po korak."
+      },
+      "family": "Namazi",
+      "sourceNote": "Prepis SNK-NR-027 (pokriva SNK-0509). nasirecepti.com, stari post ID 393: https://nasirecepti.com/namaz-od-avokada-i-tune/ (WP izvoz 2026-11-15). Preuzeto: ½ velikog ili 1 manji avokado, 1 konzerva tune u salamuri (oko 100 g ocijeđene), 2 žlice majoneze, 1–2 žlice limunovog soka ili jabučnog octa, 1–2 žličice senfa, papar, po želji ½ japanskog krastavca (→ krastavac); zgnječiti avokado vilicom, umiješati ostalo, doraditi kiselinu i senf; 15 min, 2 porcije."
+    },
+    {
+      "planId": "SNK-NR-028",
+      "slug": "puzici-sa-sirom",
+      "title": "Pužići sa sirom od dizanog tijesta",
+      "alternativeNames": [
+        "pužići sa sirom",
+        "puževi sa sirom",
+        "rolice od dizanog tijesta sa sirom",
+        "pužići od dizanog tijesta"
+      ],
+      "summary": "Pužići sa sirom od mekanog tijesta s kvascem i kravljeg sira, urolani u rolat, isječeni i pečeni u limu. Prvo jaka rerna, pa umjerena, da se dignu i porumene, a ostanu mekani.",
+      "primaryCategory": "hljeb-i-slana-peciva",
+      "meals": [
+        "dorucak",
+        "vecera"
+      ],
+      "tags": [
+        "sir",
+        "dizano-tijesto"
+      ],
+      "diets": [],
+      "methods": [
+        "pecenje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 16,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 30,
+        "cookMinutes": 30,
+        "restMinutes": 30,
+        "restLabel": "dizanja",
+        "totalMinutes": 90
+      },
+      "equipment": {
+        "temperature": 250,
+        "ovenMode": "gornji-donji",
+        "other": "rerna prvo na 250 °C, pa na 200 °C; veći lim"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": "Tijesto",
+          "items": [
+            {
+              "ingredient": "kvasac",
+              "amount": 42,
+              "unit": "g",
+              "label": "svježeg kvasca",
+              "note": "1 kocka"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 200,
+              "unit": "ml",
+              "label": "mlakog mlijeka"
+            },
+            {
+              "ingredient": "margarin",
+              "amount": 125,
+              "unit": "g",
+              "label": "margarina",
+              "note": "otopljenog"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 2,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "so",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "soli"
+            },
+            {
+              "ingredient": "ostro-brasno",
+              "amount": 500,
+              "unit": "g",
+              "label": "oštrog brašna"
+            }
+          ]
+        },
+        {
+          "title": "Nadjev",
+          "items": [
+            {
+              "ingredient": "svjezi-sir",
+              "amount": 500,
+              "unit": "g",
+              "label": "svježeg kravljeg sira"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 2,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "soli"
+            }
+          ]
+        },
+        {
+          "title": "Za premaz",
+          "items": [
+            {
+              "ingredient": "jaja",
+              "amount": 1,
+              "unit": "bez",
+              "label": "jaje"
+            },
+            {
+              "ingredient": "susam",
+              "unit": "po-potrebi",
+              "label": "susam"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Tijesto",
+          "steps": [
+            {
+              "text": "Otopite margarin i ostavite ga da se malo prohladi."
+            },
+            {
+              "text": "U mlakom mlijeku razmutite šećer i kvasac i ostavite 5 minuta, dok ne zapjeni.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Dodajte margarin, jaja i so, pa postepeno umiješajte brašno."
+            },
+            {
+              "text": "Zamijesite glatko tijesto."
+            },
+            {
+              "text": "Pokriveno tijesto neka se diže oko pola sata.",
+              "timerMinutes": 30
+            }
+          ]
+        },
+        {
+          "title": "Nadjev",
+          "steps": [
+            {
+              "text": "Sir, jaja i so izmiješajte u ujednačen nadjev."
+            }
+          ]
+        },
+        {
+          "title": "Oblikovanje i pečenje",
+          "steps": [
+            {
+              "text": "Uključite rernu na 250 °C."
+            },
+            {
+              "text": "Tijesto razdijelite na četiri podjednaka komada."
+            },
+            {
+              "text": "Svaki dio tanko razvaljajte i premažite četvrtinom nadjeva."
+            },
+            {
+              "text": "Čvrsto ga urolajte i isijecite na pužiće široke oko 1,5 cm."
+            },
+            {
+              "text": "Složite ih u namašćen lim, presjekom prema gore."
+            },
+            {
+              "text": "Premažite ih razmućenim jajetom i pospite susamom."
+            },
+            {
+              "text": "Stavite lim u rernu i odmah smanjite temperaturu na 200 °C."
+            },
+            {
+              "text": "Pecite 25–30 minuta, dok ne porumene.",
+              "timerMinutes": 30
+            },
+            {
+              "text": "Prije posluživanja neka se prohlade nekoliko minuta."
+            }
+          ]
+        }
+      ],
+      "approach": "detaljni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Presječen pužić ima šest-sedam krugova, tijesto i sir naizmjenično. Izvana je zlatan i posut susamom, a iznutra mekan i vlažan od sira. Da tako ispadne, tijesto mora biti tanko razvaljano, a rolat čvrsto urolan. Sve drugo je obično dizano tijesto."
+        },
+        {
+          "level": "h2",
+          "title": "Tijesto s margarinom i jajima",
+          "body": "Tijesto je mekano jer u njemu ima margarina i dva jajeta. Kvasac se prvo probudi u mlakom mlijeku sa šećerom, dok ne zapjeni. Mlijeko neka bude tek mlako. Vruće ubije kvasac.\n\nPola sata dizanja je ovdje dovoljno. Tijesto treba samo da se opusti i malo naraste, a pužići se dignu još jednom u rerni."
+        },
+        {
+          "level": "h2",
+          "title": "Koliko tanko razvaljati?",
+          "body": "Tanko, oko pola centimetra. Deblje tijesto da manje krugova, i pužić je onda više kifla nego pužić. Nadjev se maže u tankom sloju skoro do ruba. Samo na kraju, gdje se rolat zatvara, ostavite dva prsta čista, da se tijesto zalijepi.\n\nRolat urolajte čvrsto, bez šupljina. Kad je labav, krugovi se u rerni razdvoje i pužić se raspadne kad ga uzmete."
+        },
+        {
+          "level": "h2",
+          "title": "Sir mora biti suh",
+          "body": "Uzimam sitni, suhlji kravlji sir. Mladi sir s mnogo surutke razmekša nadjev, pa u rerni iscuri iz pužića i dno lima zagori. Ako je sir vlažan, ocijedite ga u cjedilu prije nego što ga pomiješate s jajima i solju."
+        },
+        {
+          "level": "h2",
+          "title": "Prvo 250, pa 200 °C",
+          "body": "Lim ide u rernu ugrijanu na 250 °C, a temperatura se odmah spusti na 200 °C. Taj prvi udar toplote digne pužiće prije nego što se korica stegne. Poslije se peku polahko, dok ne porumene.\n\nPečeni pužići ostanu mekani i sutradan. Držite ih pokrivene krpom ili u kesi, da se korica ne osuši."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "domace-mekane-kifle",
+        "ludo-tijesto"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Pužići sa sirom od mekanog dizanog tijesta, iz rerne",
+        "description": "Pužići sa sirom od mekanog dizanog tijesta i kravljeg sira, urolani i pečeni prvo na 250, pa na 200 °C, da ostanu mekani i porumene. Recept korak po korak."
+      },
+      "family": "Slana peciva od dizanog tijesta",
+      "sourceNote": "Prepis SNK-NR-028 (pokriva SNK-0525). nasirecepti.com, stari post ID 242: https://nasirecepti.com/puzici-sa-sirom/ (WP izvoz 2026-11-15). Preuzeto: tijesto — 1 svježi kvasac (→ 42 g, 1 kocka), 1 žličica šećera, 200 ml mlakog mlijeka, 125 g otopljenog margarina, 2 jaja, 2 žličice soli, 500 g oštrog brašna; nadjev — 500 g svježeg kravljeg sira, 2 jaja, 1 žličica soli; 1 jaje za premaz, sezam; dizanje oko 30 min; 4 dijela, tanko razvaljati, premazati, urolati, rezati 1,5 cm; namašćen lim; 250 °C pa smanjiti na 200 °C, 25–30 min; 60 min pripreme, 30 min pečenja, 16 porcija. Dodano kao opšte poznato: margarin malo prohladiti, cijeđenje vlažnog sira, rub od dva prsta za zatvaranje rolata, debljina oko pola centimetra kao smjernica za „tanko“."
+    },
+    {
+      "planId": "SNK-NR-029",
+      "slug": "punjena-jaja",
+      "title": "Punjena jaja s majonezom i senfom",
+      "alternativeNames": [
+        "punjena jaja",
+        "jaja punjena majonezom",
+        "punjena kuhana jaja",
+        "punjena jaja recept"
+      ],
+      "summary": "Punjena jaja s nadjevom od žumanjaka, majoneze, senfa i malo sirćeta, posuta slatkom paprikom i vlascem. Jaja se kuhaju tačno deset minuta i hlade u ledenoj vodi, pa žumanjak ostane žut, a nadjev gladak.",
+      "primaryCategory": "predjela-i-grickalice",
+      "meals": [],
+      "tags": [
+        "jaja",
+        "senf"
+      ],
+      "diets": [
+        "bez-mlijeka",
+        "bez-glutena",
+        "bez-brasna"
+      ],
+      "methods": [
+        "kuhanje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "cookMinutes": 15,
+        "restMinutes": 40,
+        "restLabel": "hlađenja",
+        "totalMinutes": 70
+      },
+      "equipment": {
+        "other": "lonac, posuda s ledenom vodom, vrećica za ukrašavanje (po želji)"
+      },
+      "beforeYouStart": "Pripremite posudu s hladnom vodom i kockicama leda prije nego što jaja počnu kuhati.",
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "jaja",
+              "amount": 6,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "majoneza",
+              "amount": 3,
+              "unit": "kasika",
+              "label": "majoneze"
+            },
+            {
+              "ingredient": "senf",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "senfa"
+            },
+            {
+              "ingredient": "sirce",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "bijelog vinskog sirćeta"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "unit": "po-ukusu",
+              "label": "slatka aleva paprika",
+              "note": "za posipanje"
+            },
+            {
+              "ingredient": "vlasac",
+              "unit": "po-ukusu",
+              "label": "svježi vlasac",
+              "note": "sitno sjeckan"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Jaja stavite u lonac, nalijte hladne vode da budu pokrivena i zagrijte do ključanja."
+            },
+            {
+              "text": "Čim voda proključa, utišajte vatru i kuhajte jaja tačno 10 minuta.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Odmah ih premjestite u vodu s ledom i ostavite 10 minuta.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Ohlađena jaja ogulite i prerežite po dužini."
+            },
+            {
+              "text": "Žumanjke kašičicom izvadite u posudu, a bjelanjke složite na tanjir šupljinom prema gore."
+            },
+            {
+              "text": "Žumanjke viljuškom usitnite u sitne mrvice."
+            },
+            {
+              "text": "Dodajte majonezu, senf i sirće, posolite i pobiberite, pa miješajte dok nadjev ne bude gladak."
+            },
+            {
+              "text": "Nadjevom napunite bjelanjke, kašičicom ili iz vrećice za ukrašavanje."
+            },
+            {
+              "text": "Jaja pokrijte i ohladite u frižideru najmanje 30 minuta.",
+              "timerMinutes": 30
+            },
+            {
+              "text": "Pred posluživanje ih pospite paprikom i sjeckanim vlascem."
+            }
+          ]
+        }
+      ],
+      "approach": "tradicionalni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Sivo-zeleni prsten oko žumanjka ne mijenja okus, ali na tanjiru punjenih jaja odmah se vidi, jer je žumanjak ovdje i nadjev i ukras. Nastaje kad se jaja kuhaju predugo ili se poslije kuhanja sporo hlade. Zato ovaj recept počinje štopericom: deset minuta od ključanja, pa odmah u vodu s ledom."
+        },
+        {
+          "level": "h2",
+          "title": "Klasični nadjev bez mnogo dodataka",
+          "body": "Nadjev od žumanjaka, majoneze, senfa i kapi sirćeta je verzija koju većina ljudi očekuje kad vidi punjena jaja na stolu. Senf i sirće presijeku masnoću žumanjka i majoneze, pa nadjev nije težak. Šunka ili sir u nadjevu nisu greška, ali nadjev s njima nije gladak i teže se istiskuje kroz vrećicu, pa ih je bolje servirati pored."
+        },
+        {
+          "level": "h2",
+          "title": "Žumanjci prvo u mrvice",
+          "body": "Žumanjci se viljuškom usitne u sitne mrvice prije nego što dođe majoneza. Grudvica žumanjka koja ostane cijela poslije se ne razbije u masi, pa nadjev ima grumenje i zapinje u vrećici za ukrašavanje. Kad je žumanjak sitan kao pijesak, majoneza ga lako poveže u glatku kremu."
+        },
+        {
+          "level": "h2",
+          "title": "Za slavlja i hladnu ploču",
+          "body": "Punjena jaja se prave za veće stolove, za rođendane, slavlja i praznike, i stoje uz hladnu ploču s narescima i sirevima. Mogu se napraviti nekoliko sati ranije i držati pokrivena u frižideru, a paprika i vlasac stavljaju se tek pred iznošenje, da se paprika ne razlije po vlažnom nadjevu. Na tanjiru se slažu šupljinom prema gore, tijesno jedno uz drugo, jer tako ne klize."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "ruska-salata"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Punjena jaja s majonezom i senfom, s glatkim nadjevom",
+        "description": "Punjena jaja s majonezom, senfom i kapi sirćeta: koliko kuhati jaja da žumanjak ne posivi i kako dobiti gladak nadjev bez grudvica. Recept korak po korak."
+      },
+      "family": "Jaja kao predjelo",
+      "sourceNote": "Prepis SNK-NR-029 (pokriva SNK-0523). nasirecepti.com, stari post ID 828: https://nasirecepti.com/punjena-jaja/ (WP izvoz 2026-11-15). Preuzeto: 6 jaja, 3 žlice majoneze, 1 žličica senfa, 1 žličica bijelog vinskog octa, sol, papar, slatka paprika, vlasac; jaja u hladnu vodu, do vrenja, 10 min od ključanja; u vodu s ledom oko 10 min; prerezati po dužini, žumanjke usitniti vilicom, nadjev; vrećica ili žličica; paprika i vlasac; frižider najmanje 30 min; 15 min pripreme, 10 min kuhanja, 4 porcije. Redoslijed: paprika i vlasac pomjereni na kraj (poslije hlađenja). Dodano kao opšte poznato: uzrok sivo-zelenog ruba oko žumanjka."
+    },
+    {
+      "planId": "SNK-NR-030",
+      "slug": "pohovane-mozzarella-kuglice",
+      "title": "Pohovane kuglice od mocarele",
+      "alternativeNames": [
+        "mozzarella kuglice",
+        "pohovane mozzarella kuglice",
+        "pohovane kuglice od mozzarelle",
+        "mocarela kuglice"
+      ],
+      "summary": "Pohovane kuglice od mocarele, dvaput uvaljane u brašno i jaja, pa u začinjene prezle, ohlađene u zamrzivaču i pržene dvije-tri minute. Korica je hrskava, a sir u sredini mekan i ostane unutra.",
+      "primaryCategory": "predjela-i-grickalice",
+      "meals": [],
+      "tags": [
+        "sir",
+        "jaja"
+      ],
+      "diets": [],
+      "methods": [
+        "przenje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 10,
+        "restMinutes": 20,
+        "restLabel": "hlađenja",
+        "totalMinutes": 40
+      },
+      "equipment": {
+        "other": "dublja posuda za prženje, termometar (po želji), šupljikava kašika"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "mocarela",
+              "amount": 400,
+              "unit": "g",
+              "label": "mini kuglica mocarele",
+              "note": "ocijeđenih"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 150,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so",
+              "note": "za brašno"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 4,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "prezle",
+              "amount": 200,
+              "unit": "g",
+              "label": "prezli"
+            },
+            {
+              "ingredient": "bijeli-luk-u-prahu",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "bijelog luka u prahu"
+            },
+            {
+              "ingredient": "luk-u-prahu",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "luka u prahu"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "soli",
+              "note": "za prezle"
+            },
+            {
+              "ingredient": "italijanski-zacini",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "mješavine italijanskih začina"
+            },
+            {
+              "ingredient": "ulje",
+              "unit": "po-potrebi",
+              "label": "ulja",
+              "note": "za prženje"
+            }
+          ]
+        },
+        {
+          "title": "Za posluživanje",
+          "items": [
+            {
+              "ingredient": "paradajz-pire",
+              "unit": "po-ukusu",
+              "label": "paradajz sos",
+              "note": "topao",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Kuglice mocarele dobro osušite kuhinjskim papirom."
+            },
+            {
+              "text": "Brašno začinite solju i biberom."
+            },
+            {
+              "text": "Jaja razmutite u drugoj posudi."
+            },
+            {
+              "text": "U trećoj posudi pomiješajte prezle sa začinima: italijanskom mješavinom, solju, bijelim lukom u prahu i lukom u prahu."
+            },
+            {
+              "text": "Svaku kuglicu provucite kroz brašno, pa kroz jaja, pa još jednom kroz brašno i jaja."
+            },
+            {
+              "text": "Na kraju je obložite prezlama i lagano ih pritisnite dlanom."
+            },
+            {
+              "text": "Pohovane kuglice poredajte na lim s papirom i ostavite ih najmanje 20 minuta u zamrzivaču.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Ulje u dubljoj šerpi ugrijte do oko 175 °C."
+            },
+            {
+              "text": "Pržite kuglice malo po malo 2–3 minute, dok ne porumene.",
+              "timerMinutes": 3
+            },
+            {
+              "text": "Šupljikavom kašikom ih prebacite na kuhinjski papir, pa odmah na sto."
+            }
+          ]
+        }
+      ],
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Male kuglice mocarele, one od desetak grama koje se prodaju u salamuri, taman su za jedan zalogaj. Sir je mekan i vlažan, i upravo zato je pohovanje ovdje posebno: u vrelom ulju mocarela se rastopi za minut, pa korica mora biti gotova prije nego što sir nađe put napolje."
+        },
+        {
+          "level": "h2",
+          "title": "Dva sloja brašna i jaja",
+          "body": "Kuglica se uvalja u brašno, pa u jaja, pa još jednom u brašno i jaja, i tek na kraju u prezle. Jedan sloj je pretanak: na mjestu gdje je najtanji, sir u ulju probije koricu i iscuri. Drugi sloj zatvori te slabe tačke, pa prezle imaju na šta da se zalijepe jednako svuda.\n\nKuglice iz salamure su mokre, a na mokru površinu brašno se ne hvata, nego se skuplja u grudvice. Zato se prije pohovanja dobro osuše."
+        },
+        {
+          "level": "h2",
+          "title": "Zašto u zamrzivač?",
+          "body": "Dvadeset minuta u zamrzivaču stegne i koricu i sir. Ohlađena kuglica u ulju na 175 °C dobije boju za dvije-tri minute, a sredina se za to vrijeme samo omekša i rastopi, umjesto da proključa i probije van. Kuglice koje idu u ulje tople od ruku obično puknu već u prvoj turi.\n\nMi bismo ih iznijeli odmah, s malo toplog paradajz sosa sa strane, dok se sir još razvlači."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Pohovane kuglice od mocarele s hrskavom koricom",
+        "description": "Pohovane kuglice od mocarele: dva sloja brašna i jaja, začinjene prezle i 20 minuta u zamrzivaču, pa sir ostane u kuglici. Recept korak po korak."
+      },
+      "family": "Pohovani sir",
+      "sourceNote": "Prepis SNK-NR-030 (pokriva SNK-0504). nasirecepti.com, stari post ID 148: https://nasirecepti.com/mozzarella-kuglice/ (WP izvoz 2026-11-15). Preuzeto: 400 g mini mozzarella kuglica (bocconcini), 150 g glatkog brašna, sol i biber, 4 jaja, 200 g krušnih mrvica (→ prezle), 1 žličica bijelog luka u prahu, 1 žličica luka u prahu, 1 žličica soli, 2 žličice italijanske mješavine začina, ulje za prženje, umak od rajčice po želji; osušiti; brašno–jaja–brašno–jaja–mrvice; zamrzivač najmanje 20 min; ulje oko 175 °C, 2–3 min u manjim količinama; papirni ubrus; 30 min pripreme (s hlađenjem), 10 min prženja, 6 porcija. Mocarela s sirištem — vegetarijansko nije upisano."
+    },
+    {
+      "planId": "SNK-NR-031",
+      "slug": "hercegovacki-ustipci-s-jogurtom",
+      "title": "Hercegovački uštipci s jogurtom",
+      "alternativeNames": [
+        "hercegovački uštipci",
+        "uštipci s jogurtom",
+        "uštipci od razvaljanog tijesta",
+        "hercegovački uštipci sa jogurtom"
+      ],
+      "summary": "Hercegovački uštipci s jogurtom od mekanog tijesta s praškom za pecivo, razvaljani na pola centimetra, isječeni na kvadrate i prženi u vrelom ulju. U ulju se napuhnu, a iznutra ostanu šuplji i mekani.",
+      "primaryCategory": "hljeb-i-slana-peciva",
+      "meals": [
+        "dorucak",
+        "vecera"
+      ],
+      "tags": [
+        "jogurt"
+      ],
+      "diets": [
+        "bez-kvasca"
+      ],
+      "methods": [
+        "przenje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 15,
+        "restMinutes": 10,
+        "restLabel": "odmaranja tijesta",
+        "totalMinutes": 35
+      },
+      "equipment": {
+        "other": "dublja posuda za prženje, oklagija"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 500,
+              "unit": "g",
+              "label": "glatkog brašna",
+              "note": "tip 400"
+            },
+            {
+              "ingredient": "jogurt",
+              "amount": 180,
+              "unit": "g",
+              "label": "jogurta"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 2,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 50,
+              "unit": "ml",
+              "label": "ulja"
+            },
+            {
+              "ingredient": "prasak-za-pecivo",
+              "amount": 1,
+              "unit": "kesica",
+              "label": "praška za pecivo"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.5,
+              "unit": "kasika",
+              "label": "soli"
+            },
+            {
+              "ingredient": "ulje",
+              "unit": "po-potrebi",
+              "label": "ulja",
+              "note": "za prženje"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Razmutite jaja, pa u njih umiješajte jogurt i ulje."
+            },
+            {
+              "text": "Prašak za pecivo i so dodajte brašnu i sve zajedno prosijte u drugu posudu."
+            },
+            {
+              "text": "Brašno postepeno umiješajte u smjesu s jogurtom."
+            },
+            {
+              "text": "Zamijesite rukama mekano tijesto, toliko da se još malo lijepi za prste."
+            },
+            {
+              "text": "Tijesto ostavite 10 minuta na pobrašnjenoj dasci da odmori.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Razvaljajte ga na pola centimetra."
+            },
+            {
+              "text": "Isijecite ga na kvadrate ili trokute."
+            },
+            {
+              "text": "Zagrijte ulje za prženje na oko 170 °C."
+            },
+            {
+              "text": "Pržite uštipke oko minut s jedne strane, pa ih okrenite i dopecite, dok ne porumene.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Uštipke vadite na kuhinjski papir, da se ocijedi višak ulja."
+            }
+          ]
+        }
+      ],
+      "approach": "tradicionalni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Ovi uštipci se ne spuštaju kašikom u ulje. Tijesto se zamijesi, razvalja i isiječe na kvadrate ili trokute. U vrelom ulju se napuhnu kao jastučići, a iznutra ostanu šuplji. Kod mene se prave nedjeljom ujutro, uz sir i kajmak."
+        },
+        {
+          "level": "h2",
+          "title": "Jogurt i ulje u tijestu",
+          "body": "Jogurt i malo ulja čine tijesto mekanim i lakim za rad. Prašak za pecivo ga digne u ulju. Tijesto treba ostati malo ljepljivo pod prstima. Ako dodajete brašno dok se ne prestane lijepiti, uštipci budu tvrdi i zbijeni."
+        },
+        {
+          "level": "h2",
+          "title": "Deset minuta odmora",
+          "body": "Tijesto odmori desetak minuta na pobrašnjenoj dasci. Za to vrijeme se opusti, pa se razvalja bez otpora. Razvaljajte ga na pola centimetra. Tanje se ne napuhne, a deblje ostane sirovo u sredini."
+        },
+        {
+          "level": "h2",
+          "title": "Ulje mora biti vrelo",
+          "body": "U mlakom ulju uštipak potone i upije masnoću. U vrelom odmah ispliva i napuhne se. Probajte s jednim komadićem tijesta: kad oko njega zacvrči i on ispliva, ulje je taman."
+        },
+        {
+          "level": "h2",
+          "title": "Kvadrati ili trokuti",
+          "body": "Oblik ne mijenja okus, pa ih režite kako vam je lakše. Kvadrati se režu brže i ne ostaje tijesta. A prva tura rijetko dočeka tanjir."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "brze-fritule-s-jogurtom"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Hercegovački uštipci s jogurtom od razvaljanog tijesta",
+        "description": "Hercegovački uštipci s jogurtom: mekano tijesto razvaljano na pola centimetra, isječeno na kvadrate i prženo dok se ne napuhne. Recept korak po korak."
+      },
+      "family": "Uštipci",
+      "sourceNote": "Prepis SNK-NR-031 (pokriva SNK-0497). nasirecepti.com, stari post ID 405: https://nasirecepti.com/hercegovacki-ustipci-sa-jogurtom/ (WP izvoz 2026-11-15). Preuzeto: 500 g glatkog brašna tip 400, 180 g jogurta, 2 jaja, 50 ml ulja, 1 prašak za pecivo, ½ jušne žlice soli, ulje za prženje; jaja, ulje, jogurt; brašno s praškom i solju; mekano tijesto koje se lagano lijepi; 10 min odmora; razvaljati na oko pola cm; kvadrati ili trokuti; dobro zagrijano ulje, kratko s jedne pa s druge strane; kuhinjski papir; 20 min pripreme, 15 min prženja, 6 porcija. Odluka urednika 2026-11-15: uobičajene mjere — ulje oko 170 °C, oko minut po strani."
+    },
+    {
+      "planId": "SNK-NR-032",
+      "slug": "namaz-od-slanutka",
+      "title": "Namaz od slanutka s tahinijem",
+      "alternativeNames": [
+        "humus",
+        "domaći humus",
+        "namaz od slanutka",
+        "namaz od leblebije"
+      ],
+      "summary": "Namaz od slanutka s tahinijem, limunovim sokom, bijelim lukom i kuminom, umućen do glatke kreme. Tahini i limun se prvo izmiksaju sami, pa namaz bude svijetao i mekan.",
+      "primaryCategory": "namazi",
+      "meals": [],
+      "tags": [
+        "slanutak",
+        "limun",
+        "bijeli-luk"
+      ],
+      "diets": [
+        "posno",
+        "vegetarijansko",
+        "vegansko",
+        "bez-jaja",
+        "bez-mlijeka",
+        "bez-glutena",
+        "bez-brasna"
+      ],
+      "methods": [
+        "bez-kuhanja"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "totalMinutes": 10
+      },
+      "equipment": {
+        "other": "multipraktik"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "tahini",
+              "amount": 60,
+              "unit": "ml",
+              "label": "tahinija"
+            },
+            {
+              "ingredient": "limunov-sok",
+              "amount": 60,
+              "unit": "ml",
+              "label": "svježeg limunovog soka"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 1,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckan"
+            },
+            {
+              "ingredient": "kumin",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "mljevenog kumina"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "slanutak",
+              "amount": 250,
+              "unit": "g",
+              "label": "kuhanog slanutka",
+              "note": "ili ocijeđenog iz konzerve"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 2,
+              "amountMax": 3,
+              "unit": "kasika",
+              "label": "hladne vode",
+              "note": "ili tečnosti iz konzerve"
+            }
+          ]
+        },
+        {
+          "title": "Za posluživanje",
+          "items": [
+            {
+              "ingredient": "maslinovo-ulje",
+              "unit": "po-ukusu",
+              "label": "maslinovo ulje",
+              "optional": true
+            },
+            {
+              "ingredient": "aleva-paprika",
+              "unit": "po-ukusu",
+              "label": "aleva paprika",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Tahini i limunov sok miksajte u multipraktiku oko minut, dok smjesa ne posvijetli i postane kremasta.",
+              "timerMinutes": 1
+            },
+            {
+              "text": "Dodajte maslinovo ulje, bijeli luk, kumin i so, pa kratko izmiksajte."
+            },
+            {
+              "text": "Dodajte polovinu slanutka i miksajte dok se ne usitni."
+            },
+            {
+              "text": "Dodajte ostatak slanutka i miksajte dok smjesa ne bude glatka."
+            },
+            {
+              "text": "Kašiku po kašiku dolijevajte hladnu vodu, dok namaz ne postane mekan i lako se maže."
+            },
+            {
+              "text": "Namaz prebacite u plitku posudu, kašikom napravite udubljenje, nalijte u njega maslinovog ulja i pospite paprikom."
+            }
+          ]
+        }
+      ],
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Namaz od slanutka je ono što se u restoranima i na policama prodavnica zove humus: kuhani slanutak usitnjen s tahinijem, pastom od susama, i limunovim sokom. Domaći je gladak kao kupovni samo ako se poštuje redoslijed, jer tahini i limun idu u multipraktik prije slanutka."
+        },
+        {
+          "level": "h2",
+          "title": "Tahini i limun prvi",
+          "body": "Tahini je gusta pasta od mljevenog susama. Kad se sam izmiksa s limunovim sokom, prvo se zgusne, a onda posvijetli i postane lagana krema. Tek u tu kremu idu ulje, bijeli luk i kumin, pa slanutak. Ako sve ide u multipraktik odjednom, tahini se ne stigne umutiti, pa namaz ostane zrnast i težak."
+        },
+        {
+          "level": "h2",
+          "title": "Slanutak u dva navrata, voda na kraju",
+          "body": "Polovina slanutka se izmiksa u kremu od tahinija, pa tek onda ostatak. Tako se noževi ne zaglave u gustoj masi i sve se ravnomjerno usitni. Voda ili tečnost iz konzerve dolijeva se na kraju, kašiku po kašiku, dok namaz ne postane mekan. Hladna voda ga čini svjetlijim i rahlijim."
+        },
+        {
+          "level": "h2",
+          "title": "Udubljenje s maslinovim uljem",
+          "body": "Namaz se iznosi u plitkoj posudi, s udubljenjem napravljenim kašikom, u koje se nalije malo maslinovog ulja. Odozgo ide aleva paprika, a ko ima, može i sumak ili za'atar."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Namaz od slanutka s tahinijem i limunom, domaći humus",
+        "description": "Namaz od slanutka s tahinijem, limunom, bijelim lukom i kuminom. Zašto se tahini i limun miksaju prvi i kako namaz dobiti gladak. Recept korak po korak."
+      },
+      "family": "Namazi",
+      "sourceNote": "Prepis SNK-NR-032 (pokriva SNK-0511). nasirecepti.com, stari post ID 402: https://nasirecepti.com/namaz-od-slanutka-recept/ (WP izvoz 2026-11-15). Preuzeto: 250 g kuhanog ili ocijeđenog slanutka, 60 ml limunovog soka, 60 ml tahinija, 1 režanj češnjaka, 2 žlice maslinovog ulja, ½ žličice kumina, sol, 2–3 žlice hladne vode ili aquafabe, paprika/sumak/za'atar za posluživanje; tahini i limun oko minute; ulje, češnjak, kumin, sol; pola slanutka pa ostatak; voda postepeno; maslinovo ulje i začin odozgo; 10 min, 6 porcija."
+    },
+    {
+      "planId": "SNK-NR-033",
+      "slug": "peceni-kamamber",
+      "title": "Pečeni kamamber iz rerne",
+      "alternativeNames": [
+        "pečeni camembert",
+        "camembert iz rerne",
+        "zapečeni kamamber",
+        "kamamber u rerni"
+      ],
+      "summary": "Pečeni kamamber u svojoj drvenoj kutijici, zarezan, zaliven kašikom bijelog vina i posut majčinom dušicom i čili pahuljicama. Za dvadeset minuta sredina postane tečna, a hljeb i krekeri se umaču direktno u sir.",
+      "primaryCategory": "predjela-i-grickalice",
+      "meals": [],
+      "tags": [
+        "sir"
+      ],
+      "diets": [
+        "bez-jaja",
+        "bez-brasna"
+      ],
+      "methods": [
+        "pecenje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 5,
+        "cookMinutes": 20,
+        "totalMinutes": 25
+      },
+      "equipment": {
+        "temperature": 200,
+        "ovenMode": "gornji-donji",
+        "other": "drvena kutijica sira ili mala vatrostalna posuda; 180 °C s ventilatorom"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "kamamber",
+              "amount": 250,
+              "unit": "g",
+              "label": "kamambera",
+              "note": "u drvenoj kutijici"
+            },
+            {
+              "ingredient": "bijelo-vino",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "suhog bijelog vina",
+              "note": "ili vermuta ili kirša"
+            },
+            {
+              "ingredient": "majcina-dusica",
+              "amount": 2,
+              "unit": "bez",
+              "label": "grančice svježe majčine dušice"
+            },
+            {
+              "ingredient": "cili-pahuljice",
+              "amount": 1,
+              "unit": "prstohvat",
+              "label": "čili pahuljica"
+            }
+          ]
+        },
+        {
+          "title": "Za posluživanje",
+          "items": [
+            {
+              "ingredient": "hljeb",
+              "unit": "po-potrebi",
+              "label": "prepečeni hljeb ili krekeri",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Uključite rernu na 200 °C, odnosno 180 °C s ventilatorom."
+            },
+            {
+              "text": "Sir oslobodite omota, pa ga vratite u kutijicu bez poklopca ili prebacite u malu vatrostalnu posudu."
+            },
+            {
+              "text": "Površinu sira plitko zarežite nožem na nekoliko mjesta."
+            },
+            {
+              "text": "Prelijte ga vinom, rasporedite grančice majčine dušice i pospite čili pahuljicama."
+            },
+            {
+              "text": "Pecite ga na limu oko 20 minuta, dok se sredina sasvim ne rastopi.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Odmah ga poslužite s prepečenim hljebom ili krekerima."
+            }
+          ]
+        }
+      ],
+      "approach": "brzi",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Kad gosti dođu nenajavljeno, a u frižideru ima jedan kamamber, za dvadeset minuta na stolu je toplo predjelo. Sir se peče u svojoj kutiji i u njoj se iznosi, pa nema ni posuđa ni slaganja: samo hljeb ili krekeri okolo i nož da se probije kora."
+        },
+        {
+          "level": "h2",
+          "title": "Drvena kutijica ili mala posuda",
+          "body": "Kamamber se prodaje u tankoj drvenoj kutijici, i ona je najbolji kalup za pečenje. Drži sir u obliku, pa se rastopljena sredina ne razlije po limu. Sir se samo oslobodi papira ili folije u koju je umotan i vrati u kutijicu, bez poklopca. Ako je kutija od kartona ili je nema, uzmite malu vatrostalnu posudu, tek nešto veću od sira.\n\nZarezi po površini puste paru, a kašika vina, vermuta ili kirša da kori malo kiselosti, koja presiječe masnoću sira."
+        },
+        {
+          "level": "h2",
+          "title": "Kad je sredina gotova?",
+          "body": "Pečen je kad pritisnete sredinu kašikom i osjetite da je ispod kore potpuno tečna. Na 200 °C to traje oko dvadeset minuta, a u fritezi na vrući zrak na 180 °C petnaestak do dvadeset minuta. Predugo pečen sir počne se odvajati na masnoću i gumastu masu, pa ga ne držite u rerni duže nego što treba.\n\nNajbolji je prvih desetak minuta na stolu. Kad se ohladi, ponovo se stegne, pa ga iznesite tek kad su svi sjeli."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Pečeni kamamber iz rerne s majčinom dušicom i vinom",
+        "description": "Pečeni kamamber u drvenoj kutijici, s vinom, majčinom dušicom i čili pahuljicama, gotov za 20 minuta. Kako znati da je sredina tečna. Recept korak po korak."
+      },
+      "family": "Topla predjela od sira",
+      "sourceNote": "Prepis SNK-NR-033 (pokriva SNK-0515). nasirecepti.com, stari post ID 239: https://nasirecepti.com/peceni-camembert/ (WP izvoz 2026-11-15). Preuzeto: 250 g Camemberta, 1 žlica vermuta, suhog bijelog vina ili kirša, 2 grančice svježeg timijana (→ majčina dušica), prstohvat čili pahuljica, krekeri ili prepečeni hljeb; 200 °C (180 °C s ventilatorom); drvena kutijica ili manja vatrostalna posuda; zarezati, vino, timijan, čili; oko 20 min dok sredina nije tečna; air fryer 15–20 min na 180 °C; 5 min pripreme, 20 min pečenja, 4 porcije. Naziv sira pisan kao „kamamber“, „camembert“ u alternativnim nazivima. Vegetarijansko nije upisano (sirište)."
+    },
+    {
+      "planId": "SNK-NR-034",
+      "slug": "domaca-peciva-za-hamburgere",
+      "title": "Domaća peciva za hamburgere",
+      "alternativeNames": [
+        "hambi peciva",
+        "peciva za hamburgere",
+        "domaće pecivo za burger",
+        "hamburger peciva"
+      ],
+      "summary": "Domaća peciva za hamburgere od mekanog tijesta s jajetom, maslacem i malo šećera, dizana dva puta i pečena na 190 °C. Mekana su, a dovoljno čvrsta da ne popuste pod sočnom pljeskavicom.",
+      "primaryCategory": "hljeb-i-slana-peciva",
+      "meals": [],
+      "tags": [
+        "dizano-tijesto"
+      ],
+      "diets": [],
+      "methods": [
+        "pecenje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 8,
+        "unit": "komada",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 30,
+        "cookMinutes": 17,
+        "restMinutes": 180,
+        "restLabel": "dizanja",
+        "totalMinutes": 230
+      },
+      "equipment": {
+        "temperature": 190,
+        "ovenMode": "gornji-donji",
+        "other": "lim, papir za pečenje, četkica"
+      },
+      "beforeYouStart": "Tijesto se diže ukupno oko tri sata, pa peciva počnite praviti dovoljno rano.",
+      "ingredientGroups": [
+        {
+          "title": "Tijesto",
+          "items": [
+            {
+              "ingredient": "kvasac",
+              "amount": 7,
+              "unit": "g",
+              "label": "suhog kvasca",
+              "note": "1 kesica"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 240,
+              "unit": "ml",
+              "label": "tople vode"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 500,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 1,
+              "unit": "bez",
+              "label": "jaje"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 45,
+              "unit": "g",
+              "label": "maslaca",
+              "note": "otopljenog"
+            },
+            {
+              "ingredient": "secer",
+              "amount": 3,
+              "unit": "kasika",
+              "label": "šećera"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1.25,
+              "unit": "kasicica",
+              "label": "soli"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "maslinovog ulja",
+              "note": "za posudu"
+            }
+          ]
+        },
+        {
+          "title": "Za premaz",
+          "items": [
+            {
+              "ingredient": "jaja",
+              "amount": 1,
+              "unit": "bez",
+              "label": "jaje"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "mlijeka"
+            },
+            {
+              "ingredient": "susam",
+              "unit": "po-potrebi",
+              "label": "susam",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "U većoj posudi pomiješajte kvasac, toplu vodu i oko 100 g brašna."
+            },
+            {
+              "text": "Ostavite smjesu 10–15 minuta, dok se ne zapjeni.",
+              "timerMinutes": 15
+            },
+            {
+              "text": "U smjesu umiješajte jaje, šećer, so i otopljeni maslac."
+            },
+            {
+              "text": "Postepeno dodajte ostatak brašna i mijesite dok tijesto ne bude mekano, elastično i ne lijepi se za ruke."
+            },
+            {
+              "text": "Tijesto stavite u nauljenu posudu, okrenite ga da se premaže uljem i pokrijte."
+            },
+            {
+              "text": "Ostavite ga na toplom oko 2 sata, dok ne udvostruči zapreminu.",
+              "timerMinutes": 120
+            },
+            {
+              "text": "Naraslo tijesto premijesite da izađe zrak i razdijelite ga na osam podjednakih komada."
+            },
+            {
+              "text": "Od svakog komada oblikujte glatku kuglicu i poredajte ih s razmakom na lim s papirom za pečenje."
+            },
+            {
+              "text": "Kuglice lagano spljoštite dlanom i pustite ih da rastu još oko sat.",
+              "timerMinutes": 60
+            },
+            {
+              "text": "Uključite rernu na 190 °C."
+            },
+            {
+              "text": "Drugo jaje razmutite s mlijekom i nježno premažite peciva."
+            },
+            {
+              "text": "Po želji ih pospite susamom."
+            },
+            {
+              "text": "Pecite 15–17 minuta, dok ne porumene.",
+              "timerMinutes": 17
+            },
+            {
+              "text": "Ostavite ih da se ohlade prije rezanja."
+            }
+          ]
+        }
+      ],
+      "approach": "detaljni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Jaje i maslac u tijestu su razlika između ovih peciva i običnih peciva iz pekare. Daju mekanu, gustu sredinu, koja ne upije odmah sok od mesa i ne raspada se u ruci. Malo šećera daje kori zlatnu boju za petnaest minuta u rerni."
+        },
+        {
+          "level": "h2",
+          "title": "Mekano, ali ne ljepljivo",
+          "body": "Suhi kvasac se prvo zapjeni u toploj vodi s dijelom brašna. Za desetak minuta smjesa se pokrije mjehurićima, i tad znate da kvasac radi. Ostatak brašna ide postepeno, a tijesto se mijesi dok se ne odvaja od ruku i posude. Mekano je, ali nije ljepljivo."
+        },
+        {
+          "level": "h2",
+          "title": "Dva dizanja",
+          "body": "Prvo dizanje razvije tijesto i da mu ukus, a drugo napuni oblikovane kuglice zrakom, pa pecivo u rerni naraste ravnomjerno."
+        },
+        {
+          "level": "h3",
+          "title": "Prvo, u posudi",
+          "body": "Tijesto se okrene u nauljenoj posudi, da bude premazano sa svih strana i ne dobije koru dok stoji. Na toplom mu treba oko dva sata da udvostruči zapreminu. Pritisnite ga prstom: kad se rupica sporo vraća, spremno je."
+        },
+        {
+          "level": "h3",
+          "title": "Drugo, na limu",
+          "body": "Kuglice se slože s razmakom i lagano spljošte dlanom. Sat kasnije su skoro duplo veće i mekane na dodir. Bez ovog dizanja pecivo u rerni pukne sa strane i ostane zbijeno."
+        },
+        {
+          "level": "h2",
+          "title": "Premaz od jajeta i mlijeka",
+          "body": "Jaje razmućeno s kašikom mlijeka daje pecivima sjaj i tamniju, zlatnu koru. Premažite ih nježno, četkicom, da ne istisnete zrak iz narasle kuglice. Susam se pospe odmah po premazu, dok je mokar, pa se zalijepi."
+        },
+        {
+          "level": "h2",
+          "title": "Rezanje tek kad se ohlade",
+          "body": "Vruće pecivo se pod nožem zgnječi. Ostavite ih na rešetki desetak minuta, pa ih prerežite nazubljenim nožem. Prije pljeskavice prerezanu stranu možete kratko zapeći u suhoj tavi. Fino porumeni i manje upija sok."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "domace-mekane-kifle"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Domaća peciva za hamburgere, mekana i sa susamom",
+        "description": "Domaća peciva za hamburgere od tijesta s jajetom i maslacem, dizana dva puta i pečena 15–17 minuta na 190 °C. Mekana su i čvrsta. Recept korak po korak."
+      },
+      "family": "Slana peciva od dizanog tijesta",
+      "sourceNote": "Prepis SNK-NR-034 (pokriva SNK-0496). nasirecepti.com, stari post ID 378: https://nasirecepti.com/hambi-peciva/ (WP izvoz 2026-11-15). Preuzeto: 1 vrećica suhog kvasca (7 g), 500 g glatkog brašna, 240 ml tople vode, 2 velika jaja (jedno u tijesto, jedno s 1 žlicom mlijeka za premaz), 45 g otopljenog maslaca, 3 žlice šećera, 1¼ žličice soli, 1 žličica maslinovog ulja, sezam; kvasac, voda i manji dio brašna 10–15 min; jaje, maslac, šećer, sol, ostatak brašna; nauljena zdjela, oko 2 h na toplom; 8 kuglica, spljoštiti, još oko 1 h; premaz, sezam; 190 °C 15–17 min; 8 komada. „Manji dio brašna“ → oko 100 g. Dodano kao opšte poznato: test prstom za dizanje, rešetka i nazubljeni nož, zapecanje prerezane strane u tavi (po želji)."
+    }
+  ]
+}

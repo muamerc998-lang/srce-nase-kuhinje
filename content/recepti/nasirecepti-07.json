@@ -1,0 +1,1547 @@
+{
+  "format": "srce-nase-kuhinje/v1",
+  "ingredients": [
+    {
+      "slug": "pesto",
+      "name": "pesto od bosiljka",
+      "synonyms": [
+        "pesto",
+        "pesto genovese"
+      ],
+      "foodGroup": "ostalo"
+    },
+    {
+      "slug": "bijeli-grah",
+      "name": "bijeli grah",
+      "synonyms": [
+        "bijeli pasulj",
+        "grah iz konzerve",
+        "cannellini grah"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "kopar",
+      "name": "kopar",
+      "synonyms": [
+        "mirođija",
+        "svježi kopar"
+      ],
+      "foodGroup": "zacini"
+    },
+    {
+      "slug": "kapari",
+      "name": "kapari",
+      "synonyms": [
+        "kapar"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "ljutika",
+      "name": "ljutika",
+      "synonyms": [
+        "šalota",
+        "luk ljutika"
+      ],
+      "broader": "crni-luk",
+      "foodGroup": "povrce"
+    }
+  ],
+  "recipes": [
+    {
+      "planId": "SNK-NR-035",
+      "slug": "zapecene-rolice-od-tikvica",
+      "title": "Zapečene rolice od tikvica sa sirom",
+      "alternativeNames": [
+        "rolice od tikvica",
+        "punjene rolice od tikvica",
+        "rolice od tikvica s rikotom",
+        "tikvice punjene sirom iz rerne"
+      ],
+      "summary": "Zapečene rolice od tikvica punjene rikotom, tvrdim sirom i pestom, složene u paradajz sos s paprikom i zapečene s mocarelom. Tanke trake tikvica, posoljene, omekšaju i savijaju se bez pucanja.",
+      "primaryCategory": "jela-od-povrca-i-mahunarki",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "tikvice",
+        "rikota",
+        "sir",
+        "paradajz"
+      ],
+      "diets": [
+        "bez-jaja",
+        "bez-brasna"
+      ],
+      "methods": [
+        "pecenje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 25,
+        "cookMinutes": 20,
+        "restMinutes": 5,
+        "restLabel": "odmaranja",
+        "totalMinutes": 50
+      },
+      "equipment": {
+        "temperature": 220,
+        "ovenMode": "gornji-donji",
+        "other": "lim ili vatrostalna posuda, tava, gulilica ili ribež za ploške"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": "Sos",
+          "items": [
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "paprika",
+              "amount": 1,
+              "unit": "bez",
+              "label": "crvena paprika",
+              "note": "sitno sjeckana"
+            },
+            {
+              "ingredient": "paradajz-iz-konzerve",
+              "amount": 400,
+              "unit": "g",
+              "label": "pelata",
+              "note": "zgnječenih"
+            },
+            {
+              "ingredient": "origano",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "sušenog origana"
+            },
+            {
+              "ingredient": "majcina-dusica",
+              "amount": 2,
+              "unit": "kasicica",
+              "label": "sušene majčine dušice"
+            },
+            {
+              "ingredient": "cili-pahuljice",
+              "amount": 1,
+              "unit": "prstohvat",
+              "label": "čili pahuljica"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "biber"
+            }
+          ]
+        },
+        {
+          "title": "Rolice",
+          "items": [
+            {
+              "ingredient": "tikvica",
+              "amount": 2,
+              "unit": "bez",
+              "label": "velike tikvice"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so",
+              "note": "za tikvice"
+            },
+            {
+              "ingredient": "rikota",
+              "amount": 375,
+              "unit": "g",
+              "label": "rikote"
+            },
+            {
+              "ingredient": "tvrdi-sir",
+              "amount": 120,
+              "unit": "g",
+              "label": "tvrdog sira",
+              "note": "naribanog, provolone ili gauda"
+            },
+            {
+              "ingredient": "pesto",
+              "amount": 200,
+              "unit": "g",
+              "label": "pesta od bosiljka",
+              "note": "150 g u nadjev, 50 g preko"
+            },
+            {
+              "ingredient": "mocarela",
+              "amount": 125,
+              "unit": "g",
+              "label": "mocarele",
+              "note": "natrgane na komadiće"
+            },
+            {
+              "ingredient": "bosiljak",
+              "unit": "po-ukusu",
+              "label": "svježi bosiljak",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Sos",
+          "steps": [
+            {
+              "text": "Rernu uključite na 220 °C, a vatrostalnu posudu ili lim premažite uljem."
+            },
+            {
+              "text": "Na maslinovom ulju kratko pirjajte papriku, 2–3 minute.",
+              "timerMinutes": 3
+            },
+            {
+              "text": "Umiješajte pelate i začinite sos origanom, majčinom dušicom, čili pahuljicama, solju i biberom."
+            },
+            {
+              "text": "Sos krčkajte desetak minuta, dok se malo ne zgusne.",
+              "timerMinutes": 10
+            }
+          ]
+        },
+        {
+          "title": "Rolice",
+          "steps": [
+            {
+              "text": "Tikvice po dužini isijecite na tanke trake, raširite ih po papiru za pečenje i malo posolite."
+            },
+            {
+              "text": "Rikotu, tvrdi sir i 150 g pesta izmiješajte u ujednačen nadjev."
+            },
+            {
+              "text": "Tri četvrtine sosa rasporedite po dnu lima."
+            },
+            {
+              "text": "Dvije trake preklopite po dužini, na kraj stavite kašiku nadjeva i urolajte."
+            },
+            {
+              "text": "Rolice slažite u sos, završetkom prema dolje."
+            },
+            {
+              "text": "Prelijte ih ostatkom sosa i pesta, pa poredajte mocarelu po vrhu."
+            },
+            {
+              "text": "Pecite 15–20 minuta, da se mocarela rastopi i zapeče.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Ostavite rolice 5 minuta, pa ih pospite bosiljkom.",
+              "timerMinutes": 5
+            }
+          ]
+        }
+      ],
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Traka tikvice koja pukne čim je počnete savijati obično je predebela ili se nije stigla opustiti. Tanka i lagano posoljena, dok se pravi nadjev, postane savitljiva kao list tijesta. Tada se rolice slažu brzo, a nadjev ostane unutra."
+        },
+        {
+          "level": "h2",
+          "title": "Koliko tanke trake?",
+          "body": "Tanke tek nekoliko milimetara. Tako tanko se najlakše reže gulilicom za povrće ili ribežom za tanke listove, cijelom dužinom tikvice. Nožem je teže dobiti ujednačenu debljinu, a deblji kraj trake se lomi. Dvije trake se preklope po dužini, da rolica bude šira i da nadjev ne ispada sa strane."
+        },
+        {
+          "level": "h2",
+          "title": "Sos ide i ispod i preko",
+          "body": "Tri četvrtine paradajz sosa ide na dno lima, a rolice se slažu u njega, završetkom prema dolje. Sos ih drži da se ne odmotaju i daje im vlagu dok se peku. Ostatak sosa i pesta ide preko, a na kraju mocarela. Za dvadesetak minuta na 220 °C sir se rastopi i zapeče, a tikvice omekšaju taman koliko treba."
+        },
+        {
+          "level": "h2",
+          "title": "Nadjev od tri sira i pesta",
+          "body": "Rikota daje nadjevu mekoću, tvrdi sir slanoću, a pesto od bosiljka boju i miris. Provolone ili gauda se rendaju sitno, da se izmiješaju s rikotom bez grudvica. Rolice se jedu kao toplo predjelo, po dvije na tanjiru, ili kao lagan ručak, s hljebom kojim se pokupi sos."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Zapečene rolice od tikvica s rikotom, pestom i mocarelom",
+        "description": "Rolice od tikvica punjene rikotom, tvrdim sirom i pestom, zapečene u paradajz sosu s mocarelom na 220 °C. Kako narezati tanke trake. Recept korak po korak."
+      },
+      "family": "Zapečene tikvice",
+      "sourceNote": "Prepis SNK-NR-035 (pokriva SNK-0528). nasirecepti.com, stari post ID 245: https://nasirecepti.com/rolice-od-tikvica/ (WP izvoz 2026-11-15). Preuzeto: 2 žlice maslinovog ulja, 1 crvena paprika, 400 g zgnječenih pelata, 2 žličice origana, 2 žličice majčine dušice, prstohvat čilija, sol, papar; 2 velike tikvice; 375 g ricotte (→ rikota); 115 g ribanog tvrdog sira (provolone ili gauda); 195 g pesta (oko 150 g u nadjev); 110 g mozzarelle (→ mocarela); bosiljak; 220 °C; sos oko 10 min; tanke ploške, posoliti; ¾ sosa na dno; po dvije ploške, žlica nadjeva, urolati, završetak dolje; ostatak sosa, pesta, mocarela; 15–20 min; 5 min odmora; 25 min pripreme, 20 min pečenja, 4 porcije. Odluka urednika 2026-11-15: čudne brojke iz američkih mjera zaokružene — tvrdi sir 115 → 120 g, pesto 195 → 200 g, mocarela 110 → 125 g (jedna kuglica); rikota 375 g ostaje. Dodano: paprika 2–3 min („kratko“), gulilica ili ribež za ploške."
+    },
+    {
+      "planId": "SNK-NR-036",
+      "slug": "domaca-pogaca",
+      "title": "Domaća pogača bez kvasca",
+      "alternativeNames": [
+        "domaća pogača",
+        "pogača s jogurtom",
+        "pogača s mineralnom vodom",
+        "brza pogača bez kvasca"
+      ],
+      "summary": "Domaća pogača bez kvasca, od brašna, praška za pecivo, kiselog jogurta i mineralne vode, zamiješena i pečena za manje od sat. Prvih deset minuta na 230 °C, pa na 175 °C, i pod krpom da kora ostane mekana.",
+      "primaryCategory": "hljeb-i-slana-peciva",
+      "meals": [
+        "dorucak",
+        "vecera"
+      ],
+      "tags": [
+        "jogurt"
+      ],
+      "diets": [
+        "bez-jaja",
+        "bez-kvasca"
+      ],
+      "methods": [
+        "pecenje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 15,
+        "cookMinutes": 35,
+        "totalMinutes": 50
+      },
+      "equipment": {
+        "temperature": 230,
+        "ovenMode": "gornji-donji",
+        "other": "lim za pečenje; rerna prvo na 230 °C, pa na 175 °C; čista kuhinjska krpa"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 700,
+              "unit": "g",
+              "label": "brašna"
+            },
+            {
+              "ingredient": "prasak-za-pecivo",
+              "amount": 1.5,
+              "unit": "kesica",
+              "label": "praška za pecivo"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "soli"
+            },
+            {
+              "ingredient": "jogurt",
+              "amount": 180,
+              "unit": "g",
+              "label": "kiselog jogurta",
+              "note": "1 čaša"
+            },
+            {
+              "ingredient": "mineralna-voda",
+              "amount": 500,
+              "unit": "ml",
+              "label": "hladne mineralne vode"
+            },
+            {
+              "ingredient": "ulje",
+              "unit": "po-potrebi",
+              "label": "ulje",
+              "note": "za lim"
+            },
+            {
+              "ingredient": "maslac",
+              "unit": "po-ukusu",
+              "label": "maslac",
+              "note": "za premaz",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Uključite rernu na 230 °C i namastite lim."
+            },
+            {
+              "text": "Brašno, prašak za pecivo i so izmiješajte u većoj posudi."
+            },
+            {
+              "text": "Dodajte jogurt i mineralnu vodu, pa zamijesite glatko i ujednačeno tijesto."
+            },
+            {
+              "text": "Tijesto premjestite na pobrašnjenu dasku i pobrašnjenim rukama oblikujte glatku kuglu."
+            },
+            {
+              "text": "Kuglu lagano pritisnite dlanovima u oblik pogače."
+            },
+            {
+              "text": "Stavite je u namašćen lim i viljuškom izbockajte cijelu površinu."
+            },
+            {
+              "text": "Pecite je na 230 °C deset minuta.",
+              "timerMinutes": 10
+            },
+            {
+              "text": "Smanjite rernu na 175 °C i pecite još oko 25 minuta, dok pogača ne porumeni.",
+              "timerMinutes": 25
+            },
+            {
+              "text": "Izvađenu pogaču odmah pokrijte suhom kuhinjskom krpom."
+            },
+            {
+              "text": "Ko voli, toplu pogaču može premazati maslacem."
+            }
+          ]
+        }
+      ],
+      "approach": "tradicionalni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Pogača s kvascem traži sat-dva dizanja, a ova ide u rernu odmah nakon miješenja. Diže je prašak za pecivo i mjehurići iz mineralne vode, pa je gotova za manje od sat, s mekanom sredinom i tankom zlatnom korom. Po teksturi je bliža domaćem hljebu iz tepsije nego dizanoj pogači, i zato se pravi kad hljeba nestane, a do pekare se ne ide."
+        },
+        {
+          "level": "h2",
+          "title": "Mineralna voda i kiseli jogurt",
+          "body": "Mineralna voda unosi ugljen-dioksid, koji u tijestu napravi sitne mjehuriće prije nego što prašak za pecivo proradi u rerni. Zato voda treba biti hladna i tek otvorena, s punim mjehurićima, jer ispuhana ne daje ništa više od obične. Kiseli jogurt sredinu čini mekšom i daje pogači blago kiselkast okus, po kojem se prepoznaje domaća pogača.\n\nTijesto je mekano i malo ljepljivo. Oblikujte ga pobrašnjenim rukama, a brašna u tijesto ne dodajte više nego što treba da se uhvati kugla, jer od svake viška kašike pogača bude tvrđa."
+        },
+        {
+          "level": "h2",
+          "title": "Dvije temperature i krpa",
+          "body": "Deset minuta na 230 °C digne pogaču i stegne joj vrh, a ostatak se peče na 175 °C, da se sredina ispeče prije nego što kora potamni. Izbockana viljuškom, pogača se diže ravnomjerno i ne napravi veliki mjehur ispod kore.\n\nČim izađe iz rerne, pokrijte je suhom kuhinjskom krpom. Para ostane ispod krpe i kora omekša, pa se pogača lako reže i ne mrvi se."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "domace-mekane-kifle"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Domaća pogača bez kvasca s jogurtom i mineralnom vodom",
+        "description": "Domaća pogača bez kvasca od brašna, jogurta i mineralne vode, pečena 10 minuta na 230 °C i 25 minuta na 175 °C. Mekana je i brza. Recept korak po korak."
+      },
+      "family": "Pogače",
+      "sourceNote": "Prepis SNK-NR-036 (pokriva SNK-0323). nasirecepti.com, stari post ID 375: https://nasirecepti.com/domaca-pogaca/ (WP izvoz 2026-11-15). Preuzeto: 700 g brašna, 1 i ½ praška za pecivo (→ 1,5 kesica), 1 žlica soli, 1 čaša kiselog jogurta (→ 180 g), 500 ml mineralne vode; suhi sastojci, jogurt i voda, glatko tijesto; kugla na pobrašnjenoj površini, pritisnuti u oblik pogače; podmazani lim, izbockati vilicom; 10 min na 230 °C, zatim 176 °C (→ 175 °C) oko 25 min; pokriti suhom krpom; po želji maslac; 15 min pripreme, 35 min pečenja, 6 porcija. Napomena: opisi koraka 2–4 su u izvozu bili u poljima za naslove koraka (step_N_naslov). Dodano: hladna mineralna voda, pobrašnjene ruke."
+    },
+    {
+      "planId": "SNK-NR-037",
+      "slug": "pohani-sir",
+      "title": "Pohani sir",
+      "alternativeNames": [
+        "pohovani sir",
+        "pohani sir u tavi",
+        "pohana gauda",
+        "pohani edamer"
+      ],
+      "summary": "Pohani sir od kriški gaude ili edamera debljine centimetar i po, dvaput provučenih kroz jaja i prezle i prženih minut-dva sa svake strane. Korica je hrskava, a sredina se razvlači.",
+      "primaryCategory": "predjela-i-grickalice",
+      "meals": [
+        "vecera"
+      ],
+      "tags": [
+        "sir",
+        "jaja"
+      ],
+      "diets": [],
+      "methods": [
+        "przenje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "cookMinutes": 10,
+        "restMinutes": 20,
+        "restLabel": "hlađenja",
+        "totalMinutes": 40
+      },
+      "equipment": {
+        "other": "tava"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "gauda",
+              "amount": 400,
+              "unit": "g",
+              "label": "polutvrdog sira",
+              "note": "gauda ili edamer"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 4,
+              "unit": "kasika",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 2,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1,
+              "unit": "prstohvat",
+              "label": "soli"
+            },
+            {
+              "ingredient": "biber",
+              "amount": 1,
+              "unit": "prstohvat",
+              "label": "bibera"
+            },
+            {
+              "ingredient": "prezle",
+              "amount": 100,
+              "unit": "g",
+              "label": "prezli"
+            },
+            {
+              "ingredient": "ulje",
+              "unit": "po-potrebi",
+              "label": "ulja",
+              "note": "za prženje"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Sir isijecite na četiri kriške, svaku debelu oko 1,5 cm."
+            },
+            {
+              "text": "Kriške na tanjiru stavite u zamrzivač na 20 minuta.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Pripremite tri tanjira: u jednom brašno, u drugom jaja razmućena sa soli i biberom, a u trećem prezle."
+            },
+            {
+              "text": "Svaku krišku obložite brašnom, pa je provucite kroz jaja i prezle."
+            },
+            {
+              "text": "Još jednom je provucite kroz jaja i prezle i dobro pokrijte rubove."
+            },
+            {
+              "text": "Nalijte u tavu oko 2 cm ulja i dobro ga zagrijte."
+            },
+            {
+              "text": "Pržite kriške minut-dvije po strani, da korica porumeni.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Kratko ih ocijedite na kuhinjskom papiru i odmah poslužite."
+            }
+          ]
+        }
+      ],
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Pohani sir je večera za dan kad mesa nema, a treba nešto toplo i zasitno. Četrdeset deka sira i dva jajeta nahrane četvero, uz pomfrit i salatu. A posla je manje nego sa šniclom, jer se sir ne tuče i ne peče dugo."
+        },
+        {
+          "level": "h2",
+          "title": "Gauda ili edamer",
+          "body": "Za pohovanje uzimam gaudu ili edamer. Polutvrdi sir se u vrelom ulju rastopi taman toliko da se razvlači, a ne pretvori se u tečnost. Mladi i mekani sirevi iscure kroz koricu prije nego što ona porumeni. Trapist i slični sirevi isto dobro rade."
+        },
+        {
+          "level": "h2",
+          "title": "Centimetar i po",
+          "body": "Kriške se režu debele oko centimetar i po. Tanja kriška se rastopi skroz i izgubi oblik. Deblja ostane hladna i tvrda u sredini, a korica za to vrijeme izgori. Od četrdeset deka izađu četiri kriške, po jedna za svakoga."
+        },
+        {
+          "level": "h2",
+          "title": "Rubovi moraju biti pokriveni",
+          "body": "Sir curi na rubovima, jer je tu korica najtanja. Zato se kriška dvaput provlači kroz jaja i prezle, a rubove posebno pritisnite u mrvice. Ulja u tavi neka bude dva prsta, da kriška pliva."
+        },
+        {
+          "level": "h2",
+          "title": "Pomfrit i tartar sos",
+          "body": "Pohani sir se jede odmah, dok se razvlači. Klasičan tanjir je s pomfritom i tartar sosom, a lakši sa zelenom salatom i kriškom limuna."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "pohovane-mozzarella-kuglice"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Pohani sir s hrskavom koricom i rastegljivom sredinom",
+        "description": "Pohani sir od gaude ili edamera: kriške od 1,5 cm, dvaput u jaja i prezle, minut-dva sa svake strane u ulju. Večera uz pomfrit i salatu. Recept korak po korak."
+      },
+      "family": "Pohovani sir",
+      "sourceNote": "Prepis SNK-NR-037. nasirecepti.com, stari post ID 846: https://nasirecepti.com/pohani-sir/ (WP izvoz 2026-11-15). Preuzeto: 400 g polutvrdog sira (gauda ili edamer), 2 jaja, 4 žlice glatkog brašna, 100 g krušnih mrvica (→ prezle), sol, papar, ulje za prženje; 4 ploške debljine oko 1,5 cm; 20 min u zamrzivaču; brašno, jaja, mrvice, pa još jednom jaja i mrvice, rubovi pokriveni; ulje u sloju oko 2 cm; 1–2 min sa svake strane; papirni ubrus; 15 min pripreme, 10 min prženja, 4 porcije. Recept nema svoju stavku u planu (srodno SNK-0504). Trapist kao zamjena dodan kao opšte poznato."
+    },
+    {
+      "planId": "SNK-NR-038",
+      "slug": "pogacice-sa-sirom",
+      "title": "Pogačice sa sirom bez kvasca",
+      "alternativeNames": [
+        "pogačice sa sirom",
+        "peciva sa sirom",
+        "pogačice od sira i margarina",
+        "slane pogačice sa sirom"
+      ],
+      "summary": "Pogačice sa sirom bez kvasca, od tijesta u kojem su brašno i sitni kravlji sir u jednakom omjeru, s margarinom, ohlađenog dva sata i pečenog na 175 °C. Mekane su i dobre i tople i hladne.",
+      "primaryCategory": "hljeb-i-slana-peciva",
+      "meals": [
+        "dorucak"
+      ],
+      "tags": [
+        "sir"
+      ],
+      "diets": [
+        "bez-kvasca"
+      ],
+      "methods": [
+        "pecenje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 25,
+        "unit": "komada",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 20,
+        "cookMinutes": 30,
+        "restMinutes": 120,
+        "restLabel": "hlađenja",
+        "totalMinutes": 170
+      },
+      "equipment": {
+        "temperature": 175,
+        "ovenMode": "gornji-donji",
+        "other": "lim, papir za pečenje, čaša ili okrugli kalup"
+      },
+      "beforeYouStart": "Tijesto mora najmanje dva sata stajati u frižideru prije razvaljavanja.",
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 500,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "svjezi-sir",
+              "amount": 500,
+              "unit": "g",
+              "label": "sitnog kravljeg sira"
+            },
+            {
+              "ingredient": "margarin",
+              "amount": 300,
+              "unit": "g",
+              "label": "margarina"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "soli"
+            },
+            {
+              "ingredient": "prasak-za-pecivo",
+              "amount": 1,
+              "unit": "kesica",
+              "label": "praška za pecivo"
+            },
+            {
+              "ingredient": "zumanjak",
+              "amount": 1,
+              "unit": "bez",
+              "label": "žumanjak",
+              "note": "za premaz"
+            },
+            {
+              "ingredient": "kim",
+              "unit": "po-ukusu",
+              "label": "kim",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Pomiješajte brašno, sir, margarin, so i prašak za pecivo."
+            },
+            {
+              "text": "Zamijesite glatko tijesto."
+            },
+            {
+              "text": "Stavite ga u kesu ili pokrijte i ostavite u frižideru najmanje 2 sata.",
+              "timerMinutes": 120
+            },
+            {
+              "text": "Uključite rernu na 175 °C."
+            },
+            {
+              "text": "Tijesto na pobrašnjenoj dasci razvaljajte na debljinu od oko pola centimetra."
+            },
+            {
+              "text": "Čašom ili okruglim kalupom isijecite krugove."
+            },
+            {
+              "text": "Krugove prebacite na lim obložen papirom."
+            },
+            {
+              "text": "Vrh svake pogačice premažite žumanjkom, a ako volite kim, pospite ih njime."
+            },
+            {
+              "text": "Pecite oko 30 minuta, dok ne porumene.",
+              "timerMinutes": 30
+            },
+            {
+              "text": "Pustite ih da se malo ohlade na limu."
+            }
+          ]
+        }
+      ],
+      "approach": "detaljni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Sir ovdje nije nadjev, nego pola tijesta. Na pola kile brašna ide pola kile sitnog kravljeg sira i 300 grama margarina, bez jaja i bez kvasca, pa pogačice dižu prašak za pecivo i vlaga iz sira. Takvo tijesto je mekano i masno, i bez frižidera se s njim ne može raditi."
+        },
+        {
+          "level": "h2",
+          "title": "Dva sata u frižideru",
+          "body": "Margarin u toplim rukama brzo omekša, a tijesto postane ljepljivo i ne može se razvaljati. Dva sata u frižideru, u kesi ili pokriveno, stegnu masnoću, pa se tijesto razvalja na pola centimetra bez mnogo dodatnog brašna. Mi bismo ga zato vadili iz frižidera u dijelovima, a ostatak ostavljali na hladnom dok se prvi dio ne isiječe."
+        },
+        {
+          "level": "h2",
+          "title": "Čaša se ne okreće",
+          "body": "Krugovi se sijeku čašom ili okruglim kalupom, jednim odlučnim pritiskom. Kad se čaša okrene ili zakrene, rub tijesta se zgnječi i zalijepi, pa se pogačica u rerni ne digne ravno, nego nakrivo. Ostaci se spoje i ponovo razvaljaju, ali samo jednom, jer svako novo razvaljavanje tijesto zagrije i učini ga žilavijim."
+        },
+        {
+          "level": "h2",
+          "title": "Žumanjak i kim",
+          "body": "Premaz od žumanjka daje pogačicama tamniju zlatnu boju. Kim je po želji. Uz sir dobro pristaje, a ko ga ne voli, može ih posuti s malo krupne soli ili ostaviti samo sa žumanjkom.\n\nPogačice su mekane i tople i hladne, pa su zgodne za ponijeti i za goste. U zatvorenoj posudi ostanu mekane i sutradan."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "puzici-sa-sirom",
+        "sirnica"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Pogačice sa sirom bez kvasca, od sira i margarina",
+        "description": "Pogačice sa sirom bez kvasca od brašna, sitnog sira i margarina, ohlađene dva sata i pečene 30 minuta na 175 °C. Dobre su tople i hladne. Recept korak po korak."
+      },
+      "family": "Pogače",
+      "sourceNote": "Prepis SNK-NR-038 (pokriva SNK-0517). nasirecepti.com, stari post ID 424: https://nasirecepti.com/peciva-sa-sirom/ (WP izvoz 2026-11-15). Preuzeto: 500 g glatkog brašna, 500 g sitnog sira, 300 g margarina, ½ žličice soli, 1 prašak za pecivo, 1 žumanjak, kim po želji; zamijesiti, u vrećici ili pokriveno u hladnjaku najmanje 2 sata; razvaljati na oko pola cm; kalupom ili čašom krugovi; lim s papirom; žumanjak, kim; 175 °C oko 30 min; 20 min pripreme, 30 min pečenja, 25 porcija (→ oko 25 komada). Naslov u izvoru („puna nadjeva“) ne odgovara receptu — sir je u tijestu. Dodano kao opšte poznato: rezanje bez okretanja čaše, ostatke razvaljati samo jednom, krupna so umjesto kima."
+    },
+    {
+      "planId": "SNK-NR-039",
+      "slug": "ustipci-bez-jaja",
+      "title": "Uštipci bez jaja",
+      "alternativeNames": [
+        "brzi uštipci bez jaja",
+        "uštipci od brašna i vode",
+        "posni uštipci",
+        "uštipci bez mlijeka i jaja"
+      ],
+      "summary": "Uštipci bez jaja od brašna, praška za pecivo i tople vode, bez mlijeka i bez dizanja: gusta smjesa se kašikom spušta u vrelo ulje i za par minuta naraste u hrskave loptice. Od ove mjere bude oko 8 komada.",
+      "primaryCategory": "hljeb-i-slana-peciva",
+      "meals": [
+        "dorucak"
+      ],
+      "tags": [],
+      "diets": [
+        "posno",
+        "vegetarijansko",
+        "vegansko",
+        "bez-jaja",
+        "bez-mlijeka",
+        "bez-kvasca"
+      ],
+      "methods": [
+        "przenje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 8,
+        "unit": "komada",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 5,
+        "cookMinutes": 10,
+        "totalMinutes": 15
+      },
+      "equipment": {
+        "other": "dublja tava ili šerpa za prženje"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 150,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "prasak-za-pecivo",
+              "amount": 0.5,
+              "unit": "kesica",
+              "label": "praška za pecivo"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "soli"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 150,
+              "unit": "ml",
+              "label": "tople vode"
+            },
+            {
+              "ingredient": "ulje",
+              "unit": "po-potrebi",
+              "label": "ulja",
+              "note": "za prženje"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "U dubljoj tavi ili šerpi počnite grijati ulje, oko 3 cm, na srednje jakoj vatri."
+            },
+            {
+              "text": "U posudi izmiješajte brašno s praškom za pecivo i solju."
+            },
+            {
+              "text": "Dolijte toplu vodu i miješajte kašikom dok ne dobijete glatku, gustu smjesu bez grudvica."
+            },
+            {
+              "text": "Kašiku umočite u vrelo ulje, zahvatite malo smjese i spustite je u ulje."
+            },
+            {
+              "text": "Pržite ih 2–3 minute po strani, dok ne porumene i postanu hrskavi.",
+              "timerMinutes": 3
+            },
+            {
+              "text": "Izvadite ih na kuhinjski papir i poslužite tople."
+            }
+          ]
+        }
+      ],
+      "approach": "brzi",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Smjesa za ove uštipke je gusta i ljepljiva, kao gust jogurt, a ne tijesto koje se mijesi. Ko joj tu doda brašna da je učvrsti, dobije tvrde i teške uštipke. Upravo takva, mekana smjesa u vrelom ulju naraste u šuplju, laganu lopticu s hrskavom korom, i za to ne treba ni jaje ni mlijeko."
+        },
+        {
+          "level": "h2",
+          "title": "Topla voda i odmah u ulje",
+          "body": "Topla voda brže pokrene prašak za pecivo, pa smjesu ne treba ostavljati da stoji. Ulje se grije dok miješate, a smjesa ide u ulje čim je glatka. Ako predugo stoji, prašak potroši snagu prije prženja i uštipci se slabije dignu."
+        },
+        {
+          "level": "h2",
+          "title": "Kašika umočena u ulje",
+          "body": "Kad kašiku prije svakog uštipka umočite u vrelo ulje, smjesa s nje sklizne sama i ne lijepi se. Manji uštipci se ispeku i u sredini, a veliki ostanu gnjecavi, pa zahvatajte pola kašike.\n\nTopli idu sa sirom i kajmakom za doručak, ili s džemom i medom kao nešto slatko."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "hercegovacki-ustipci-s-jogurtom"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Uštipci bez jaja od brašna i vode, gotovi za 15 minuta",
+        "description": "Uštipci bez jaja i bez mlijeka: brašno, prašak za pecivo, so i topla voda, kašikom u vrelo ulje. Oko 8 hrskavih uštipaka za 15 minuta. Recept korak po korak."
+      },
+      "family": "Uštipci",
+      "sourceNote": "Prepis SNK-NR-039 (pokriva SNK-0529). nasirecepti.com, stari post ID 409: https://nasirecepti.com/ustipci-bez-jaja/ (WP izvoz 2026-11-15). Preuzeto: 1 šalica glatkog brašna, 1 šalica tople vode, 1 prašak za pecivo, malo soli, ulje za prženje; brašno, prašak i sol, topla voda, glatka smjesa; dobro zagrijano ulje; žlicom u ulje; nekoliko minuta sa svake strane; papir; posluživanje uz sir, kajmak, džem ili namaz; 10 min pripreme, 10 min prženja, 8 porcija. Odluka urednika 2026-11-15: uobičajene mjere — šolje pretvorene u 150 g brašna i 150 ml tople vode (gusta smjesa za kašiku, omjer oko 1 : 1); prašak 1 kesica na jednu šolju brašna je previše → ½ kesice; so → ½ kašičice; ulje oko 3 cm, 2–3 min po strani; prinos „oko 8 komada“ (ne porcija)."
+    },
+    {
+      "planId": "SNK-NR-040",
+      "slug": "zapecene-naribane-tikvice-sa-sirom",
+      "title": "Zapečene naribane tikvice sa sirom",
+      "alternativeNames": [
+        "naribane tikvice sa sirom",
+        "složenac od naribanih tikvica",
+        "tikvice sa sirom iz rerne",
+        "zapečene tikvice s jajima i sirom"
+      ],
+      "summary": "Zapečene naribane tikvice sa sirom: tikvice posoljene i dobro iscijeđene, pomiješane s jajima, lukom, mocarelom, čedarom i parmezanom, pečene s hrskavim prezlama na vrhu. Režu se kao složenac i ne puštaju vodu.",
+      "primaryCategory": "jela-od-povrca-i-mahunarki",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "tikvice",
+        "sir",
+        "jaja"
+      ],
+      "diets": [],
+      "methods": [
+        "pecenje"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 8,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 25,
+        "cookMinutes": 35,
+        "totalMinutes": 60
+      },
+      "equipment": {
+        "temperature": 190,
+        "ovenMode": "gornji-donji",
+        "other": "vatrostalna posuda oko 20 × 30 cm, kuhinjska krpa za cijeđenje"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "tikvica",
+              "amount": 1,
+              "unit": "kg",
+              "label": "tikvica",
+              "note": "krupno naribanih, oko 4 srednje"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "soli"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 1,
+              "unit": "glavica",
+              "label": "veća glavica crnog luka",
+              "note": "sitno sjeckana"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 4,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 4,
+              "unit": "bez",
+              "label": "jaja"
+            },
+            {
+              "ingredient": "biber",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "svježe mljevenog bibera"
+            },
+            {
+              "ingredient": "mocarela",
+              "amount": 170,
+              "unit": "g",
+              "label": "mocarele",
+              "note": "naribane"
+            },
+            {
+              "ingredient": "tvrdi-sir",
+              "amount": 170,
+              "unit": "g",
+              "label": "čedara",
+              "note": "naribanog, ili gaude"
+            },
+            {
+              "ingredient": "parmezan",
+              "amount": 75,
+              "unit": "g",
+              "label": "parmezana",
+              "note": "naribanog, 50 g u smjesu i 25 g za vrh"
+            },
+            {
+              "ingredient": "prezle",
+              "amount": 40,
+              "unit": "g",
+              "label": "prezli"
+            },
+            {
+              "ingredient": "maslac",
+              "amount": 40,
+              "unit": "g",
+              "label": "maslaca",
+              "note": "otopljenog"
+            },
+            {
+              "ingredient": "vlasac",
+              "unit": "po-ukusu",
+              "label": "svježi vlasac",
+              "note": "sitno sjeckan",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Tikvice krupno naribajte, posolite, promiješajte i ostavite četvrt sata.",
+              "timerMinutes": 15
+            },
+            {
+              "text": "Ocijedite ih u cjedilu, pa ih još istisnite kroz kuhinjsku krpu."
+            },
+            {
+              "text": "Uključite rernu na 190 °C i namastite posudu."
+            },
+            {
+              "text": "Luk pirjajte na ulju dok ne omekša, oko 4 minute.",
+              "timerMinutes": 4
+            },
+            {
+              "text": "Dodajte bijeli luk i pirjajte još minut, dok ne zamiriše.",
+              "timerMinutes": 1
+            },
+            {
+              "text": "U velikoj posudi umutite jaja s biberom."
+            },
+            {
+              "text": "Dodajte tikvice, luk, mocarelu, čedar i 50 g parmezana, pa sve dobro izmiješajte."
+            },
+            {
+              "text": "Smjesu rasporedite u posudu."
+            },
+            {
+              "text": "Pecite 20 minuta.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Prezle pomiješajte s otopljenim maslacem i ostatkom parmezana."
+            },
+            {
+              "text": "Pospite ih po složencu i pecite još 10–15 minuta, dok vrh ne porumeni i postane hrskav.",
+              "timerMinutes": 15
+            },
+            {
+              "text": "Ostavite ga nekoliko minuta, pa ga pospite vlascem."
+            }
+          ]
+        }
+      ],
+      "approach": "prakticni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Ljeti kod mene tikvica ima više nego što se stigne pojesti. Ovaj složenac potroši kilu odjednom. Tikvice se naribaju, iscijede i pomiješaju s jajima i sirom, a odozgo dobiju hrskave prezle. Gotov se reže na kocke, kao pita."
+        },
+        {
+          "level": "h2",
+          "title": "Koliko vode ima u tikvici?",
+          "body": "Mnogo. Naribana i posoljena tikvica za četvrt sata pusti punu šaku vode. Zato je nakon soljenja ocijedite u cjedilu, pa još istisnite kroz kuhinjsku krpu, dok iz nje ne prestane kapati. Ako tu vodu ostavite, ode u posudu, jaja se ne stegnu i složenac pliva."
+        },
+        {
+          "level": "h2",
+          "title": "Tri sira",
+          "body": "Mocarela drži složenac zajedno i razvlači se. Čedar daje boju i jači okus, a parmezan slanoću. Umjesto čedara dobro ide i gauda ili trapist, bilo koji tvrdi sir koji se topi."
+        },
+        {
+          "level": "h2",
+          "title": "Prezle tek poslije 20 minuta",
+          "body": "Mrvice s maslacem i parmezanom idu na složenac kad se on već malo stegne. Da idu od početka, upile bi vlagu odozdo i ostale meke. Ovako se za zadnjih desetak minuta zapeku i ostanu hrskave."
+        },
+        {
+          "level": "h2",
+          "title": "Pet minuta prije rezanja",
+          "body": "Pustite ga par minuta da se slegne. Vruć se raspada pod nožem, a za pet minuta fino se reže na kocke."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "zapecene-rolice-od-tikvica"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Zapečene naribane tikvice sa sirom i hrskavim prezlama",
+        "description": "Naribane tikvice sa sirom: iscijeđene tikvice, jaja, mocarela, čedar i parmezan, zapečeni s prezlama na 190 °C. Ne puštaju vodu. Recept korak po korak."
+      },
+      "family": "Zapečene tikvice",
+      "sourceNote": "Prepis SNK-NR-040 (pokriva SNK-0512). nasirecepti.com, stari post ID 248: https://nasirecepti.com/naribane-tikvice-sa-sirom/ (WP izvoz 2026-11-15). Preuzeto (u šoljama): 8 šalica krupno naribanih tikvica, ½ žličice soli, 1 žlica maslinovog ulja, 1 šalica sjeckanog luka, 4 češnja češnjaka, 4 velika jaja, ½ žličice papra, 1½ šalice naribane mozzarelle, 1½ šalice naribanog cheddara, ¾ šalice parmezana (½ u smjesu, ¼ za vrh), ⅔ šalice panko mrvica, 3 žlice otopljenog maslaca, vlasac; tikvice sa soli 15 min, ocijediti i istisnuti krpom; luk 4 min, češnjak 1 min; jaja, papar, tikvice, luk, sirevi; peći 20 min; mrvice s maslacem i parmezanom, još 10–15 min; 25 min pripreme, 35 min pečenja, 8 porcija. Odluka urednika 2026-11-15: uobičajene mjere — šolje pretvorene: tikvice oko 1 kg, luk 1 veća glavica, mocarela 170 g, čedar 170 g, parmezan 75 g (50 + 25), panko → 40 g prezli, maslac 40 g; temperatura i posuda nisu navedeni → 190 °C, posuda oko 20 × 30 cm."
+    },
+    {
+      "planId": "SNK-NR-041",
+      "slug": "namaz-od-graha-i-tunjevine",
+      "title": "Namaz od graha i tunjevine",
+      "alternativeNames": [
+        "namaz od graha i tune",
+        "namaz od bijelog graha i tunjevine",
+        "namaz od pasulja i tunjevine"
+      ],
+      "summary": "Namaz od graha i tunjevine od bijelog graha iz konzerve, grčkog jogurta, kopra, peršuna, kapara i ljutike, izmiksan tako da ostane malo zrnast. Začin je domaća mješavina majčine dušice, origana i prženog susama.",
+      "primaryCategory": "namazi",
+      "meals": [],
+      "tags": [
+        "grah",
+        "tunjevina"
+      ],
+      "diets": [
+        "bez-jaja",
+        "bez-glutena",
+        "bez-brasna"
+      ],
+      "methods": [
+        "bez-kuhanja"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 8,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 12,
+        "totalMinutes": 12
+      },
+      "equipment": {
+        "other": "multipraktik, mala tava"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": "Začin",
+          "items": [
+            {
+              "ingredient": "susam",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "susama"
+            },
+            {
+              "ingredient": "majcina-dusica",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "sušene majčine dušice"
+            },
+            {
+              "ingredient": "origano",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "sušenog origana"
+            }
+          ]
+        },
+        {
+          "title": "Namaz",
+          "items": [
+            {
+              "ingredient": "bijeli-grah",
+              "amount": 1,
+              "unit": "konzerva",
+              "label": "bijelog graha",
+              "note": "ocijeđenog"
+            },
+            {
+              "ingredient": "grcki-jogurt",
+              "amount": 85,
+              "unit": "g",
+              "label": "grčkog jogurta"
+            },
+            {
+              "ingredient": "kopar",
+              "amount": 10,
+              "unit": "g",
+              "label": "svježeg kopra",
+              "note": "sjeckanog"
+            },
+            {
+              "ingredient": "persun",
+              "amount": 25,
+              "unit": "g",
+              "label": "svježeg peršuna",
+              "note": "sjeckanog"
+            },
+            {
+              "ingredient": "limunov-sok",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "limunovog soka",
+              "note": "od 1 manjeg limuna"
+            },
+            {
+              "ingredient": "tunjevina",
+              "amount": 140,
+              "unit": "g",
+              "label": "tunjevine u maslinovom ulju",
+              "note": "ocijeđene"
+            },
+            {
+              "ingredient": "kapari",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "kapara",
+              "note": "ispranih i ocijeđenih"
+            },
+            {
+              "ingredient": "ljutika",
+              "amount": 1,
+              "unit": "bez",
+              "label": "manja ljutika",
+              "note": "sitno sjeckana"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.5,
+              "amountMax": 0.75,
+              "unit": "kasicica",
+              "label": "soli"
+            },
+            {
+              "ingredient": "biber",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "svježe mljevenog bibera"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "unit": "po-ukusu",
+              "label": "maslinovo ulje",
+              "note": "za posluživanje",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Susam kratko popržite na suhoj tavi, dok ne zamiriše, pa ga pomiješajte s majčinom dušicom i origanom.",
+              "timerMinutes": 2
+            },
+            {
+              "text": "Grah, jogurt i začinsku mješavinu izmiksajte u multipraktiku u kremastu smjesu."
+            },
+            {
+              "text": "Dodajte kopar, peršun i limunov sok, pa kratko izmiksajte."
+            },
+            {
+              "text": "Dodajte tunjevinu, kapare i ljutiku i miksajte samo nekoliko sekundi, da namaz ostane malo zrnast."
+            },
+            {
+              "text": "Probajte, pa dodajte so i biber."
+            },
+            {
+              "text": "Namaz prebacite u posudu, a po želji ga zalijte kapljicom maslinovog ulja."
+            }
+          ]
+        }
+      ],
+      "approach": "brzi",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Bijeli grah iz konzerve je ovdje osnova, a ne dodatak. Izmiksan s grčkim jogurtom daje kremastu podlogu, koja nosi tunjevinu i mnogo zelenog bilja, a ne traži ni majonezu ni ulje u smjesi. Zato je namaz lakši od uobičajenih namaza od tunjevine, a maže se jednako dobro."
+        },
+        {
+          "level": "h2",
+          "title": "Domaći začin umjesto za'atara",
+          "body": "Za'atar je bliskoistočna mješavina sušene majčine dušice ili origana, sumaka i prženog susama. Kod nas se teško nalazi, pa u sastojcima stoji domaća zamjena: majčina dušica, origano i susam, kratko popržen na suhoj tavi da zamiriše. Ako za'atar imate, stavite dvije kašičice umjesto ove mješavine."
+        },
+        {
+          "level": "h2",
+          "title": "Grah prvo, tunjevina zadnja",
+          "body": "Grah, jogurt i začin se izmiksaju u glatku kremu. Bilje i limunov sok idu poslije, i kratko miksanje ostavi zelene komadiće. Tunjevina, kapari i ljutika dolaze zadnji i miksaju se samo nekoliko sekundi, tako da namaz ostane malo zrnast i da se tunjevina vidi."
+        },
+        {
+          "level": "h2",
+          "title": "So tek na kraju",
+          "body": "Kapari i tunjevina su slani, a grah iz konzerve ponekad isto. Zato se so dodaje tek kad je sve izmiksano i probano."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "namaz-od-avokada-i-tunjevine"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Namaz od graha i tunjevine s koprom i kaparima",
+        "description": "Namaz od bijelog graha i tunjevine s grčkim jogurtom, koprom, peršunom i kaparima, sa začinom od majčine dušice, origana i susama. Recept korak po korak."
+      },
+      "family": "Namazi",
+      "sourceNote": "Prepis SNK-NR-041 (pokriva SNK-0510). nasirecepti.com, stari post ID 396: https://nasirecepti.com/namaz-od-graha-i-tune/ (WP izvoz 2026-11-15). Preuzeto: 1 konzerva bijelog graha (cannellini), 85 g grčkog jogurta, 2 žličice za'atara, 10 g kopra, 25 g peršina, sok 1 manjeg limuna, 1 konzerva tune u maslinovom ulju (oko 140 g), 2 žlice kapara, 1 manja ljutika, ½–¾ žličice soli, 1 žličica papra; grah, jogurt, za'atar u multipraktik; kopar, peršin, limun; tuna, kapari, ljutika kratko; sol, papar; maslinovo ulje i bilje; 10 min, 8 porcija. Odluka urednika 2026-11-15: za'atar se kod nas teško nalazi → u sastojcima domaća zamjena (½ kašičice majčine dušice, ½ kašičice origana, 1 kašičica prženog susama), za'atar samo kao opcija u tekstu. Sok limuna → oko 2 kašike."
+    },
+    {
+      "planId": "SNK-NR-042",
+      "slug": "namaz-od-avokada-i-sira",
+      "title": "Namaz od avokada i krem sira",
+      "alternativeNames": [
+        "namaz od avokada i sira",
+        "avokado namaz s krem sirom",
+        "namaz od avokada"
+      ],
+      "summary": "Namaz od avokada i krem sira s limunovim sokom i bijelim lukom, gotov za deset minuta. Krem sir ga čini gušćim od čistog avokada, a limun i folija priljubljena uz površinu čuvaju ga da ne potamni.",
+      "primaryCategory": "namazi",
+      "meals": [],
+      "tags": [
+        "avokado",
+        "sir"
+      ],
+      "diets": [
+        "bez-jaja",
+        "bez-glutena",
+        "bez-brasna"
+      ],
+      "methods": [
+        "bez-kuhanja"
+      ],
+      "difficulty": "lako",
+      "yield": {
+        "servings": 8,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 10,
+        "totalMinutes": 10
+      },
+      "equipment": {
+        "other": "prozirna folija"
+      },
+      "beforeYouStart": null,
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "avokado",
+              "amount": 1,
+              "unit": "bez",
+              "label": "zreli avokado"
+            },
+            {
+              "ingredient": "krem-sir",
+              "amount": 85,
+              "unit": "g",
+              "label": "krem sira"
+            },
+            {
+              "ingredient": "limunov-sok",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "svježeg limunovog soka"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 2,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "so",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "soli"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Avokado prepolovite, izvadite košticu, ogulite ga i isijecite na komadiće."
+            },
+            {
+              "text": "Viljuškom ga zgnječite u glatku ili lagano zrnastu masu."
+            },
+            {
+              "text": "U avokado dodajte krem sir, sjeckani bijeli luk, limunov sok i so."
+            },
+            {
+              "text": "Sve dobro izmiješajte ili kratko izmiksajte u ujednačen namaz."
+            },
+            {
+              "text": "Namaz pokrijte folijom priljubljenom uz površinu i držite ga u frižideru do posluživanja."
+            }
+          ]
+        }
+      ],
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Izgnječen avokado ostavljen na stolu za pola sata posmeđi na površini. Nije pokvaren, ali namaz koji se pravi za goste ili za sutrašnji doručak treba ostati zelen. Zato ovaj recept ima dvije pomoći: limunov sok u smjesi i foliju priljubljenu direktno uz površinu namaza."
+        },
+        {
+          "level": "h2",
+          "title": "Zreo, a svijetlozelen avokado",
+          "body": "Zreo avokado popusti pod prstom kad ga lagano stisnete, a peteljka se lako odvoji i ispod nje je zeleno. Tvrd se ne da izgnječiti u glatku masu, nego ostaje u grudvicama, a prezreo je iznutra smeđ i gorkast. Za ovaj namaz treba onaj između, mekan i svijetlozelen. Krem sir mu poslije daje gustinu, pa se namaz ne razmazuje po hljebu kao čisti avokado."
+        },
+        {
+          "level": "h2",
+          "title": "Limun i folija uz površinu",
+          "body": "Avokado posmeđi kad mu meso dođe u dodir sa zrakom. Limunov sok to usporava, jer kiselina koči proces koji avokado mijenja u smeđe. Folija priljubljena direktno uz namaz, bez zraka između, uradi ostalo: gdje nema zraka, nema ni tamnjenja. Tako pokriven, namaz u frižideru ostane zelen i do sutra ujutro."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "namaz-od-avokada-i-tunjevine"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Namaz od avokada i krem sira s bijelim lukom i limunom",
+        "description": "Namaz od avokada i krem sira s limunovim sokom i bijelim lukom, gotov za 10 minuta. Kako odabrati zreo avokado i sačuvati namaz zelenim. Recept korak po korak."
+      },
+      "family": "Namazi",
+      "sourceNote": "Prepis SNK-NR-042 (pokriva SNK-0508). nasirecepti.com, stari post ID 399: https://nasirecepti.com/namaz-od-avokada-i-sira/ (WP izvoz 2026-11-15). Preuzeto: 1 zreli avokado, 85 g krem sira, 1 žlica limunovog soka, 2 režnja češnjaka, 1 žličica soli; oguliti, košticu, komadi; zgnječiti vilicom; krem sir, limun, češnjak, sol; promiješati ili kratko izmiksati; u hladnjak do posluživanja; 10 min, 8 porcija. Dodano kao opšte poznato: folija priljubljena uz površinu, kako prepoznati zreo avokado."
+    }
+  ]
+}

@@ -7154,6 +7154,7 @@ https://tvojrecept.com/recepti/cicvara-tradicionalni-balkanski-recept
 ### SNK-0323 — Domaća pogača
 
 - **ID:** SNK-0323
+- **Pokriveno prepisom:** SNK-NR-036 (`domaca-pogaca`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Domaća pogača
 - **Glavna ključna riječ:** domaća pogača
 **Vanjski izvor recepture:**
@@ -9693,6 +9694,7 @@ https://nasirecepti.com/cikla-za-zimnicu/
 ### SNK-0496 — Domaća peciva za hamburgere
 
 - **ID:** SNK-0496
+- **Pokriveno prepisom:** SNK-NR-034 (`domaca-peciva-za-hamburgere`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Domaća peciva za hamburgere
 - **Glavna ključna riječ:** hambi peciva
 - **Dodatne ključne riječi:** peciva za hamburgere
@@ -9708,6 +9710,7 @@ https://nasirecepti.com/cikla-za-zimnicu/
 ### SNK-0497 — Hercegovački uštipci s jogurtom
 
 - **ID:** SNK-0497
+- **Pokriveno prepisom:** SNK-NR-031 (`hercegovacki-ustipci-s-jogurtom`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Hercegovački uštipci s jogurtom
 - **Glavna ključna riječ:** hercegovački uštipci
 - **Dodatne ključne riječi:** uštipci s jogurtom; domaći uštipci s medom
@@ -9824,6 +9827,7 @@ https://tvojrecept.com/recepti/ustipci-s-medom
 ### SNK-0504 — Pohovane mozzarella kuglice
 
 - **ID:** SNK-0504
+- **Pokriveno prepisom:** SNK-NR-030 (`pohovane-mozzarella-kuglice`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Pohovane mozzarella kuglice
 - **Glavna ključna riječ:** mozzarella kuglice
 - **Vanjski izvor recepture:** https://nasirecepti.com/mozzarella-kuglice/
@@ -9894,6 +9898,7 @@ https://korisni.com/brzi-recepti/pileci-paprikas
 ### SNK-0508 — Namaz od avokada i sira
 
 - **ID:** SNK-0508
+- **Pokriveno prepisom:** SNK-NR-042 (`namaz-od-avokada-i-sira`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Namaz od avokada i sira
 - **Glavna ključna riječ:** namaz od avokada i sira
 - **Vanjski izvor recepture:** https://nasirecepti.com/namaz-od-avokada-i-sira/
@@ -9910,6 +9915,7 @@ https://korisni.com/brzi-recepti/pileci-paprikas
 ### SNK-0509 — Namaz od avokada i tunjevine
 
 - **ID:** SNK-0509
+- **Pokriveno prepisom:** SNK-NR-027 (`namaz-od-avokada-i-tunjevine`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Namaz od avokada i tunjevine
 - **Glavna ključna riječ:** namaz od avokada i tune
 - **Vanjski izvor recepture:** https://nasirecepti.com/namaz-od-avokada-i-tune/
@@ -9925,6 +9931,7 @@ https://korisni.com/brzi-recepti/pileci-paprikas
 ### SNK-0510 — Namaz od graha i tunjevine
 
 - **ID:** SNK-0510
+- **Pokriveno prepisom:** SNK-NR-041 (`namaz-od-graha-i-tunjevine`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Namaz od graha i tunjevine
 - **Glavna ključna riječ:** namaz od graha i tune
 - **Vanjski izvor recepture:** https://nasirecepti.com/namaz-od-graha-i-tune/
@@ -9940,6 +9947,7 @@ https://korisni.com/brzi-recepti/pileci-paprikas
 ### SNK-0511 — Namaz od slanutka
 
 - **ID:** SNK-0511
+- **Pokriveno prepisom:** SNK-NR-032 (`namaz-od-slanutka`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Namaz od slanutka
 - **Glavna ključna riječ:** namaz od slanutka
 - **Dodatne ključne riječi:** humus; hummus
@@ -9957,6 +9965,7 @@ https://korisni.com/brzi-recepti/pileci-paprikas
 ### SNK-0512 — Zapečene naribane tikvice sa sirom
 
 - **ID:** SNK-0512
+- **Pokriveno prepisom:** SNK-NR-040 (`zapecene-naribane-tikvice-sa-sirom`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Zapečene naribane tikvice sa sirom
 - **Glavna ključna riječ:** naribane tikvice sa sirom
 - **Vanjski izvor recepture:** https://nasirecepti.com/naribane-tikvice-sa-sirom/
@@ -10006,6 +10015,7 @@ https://korisni.com/brzi-recepti/pileci-paprikas
 ### SNK-0515 — Pečeni camembert
 
 - **ID:** SNK-0515
+- **Pokriveno prepisom:** SNK-NR-033 (`peceni-kamamber`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Pečeni camembert
 - **Glavna ključna riječ:** pečeni camembert
 - **Vanjski izvor recepture:** https://nasirecepti.com/peceni-camembert/
@@ -10021,6 +10031,7 @@ https://korisni.com/brzi-recepti/pileci-paprikas
 ### SNK-0516 — Pečeni kesteni iz rerne
 
 - **ID:** SNK-0516
+- **Pokriveno prepisom:** SNK-NR-026 (`peceni-kesteni-iz-rerne`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Pečeni kesteni iz rerne
 - **Glavna ključna riječ:** pečeni kesteni iz rerne
 - **Dodatne ključne riječi:** pečeni kesteni iz pećnice
@@ -10038,6 +10049,7 @@ https://korisni.com/brzi-recepti/pileci-paprikas
 ### SNK-0517 — Pogačice sa sirom bez kvasca
 
 - **ID:** SNK-0517
+- **Pokriveno prepisom:** SNK-NR-038 (`pogacice-sa-sirom`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Pogačice sa sirom bez kvasca
 - **Glavna ključna riječ:** pogačice sa sirom
 - **Dodatne ključne riječi:** peciva sa sirom; pogačice sa sirom bez kvasca
@@ -10154,6 +10166,7 @@ https://korisni.com/rucak/piletina-s-curryjem-i-rizom
 ### SNK-0523 — Punjena jaja s majonezom i senfom
 
 - **ID:** SNK-0523
+- **Pokriveno prepisom:** SNK-NR-029 (`punjena-jaja`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Punjena jaja s majonezom i senfom
 - **Glavna ključna riječ:** punjena jaja
 - **Vanjski izvor recepture:** https://nasirecepti.com/punjena-jaja/
@@ -10186,6 +10199,7 @@ https://korisni.com/rucak/piletina-s-curryjem-i-rizom
 ### SNK-0525 — Pužići sa sirom od dizanog tijesta
 
 - **ID:** SNK-0525
+- **Pokriveno prepisom:** SNK-NR-028 (`puzici-sa-sirom`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Pužići sa sirom od dizanog tijesta
 - **Glavna ključna riječ:** pužići sa sirom
 - **Vanjski izvor recepture:** https://nasirecepti.com/puzici-sa-sirom/
@@ -10241,6 +10255,7 @@ https://korisni.com/zdravi-recepti/rizoto-sa-sampinjonima
 ### SNK-0528 — Zapečene rolice od tikvica sa sirom
 
 - **ID:** SNK-0528
+- **Pokriveno prepisom:** SNK-NR-035 (`zapecene-rolice-od-tikvica`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Zapečene rolice od tikvica sa sirom
 - **Glavna ključna riječ:** rolice od tikvica
 - **Vanjski izvor recepture:** https://nasirecepti.com/rolice-od-tikvica/
@@ -10258,6 +10273,7 @@ https://korisni.com/zdravi-recepti/rizoto-sa-sampinjonima
 ### SNK-0529 — Uštipci bez jaja
 
 - **ID:** SNK-0529
+- **Pokriveno prepisom:** SNK-NR-039 (`ustipci-bez-jaja`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Uštipci bez jaja
 - **Glavna ključna riječ:** uštipci bez jaja
 - **Vanjski izvor recepture:** https://nasirecepti.com/ustipci-bez-jaja/
@@ -13623,3 +13639,20 @@ Recepti preuzeti s nasirecepti.com i napisani ispočetka po `content/PREPIS-NASI
 | SNK-NR-023 | Carsko meso iz rerne s krompirom (pokriva SNK-0492) | carsko-meso-iz-rerne | nasirecepti ID 421 | nacrt |
 | SNK-NR-024 | Mesni uštipci sa sirom (pokriva SNK-0502) | mesni-ustipci-sa-sirom | nasirecepti ID 412 | nacrt |
 | SNK-NR-025 | Punjeni patlidžan s mljevenim mesom (pokriva SNK-0524) | punjeni-patlidzan | nasirecepti ID 415 | nacrt |
+| SNK-NR-026 | Pečeni kesteni iz rerne (pokriva SNK-0516) | peceni-kesteni-iz-rerne | nasirecepti ID 497 | nacrt |
+| SNK-NR-027 | Namaz od avokada i tunjevine (pokriva SNK-0509) | namaz-od-avokada-i-tunjevine | nasirecepti ID 393 | nacrt |
+| SNK-NR-028 | Pužići sa sirom od dizanog tijesta (pokriva SNK-0525) | puzici-sa-sirom | nasirecepti ID 242 | nacrt |
+| SNK-NR-029 | Punjena jaja s majonezom i senfom (pokriva SNK-0523) | punjena-jaja | nasirecepti ID 828 | nacrt |
+| SNK-NR-030 | Pohovane kuglice od mocarele (pokriva SNK-0504) | pohovane-mozzarella-kuglice | nasirecepti ID 148 | nacrt |
+| SNK-NR-031 | Hercegovački uštipci s jogurtom (pokriva SNK-0497) | hercegovacki-ustipci-s-jogurtom | nasirecepti ID 405 | nacrt |
+| SNK-NR-032 | Namaz od slanutka s tahinijem (pokriva SNK-0511) | namaz-od-slanutka | nasirecepti ID 402 | nacrt |
+| SNK-NR-033 | Pečeni kamamber iz rerne (pokriva SNK-0515) | peceni-kamamber | nasirecepti ID 239 | nacrt |
+| SNK-NR-034 | Domaća peciva za hamburgere (pokriva SNK-0496) | domaca-peciva-za-hamburgere | nasirecepti ID 378 | nacrt |
+| SNK-NR-035 | Zapečene rolice od tikvica sa sirom (pokriva SNK-0528) | zapecene-rolice-od-tikvica | nasirecepti ID 245 | nacrt |
+| SNK-NR-036 | Domaća pogača bez kvasca (pokriva SNK-0323) | domaca-pogaca | nasirecepti ID 375 | nacrt |
+| SNK-NR-037 | Pohani sir | pohani-sir | nasirecepti ID 846 | nacrt |
+| SNK-NR-038 | Pogačice sa sirom bez kvasca (pokriva SNK-0517) | pogacice-sa-sirom | nasirecepti ID 424 | nacrt |
+| SNK-NR-039 | Uštipci bez jaja (pokriva SNK-0529) | ustipci-bez-jaja | nasirecepti ID 409 | nacrt |
+| SNK-NR-040 | Zapečene naribane tikvice sa sirom (pokriva SNK-0512) | zapecene-naribane-tikvice-sa-sirom | nasirecepti ID 248 | nacrt |
+| SNK-NR-041 | Namaz od graha i tunjevine (pokriva SNK-0510) | namaz-od-graha-i-tunjevine | nasirecepti ID 396 | nacrt |
+| SNK-NR-042 | Namaz od avokada i krem sira (pokriva SNK-0508) | namaz-od-avokada-i-sira | nasirecepti ID 399 | nacrt |
