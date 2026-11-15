@@ -9966,6 +9966,7 @@ https://korisni.com/brzi-recepti/pileci-paprikas
 ### SNK-0513 — Otkošteni pileći zabatak
 
 - **ID:** SNK-0513
+- **Pokriveno prepisom:** SNK-NR-015 (`otkosteni-pileci-zabataci`, prepis s nasirecepti, 2026-11-15) — ne pisati ponovo.
 - **Recept / radni naslov:** Otkošteni pileći zabatak
 - **Glavna ključna riječ:** otkošteni pileći zabatak
 - **Vanjski izvor recepture:** https://nasirecepti.com/otkosteni-pileci-zabatak/
@@ -13598,3 +13599,6 @@ Recepti preuzeti s nasirecepti.com i napisani ispočetka po `content/PREPIS-NASI
 | SNK-NR-010 | Rižoto s kozicama | rizoto-s-kozicama | nasirecepti ID 879 | nacrt |
 | SNK-NR-011 | Pileća prsa iz rerne s krompirom | pileca-prsa-iz-rerne | nasirecepti ID 500 | nacrt |
 | SNK-NR-012 | Bijelo meso u sosu sa šampinjonima | bijelo-meso-u-sosu | nasirecepti ID 508 | nacrt |
+| SNK-NR-013 | Pileći paprikaš s krompirom | pileci-paprikas | nasirecepti ID 490 | nacrt |
+| SNK-NR-014 | Musaka od patlidžana s bešamelom | musaka-od-patlidzana | nasirecepti ID 362 | nacrt |
+| SNK-NR-015 | Punjeni otkošteni pileći zabataci sa sirom (pokriva SNK-0513) | otkosteni-pileci-zabataci | nasirecepti ID 493 | nacrt |

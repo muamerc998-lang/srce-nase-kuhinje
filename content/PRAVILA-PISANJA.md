@@ -124,7 +124,8 @@ Pravila za promptove i obradu:
 
 **Sadržaj slike**
 - Slika mora prikazivati **baš ovo jelo**: iste glavne sastojke, iste slojeve, isti oblik (rolat, tepsija, krug), realnu boju i teksturu gotovog jela prema receptu. Ništa što nije u receptu (npr. bobičasto voće na torti koja ga nema).
-- Realističan stil fotografije hrane: prirodno dnevno svjetlo, topli tonovi, domaći ambijent (drvena daska, bijeli ili keramički tanjir, laneni ubrus, domaća kuhinja). Bez luksuznih restoranskih kompozicija.
+- Izgled stvarne fotografije iz domaće kuhinje, ne stilizovanog AI „food shoota“: dnevno svjetlo s prozora, prirodne boje, obično posuđe, sitne nesavršenosti (kap sosa, mrvica). Bez luksuznih restoranskih kompozicija.
+- **Scena se rotira** (vidi „Scene“ niže): ista scena najviše 1 u 5 slika. **Ne koristiti** rustičan drveni sto, laneni ubrus kao rekvizit, tamno „moody“ svjetlo ni starinske rekvizite — to je šablon koji odmah izgleda kao AI.
 - **Bez teksta, logotipa, vodenih žigova, ruku s nerealnim prstima, lica ljudi.**
 - Jedna glavna fotografija po receptu; fotografije koraka samo kad pomažu (npr. kako izgleda tijesto).
 
@@ -133,13 +134,27 @@ Pravila za promptove i obradu:
 - Postaviti **fokusnu tačku** na jelo u CMS-u.
 - Naziv fajla: `slug-recepta.webp` (npr. `musaka-s-krompirom.webp`).
 
-**Šablon prompta** (prilagoditi receptu):
+**Šablon prompta** = opis jela + scena + stilski blok:
 ```
-Realistic home-style food photograph of [naziv jela na engleskom + kratak opis izgleda:
-sastojci, slojevi, oblik, boja korice], served on [tanjir/tepsija], on a rustic wooden table
-in a warm Bosnian home kitchen, soft natural daylight from the side, shallow depth of field,
-appetizing but authentic, no text, no logos, no people, 4:3.
+[Opis jela na engleskom: sastojci, slojevi, oblik, boja, posuda; šta NE smije biti na slici.]
+[Jedna scena iz liste niže, s kadrom.]
+Looks like a real photo taken by a home cook with a good phone, not a styled
+food shoot: plain daylight from a nearby window, true-to-life colors, everyday
+tableware, small natural imperfections (a drip of sauce, a few crumbs), moderate
+depth of field with a recognizable background. No rustic wooden table, no linen
+napkin props, no dark moody lighting, no vintage props, no text, no logos, no
+people, no hands, 4:3.
 ```
+
+**Scene** (rotirati; u log upisati koja je korištena):
+- A — bijela kuhinjska radna ploča uz šporet, posuđe tek skinuto s vatre; kadar 45°.
+- B — trpezarijski sto sa šarenom mušemom (sitni cvjetni uzorak), obični bijeli tanjiri, čaša vode; kadar 45°.
+- C — svijetlosiva kamena radna ploča, snimak odozgo (90°).
+- D — na šporetu, u šerpi ili tavi, poklopac sklonjen, malo pare; kadar 45°.
+- E — porodični sto s bijelim stolnjakom, veći pladanj na sredini, tanjiri uokolo; kadar 30–45°.
+- F — krupni kadar jedne porcije na tanjiru, tanjir ispunjava kadar, pozadina samo naznačena.
+- G — tepsija ili lim tek izvađen iz rerne, na radnoj ploči uz otvorena vrata rerne, rukavica za rernu sa strane.
+- H — sto na balkonu ili terasi, dnevno svjetlo, jednobojni stolnjak, saksija u pozadini.
 
 **Označavanje i alt tekst**
 - U polju *Autor fotografije / izvor* upisati: **„AI ilustracija“**.

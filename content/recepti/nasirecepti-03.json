@@ -1,0 +1,756 @@
+{
+  "format": "srce-nase-kuhinje/v1",
+  "ingredients": [
+    {
+      "slug": "patlidzan",
+      "name": "patlidžan",
+      "synonyms": [
+        "plavi patlidžan",
+        "melancane"
+      ],
+      "foodGroup": "povrce"
+    },
+    {
+      "slug": "zacin-za-jela",
+      "name": "začin za jela",
+      "synonyms": [
+        "univerzalni začin",
+        "suhi začin s povrćem",
+        "dodatak jelima"
+      ],
+      "foodGroup": "zacini"
+    }
+  ],
+  "recipes": [
+    {
+      "planId": "SNK-NR-013",
+      "slug": "pileci-paprikas",
+      "title": "Pileći paprikaš s krompirom",
+      "alternativeNames": [
+        "pileći paprikaš",
+        "paprikaš od piletine",
+        "domaći pileći paprikaš"
+      ],
+      "summary": "Pileći paprikaš od cijelog pileta isječenog na komade, s krompirom, mrkvom, paprikom i paradajzom. Na kraju ga zgusne zaprška od brašna i bijelog luka.",
+      "primaryCategory": "variva-i-punjena-jela",
+      "meals": [
+        "rucak"
+      ],
+      "tags": [
+        "piletina",
+        "krompir",
+        "paprika",
+        "paradajz"
+      ],
+      "diets": [
+        "bez-jaja",
+        "bez-mlijeka"
+      ],
+      "methods": [
+        "kuhanje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 6,
+        "unit": "porcija",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 25,
+        "cookMinutes": 70,
+        "totalMinutes": 95
+      },
+      "equipment": {
+        "other": "veći lonac, mala tava za zapršku"
+      },
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "pile",
+              "amount": 1,
+              "unit": "kom",
+              "label": "cijelo pile",
+              "note": "isječeno na komade"
+            },
+            {
+              "ingredient": "ulje",
+              "amount": 1,
+              "unit": "dl",
+              "label": "ulja",
+              "note": "kašika od toga za zapršku"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 2,
+              "unit": "glavica",
+              "label": "crnog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "mrkva",
+              "amount": 1,
+              "unit": "bez",
+              "label": "mrkva"
+            },
+            {
+              "ingredient": "paprika",
+              "amount": 1,
+              "unit": "bez",
+              "label": "paprika"
+            },
+            {
+              "ingredient": "paradajz",
+              "amount": 1,
+              "unit": "bez",
+              "label": "paradajz"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 0.5,
+              "unit": "casa",
+              "label": "vode",
+              "note": "za pirjanje"
+            },
+            {
+              "ingredient": "koncentrat-paradajza",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "koncentrata paradajza"
+            },
+            {
+              "ingredient": "ljuta-aleva-paprika",
+              "amount": 1,
+              "unit": "prstohvat",
+              "label": "ljute aleve paprike"
+            },
+            {
+              "ingredient": "krompir",
+              "amount": 1.5,
+              "unit": "kg",
+              "label": "krompira"
+            },
+            {
+              "ingredient": "lovor",
+              "amount": 1,
+              "unit": "list",
+              "label": "lovora"
+            },
+            {
+              "ingredient": "voda",
+              "amount": 500,
+              "amountMax": 1000,
+              "unit": "ml",
+              "label": "vode",
+              "note": "prema željenoj gustini"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "glatkog brašna",
+              "note": "za zapršku"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 3,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "sitno sjeckanog, za zapršku"
+            },
+            {
+              "ingredient": "persun",
+              "unit": "po-ukusu",
+              "label": "svježeg peršuna",
+              "note": "sjeckanog"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "svježe mljeveni biber"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Pile isijecite na manje komade."
+            },
+            {
+              "text": "Crni luk sitno isjeckajte. Mrkvu, papriku, paradajz i krompir isijecite na komade."
+            },
+            {
+              "text": "Ulje, osim jedne kašike za zapršku, zagrijte u većem loncu i na njemu pržite crni luk dok ne požuti."
+            },
+            {
+              "text": "Dodajte mrkvu, papriku i paradajz, pa ubacite komade piletine."
+            },
+            {
+              "text": "Podlijte s pola čaše vode i pirjajte oko 20 minuta, uz povremeno miješanje.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Umiješajte koncentrat paradajza, ljutu alevu papriku, krompir i lovor."
+            },
+            {
+              "text": "Nalijte od pola litre do litre vode, prema tome koliko gust paprikaš volite."
+            },
+            {
+              "text": "Kuhajte na laganoj vatri 40–50 minuta, dok meso i krompir ne budu sasvim mekani.",
+              "timerMinutes": 40
+            },
+            {
+              "text": "U maloj tavi zagrijte ostavljenu kašiku ulja i kratko propržite brašno i bijeli luk, dok luk ne zamiriše, a brašno ostane svijetlo."
+            },
+            {
+              "text": "Zapršku umiješajte u paprikaš i pustite ga da prokuha još minut-dva."
+            },
+            {
+              "text": "Dodajte peršun, pobiberite, po potrebi posolite i poslužite toplo."
+            }
+          ]
+        }
+      ],
+      "approach": "tradicionalni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Po boji ga prepoznate: gust, tamnocrven sos, u njemu komadi piletine s kostima i krupan krompir. To je jelo na kašiku, negdje između čorbe i gulaša. Koliko će biti gust, odlučujete vi: vodom na početku i zaprškom na kraju."
+        },
+        {
+          "level": "h2",
+          "title": "Cijelo pile, s kostima",
+          "body": "Za paprikaš uzmite cijelo pile i isijecite ga na komade. Može i pile koje vam isijeku u mesnici.\n\nPaprikaš kuham samo od komada s kostima: kosti, koža i hrskavica daju sosu tijelo, a meso uz kost ostane sočno i poslije sat kuhanja.\n\nKrompir isijecite krupnije od mesa. U loncu provede četrdesetak minuta i treba da izdrži, a ne da se raspe u sos."
+        },
+        {
+          "level": "h2",
+          "title": "Zaprška ide na kraju",
+          "body": "Zaprška je ono po čemu domaći paprikaš miriše. Kašika brašna se kratko proprži na ulju zajedno sa sitno sjeckanim bijelim lukom. Samo dok luk ne zamiriše. Brašno ne smije potamnjeti, jer onda gorči.\n\nKad je umiješate, paprikaš neka krčka još minut-dva, da se brašno skuha. Sos se tad zgusne i dobije sjaj."
+        },
+        {
+          "level": "h2",
+          "title": "Voda odlučuje o gustini",
+          "body": "Recept daje raspon, od pola litre do litre. S pola litre paprikaš je gust i jede se viljuškom i hljebom. S litrom je bliži čorbi i jede se kašikom iz dubokog tanjira. Vodu dolijevajte postepeno, jer je lakše dodati nego ukuhati.\n\nLjute aleve paprike je samo prstohvat. Ko voli ljuće, dodaće sebi na sahan, a ljutinu iz lonca ne možete izvaditi.\n\nOstatak se do sutra zgusne, jer krompir povuče tečnost. Pri podgrijavanju dolijte malo vode i grijte na laganoj vatri uz miješanje, da se ne uhvati za dno."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "pileci-gulas"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Pileći paprikaš s krompirom i zaprškom od bijelog luka",
+        "description": "Domaći pileći paprikaš od cijelog pileta s krompirom, paprikom i paradajzom, zgusnut zaprškom s bijelim lukom. Koliko vode za gust ili rjeđi paprikaš."
+      },
+      "family": "Gulaši i paprikaši",
+      "sourceNote": "Prepis SNK-NR-013. nasirecepti.com, stari post ID 490: https://nasirecepti.com/najbolji-pileci-paprikas/ (WP izvoz 2026-11-14). Preuzeto: 1 cijelo pile, 1,5 kg krumpira, 1 dl ulja, 1 mrkva, 1 rajčica, 2 žlice koncentrata, 2 glavice luka, 3 režnja češnjaka, 1 paprika, prstohvat ljute paprike, 1 lovorov list, peršin, sol, papar, 1 žlica brašna za zapršku; luk, povrće, piletina, pola čaše vode, dinstati; na pola kuhanja koncentrat, ljuta paprika, krumpir, lovor, 0,5–1 l vode; 40–50 min na laganoj vatri; zaprška od brašna i češnjaka; 6 porcija; prip. 25 + kuh. 70 min. Izostavljeno: „ili mlađa kokoš“ (kokoši treba znatno duže kuhanje od navedenih 40–50 min — nije provjerljivo iz izvora), „ili 1 žlica masti“ (sajt koristi ulje), pranje piletine. Prvo pirjanje (oko 20 min) izvedeno iz ukupnog vremena kuhanja. Masnoća za zapršku izvor ne navodi: kašika od navedenog ulja. NEDOSTAJE: težina pileta."
+    },
+    {
+      "planId": "SNK-NR-014",
+      "slug": "musaka-od-patlidzana",
+      "title": "Musaka od patlidžana s bešamelom",
+      "alternativeNames": [
+        "musaka od patlidžana",
+        "musaka s patlidžanom",
+        "grčka musaka"
+      ],
+      "summary": "Musaka od patlidžana: pečene kriške patlidžana u slojevima s mljevenim mesom u sosu od pelata, prelivene bešamelom s jajima i zapečene u rerni do zlatne boje.",
+      "beforeYouStart": "Patlidžane posolite prvo, jer im treba malo vremena da puste vodu. Dok stoje, pripremite mesni sos.",
+      "primaryCategory": "jela-s-mesom",
+      "meals": [
+        "rucak"
+      ],
+      "tags": [
+        "patlidzan",
+        "mljeveno-meso",
+        "paradajz"
+      ],
+      "diets": [],
+      "methods": [
+        "pecenje"
+      ],
+      "difficulty": "zahtjevno",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 30,
+        "cookMinutes": 65,
+        "totalMinutes": 95
+      },
+      "equipment": {
+        "temperature": 220,
+        "other": "lim za pečenje, vatrostalna posuda"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Patlidžani i mesni sos",
+          "items": [
+            {
+              "ingredient": "patlidzan",
+              "amount": 5,
+              "unit": "bez",
+              "label": "patlidžana"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-potrebi",
+              "label": "so",
+              "note": "za patlidžane"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 100,
+              "unit": "ml",
+              "label": "maslinovog ulja",
+              "note": "za lim i za meso"
+            },
+            {
+              "ingredient": "crni-luk",
+              "amount": 150,
+              "unit": "g",
+              "label": "crnog luka",
+              "note": "sitno sjeckanog"
+            },
+            {
+              "ingredient": "mljeveno-meso",
+              "amount": 500,
+              "unit": "g",
+              "label": "mljevenog mesa"
+            },
+            {
+              "ingredient": "bijeli-luk",
+              "amount": 2,
+              "unit": "cesanj",
+              "label": "bijelog luka",
+              "note": "protisnuta"
+            },
+            {
+              "ingredient": "paradajz-iz-konzerve",
+              "amount": 400,
+              "unit": "g",
+              "label": "pelata",
+              "note": "oguljeni paradajz iz konzerve"
+            },
+            {
+              "ingredient": "lovor",
+              "amount": 1,
+              "unit": "list",
+              "label": "lovora"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "mljeveni biber"
+            },
+            {
+              "ingredient": "zacin-za-jela",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "začina za jela"
+            },
+            {
+              "ingredient": "persun",
+              "amount": 1,
+              "unit": "kasicica",
+              "label": "sjeckanog peršuna"
+            },
+            {
+              "ingredient": "voda",
+              "unit": "po-potrebi",
+              "label": "vode"
+            }
+          ]
+        },
+        {
+          "title": "Bešamel",
+          "items": [
+            {
+              "ingredient": "maslac",
+              "amount": 40,
+              "unit": "g",
+              "label": "maslaca"
+            },
+            {
+              "ingredient": "glatko-brasno",
+              "amount": 30,
+              "unit": "g",
+              "label": "glatkog brašna"
+            },
+            {
+              "ingredient": "mlijeko",
+              "amount": 500,
+              "unit": "ml",
+              "label": "hladnog mlijeka"
+            },
+            {
+              "ingredient": "so",
+              "amount": 0.5,
+              "unit": "kasicica",
+              "label": "soli"
+            },
+            {
+              "ingredient": "biber",
+              "unit": "po-ukusu",
+              "label": "mljeveni biber"
+            },
+            {
+              "ingredient": "parmezan",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "rendanog parmezana"
+            },
+            {
+              "ingredient": "jaja",
+              "amount": 2,
+              "unit": "bez",
+              "label": "jaja",
+              "note": "razmućena"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Patlidžani",
+          "steps": [
+            {
+              "text": "Patlidžane narežite na kriške i posolite ih."
+            },
+            {
+              "text": "Ostavite ih da kratko odstoje, dok na površini ne izbiju kapljice vode."
+            },
+            {
+              "text": "Isperite ih vrućom vodom i dobro posušite papirnim ubrusom."
+            },
+            {
+              "text": "Zagrijte rernu na 200 °C."
+            },
+            {
+              "text": "Lim premažite maslinovim uljem, poređajte kriške i pecite ih oko 15 minuta.",
+              "timerMinutes": 15
+            }
+          ]
+        },
+        {
+          "title": "Mesni sos",
+          "steps": [
+            {
+              "text": "Crni luk pržite na maslinovom ulju dok ne postane zlatan."
+            },
+            {
+              "text": "Ubacite mljeveno meso i pržite ga kratko, samo dok ne promijeni boju."
+            },
+            {
+              "text": "Umiješajte bijeli luk, pelate, lovor, biber i začin, a po potrebi i malo vode."
+            },
+            {
+              "text": "Pirjajte oko 20 minuta.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Umiješajte peršun, izvadite lovor i probajte, pa po potrebi posolite."
+            }
+          ]
+        },
+        {
+          "title": "Bešamel",
+          "steps": [
+            {
+              "text": "Otopite maslac i na njemu kratko propržite brašno."
+            },
+            {
+              "text": "Hladno mlijeko dolijevajte malo po malo i sve vrijeme miješajte."
+            },
+            {
+              "text": "Kuhajte oko 5 minuta, pa dodajte so, biber i parmezan.",
+              "timerMinutes": 5
+            },
+            {
+              "text": "Ostavite bešamel da se malo prohladi, pa umiješajte razmućena jaja."
+            }
+          ]
+        },
+        {
+          "title": "Slaganje i pečenje",
+          "steps": [
+            {
+              "text": "Pojačajte rernu na 220 °C."
+            },
+            {
+              "text": "Na dno vatrostalne posude složite red patlidžana, pa dio mesnog sosa."
+            },
+            {
+              "text": "Ponovite slojeve, a završite redom patlidžana."
+            },
+            {
+              "text": "Sve ravnomjerno prelijte bešamelom."
+            },
+            {
+              "text": "Pecite 20–30 minuta, da se bešamel stegne i porumeni.",
+              "timerMinutes": 20
+            },
+            {
+              "text": "Poslužite toplo."
+            }
+          ]
+        }
+      ],
+      "approach": "detaljni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "U bosanskim domaćim kuhinjama musaka se uglavnom pravi od krompira i mljevenog mesa, prelivena jajima i pavlakom. Musaka od patlidžana je bliža grčkoj izvedbi: slojevi pečenog patlidžana i mesa u sosu od pelata, a odozgo debeo sloj bešamela. Zbog tri odvojene pripreme traje duže od krompir-verzije, ali nijedan korak nije težak, i svaki ima svoj razlog."
+        },
+        {
+          "level": "h2",
+          "title": "Patlidžan prvo so, pa rerna",
+          "body": "Patlidžan je spužvast i pun vode. So izvuče dio te vode na površinu, pa se na kriškama poslije nekog vremena pojave kapljice. Kad ih isperete vrućom vodom i dobro posušite, ostane meso koje je čvršće i manje gorko.\n\nPečenje prije slaganja ima isti cilj. U rerni kriške omekšaju i izgube još vode, pa je kasnije ne puste u slojeve. Sirov patlidžan bi u musaci kuhao umjesto da se peče, a kriške bi upile mnogo više ulja. Neka budu ujednačene debljine, da se sve ispeku za istih petnaestak minuta."
+        },
+        {
+          "level": "h2",
+          "title": "Koliko gust mora biti mesni sos?",
+          "body": "Toliko da kašika ostavi trag po dnu tave. Pelati puste dosta soka, pa se sos pirja dvadesetak minuta upravo da bi se taj sok ukuhao. Vodu dodajte samo ako se sos počne lijepiti za dno, i to po malo. Rijedak sos bi kroz slojeve iscurio na dno posude, a komadi bi se pri rezanju raspadali.\n\nZačin za jela, kakav se prodaje u kesicama, već sadrži dosta soli. Zato sos probajte tek na kraju, poslije peršuna, i posolite samo ako zaista treba."
+        },
+        {
+          "level": "h2",
+          "title": "Bešamel s jajima",
+          "body": "Bešamel počinje kao svaka zaprška: maslac se otopi, brašno se kratko proprži, tek da izgubi miris sirovog. Mlijeko ide hladno i postepeno, uz stalno miješanje, pa se brašno ravnomjerno rasporedi i ne napravi grudice. Pet minuta kuhanja je dovoljno da se zgusne kao rjeđi puding.\n\nJaja su ono što ovaj preljev razlikuje od običnog bešamela. U rerni se stegnu, pa se gornji sloj lagano digne i drži oblik kad se musaka reže. Zato bešamel prije jaja mora malo odstojati: u vrelom sosu bi se jaja zgrušala u komadiće. Parmezana je samo kašika, više zbog okusa nego zbog korice."
+        },
+        {
+          "level": "h2",
+          "title": "Slažite od patlidžana do patlidžana",
+          "body": "Redoslijed slojeva nije slučajan."
+        },
+        {
+          "level": "h3",
+          "title": "Patlidžan na dnu i na vrhu",
+          "body": "Donji red patlidžana štiti meso od direktne vreline dna posude. Gornji red je podloga za bešamel, pa se preljev ne miješa sa sosom od mesa i ostaje u ravnom, čistom sloju."
+        },
+        {
+          "level": "h3",
+          "title": "Bešamel do rubova",
+          "body": "Preljev rasporedite sve do ivica posude. Tamo gdje patlidžan ostane otkriven, u rerni se osuši i potamni."
+        },
+        {
+          "level": "h3",
+          "title": "Strpljenje prije rezanja",
+          "body": "Vruća musaka se ne reže lijepo, jer bešamel i sos još nisu stegnuti. Pustite je da odstoji dok se malo ne prohladi, pa će komadi držati slojeve."
+        },
+        {
+          "level": "h2",
+          "title": "Kad je gotova",
+          "body": "Temperatura od 220 °C je visoka namjerno: sve u posudi je već skuhano, pa rerna treba samo da stegne bešamel i zapeče ga. Musaka je gotova kad je površina zlatna, ponegdje s tamnijim mrljama, a uz rubove posude sos lagano ključa. Ako vam rerna jače peče odozgo, pratite je od dvadesete minute.\n\nPrvi komad se uvijek malo raspadne, i to je u redu."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "musaka"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Musaka od patlidžana: slojevi mesa i bešamel s jajima",
+        "description": "Musaka od patlidžana s mesnim sosom od pelata i bešamelom s jajima i parmezanom. Zašto se patlidžan soli i prvo peče i kako složiti slojeve."
+      },
+      "family": "Musake",
+      "sourceNote": "Prepis SNK-NR-014. nasirecepti.com, stari post ID 362: https://nasirecepti.com/musaka-od-patlidzana/ (WP izvoz 2026-11-14). Preuzeto: 5 patlidžana, sol, 100 ml maslinova ulja, 150 g luka, 500 g mljevenog mesa (vrsta nije navedena), 2 češnja češnjaka, 400 g pelata, 1 lovorov list, papar, 1 žlica Vegete (brend → začin za jela), 1 žličica peršina, morska sol; bešamel 40 g maslaca, 30 g brašna, 500 ml mlijeka, ½ žličice soli, papar, 1 žlica parmezana, 2 jaja; patlidžani posoliti, kratko odstajati, isprati vrućom vodom, osušiti, 200 °C oko 15 min; luk, meso, češnjak, pelati, lovor, papar, Vegeta, voda po potrebi, pirjati oko 20 min, peršin, sol; bešamel 5 min, sol, papar, parmezan, ohladiti, jaja; slojevi patlidžan–meso–patlidžan, bešamel; 220 °C 20–30 min; 4 porcije; prip. 30 + kuh. 65 min. NEDOSTAJE: koliko dugo patlidžani stoje posoljeni (izvor: „kratko“). Vađenje lovora i odmor prije rezanja dodani kao opšte poznato. Dijeta: nema (jaja, mlijeko)."
+    },
+    {
+      "planId": "SNK-NR-015",
+      "slug": "otkosteni-pileci-zabataci",
+      "title": "Punjeni otkošteni pileći zabataci sa sirom",
+      "alternativeNames": [
+        "otkošteni pileći zabatak",
+        "rolice od pilećih zabataka",
+        "punjeni pileći zabataci"
+      ],
+      "summary": "Otkošteni pileći zabataci u marinadi od senfa, majoneze i majorana, punjeni štapićima sira, zarolani i pečeni u tavi dok korica ne postane zlatnosmeđa.",
+      "beforeYouStart": "Meso treba da odstoji u marinadi bar pola sata, u frižideru.",
+      "primaryCategory": "jela-s-mesom",
+      "meals": [
+        "rucak",
+        "vecera"
+      ],
+      "tags": [
+        "piletina",
+        "sir",
+        "senf"
+      ],
+      "diets": [],
+      "methods": [
+        "przenje"
+      ],
+      "difficulty": "srednje",
+      "yield": {
+        "servings": 4,
+        "unit": "porcije",
+        "scalable": true
+      },
+      "times": {
+        "prepMinutes": 20,
+        "cookMinutes": 30,
+        "restMinutes": 30,
+        "restLabel": "mariniranja",
+        "totalMinutes": 80
+      },
+      "equipment": {
+        "other": "grill tava ili obična tava, čačkalice, termometar za meso"
+      },
+      "ingredientGroups": [
+        {
+          "title": null,
+          "items": [
+            {
+              "ingredient": "pileci-zabataci",
+              "amount": 4,
+              "unit": "kom",
+              "label": "otkoštena pileća zabatka"
+            },
+            {
+              "ingredient": "senf",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "senfa"
+            },
+            {
+              "ingredient": "maslinovo-ulje",
+              "amount": 2,
+              "unit": "kasika",
+              "label": "maslinovog ulja"
+            },
+            {
+              "ingredient": "majoneza",
+              "amount": 1,
+              "unit": "kasika",
+              "label": "majoneze"
+            },
+            {
+              "ingredient": "so",
+              "unit": "po-ukusu",
+              "label": "so"
+            },
+            {
+              "ingredient": "majoran",
+              "unit": "po-ukusu",
+              "label": "nekoliko grančica svježeg majorana"
+            },
+            {
+              "ingredient": "tvrdi-sir",
+              "amount": 150,
+              "unit": "g",
+              "label": "sira",
+              "note": "koji se topi, narezanog na štapiće"
+            }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": null,
+          "steps": [
+            {
+              "text": "Zabatke raširite na dasci, unutrašnjom stranom prema gore."
+            },
+            {
+              "text": "Izmiješajte senf, maslinovo ulje, majonezu, so i listiće majorana."
+            },
+            {
+              "text": "Premažite zabatke marinadom sa svih strana i ostavite ih u frižideru najmanje 30 minuta.",
+              "timerMinutes": 30
+            },
+            {
+              "text": "Sir narežite na štapiće."
+            },
+            {
+              "text": "Uz jedan kraj svakog zabatka poređajte po nekoliko štapića sira i čvrsto ga zarolajte."
+            },
+            {
+              "text": "Svaku rolicu pričvrstite čačkalicama, da se u tavi ne otvori."
+            },
+            {
+              "text": "Ugrijte tavu, običnu ili grill."
+            },
+            {
+              "text": "Rolice zapecite na jakoj vatri, okrećući ih, da dobiju zlatnosmeđu koru odasvud."
+            },
+            {
+              "text": "Smanjite vatru i pecite ih dalje uz povremeno okretanje, dok termometar u sredini mesa ne pokaže 74 °C."
+            },
+            {
+              "text": "Izvucite čačkalice i poslužite."
+            }
+          ]
+        }
+      ],
+      "approach": "tehnika",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Tamno meso zabatka u tavi ne presuši i lijepo se drži oko sira, pa je za punjene rolice taman. Otkošteni zabatak je gornji dio pilećeg bataka kojem je izvađena kost, pa ostane ravan komad mesa koji se lako zarola. Možete ga kupiti već otkoštenog."
+        },
+        {
+          "level": "h2",
+          "title": "Marinada svuda, sir u sredini",
+          "body": "Senf, ulje, majonezu i majoran razmažite po mesu sa obje strane, i po unutrašnjoj. Majoneza se u tavi istopi i pomaže da meso dobije boju, a senf da ne bude bljutavo. Pola sata u frižideru je dovoljno, a može i duže.\n\nZa sir uzmite onaj koji se lijepo topi, kao gauda ili trapist. Mlad i vlažan sir bi iscurio iz rolice.\n\nRolajte čvrsto, od kraja na kojem leži sir. Čačkalice zabodite tako da drže i šav i krajeve."
+        },
+        {
+          "level": "h2",
+          "title": "Jaka vatra za koricu, slaba za sredinu",
+          "body": "Na jakoj vatri rolice za par minuta dobiju koricu sa svih strana. Ako ih tu ostavite do kraja, korica izgori prije nego što se sredina ispeče. Zato se vatra smanji i rolice se peku sporije, uz okretanje, dok meso u sredini ne dostigne 74 °C. Sir je tad već otopljen.\n\nKo ima grill tavu, neka je uzme. Rolice dobiju pruge, a masnoća se skupi u žljebovima umjesto oko mesa."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "punjena-pileca-prsa"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "emir-delic"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Punjeni otkošteni pileći zabataci sa sirom i senfom",
+        "description": "Otkošteni pileći zabataci premazani senfom i majoranom, punjeni sirom, zarolani i pečeni u tavi do 74 °C. Kako zarolati da sir ostane unutra."
+      },
+      "family": "Piletina iz tave",
+      "sourceNote": "Prepis SNK-NR-015 (pokriva i stavku plana SNK-0513 Otkošteni pileći zabatak). nasirecepti.com, stari post ID 493: https://nasirecepti.com/otkosteni-pileci-zabatak/ (WP izvoz 2026-11-14). Preuzeto: 4 otkoštena pileća zabatka, 1 žlica senfa, 2 žlice maslinovog ulja, sol, nekoliko grančica svježeg mažurana, 1 žlica majoneze, 150 g sira na štapiće (izvor: po želji; ovdje osnovni nadjev); marinada najmanje 30 min; sir, zarolati, čačkalice; grill ili obična tava, sa svih strana do zlatnosmeđe korice, pa slabija vatra do potpuno pečenog; 4 porcije; prip. 20 + kuh. 30 min. Izostavljeno: 100 g pršuta (po želji; svinjetina). Dodano po standardu sajta: 74 °C u sredini, mariniranje u frižideru. Vrsta sira nije navedena: „sir koji se topi“ (gauda, trapist) kao opšte poznato."
+    }
+  ]
+}

@@ -98,6 +98,7 @@ Pokreće se: `python -I scripts/provjera-tekstova.py content/recepti/nasirecepti
 - „radni dan“: najviše 1 u 5;
 - ulaz „problem + skoro uvijek / najčešće / gotovo uvijek“: najviše 1 u 5;
 - sekcija razbijena na H3 podnaslove: najviše 1 u 5;
+- naslov u obliku pitanja (H2 ili H3): najviše 1 H2 i 1 H3 po receptu, a recept s takvim naslovom najviše 2 u 5;
 - lični detalj „kod nas“: najviše 1 u 5 tekstova istog autora;
 - isti savjet (npr. zapečeno s dna tave za sos) razvijen u tekstu samo u jednom receptu; u ostalima samo kratko u koraku.
 
@@ -106,7 +107,7 @@ Pokreće se: `python -I scripts/provjera-tekstova.py content/recepti/nasirecepti
 ## 7. Log
 
 U log (npr. `content/log-prepis-nasirecepti.md`) se za svaki recept upisuje:
-SNK ID · stari ID · slug · autor · pristup · tip uvoda · broj H2 · vrste sekcija · oblik grešaka (ako ih ima) · završetak · zadnja rečenica teksta · linkovi · status.
+SNK ID · stari ID · slug · autor · pristup · tip uvoda · broj H2 · vrste sekcija · oblik grešaka (ako ih ima) · završetak · zadnja rečenica teksta · H2 pitanja (broj) · linkovi · status.
 
 **Rotacija iz loga:**
 - isti pristup ne dva puta zaredom i nijedan preko ~25% recepata;

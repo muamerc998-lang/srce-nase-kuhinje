@@ -35,15 +35,15 @@ Upoređeno s 54 recepta na srcenasekuhinje (baza = `content/recepti/serija-*.jso
 | | Piletina u curry umaku | **NEDOSTAJE: stari koraci ne kažu kada ide kisela pavlaka i kada se vraća povrće — ne pisati dok se ne odluči** |
 | 236 | Faširane šnicle u umaku od gljiva | **urađeno → SNK-NR-005**; nije duplikat `cufte-u-sosu` (druge šnicle, drugi sos) |
 | | Ludo tijesto | **NEDOSTAJE: koliko tijesto stoji u frižideru i koliko traje; „2 jogurta“ bez mjere — ne pisati dok se ne odluči** |
-| 362 | Musaka od patlidžana s bešamelom | drugo jelo od `musaka` (s krompirom); u naslovu obavezno „od patlidžana“ |
+| 362 | Musaka od patlidžana s bešamelom | **urađeno → SNK-NR-014**; drugo jelo od `musaka` (s krompirom) |
 | | Musaka od kelja | u naslovu obavezno „od kelja“ |
-| | Rižoto s piletinom | |
+| | Rižoto s piletinom | **SUMNJIVO: 200 g integralne riže, 400 ml tečnosti i ~25 min — integralnoj riži treba znatno više; ne pisati dok se ne odluči** |
 | | Mesni uštipci sa sirom | |
 | | Punjeni patlidžan s mljevenim mesom | |
 | | Piletina s rižom iz pećnice | **SUMNJIVO: sirova riža i bataci s kosti samo 20 min na 180 °C — provjeriti prije pisanja** |
 | | Carsko meso iz pećnice | |
-| | Pileći paprikaš | |
-| 493 | Otkošteni pileći bataci | razlikovati od 870 (punjeni, bez kosti) |
+| | Pileći paprikaš | **urađeno → SNK-NR-013** |
+| 493 | Otkošteni pileći bataci | **urađeno → SNK-NR-015** (bez pršuta) |
 | | Pileća prsa iz pećnice | **urađeno → SNK-NR-011** |
 | | Bijelo meso u umaku s gljivama | **urađeno → SNK-NR-012** |
 | | Grah s mesom (suho meso) | |
@@ -59,20 +59,23 @@ Stari ID-ovi koji nedostaju upisuju se kod izvlačenja recepta.
 
 ## Prepisani recepti
 
-| # | SNK ID | stari ID | slug | autor | pristup | ulaz | fokus | oblik savjeta | završetak | oblici H2 | broj H2 | lični detalj | duhovit ton | riječi iz bazena | linkovi | status | zadnja rečenica |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | SNK-NR-001 | 870 | pileci-bataci-iz-rerne | Emir Delić | prakticni | česta greška (blijeda, gumasta koža) | tehnika (suha koža, razmak, pečenost) | uklopljeno u sekcije (proza) | varijacija (med) | tvrdnja · tvrdnja · sintagma | 3 | stav u 1. licu („Ja ih ne pokrivam folijom“) — nije porodični detalj | ne | krčkaju, fino | u tekstu nema (rečenica s linkom izbačena po pregledu); relatedRecipes pecena-piletina-s-krompirom, servedWith pire-krompir | objavljeno 2026-11-14 (ispravka po pregledu: 74 °C, bez rečenice o prilogu) | Med brže tamni, pa zadnjih deset minuta češće pogledajte u rernu. |
-| 2 | SNK-NR-002 | 852 | rizoto-s-gljivama | Uredništvo | tehnika | poređenje sa sličnim jelom (riža s gljivama iz šerpe) | izbor sastojaka | H3 pod-naslovi | rok ili čuvanje | sintagma · tvrdnja · sintagma · tvrdnja | 4 (+3 H3) | ne | ne | — | nema | objavljeno 2026-11-14 | Bit će ukusan, ali ne više onako kremast kao prvog dana. |
-| 3 | SNK-NR-003 | 867 | pileci-gulas | Emir Delić | prakticni | sastojak (zabatak, a ne prsa) | vrijeme i tempo (krompir na pola puta) | tekuća proza | praktičan savjet | tvrdnja · pitanje | 2 | ne | ne | taman, polahko | relatedRecipes govedji-gulas | nacrt, NEDOSTAJE slika | Ako je pregust, dolijte malo temeljca. |
-| 4 | SNK-NR-004 | 128 | buzara-od-dagnji | Uredništvo | tradicionalni | porijeklo / tradicija (na buzaru, bijela i crvena) | izbor sastojaka (žive dagnje) | pitanje-odgovor | uz šta ide | tvrdnja · pitanje · tvrdnja | 3 | ne | ne | — | nema | nacrt, NEDOSTAJE slika | Buzara se jede iz duboke posude, rukama i kašikom, a uz nju ide domaći hljeb ili prepečene kriške bijelog hljeba, kojima se pokupi sos. |
-| 5 | SNK-NR-005 | 236 | fasirane-snicle | Emir Delić | tehnika | situacija (pola sata, jedna tava) | tehnika (zapeći pa dopeći u sosu) | tekuća proza | praktičan savjet | zapovijed · pitanje · sintagma · sintagma | 4 | ne (izbačeno po pregledu) | ne | malo-pomalo | servedWith pire-krompir; relatedRecipes cufte-u-sosu | nacrt, NEDOSTAJE slika | Neka bude malo rjeđi nego što želite, jer se zgušnjava i dok šnicle stoje. |
-| 6 | SNK-NR-006 | 876 | rizoto-s-povrcem | Uredništvo | brzi | sastojak (tvrdo i mekano povrće) | vrijeme i tempo (povrće u tri navrata) | uklopljeno | varijacija | sintagma · tvrdnja | 2 | ne | ne | — | relatedRecipes rizoto-s-gljivama | nacrt, NEDOSTAJE slika | Patlidžan na kockice može umjesto tikvice, uz isto kratko zapecanje na početku, a umjesto bosiljka na kraju odgovara i sjeckani peršun. |
-| 7 | SNK-NR-007 | 873 | punjena-pileca-prsa | Emir Delić | tehnika | česta greška (suha prsa) | tehnika (džep, tava + rerna, 74 °C) | pitanje-odgovor | praktičan savjet (odmor, sir ne iscuri) | tvrdnja · pitanje · tvrdnja | 3 | ne | ne | taman | servedWith pire-krompir | nacrt, NEDOSTAJE slika | Nadjev se za to vrijeme malo stegne, pa sir ne iscuri kad prerežete. |
-| 8 | SNK-NR-008 | 141 | ravioli-sa-sirom | Uredništvo | detaljni | pitanje (koliko tanko) | izbor sastojaka (brašno, jaja, rikota) | H3 pod-naslovi (pod sekcijom o zatvaranju) | rok ili čuvanje (zamrzavanje) | sintagma · tvrdnja · zapovijed · pitanje | 4 | ne | ne | — | nema | nacrt, NEDOSTAJE slika | Kuhaju se direktno iz zamrzivača, bez odmrzavanja, minut-dva duže od svježih. |
-| 9 | SNK-NR-009 | 230 | piletina-u-sosu-od-senfa | Emir Delić | brzi | sastojak (dva senfa) | vrijeme i tempo | tekuća proza | uz šta ide | sintagma · tvrdnja („Sos se ne kuha dugo“) | 2 | stav u 1. licu („Ja za ovo uzimam zabatke“) | da — 1 rečenica (dogovor oko priloga) | fino | servedWith pire-krompir | nacrt, NEDOSTAJE slika | Uz ovu piletinu fino ide pire krompir, riža ili tjestenina, nešto što pokupi sos. |
-| 10 | SNK-NR-010 | 879 | rizoto-s-kozicama | Uredništvo | tradicionalni | sastojak (glave i ljuske) | tehnika (temeljac od ljuski) | uklopljeno | praktičan savjet (žuti dio kore) | sintagma · pitanje-sintagma · tvrdnja | 3 | ne | ne | — | /recepti/rizoto-s-gljivama/ (u rečenici o parmezanu) | nacrt, NEDOSTAJE slika | Rendajte samo žuti dio kore, jer je bijeli sloj ispod gorak. |
-| 11 | SNK-NR-011 | 500 | pileca-prsa-iz-rerne | Emir Delić | prakticni | poređenje (file i prsa s kožom) | izbor sastojaka | tekuća proza | kratka rečenica (sok preko šnita) | zapovijed · pitanje-sintagma · uslov · sintagma | 4 | da — navika (nedjeljni ručak) | ne | polahko | relatedRecipes pecena-piletina-s-krompirom, pileci-bataci-iz-rerne | nacrt, NEDOSTAJE slika | Sok s dna posude ne bacajte, nego ga prelijte preko šnita. |
-| 12 | SNK-NR-012 | 508 | bijelo-meso-u-sosu | Uredništvo | brzi | naziv jela („bijelo meso“) | tehnika (tučenje, kratko u sosu) | uklopljeno | praktičan savjet (gustina sosa) | pitanje · sintagma | 2 | ne | ne | — | servedWith pire-krompir | nacrt, NEDOSTAJE slika, NEDOSTAJE težina prsa | Sos na kraju kuhajte samo dok se ne zgusne toliko da se lagano hvata za kašiku; ako je pregust, dolijte kašiku-dvije vode. |
+| # | SNK ID | stari ID | slug | autor | pristup | ulaz | fokus | oblik savjeta | završetak | oblici H2 | broj H2 | lični detalj | duhovit ton | riječi iz bazena | linkovi | status | zadnja rečenica | H2 pitanja |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | SNK-NR-001 | 870 | pileci-bataci-iz-rerne | Emir Delić | prakticni | česta greška (blijeda, gumasta koža) | tehnika (suha koža, razmak, pečenost) | uklopljeno u sekcije (proza) | varijacija (med) | tvrdnja · tvrdnja · sintagma | 3 | stav u 1. licu („Ja ih ne pokrivam folijom“) — nije porodični detalj | ne | krčkaju, fino | u tekstu nema (rečenica s linkom izbačena po pregledu); relatedRecipes pecena-piletina-s-krompirom, servedWith pire-krompir | objavljeno 2026-11-14 (ispravka po pregledu: 74 °C, bez rečenice o prilogu) | Med brže tamni, pa zadnjih deset minuta češće pogledajte u rernu. | 0 |
+| 2 | SNK-NR-002 | 852 | rizoto-s-gljivama | Uredništvo | tehnika | poređenje sa sličnim jelom (riža s gljivama iz šerpe) | izbor sastojaka | H3 pod-naslovi | rok ili čuvanje | sintagma · tvrdnja · sintagma · tvrdnja | 4 (+3 H3) | ne | ne | — | nema | objavljeno 2026-11-14 | Bit će ukusan, ali ne više onako kremast kao prvog dana. | 0 |
+| 3 | SNK-NR-003 | 867 | pileci-gulas | Emir Delić | prakticni | sastojak (zabatak, a ne prsa) | vrijeme i tempo (krompir na pola puta) | tekuća proza | praktičan savjet | tvrdnja · pitanje | 2 | ne | ne | taman, polahko | relatedRecipes govedji-gulas | nacrt, NEDOSTAJE slika | Ako je pregust, dolijte malo temeljca. | 1 |
+| 4 | SNK-NR-004 | 128 | buzara-od-dagnji | Uredništvo | tradicionalni | porijeklo / tradicija (na buzaru, bijela i crvena) | izbor sastojaka (žive dagnje) | pitanje-odgovor | uz šta ide | tvrdnja · pitanje · tvrdnja | 3 | ne | ne | — | nema | nacrt, NEDOSTAJE slika | Buzara se jede iz duboke posude, rukama i kašikom, a uz nju ide domaći hljeb ili prepečene kriške bijelog hljeba, kojima se pokupi sos. | 1 |
+| 5 | SNK-NR-005 | 236 | fasirane-snicle | Emir Delić | tehnika | situacija (pola sata, jedna tava) | tehnika (zapeći pa dopeći u sosu) | tekuća proza | praktičan savjet | zapovijed · tvrdnja („Minut sa svake strane, ne više“) · sintagma · sintagma | 4 | ne (izbačeno po pregledu) | ne | malo-pomalo | servedWith pire-krompir; relatedRecipes cufte-u-sosu | nacrt, NEDOSTAJE slika | Neka bude malo rjeđi nego što želite, jer se zgušnjava i dok šnicle stoje. | 0 |
+| 6 | SNK-NR-006 | 876 | rizoto-s-povrcem | Uredništvo | brzi | sastojak (tvrdo i mekano povrće) | vrijeme i tempo (povrće u tri navrata) | uklopljeno | varijacija | sintagma · tvrdnja | 2 | ne | ne | — | relatedRecipes rizoto-s-gljivama | nacrt, NEDOSTAJE slika | Patlidžan na kockice može umjesto tikvice, uz isto kratko zapecanje na početku, a umjesto bosiljka na kraju odgovara i sjeckani peršun. | 0 |
+| 7 | SNK-NR-007 | 873 | punjena-pileca-prsa | Emir Delić | tehnika | česta greška (suha prsa) | tehnika (džep, tava + rerna, 74 °C) | pitanje-odgovor | praktičan savjet (odmor, sir ne iscuri) | tvrdnja · sintagma („Džep s debljeg boka“) · tvrdnja | 3 | ne | ne | taman | servedWith pire-krompir | nacrt, NEDOSTAJE slika | Nadjev se za to vrijeme malo stegne, pa sir ne iscuri kad prerežete. | 0 |
+| 8 | SNK-NR-008 | 141 | ravioli-sa-sirom | Uredništvo | detaljni | pitanje (koliko tanko) | izbor sastojaka (brašno, jaja, rikota) | H3 pod-naslovi (pod sekcijom o zatvaranju) | rok ili čuvanje (zamrzavanje) | sintagma · tvrdnja · zapovijed · pitanje | 4 | ne | ne | — | nema | nacrt, NEDOSTAJE slika | Kuhaju se direktno iz zamrzivača, bez odmrzavanja, minut-dva duže od svježih. | 1 |
+| 9 | SNK-NR-009 | 230 | piletina-u-sosu-od-senfa | Emir Delić | brzi | sastojak (dva senfa) | vrijeme i tempo | tekuća proza | uz šta ide | sintagma · tvrdnja („Sos se ne kuha dugo“) | 2 | stav u 1. licu („Ja za ovo uzimam zabatke“) | da — 1 rečenica (dogovor oko priloga) | fino | servedWith pire-krompir | nacrt, NEDOSTAJE slika | Uz ovu piletinu fino ide pire krompir, riža ili tjestenina, nešto što pokupi sos. | 0 |
+| 10 | SNK-NR-010 | 879 | rizoto-s-kozicama | Uredništvo | tradicionalni | sastojak (glave i ljuske) | tehnika (temeljac od ljuski) | uklopljeno | praktičan savjet (žuti dio kore) | sintagma · pitanje-sintagma · tvrdnja | 3 | ne | ne | — | /recepti/rizoto-s-gljivama/ (u rečenici o parmezanu) | nacrt, NEDOSTAJE slika | Rendajte samo žuti dio kore, jer je bijeli sloj ispod gorak. | 0 |
+| 11 | SNK-NR-011 | 500 | pileca-prsa-iz-rerne | Emir Delić | prakticni | poređenje (file i prsa s kožom) | izbor sastojaka | tekuća proza | kratka rečenica (sok preko šnita) | zapovijed · pitanje-sintagma · uslov · sintagma | 4 | da — navika (nedjeljni ručak) | ne | polahko | relatedRecipes pecena-piletina-s-krompirom, pileci-bataci-iz-rerne | nacrt, NEDOSTAJE slika | Sok s dna posude ne bacajte, nego ga prelijte preko šnita. | 0 |
+| 12 | SNK-NR-012 | 508 | bijelo-meso-u-sosu | Uredništvo | brzi | naziv jela („bijelo meso“) | tehnika (tučenje, kratko u sosu) | uklopljeno | praktičan savjet (gustina sosa) | pitanje · sintagma | 2 | ne | ne | — | servedWith pire-krompir | nacrt, NEDOSTAJE slika, NEDOSTAJE težina prsa | Sos na kraju kuhajte samo dok se ne zgusne toliko da se lagano hvata za kašiku; ako je pregust, dolijte kašiku-dvije vode. | 1 |
+| 13 | SNK-NR-013 | 490 | pileci-paprikas | Emir Delić | tradicionalni | ukus, miris ili izgled (boja, gustina) | izbor sastojaka (cijelo pile s kostima) | tekuća proza | rok ili čuvanje | sintagma · tvrdnja · tvrdnja („Voda odlučuje o gustini“) | 3 | stav u 1. licu („Paprikaš kuham samo od komada s kostima“) | ne | krčka, sahan | relatedRecipes pileci-gulas | nacrt, NEDOSTAJE slika | Pri podgrijavanju dolijte malo vode i grijte na laganoj vatri uz miješanje, da se ne uhvati za dno. | 0 |
+| 14 | SNK-NR-014 | 362 | musaka-od-patlidzana | Uredništvo | detaljni | poređenje (musaka s krompirom / grčka) | tehnika (so i pečenje patlidžana, bešamel s jajima) | H3 pod-naslovi (slaganje) | kratka rečenica | tvrdnja · pitanje · sintagma · zapovijed · uslov | 5 | ne | ne | — | relatedRecipes musaka | nacrt, NEDOSTAJE slika | Prvi komad se uvijek malo raspadne, i to je u redu. | 1 |
+| 15 | SNK-NR-015 | 493 | otkosteni-pileci-zabataci | Emir Delić | tehnika (4/15 ≈ 27 %, u granici „~25 %“) | sastojak (tamno meso drži se oko sira) | prilika / izgled (rolice) | uklopljeno | varijacija (grill tava) | sintagma · tvrdnja („Jaka vatra za koricu, slaba za sredinu“) | 2 | ne | ne | taman | relatedRecipes punjena-pileca-prsa | nacrt, NEDOSTAJE slika | Rolice dobiju pruge, a masnoća se skupi u žljebovima umjesto oko mesa. | 0 |
 
 ## Briefovi
 
@@ -136,3 +139,25 @@ Provjere (scratchpad provjera.py): 0 hrvatskih riječi, 0 rečenica iz starih po
 - 2026-11-15: objavljeni SNK-NR-008 (ravioli), 009 (piletina u senfu), 011 (pileća prsa iz rerne), 012 (bijelo meso) — odluka urednika: 4 danas.
 - SNK-NR-010 rižoto s kozicama: slika povezana, **zakazan za 2026-12-07** (sedmicu nakon rižota s povrćem).
 - SNK-NR-007 punjena pileća prsa: NEDOSTAJE slika — nacrt.
+
+### 13–15 — briefovi i odluke (2026-11-15)
+
+- Rotacija: na 15 recepata prakticni, tehnika i brzi već po 3, pa su #13 tradicionalni, #14 detaljni, a #15 tehnika (4/15 ≈ 27 %).
+- Granice šablona: bez „kod nas“ (Emir: već #11 u prozoru), bez šale (Emir: #9 u prozoru), bez rečenice o prilogu na kraju, bez „radni dan“ / „jedna tava“; H3 samo u #14 (prozor #10–14 bez drugih H3).
+- Izbjegnuto ponavljanje: savjet o čačkalicama (već #7) izbačen iz #15; Emirov ugao „prsa/file, a ne…“ (#3, #11) u #13 zamijenjen „samo komadi s kostima“.
+- #13: izostavljena „mlađa kokoš“ i mast; pirjanje 20 min izvedeno iz ukupnog vremena; zaprška na kašiki ulja. #14: Vegeta → začin za jela; vrsta mljevenog mesa nije navedena. #15: bez pršuta, 74 °C, sir koji se topi.
+- 372 rižoto s piletinom: nije pisan (SUMNJIVO, vidi tabelu).
+
+### Pregled urednika 2026-11-15 (SNK-NR-013 do 015) — ispravljeno
+
+- #13: uvod bez naziva jela („Po boji ga prepoznate…“); spojene dvije rečenice koje su govorile isto (kosti daju sos), ostalo Emirovo mišljenje; „Koliko vode?“ → „Voda odlučuje o gustini“.
+- #15: uvod kroz tamno meso koje se drži oko sira, definicija u drugoj rečenici; „Zašto dvije vatre u istoj tavi?“ → „Jaka vatra za koricu, slaba za sredinu“.
+- #14: oznake „(H3)“ nisu bile u tekstu ni u bazi — samo u prikazu za pregled u chatu; na stranici su pravi H3 naslovi.
+- Novo pravilo: naslov u obliku pitanja najviše 1 H2 i 1 H3 po receptu i najviše 2 u 5 recepata (provjera-tekstova.py). Da bi cijela serija prošla: #5 (objavljen, ponovo objavljen) „Zašto samo minut sa svake strane?“ → „Minut sa svake strane, ne više“; #7 (nacrt) „Kako napraviti džep?“ → „Džep s debljeg boka“.
+
+### Slike 2026-11-15 (novi stil, scene iz PRAVILA-PISANJA §6)
+
+- #13 pileći paprikaš — scena B (mušema) — domaci-pileci-paprikas-s-krompirom
+- #14 musaka od patlidžana — scena G (iz rerne) — musaka-od-patlidzana-s-besamelom
+- #15 otkošteni zabataci — scena F (krupni kadar) — punjene-rolice-od-pilecih-zabataka-sa-sirom
+- #7 punjena pileća prsa — scena E (porodični sto) — pileca-prsa-punjena-spinatom-rikotom-i-mocarelom

@@ -75,5 +75,33 @@
     "alt": "Istučeni pileći odresci u kremastom bijelom sosu sa šampinjonima na listiće, u tavi",
     "focalX": 50,
     "focalY": 55
+  },
+  {
+    "slug": "pileci-paprikas",
+    "file": "domaci-pileci-paprikas-s-krompirom",
+    "alt": "Pileći paprikaš s komadima piletine s kostima, krompirom, mrkvom i paprikom u gustom crvenom sosu, u dubokom tanjiru uz hljeb",
+    "focalX": 45,
+    "focalY": 55
+  },
+  {
+    "slug": "musaka-od-patlidzana",
+    "file": "musaka-od-patlidzana-s-besamelom",
+    "alt": "Musaka od patlidžana u staklenoj posudi i odrezan komad na tanjiru sa slojevima patlidžana, mljevenog mesa i zapečenog bešamela",
+    "focalX": 50,
+    "focalY": 55
+  },
+  {
+    "slug": "otkosteni-pileci-zabataci",
+    "file": "punjene-rolice-od-pilecih-zabataka-sa-sirom",
+    "alt": "Četiri zapečene rolice od otkoštenih pilećih zabataka, jedna prerezana s istopljenim sirom u sredini, uz grančicu mažurana",
+    "focalX": 55,
+    "focalY": 50
+  },
+  {
+    "slug": "punjena-pileca-prsa",
+    "file": "pileca-prsa-punjena-spinatom-rikotom-i-mocarelom",
+    "alt": "Pileća prsa punjena špinatom, rikotom i mocarelom, isječena ukoso na bijelom pladnju, posuta slatkom paprikom",
+    "focalX": 45,
+    "focalY": 55
   }
 ]

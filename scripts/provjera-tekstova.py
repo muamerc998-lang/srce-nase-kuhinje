@@ -46,6 +46,7 @@ LIMITS = [
     ('„radni dan“', lambda r: 'radni dan' in art(r).lower() or 'radni dan' in r['summary'].lower(), 1, 5),
     ('ulaz „skoro uvijek / najčešće / gotovo uvijek“', lambda r: bool(re.search(r'skoro uvijek|najčešće|gotovo uvijek', intro(r), re.I)), 1, 5),
     ('sekcija razbijena na H3 podnaslove', lambda r: any(a['level'] == 'h3' for a in r['article']), 1, 5),
+    ('naslov (H2 ili H3) u obliku pitanja', lambda r: any((a['title'] or '').rstrip().endswith('?') for a in r['article']), 2, 5),
 ]
 PER_AUTHOR = [('lični detalj „kod nas“', lambda r: bool(re.search(r'\b[Kk]od nas\b', art(r))), 1, 5)]
 
@@ -62,6 +63,7 @@ for r in recs:
     h3 = sum(1 for a in r['article'] if a['level'] == 'h3')
     print(f"{r.get('planId')} {r['slug']} · {r['authors'][0]} · {r.get('approach')} | SEO {len(r['seo']['title'])}/{len(r['seo']['description'])} | riječi {len(w(arts))} | H2 {h2} H3 {h3} | rečenice ø{round(sum(L)/len(L),1)} max {max(L)}")
     print(f"    zadnja rečenica: {sents[-1] if sents else ''}")
+    print(f"    H2 pitanja: {sum(1 for a in r['article'] if a['level'] == 'h2' and (a['title'] or '').rstrip().endswith('?'))}")
     issues = []
     if not 45 <= len(r['seo']['title']) <= 60: issues.append('SEO naslov izvan 45–60')
     if not 140 <= len(r['seo']['description']) <= 160: issues.append('meta opis izvan 140–160')
@@ -70,6 +72,9 @@ for r in recs:
     inf = [s['text'][:40] for g in r['stepGroups'] for s in g['steps'] if re.match(r'^\w+(ti|ći)\b', s['text'])]
     if inf: issues.append(f'infinitiv u koracima: {inf}')
     if '!' in txt: issues.append('uskličnik')
+    for lvl in ('h2', 'h3'):
+        qn = sum(1 for a in r['article'] if a['level'] == lvl and (a['title'] or '').rstrip().endswith('?'))
+        if qn > 1: issues.append(f'{lvl.upper()} u obliku pitanja: {qn} (najviše 1 po receptu)')
     bad = re.findall(BANNED, txt, re.I)
     if bad: issues.append(f'zabranjene fraze: {bad}')
     m = re.search(r'stari post ID (\d+)', r.get('sourceNote') or '')

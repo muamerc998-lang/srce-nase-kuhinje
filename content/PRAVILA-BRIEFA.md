@@ -41,7 +41,7 @@ Kombinacije su ono što daje raznolikost, ne broj šablona.
 
 **Završetak:** praktičan savjet · uz šta ide · varijacija · rok ili čuvanje · kratka rečenica bez "zaključka". Nikad "Zaključak", "Uživajte" ni preporuka drugog recepta samo zbog linka.
 
-**Oblik H2 naslova:** tvrdnja · pitanje · imenica ili sintagma · savjet u obliku zapovijedi. Miješati ih i unutar jednog teksta.
+**Oblik H2 naslova:** tvrdnja · pitanje · imenica ili sintagma · savjet u obliku zapovijedi. Miješati ih i unutar jednog teksta. **Pitanje najviše jednom po receptu (H2 i H3 posebno), a naslov u obliku pitanja u najviše 2 od zadnjih 5 recepata.**
 
 ## 4. Red "Ne ponavljati" (obavezno)
 
