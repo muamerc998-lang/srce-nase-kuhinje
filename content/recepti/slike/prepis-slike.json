@@ -40,5 +40,40 @@
     "alt": "Rižoto s kockicama tikvice, mrkve i paprike, graškom i listićima bosiljka na bijelom tanjiru",
     "focalX": 45,
     "focalY": 60
+  },
+  {
+    "slug": "ravioli-sa-sirom",
+    "file": "domaci-ravioli-s-rikotom-na-maslacu",
+    "alt": "Domaći četvrtasti ravioli sa sirom, prženi na maslacu i posuti rendanim parmezanom, na bijelom tanjiru",
+    "focalX": 50,
+    "focalY": 55
+  },
+  {
+    "slug": "piletina-u-sosu-od-senfa",
+    "file": "piletina-u-kremastom-sosu-s-dva-senfa",
+    "alt": "Pileći zabataci u kremastom sosu od pavlake i senfa sa zrnima, posuti začinskim biljem, u tavi",
+    "focalX": 45,
+    "focalY": 55
+  },
+  {
+    "slug": "rizoto-s-kozicama",
+    "file": "rizoto-s-kozicama-i-limunovom-koricom",
+    "alt": "Rižoto s očišćenim kozicama i cijelim kozicama odozgo, posut peršunom i limunovom koricom",
+    "focalX": 50,
+    "focalY": 55
+  },
+  {
+    "slug": "pileca-prsa-iz-rerne",
+    "file": "pecena-pileca-prsa-s-kozom-zalfijom-i-krompirom",
+    "alt": "Pečena pileća prsa sa zlatnom kožom, djelimično narezana, uz krompir, žalfiju i ljutu papričicu u posudi",
+    "focalX": 50,
+    "focalY": 50
+  },
+  {
+    "slug": "bijelo-meso-u-sosu",
+    "file": "bijelo-meso-u-kremastom-sosu-sa-sampinjonima",
+    "alt": "Istučeni pileći odresci u kremastom bijelom sosu sa šampinjonima na listiće, u tavi",
+    "focalX": 50,
+    "focalY": 55
   }
 ]
