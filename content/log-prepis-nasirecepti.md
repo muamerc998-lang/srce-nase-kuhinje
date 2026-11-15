@@ -127,3 +127,9 @@ Provjere (scratchpad provjera.py): 0 hrvatskih riječi, 0 rečenica iz starih po
 - Piletina: 74 °C na cijelom sajtu (#1 ispravljen i ponovo objavljen).
 - #4: „Buzara nije jedno jelo, nego način kuhanja.“
 - Zakazivanje: rižota (#2, #6, #10) nikad dva u istoj sedmici.
+
+### Objava i zakazivanje
+
+- 2026-11-14: objavljeni SNK-NR-001, 002.
+- 2026-11-15: objavljeni SNK-NR-003 (gulaš), 004 (buzara), 005 (šnicle).
+- SNK-NR-006 rižoto s povrćem: slika povezana, **zakazan za 2026-11-30** (cron 6:00) — sedmicu i više nakon rižota s gljivama.

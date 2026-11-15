@@ -21,7 +21,7 @@ export const Recipes: CollectionConfig = {
         ? `${siteUrl()}/api/site/preview?collection=recipes&slug=${encodeURIComponent(String(doc.slug))}`
         : null,
   },
-  versions: { drafts: { autosave: false, schedulePublish: false }, maxPerDoc: 30 },
+  versions: { drafts: { autosave: false, schedulePublish: true }, maxPerDoc: 30 },
   access: {
     read: publishedOrStaff,
     readVersions: isStaff,

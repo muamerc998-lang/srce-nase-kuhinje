@@ -65,6 +65,20 @@ export default buildConfig({
     prodMigrations: migrations,
   }),
   sharp,
+  // Zakazana objava (recepti: „Zakaži objavu“ u CMS-u). Zadatak schedulePublish Payload dodaje sam;
+  // pokreće ga Vercel Cron (vercel.json) preko GET /api/payload-jobs/run jednom dnevno.
+  // Pokretanje smije prijavljeni urednik, Vercel Cron s CRON_SECRET-om, a dok CRON_SECRET nije
+  // postavljen i zahtjev s user-agentom vercel-cron (endpoint izvršava samo poslove kojima je rok prošao).
+  jobs: {
+    access: {
+      run: ({ req }) => {
+        if (req.user) return true
+        const secret = process.env.CRON_SECRET
+        if (secret) return req.headers.get('authorization') === `Bearer ${secret}`
+        return (req.headers.get('user-agent') || '').startsWith('vercel-cron')
+      },
+    },
+  },
   upload: { limits: { fileSize: 15_000_000 } },
   plugins: [
     s3Storage({

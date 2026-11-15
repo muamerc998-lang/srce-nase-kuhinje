@@ -145,3 +145,5 @@ Ako slike za recept nema, recept ostaje nacrt i u izvještaju piše `NEDOSTAJE: 
 9. Izvještaj: šta je urađeno, šta je NEDOSTAJE, šta treba odluku.
 
 **Pregled urednika:** prvih 5 recepata se čitaju svi, a poslije svaki peti. Objava i zakazivanje tek nakon pregleda: 2–4 dnevno, izmiješane kategorije, nikad cijela kategorija zaredom. Srodna jela (npr. rižota) razmaknuti: nikad dva iz iste porodice u istoj sedmici.
+
+**Zakazivanje:** u CMS-u na receptu „Zakaži objavu“ (datum i vrijeme), ili skriptom preko `payload.jobs.queue({ task: 'schedulePublish', … })`. Zakazane objave izvršava Vercel Cron jednom dnevno u 6:00 (5:00 UTC, `vercel.json`), pa recept izlazi tog jutra. Recept mora imati sliku prije zakazanog dana.
