@@ -318,3 +318,7 @@ Scene: #26 G (kesteni) · #27 H · #28 A · #29 B · #30 F · #31 D · #32 C. Fa
 Slike #33 (E, kamamber — druga verzija, prva imala natpis na kutiji) i #41 (F, namaz od graha — druga verzija, prva na drvenom stolu): kamamber-pecen-u-drvenoj-kutijici, zrnasti-namaz-od-bijelog-graha-s-kaparima.
 Slika #40 (G, tikvice — treća verzija, evropska kuhinja): slozenac-od-rendanih-tikvica-i-tri-sira.
 Slike #34 G, #35 H, #36 A, #37 B, #38 C (nove verzije s evropskom kuhinjom): okrugla-peciva-sa-susamom-tek-pecena, rolice-tikvica-s-rikotom-u-paradajz-sosu, okrugla-pogaca-s-jogurtom-i-mineralnom, przene-kriske-gaude-u-pohovanju, male-pogacice-od-sira-s-kimom.
+
+### Raspored predjela 26–42 (2026-11-16)
+
+Po jedno predjelo dnevno uz glavno jelo (posao u 04:00Z, cron u 05:00 UTC): 17.11 kesteni · 18.11 punjena jaja · 19.11 namaz avokado–tunjevina · 20.11 hercegovački uštipci · 21.11 kuglice od mocarele · 22.11 namaz od slanutka · 23.11 pužići · 24.11 kamamber · 25.11 rolice od tikvica · 26.11 peciva za hamburgere · 27.11 namaz grah–tunjevina · 28.11 pohovani sir · 29.11 pogača · 30.11 naribane tikvice · 1.12 pogačice · 2.12 uštipci bez jaja · 3.12 namaz avokado–krem sir. Razmaci: avokado 14 dana, pohovani sirevi 7, tunjevina 8, uštipci 12, pogača/pogačice 2. Uštipci bez jaja i namaz avokado–krem sir u trenutku zakazivanja još bez slike.
