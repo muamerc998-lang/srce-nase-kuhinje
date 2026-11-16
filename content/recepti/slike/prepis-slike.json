@@ -173,5 +173,54 @@
     "alt": "Osam polovica patlidžana punjenih mljevenim mesom, paradajzom i peršunom, sa zapečenim sirom, u limu",
     "focalX": 50,
     "focalY": 50
+  },
+  {
+    "slug": "peceni-kesteni-iz-rerne",
+    "file": "kesteni-zarezani-u-krst-peceni-na-limu",
+    "alt": "Pečeni kesteni zarezani u krst na limu pored otvorene rerne, četiri oguljena kestena i ljuske sa strane",
+    "focalX": 45,
+    "focalY": 55
+  },
+  {
+    "slug": "namaz-od-avokada-i-tunjevine",
+    "file": "sendvic-s-kremom-od-avokada-i-tune",
+    "alt": "Zdjela namaza od avokada i tunjevine s krastavcem i dvije polovine sendviča s istim namazom",
+    "focalX": 50,
+    "focalY": 55
+  },
+  {
+    "slug": "puzici-sa-sirom",
+    "file": "rolice-od-dizanog-tijesta-s-kravljim-sirom",
+    "alt": "Lim pužića od dizanog tijesta sa sirom i susamom, jedan prelomljen da se vidi mekana sredina",
+    "focalX": 50,
+    "focalY": 55
+  },
+  {
+    "slug": "punjena-jaja",
+    "file": "polovice-jaja-punjene-zumanjkom-i-senfom",
+    "alt": "Dvanaest polovica punjenih jaja posutih alevom paprikom i vlascem na bijelom tanjiru",
+    "focalX": 50,
+    "focalY": 55
+  },
+  {
+    "slug": "pohovane-mozzarella-kuglice",
+    "file": "przene-kuglice-mocarele-u-prezlama",
+    "alt": "Pohovane kuglice od mocarele na tanjiru, jedna prelomljena s istopljenim sirom, uz paradajz sos",
+    "focalX": 45,
+    "focalY": 60
+  },
+  {
+    "slug": "hercegovacki-ustipci-s-jogurtom",
+    "file": "kvadratni-ustipci-napuhani-u-tavi",
+    "alt": "Kvadratni uštipci napuhani u vrelom ulju u tavi, a pored tanjir s gotovim i jednim prelomljenim šupljim uštipkom",
+    "focalX": 50,
+    "focalY": 50
+  },
+  {
+    "slug": "namaz-od-slanutka",
+    "file": "krema-od-slanutka-s-maslinovim-uljem-i-paprikom",
+    "alt": "Namaz od slanutka u tanjiru s maslinovim uljem, alevom paprikom i zrnima slanutka, uz lepinju i limun",
+    "focalX": 45,
+    "focalY": 50
   }
 ]

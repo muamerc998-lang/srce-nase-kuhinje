@@ -310,3 +310,7 @@ Provjera: `provjera-tekstova.py` nad serijama 01–07 (5-grami prema izvozu 2026
 - Broj H2 planiran za cijelu seriju: 3, 2, 4, 3, 2, 1, 3, 2, 4, 3, 2, 1, 4, 2, 3, 4, 2 — nikad isti kao prethodna dva; Emir 4, 1, 4, 1, 3.
 - Nova pravila u PREPIS §6 i u `provjera-tekstova.py` (pravila s prozorom od NR-026). Pogođeni i stariji tekstovi, ispravljeno: „dvije stvari“ (#1, #7), kartica u 3. licu (#1, #7, #8), dva naslova s brojem (#11), „Zato“ na početku više puta (#11, #14, #16, #17, #18, #20, #23), odgovor na „Koliko …?“ (#25), isti naslov na dva recepta („Dva dizanja“ — krofne, „Strpljenje prije rezanja“ — banana bread). Objavljeni #1, #8, #11, #14 ponovo objavljeni; ostali kao nove draft verzije (zakazani izlaze s novom verzijom).
 - Provjera nad 01–07: „Sve u redu“.
+
+### Slike 26–32 (2026-11-16)
+
+Scene: #26 G (kesteni) · #27 H · #28 A · #29 B · #30 F · #31 D · #32 C. Fajlovi: kesteni-zarezani-u-krst-peceni-na-limu, sendvic-s-kremom-od-avokada-i-tune, rolice-od-dizanog-tijesta-s-kravljim-sirom, polovice-jaja-punjene-zumanjkom-i-senfom, przene-kuglice-mocarele-u-prezlama, kvadratni-ustipci-napuhani-u-tavi, krema-od-slanutka-s-maslinovim-uljem-i-paprikom. Recepti ostaju nacrti do zakazivanja.
