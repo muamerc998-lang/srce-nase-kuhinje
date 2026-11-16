@@ -317,3 +317,4 @@ Scene: #26 G (kesteni) · #27 H · #28 A · #29 B · #30 F · #31 D · #32 C. Fa
 
 Slike #33 (E, kamamber — druga verzija, prva imala natpis na kutiji) i #41 (F, namaz od graha — druga verzija, prva na drvenom stolu): kamamber-pecen-u-drvenoj-kutijici, zrnasti-namaz-od-bijelog-graha-s-kaparima.
 Slika #40 (G, tikvice — treća verzija, evropska kuhinja): slozenac-od-rendanih-tikvica-i-tri-sira.
+Slike #34 G, #35 H, #36 A, #37 B, #38 C (nove verzije s evropskom kuhinjom): okrugla-peciva-sa-susamom-tek-pecena, rolice-tikvica-s-rikotom-u-paradajz-sosu, okrugla-pogaca-s-jogurtom-i-mineralnom, przene-kriske-gaude-u-pohovanju, male-pogacice-od-sira-s-kimom.

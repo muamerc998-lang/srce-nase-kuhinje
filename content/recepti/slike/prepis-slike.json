@@ -243,5 +243,40 @@
     "alt": "Zapečene naribane tikvice sa sirom u bijeloj posudi i jedna kocka na tanjiru, s hrskavom koricom i vlascem",
     "focalX": 55,
     "focalY": 60
+  },
+  {
+    "slug": "domaca-peciva-za-hamburgere",
+    "file": "okrugla-peciva-sa-susamom-tek-pecena",
+    "alt": "Domaća peciva za hamburgere sa susamom na limu pored otvorene rerne, jedno prerezano da se vidi mekana sredina",
+    "focalX": 55,
+    "focalY": 55
+  },
+  {
+    "slug": "zapecene-rolice-od-tikvica",
+    "file": "rolice-tikvica-s-rikotom-u-paradajz-sosu",
+    "alt": "Rolice od tikvica s rikotom i pestom u paradajz sosu s paprikom, zapečene s mocarelom, na stolu na balkonu",
+    "focalX": 50,
+    "focalY": 60
+  },
+  {
+    "slug": "domaca-pogaca",
+    "file": "okrugla-pogaca-s-jogurtom-i-mineralnom",
+    "alt": "Okrugla domaća pogača bez kvasca na limu, s odlomljenim komadom koji pokazuje mekanu bijelu sredinu",
+    "focalX": 45,
+    "focalY": 55
+  },
+  {
+    "slug": "pohani-sir",
+    "file": "przene-kriske-gaude-u-pohovanju",
+    "alt": "Pohovani sir prepolovljen da se vidi istopljena sredina, uz pomfrit, zelenu salatu i krišku limuna",
+    "focalX": 50,
+    "focalY": 60
+  },
+  {
+    "slug": "pogacice-sa-sirom",
+    "file": "male-pogacice-od-sira-s-kimom",
+    "alt": "Lim pogačica sa sirom posutih kimom, zarezanih mrežicom, jedna prelomljena, snimljeno odozgo",
+    "focalX": 50,
+    "focalY": 50
   }
 ]
