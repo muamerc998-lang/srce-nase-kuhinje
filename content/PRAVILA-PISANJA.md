@@ -141,10 +141,14 @@ Pravila za promptove i obradu:
 Looks like a real photo taken by a home cook with a good phone, not a styled
 food shoot: plain daylight from a nearby window, true-to-life colors, everyday
 tableware, small natural imperfections (a drip of sauce, a few crumbs), moderate
-depth of field with a recognizable background. No rustic wooden table, no linen
-napkin props, no dark moody lighting, no vintage props, no text, no logos, no
-people, no hands, 4:3.
+depth of field with a recognizable background. The setting is an ordinary
+European apartment kitchen or dining room in the Balkans (European wall sockets,
+built-in oven under the counter, tiled backsplash), tidy, not American. No rustic
+wooden table, no wooden boards, no linen napkin props, no dark moody lighting,
+no vintage props, no text, no labels, no branded bottles or packaging, no logos,
+nothing floating or held without a hand, no people, no hands, 4:3.
 ```
+Stilski blok je dopunjen 2026-11-16 nakon slika NR-026–042. Bez rečenice o kuhinji generator je pravio američke kuhinje: utičnice, limove i bočice s natpisom. Javljale su se i lopatice koje lebde u zraku.
 
 **Scene** (rotirati; u log upisati koja je korištena):
 - A — bijela kuhinjska radna ploča uz šporet, posuđe tek skinuto s vatre; kadar 45°.
