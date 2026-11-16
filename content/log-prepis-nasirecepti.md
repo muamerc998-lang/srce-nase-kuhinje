@@ -314,3 +314,5 @@ Provjera: `provjera-tekstova.py` nad serijama 01–07 (5-grami prema izvozu 2026
 ### Slike 26–32 (2026-11-16)
 
 Scene: #26 G (kesteni) · #27 H · #28 A · #29 B · #30 F · #31 D · #32 C. Fajlovi: kesteni-zarezani-u-krst-peceni-na-limu, sendvic-s-kremom-od-avokada-i-tune, rolice-od-dizanog-tijesta-s-kravljim-sirom, polovice-jaja-punjene-zumanjkom-i-senfom, przene-kuglice-mocarele-u-prezlama, kvadratni-ustipci-napuhani-u-tavi, krema-od-slanutka-s-maslinovim-uljem-i-paprikom. Recepti ostaju nacrti do zakazivanja.
+
+Slike #33 (E, kamamber — druga verzija, prva imala natpis na kutiji) i #41 (F, namaz od graha — druga verzija, prva na drvenom stolu): kamamber-pecen-u-drvenoj-kutijici, zrnasti-namaz-od-bijelog-graha-s-kaparima.

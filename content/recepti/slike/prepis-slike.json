@@ -222,5 +222,19 @@
     "alt": "Namaz od slanutka u tanjiru s maslinovim uljem, alevom paprikom i zrnima slanutka, uz lepinju i limun",
     "focalX": 45,
     "focalY": 50
+  },
+  {
+    "slug": "peceni-kamamber",
+    "file": "kamamber-pecen-u-drvenoj-kutijici",
+    "alt": "Pečeni kamamber u drvenoj kutijici s majčinom dušicom i čili pahuljicama, sir curi, uz prepečeni hljeb i krekere",
+    "focalX": 50,
+    "focalY": 55
+  },
+  {
+    "slug": "namaz-od-graha-i-tunjevine",
+    "file": "zrnasti-namaz-od-bijelog-graha-s-kaparima",
+    "alt": "Zrnasti namaz od bijelog graha i tunjevine s kaparima, mirođijom, susamom i maslinovim uljem, uz krišku hljeba",
+    "focalX": 45,
+    "focalY": 50
   }
 ]
