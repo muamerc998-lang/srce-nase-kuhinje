@@ -14,7 +14,8 @@ import config from '../src/payload.config'
 import { shrinkRecipeImages } from './smanji-slike'
 
 async function main() {
-  const items: { slug: string; alt: string }[] = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'))
+  // credit: izvor fotografije; bez njega „AI ilustracija“ (vlastite fotografije: content/recepti/slike/vlastite.json)
+  const items: { slug: string; alt: string; credit?: string }[] = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'))
   const payload = await getPayload({ config })
   for (const it of items) {
     const file = path.resolve('content/recepti/slike', `${it.slug}.webp`)
@@ -43,7 +44,7 @@ async function main() {
     const media = await payload.create({
       collection: 'media',
       overrideAccess: true,
-      data: { alt: it.alt, credit: 'AI ilustracija' },
+      data: { alt: it.alt, credit: it.credit ?? 'AI ilustracija' },
       filePath: file,
     })
     await payload.update({

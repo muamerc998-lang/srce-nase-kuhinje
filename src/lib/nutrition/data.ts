@@ -211,6 +211,8 @@ export const NUTRITION: Record<string, NutritionPer100> = {
   kopar: zero,
   kapari: n(23, 2.4, 4.9, 0.9, { density: 0.6 }),
   ljutika: n(72, 2.5, 16.8, 0.1, { pieces: { bez: 40, kom: 40 } }),
+  narandza: n(47, 0.9, 11.8, 0.1, { pieces: { bez: 130, kom: 130 } }),
+  'sok-od-narandze': n(45, 0.7, 10.4, 0.2, { density: 1.0 }),
 }
 
 /** Kuhinjske mjere u ml. */

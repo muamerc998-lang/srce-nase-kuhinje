@@ -1,0 +1,231 @@
+{
+  "format": "srce-nase-kuhinje/v1",
+  "ingredients": [
+    {
+      "slug": "narandza",
+      "name": "narandža",
+      "synonyms": [
+        "naranča",
+        "pomorandža"
+      ],
+      "foodGroup": "voce"
+    },
+    {
+      "slug": "sok-od-narandze",
+      "name": "sok od narandže",
+      "synonyms": [
+        "narandžin sok",
+        "sok od naranče",
+        "sok od pomorandže"
+      ],
+      "broader": "narandza",
+      "foodGroup": "voce"
+    }
+  ],
+  "recipes": [
+    {
+      "slug": "mak-dama",
+      "title": "Mak dama s kremom od vanilije i narandže",
+      "alternativeNames": [
+        "mak dama kolač",
+        "kolač s makom i narandžom",
+        "kremasti kolač s makom",
+        "kolač s makom i pudingom"
+      ],
+      "summary": "Mak dama je slojeviti kolač od tri tanke kore s makom, kreme od vanilije i maslaca i dva tanka sloja kreme od narandže. Svjež je, nije težak i lijepo se reže kad odstoji noć u frižideru.",
+      "beforeYouStart": "Maslac izvadite iz frižidera ranije, da omekša. Kolač se slaže s hlađenjem između slojeva i na kraju stoji najmanje 6 sati u frižideru, pa ga pravite dan prije posluživanja. Za slaganje treba podesivi okvir za tortu, namješten na 20 × 25 cm.",
+      "primaryCategory": "kolaci",
+      "meals": [],
+      "tags": [
+        "mak",
+        "narandza",
+        "vanilija",
+        "maslac"
+      ],
+      "diets": [
+        "vegetarijansko"
+      ],
+      "methods": [
+        "pecenje"
+      ],
+      "difficulty": "zahtjevno",
+      "yield": {
+        "servings": 1,
+        "unit": "kolač 20 × 25 cm",
+        "scalable": false
+      },
+      "times": {
+        "prepMinutes": 70,
+        "cookMinutes": 45,
+        "restMinutes": 540,
+        "restLabel": "hlađenja",
+        "totalMinutes": 660
+      },
+      "equipment": {
+        "panSize": "tepsija 20 × 25 cm i podesivi okvir za tortu",
+        "temperature": 175,
+        "other": "mikser, papir za pečenje, lopatica, prehrambena folija"
+      },
+      "ingredientGroups": [
+        {
+          "title": "Kore s makom (za sve tri)",
+          "items": [
+            { "ingredient": "jaja", "amount": 6, "unit": "bez", "label": "jaja" },
+            { "ingredient": "secer", "amount": 135, "unit": "g", "label": "šećera" },
+            { "ingredient": "so", "amount": 1, "unit": "prstohvat", "label": "soli" },
+            { "ingredient": "ulje", "amount": 45, "unit": "ml", "label": "ulja" },
+            { "ingredient": "glatko-brasno", "amount": 105, "unit": "g", "label": "glatkog brašna" },
+            { "ingredient": "mak", "amount": 60, "unit": "g", "label": "mljevenog maka" },
+            { "ingredient": "prasak-za-pecivo", "amount": 0.75, "unit": "kasicica", "label": "praška za pecivo" }
+          ]
+        },
+        {
+          "title": "Krema od vanilije",
+          "items": [
+            { "ingredient": "mlijeko", "amount": 800, "unit": "ml", "label": "mlijeka" },
+            { "ingredient": "puding-u-prahu", "amount": 2, "unit": "kesica", "label": "pudinga od vanilije", "note": "po 40 g" },
+            { "ingredient": "secer", "amount": 100, "unit": "g", "label": "šećera" },
+            { "ingredient": "vanilin-secer", "amount": 2, "unit": "kesica", "label": "vanilin šećera" },
+            { "ingredient": "maslac", "amount": 170, "unit": "g", "label": "maslaca", "note": "mekan, sobne temperature" }
+          ]
+        },
+        {
+          "title": "Krema od narandže (za oba sloja)",
+          "items": [
+            { "ingredient": "sok-od-narandze", "amount": 350, "unit": "ml", "label": "soka od narandže", "note": "bez pulpe" },
+            { "ingredient": "voda", "amount": 150, "unit": "ml", "label": "vode" },
+            { "ingredient": "puding-u-prahu", "amount": 1, "unit": "kesica", "label": "pudinga od vanilije", "note": "40 g" },
+            { "ingredient": "gustin", "amount": 10, "unit": "g", "label": "gustina" },
+            { "ingredient": "secer", "amount": 30, "unit": "g", "label": "šećera" }
+          ]
+        },
+        {
+          "title": "Ukras",
+          "items": [
+            { "ingredient": "mak", "unit": "po-potrebi", "label": "mljevenog maka", "optional": true },
+            { "ingredient": "narandza", "amount": 1, "unit": "bez", "label": "narandža", "note": "narezana na tanke kriške", "optional": true }
+          ]
+        }
+      ],
+      "stepGroups": [
+        {
+          "title": "Kore s makom",
+          "steps": [
+            { "text": "Zagrijte rernu na 175 °C, s gornjim i donjim grijačem." },
+            { "text": "Dno tepsije 20 × 25 cm obložite papirom za pečenje." },
+            { "text": "Za jednu koru odmjerite trećinu sastojaka: 2 jaja, 45 g šećera, prstohvat soli, 15 ml ulja, 35 g brašna, 20 g maka i ¼ kašičice praška za pecivo." },
+            { "text": "Jaja, šećer i so mutite mikserom 5–7 minuta, dok smjesa ne postane blijeda, gusta i pjenasta.", "timerMinutes": 6 },
+            { "text": "Dodajte ulje i kratko izmiješajte." },
+            { "text": "U posebnoj posudi pomiješajte brašno, mak i prašak za pecivo." },
+            { "text": "Suhe sastojke lopaticom lagano umiješajte u jaja, samo dok se ne sjedine." },
+            { "text": "Smjesu ravnomjerno rasporedite po tepsiji." },
+            { "text": "Pecite 10–13 minuta, dok površina ne bude blago zlatna, a čačkalica ne izađe suha.", "timerMinutes": 11 },
+            { "text": "Koru izvrnite, skinite papir i ostavite je da se potpuno ohladi." },
+            { "text": "Na isti način ispecite još dvije kore." },
+            { "text": "Ohlađene kore pokrijte čistom kuhinjskom krpom." }
+          ]
+        },
+        {
+          "title": "Krema od vanilije",
+          "steps": [
+            { "text": "Od 800 ml mlijeka odvojite 200 ml i u njemu razmutite oba pudinga." },
+            { "text": "Ostalih 600 ml mlijeka zakuhajte sa 100 g šećera i vanilin šećerom." },
+            { "text": "Smanjite vatru, umiješajte razmućeni puding i kuhajte uz miješanje oko 2 minute, dok ne bude gust i gladak.", "timerMinutes": 2 },
+            { "text": "Puding prebacite u posudu, prekrijte ga folijom priljubljenom uz površinu i ohladite na sobnu temperaturu." },
+            { "text": "Maslac mutite mikserom dok ne postane svijetao i pjenast." },
+            { "text": "Ohlađeni puding kratko izmutite, da bude gladak." },
+            { "text": "Puding dodajite maslacu kašiku po kašiku i mutite dok krema ne bude glatka." },
+            { "text": "Kremu podijelite na tri jednaka dijela." }
+          ]
+        },
+        {
+          "title": "Prvi red",
+          "steps": [
+            { "text": "Prvu koru stavite na pladanj, unutar okvira namještenog na 20 × 25 cm." },
+            { "text": "Premažite je trećinom kreme od vanilije i poravnajte." },
+            { "text": "Ohladite u frižideru 30 minuta.", "timerMinutes": 30 },
+            { "text": "Za kremu od narandže pomiješajte 175 ml soka i 75 ml vode." },
+            { "text": "Odvojite oko 80 ml te tečnosti i u njoj razmutite 20 g pudinga i 5 g gustina." },
+            { "text": "Ostatak tečnosti zakuhajte s 15 g šećera." },
+            { "text": "Smanjite vatru, umiješajte razmućeni puding i kuhajte uz miješanje 1–2 minute, dok krema ne bude gusta i glatka.", "timerMinutes": 2 },
+            { "text": "Sklonite s vatre i povremeno miješajte nekoliko minuta, dok krema ne bude mlaka, ali još mazava." },
+            { "text": "Kremu od narandže kašikom, malo po malo, rasporedite po ohlađenoj kremi od vanilije i lagano poravnajte, bez pritiskanja." },
+            { "text": "Ohladite u frižideru 45–60 minuta, dok se narandžasti sloj ne stegne.", "timerMinutes": 45 }
+          ]
+        },
+        {
+          "title": "Drugi red",
+          "steps": [
+            { "text": "Na stegnuti narandžasti sloj stavite drugu koru." },
+            { "text": "Premažite je drugom trećinom kreme od vanilije i poravnajte." },
+            { "text": "Ohladite u frižideru 30 minuta.", "timerMinutes": 30 },
+            { "text": "Od ostatka soka, vode, pudinga, gustina i šećera skuhajte drugu kremu od narandže, isto kao prvu, i ostavite je da postane mlaka." },
+            { "text": "Kremu od narandže kašikom rasporedite po kremi od vanilije i lagano poravnajte." },
+            { "text": "Ohladite u frižideru 45–60 minuta, dok se sloj ne stegne.", "timerMinutes": 45 }
+          ]
+        },
+        {
+          "title": "Vrh i hlađenje",
+          "steps": [
+            { "text": "Stavite treću koru." },
+            { "text": "Premažite je ostatkom kreme od vanilije i poravnajte lopaticom." },
+            { "text": "Vrh lagano pospite mljevenim makom." },
+            { "text": "Kolač ohladite u frižideru najmanje 6 sati, a najbolje preko noći.", "timerMinutes": 360 },
+            { "text": "Skinite okvir." },
+            { "text": "Režite oštrim nožem umočenim u vruću vodu i obrisanim, a nož očistite poslije svakog reza." },
+            { "text": "Pred posluživanje komade ukrasite tankim kriškama narandže." }
+          ]
+        }
+      ],
+      "approach": "detaljni",
+      "article": [
+        {
+          "level": "h2",
+          "title": null,
+          "body": "Na presjeku se vide tri tamnosive kore s makom, svijetla krema od vanilije i dvije tanke narandžaste trake koje kolaču daju boju. U makovnjači i štrudli mak je nadjev, a ovdje je umiješan u biskvit, pa su kore mekane, blago orašastog okusa i ne mrve se. Krema od narandže je blago kiselkasta i presiječe maslac iz kreme od vanilije, zato komad ne djeluje težak iako je kolač kremast.\n\nRada nema mnogo, ali ima čekanja. Svaki sloj se mora stegnuti prije sljedećeg, pa se mak dama pravi dan prije nego što zatreba."
+        },
+        {
+          "level": "h2",
+          "title": "Tri tanka biskvita, svaki od svoje smjese",
+          "body": "Biskvit se ne pravi u jednoj velikoj smjesi, nego tri puta po malo: svaka kora od dva jaja i trećine ostalih sastojaka, za istu tepsiju 20 × 25 cm. Razlog je praktičan. Umućena jaja drže zrak samo kratko, a kad u kući imate jednu tepsiju, druga i treća trećina velike smjese čekale bi dok se prva peče i za to vrijeme bi splasnule. Ovako svaka smjesa ide u rernu čim je gotova.\n\nJaja sa šećerom treba mutiti dok ne postanu blijeda i gusta, toliko da trag mutilica ostaje nekoliko sekundi vidljiv na površini. Brašno, mak i prašak se miješaju posebno, pa se lopaticom umiješaju odozdo prema gore, samo dok ne nestanu suhe mrlje. Mak je težak i mastan, pa grubo i dugo miješanje brzo istjera zrak iz smjese i kora ostane niska i zbijena.\n\nTanka kora se peče kratko i lako se presuši. Pravo vrijeme za vađenje je kad je površina tek zlatna i vraća se kad je pritisnete prstom, a tamni rubovi znače da je ostala predugo. Ohlađene kore se pokrivaju krpom, jer se nepokrivene brzo osuše na rubovima, pa pucaju dok se slažu."
+        },
+        {
+          "level": "h2",
+          "title": "Puding i maslac moraju biti iste temperature",
+          "body": "Krema od vanilije je kuhani puding umućen s maslacem, ista vrsta kreme kakva se stavlja u mnoge tepsijske kolače. Pravi se lako, ali je osjetljiva na temperaturu. Kad je puding hladniji od maslaca, maslac se u dodiru s njim stegne u sitne grudice i krema izgleda zrnato, kao da se usirila. Kad je puding topliji, maslac se topi i krema postane rijetka i masna.\n\nZato se puding hladi na sobnoj temperaturi, a ne u frižideru, i prekriven folijom koja dodiruje površinu. Bez folije se uhvati kora, koja poslije ostane u kremi kao grudice. Maslac se vadi ranije, da bude mekan, a puding se dodaje kašiku po kašiku, tek kad je prethodna sjedinjena.\n\nAko se krema ipak zgruša, najčešće je prehladna. Tada posudu kratko držite iznad šerpe s toplom vodom i mutite dalje: čim maslac malo omekša, krema se ponovo poveže. Ako je prerijetka, dovoljno je 10–15 minuta u frižideru i ponovno mućenje."
+        },
+        {
+          "level": "h2",
+          "title": "Kako se kuha sloj od narandže?",
+          "body": "Narandžasti sloj ima teksturu nalik na žele: drži oblik kad se kolač reže, a u ustima se topi. Kuha se kao puding, samo što umjesto mlijeka ide sok od narandže razrijeđen vodom. Puding od vanilije daje gustoću i blagi okus vanilije, a gustin dodatno veže tečnost, pa se sloj stegne dovoljno da ne curi iz komada. Sok treba biti bez pulpe, jer s komadićima voća sloj ne bude gladak ni ujednačene boje.\n\nKrema od narandže se ne kuha odjednom, nego u dvije polovine, za svaki red posebno. Kad se ohladi, stegne se u masu koja se više ne može razmazati, a između prvog i drugog sloja prođe više od sat vremena. Druga polovina se zato kuha tek kad druga krema od vanilije već stoji u frižideru.\n\nNajosjetljiviji trenutak je kad krema od narandže ide na kremu od vanilije. Vruća bi otopila maslac ispod sebe i dva sloja bi se izmiješala, a potpuno ohlađena se već steže, kida se pod lopaticom i ostavlja rupe. Prava je kad je mlaka, mekana i sjajna. Krema od vanilije ispod nje mora biti ohlađena, zbog toga onih 30 minuta u frižideru, a narandžasti sloj se nanosi kašikom u malim gomilicama koje se same spoje, bez pritiskanja."
+        },
+        {
+          "level": "h2",
+          "title": "Počnite dan prije posluživanja",
+          "body": "Najviše vremena kod ovog kolača ne ode na rad, nego na hlađenje između slojeva. Okvirni raspored:\n\n- kore i krema od vanilije: oko sat i po, jer se puding hladi dok se kore peku;\n- prvi red, od kore do stegnutog narandžastog sloja: oko sat i po do dva;\n- drugi red: otprilike isto toliko;\n- treća kora i krema na vrhu, pa najmanje 6 sati u frižideru.\n\nAko počnete poslije ručka, kolač je spreman sutradan. Preko noći kore upiju malo vlage iz kreme i omekšaju, a slojevi se povežu, pa se komad na tanjiru ne raspada.\n\nZa rezanje pripremite oštar nož i visoku čašu vruće vode. Nož umočite, obrišite i tek onda režite, a poslije svakog reza ga očistite. Tako narandžasti sloj ostane ravnih ivica, a mak s vrha se ne razvuče po kremi. Kriške narandže stavite na komade tek pred posluživanje, da ne puste sok po vrhu."
+        }
+      ],
+      "tips": [],
+      "substitutions": [],
+      "storage": null,
+      "faq": [],
+      "servedWith": [],
+      "leftovers": {},
+      "relatedRecipes": [
+        "ledene-kocke",
+        "krempita",
+        "dizana-strudla-s-makom"
+      ],
+      "relatedGuides": [],
+      "authors": [
+        "urednistvo"
+      ],
+      "facebook": {},
+      "seo": {
+        "title": "Mak dama: kolač s makom, kremom od vanilije i narandže",
+        "description": "Mak dama od tri tanke kore s makom, kreme od vanilije i maslaca i dva sloja kreme od narandže. Kako se slaže, hladi i reže. Recept korak po korak."
+      },
+      "sourceNote": "soccer365.news – „Mak dama – kremasti kolač s makom, vanilijom i narandžom“ (Redakcija Domaći recepti, 21. 11. 2026): https://soccer365.news/mak-dama-kremasti-kolac-s-makom-vanilijom-i-narandzom/. Preuzete činjenice: sve količine (kore 6 jaja, 135 g šećera, 105 g brašna, 60 g maka, 45 ml ulja, 3/4 kašičice praška, prstohvat soli, svaka kora od trećine; krema od vanilije 800 ml mlijeka, 2 pudinga od vanilije po 40 g, 100 g šećera, 2 vanilin šećera, 170 g maslaca; krema od narandže 350 ml soka bez pulpe, 150 ml vode, 1 puding 40 g, 10 g gustina, 30 g šećera, kuha se u dvije polovine), tepsija 20 × 25 cm, 175 °C gornji i donji grijač, pečenje 10–13 min, hlađenje 30 min nakon kreme od vanilije i 45–60 min nakon kreme od narandže, na kraju najmanje 6 h ili preko noći, rezanje toplim nožem. Fotografija nije iz izvora (dostavio vlasnik). NEDOSTAJE: broj komada (prinos je 1 kolač 20 × 25 cm, bez skaliranja); veličina okvira nije navedena, izvedena je iz tepsije u kojoj se peku kore; vrijeme hlađenja pudinga do sobne temperature nije navedeno. Vremena izračunata: priprema 70 min, kuhanje/pečenje 45 min (3 × oko 12 min pečenja + kuhanje kreme), hlađenje 540 min (30 + 60 + 30 + 60 + 360), ukupno 660 min = stvarno proteklo vrijeme uz hlađenje pudinga paralelno s pečenjem kora i kuhanje druge kreme od narandže dok se druga krema od vanilije hladi. Savjeti o spašavanju zgrušane kreme (topla voda / frižider) dodati kao opšte poznata tehnika kreme od pudinga i maslaca."
+    }
+  ]
+}
